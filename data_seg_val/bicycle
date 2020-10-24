@@ -1,0 +1,34 @@
+screv_ride_bike_bicycle	i went on a bike ride in the afternoon yesterday , the weather had an amazing break of sunlight , and i had to take advantage of it .
+unrelev_bicycle	gearing up for the bike ride was n't very time consuming , it only took about 23 minutes to change , grab my helmet , and fill a water bottle from the sink .
+unrelev_bicycle	i left home ,
+screv_ride_bike_bicycle	and progressed close to 23 miles
+relnscrev_bicycle	before i heard a low hiss escape from somewhere below where my feet were .
+screv_notice_problem_bicycle	i almost knew immediately that it was going to be a flat tire .
+screv_get_off_bicycle	i had my friend pick me up , they helped get me home without further incident .
+screv_lay_bike_down_bicycle	after getting my bike up on it 's stand , i began to peel the bad tire off the rim ,
+relnscrev_bicycle	finding the tube had a small puncture .
+screv_put_new_tire_bicycle	i decided to to replace the tube entirely , and fitted the tube and tire back onto the rim , fixing the issue of the flat tire .
+<end_of_story>
+screv_ride_bike_bicycle	last week when i went biking on a trail with a friend , she rode over a nail and one of her bike tires was punctured .
+screv_ride_bike_bicycle	we immediately stopped riding so that we could fix the problem , and we were lucky that it was n't too bad of an issue .
+evoking_bicycle	to fix it ,
+relnscrev_bicycle	we had to return home and take care of it with the tools we had there .
+screv_lay_bike_down_bicycle	we turned the bike over
+relnscrev_bicycle	so it was resting on the handlebars and the seat so that we would have access to the wheel very easily .
+screv_other_bicycle_bicycle	upon spinning the wheel ,
+screv_other_bicycle_bicycle	we found the nail she had run over and removed it .
+screv_other_bicycle_bicycle	we had to release all the air from the tube to begin with ,
+relnscrev_bicycle	then take the tire off of the rim using tools called a tire levers .
+unrelev_bicycle	after we had that off ,
+screv_take_tire_off_bicycle	we had to remove the tube from the tire
+relnscrev_bicycle	and inflate it with enough air to find the hole .
+unrelev_bicycle	we knew about where it would be .
+relnscrev_bicycle	using a piece of my brother 's chalk ,
+screv_other_bicycle_bicycle	we marked where the hole was so we would n't lose the spot ,
+screv_other_bicycle_bicycle	and then we took the air out of the tube again .
+relnscrev_bicycle	using a patch kit designed for this kind of issue ,
+screv_other_bicycle_bicycle	we patched up the hole and put the tube back into the tire .
+screv_put_new_tire_bicycle	we put the tire back on the wheel
+screv_refill_tire_air_bicycle	and re-inflated it .
+screv_ride_bike_bicycle	the patch worked perfectly and we were able to go out biking again the next day !
+<end_of_story>

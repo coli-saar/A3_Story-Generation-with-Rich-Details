@@ -1,0 +1,47 @@
+screv_make_appointment_haircut	first , i called ahead to the salon and asked for an appointment to make sure they knew i was coming .
+screv_talk_haircut_haircut	i told them that i just wanted a hair cut ,
+screv_make_hair_style_haircut	no coloring or curling .
+unrelev_haircut	i did n't want anything complicated since that takes more time .
+relnscrev_haircut	i looked at the internet to find pictures of haircuts that i liked and printed them out .
+screv_get_salon_haircut	i arrived at the salon about 23 minutes early
+screv_wait_haircut	and waited patiently in the seating area .
+relnscrev_haircut	when it was my turn ,
+screv_small_talk_haircut	i said hello to the stylist
+screv_talk_haircut_haircut	and showed her my pictures .
+screv_talk_haircut_haircut	i asked if she could do a haircut like that for me
+relnscrev_haircut	and if it would suit me .
+screv_talk_haircut_haircut	she said it would be fine .
+screv_sit_down_haircut	i sat down in the chair .
+screv_talk_haircut_haircut	she showed me about
+screv_cut_haircut	where she wanted to cut my hair ,
+relnscrev_haircut	but i thought it was too short .
+screv_talk_haircut_haircut	i told her so politely and she adjusted the length until it was just right for me .
+screv_talk_haircut_haircut	then , she washed and dried my hair and checked the length with me again .
+screv_talk_haircut_haircut	once i said yes , she started to cut it .
+screv_look_mirror_haircut	i liked how it was looking ,
+relnscrev_haircut	so i did n't need to tell her to stop .
+screv_look_mirror_haircut	she let me look at myself in the mirror .
+screv_customer_opinion_haircut	i liked it .
+screv_small_talk_haircut	i thanked her ,
+screv_pay_haircut	paid for her services ,
+screv_leave_tip_haircut	and left a tip .
+<end_of_story>
+screv_get_salon_haircut	every two months or so i go and get my hair trimmed .
+unrelev_haircut	it 's always the same thing .
+screv_wash_haircut	i wash it before i leave the house , which is funny
+screv_pay_haircut	because i also pay to have it washed at the salon .
+unrelev_haircut	i just do n't want to show up with dirty hair !
+screv_wash_haircut	once there , my regular girl betty takes me back and washes it ,
+screv_move_in_salon_haircut	then directs me to her station
+screv_sit_down_haircut	where i sit in a raised chair .
+screv_cut_haircut	she snips and buzzes and cuts quickly ,
+relnscrev_haircut	she knows exactly how i like my hair cut .
+screv_cut_haircut	while she does all that , i 'm huddled under a protective cape , and i like to just chat with her about everything that comes to mind .
+screv_small_talk_haircut	we gossip about the local people , i share my upcoming travels ,
+screv_small_talk_haircut	she fills me in on her kid 's latest happenings .
+unrelev_haircut	then before i know it ,
+relnscrev_haircut	i 'm all trimmed up and she 's got the hair dryer
+screv_make_hair_style_haircut	and round brush out making it look beautiful .
+relnscrev_haircut	i can never copy what she does at home , so i just let myself enjoy it while i can !
+screv_pay_haircut	after that i pay , and always come back to slip her a cash tip and tell her i 'll see her in two months .
+<end_of_story>

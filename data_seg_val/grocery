@@ -1,0 +1,83 @@
+relnscrev_grocery	while preparing a dinner of spaghetti and meatballs tonight , i realized i needed to go grocery shopping to restock my refrigerator .
+unrelev_grocery	it was still early and the store wasn ' t close
+screv_go_grocery_grocery	so i made a trip to the store .
+screv_take_shop_cart_grocery	i grabbed a shopping cart
+relnscrev_grocery	because i ' m out of eggs , bread , orange juice , milk etc .
+unrelev_grocery	i don ' t like can foods but i like to keep some stocked in my cabinet just in case .
+relnscrev_grocery	i needed corn , beets , soup etc. .
+unrelev_grocery	i had to eat bread ends
+relnscrev_grocery	because i was out of whole wheat bread .
+relnscrev_grocery	the store wasn ' t so crowded considering it would be closing in an hour or so .
+screv_wait_grocery	i got in the shortest line
+relnscrev_grocery	and of course the register broke down .
+screv_wait_grocery	i waited and waited .
+relnscrev_grocery	i could have gotten out of line but i didn ' t .
+relnscrev_grocery	when i finally got to the register , it was time for my checker to leave .
+screv_wait_grocery	i had to wait until an assistant manager signed in the register to ring up my purchases .
+relnscrev_grocery	the register was out of tape
+screv_wait_grocery	so i was delayed again .
+unrelev_grocery	i wished i ' d waited until tomorrow .
+screv_pack_groceries_grocery	there were no baggers to bag my groceries so i did it myself .
+screv_pay_grocery	my total came to $ 23 and i only had $ 23 cash on me .
+screv_pay_grocery	that ' s all i thought i was going to spend .
+relnscrev_grocery	i gave the clerk a credit card which didn ' t go through and the people behind me started blowing and hissing under their breath .
+screv_pay_grocery	i offered another card .
+relnscrev_grocery	thank god that one went through .
+relnscrev_grocery	the employees had locked the door i ' d plan to exit out of .
+relnscrev_grocery	the manager came over and let me out .
+relnscrev_grocery	my car was the only car parked in the customer ' s parking lot .
+unrelev_grocery	i wished i ' d stayed at home .
+<end_of_story>
+unrelev_grocery	there are six people living in my house ,
+evoking_grocery	so going grocery shopping is usually a weekly occurrence .
+relnscrev_grocery	i do n't mind doing it though , because i like picking out what food to buy .
+screv_go_grocery_grocery	i usually go on the morning with my sister .
+unrelev_grocery	we get in the car and drive over to the closest grocery store which is about three miles away .
+screv_make_list_grocery	we also take a list of items with us
+relnscrev_grocery	so we do n't forget what we need to buy .
+relnscrev_grocery	when we arrive at the store we park the car and get out .
+screv_take_shop_cart_grocery	i will grab a shopping cart near the store entrance
+screv_enter_grocery	and then we go inside .
+relnscrev_grocery	we then take a look at our shopping list
+screv_get_groceries_grocery	and begin gathering all the items .
+screv_get_groceries_grocery	it takes us about 23 minutes to find everything .
+screv_go_checkout_grocery	we then go to the checkout
+screv_pay_grocery	and pay for all the stuff .
+screv_bring_vehicle_grocery	then we go back to our car
+screv_leave_grocery	and drive home .
+<end_of_story>
+evoking_grocery	sunday , my husband and i did our grocery shopping .
+screv_make_list_grocery	he had a shopping list recorded in his cell phone .
+screv_go_grocery_grocery	we arrived at the store in the early afternoon ,
+screv_take_shop_cart_grocery	and the first thing we did was get a shopping cart .
+screv_move_section_grocery	we walked in and went to the produce area first , where all the fruit and vegetables are .
+screv_check_list_grocery	my husband checked the list .
+relnscrev_grocery	we only had bananas on the list , but i said we should get things for salad , too , so he picked out bananas and bell peppers while i got lettuce and radishes and tomatoes .
+screv_move_section_grocery	then we went to the deli area
+screv_other_grocery_grocery	and ordered some sliced turkey .
+screv_get_groceries_grocery	the man behind the counter sliced the turkey for us and measured it on a scale to give us the amount we wanted ,
+screv_pack_groceries_grocery	then wrapped it up for us .
+screv_move_section_grocery	next we visited the bakery area
+screv_get_groceries_grocery	and picked out a nice loaf of rye bread to put the turkey on .
+unrelev_grocery	in the canned goods area ,
+screv_get_groceries_grocery	we picked out soup and white beans ;
+screv_get_groceries_grocery	then we went to the pasta area to get pasta and sauce .
+screv_get_groceries_grocery	in the meat area , we picked up some chicken breasts and italian sausage .
+screv_move_section_grocery	then we went to the dairy refrigerators
+screv_get_groceries_grocery	and we each picked out some flavors of yogurt we like ,
+screv_get_groceries_grocery	and got milk and butter and eggs .
+unrelev_grocery	we were nearly done ,
+screv_check_list_grocery	so my husband checked the list again and we saw we had forgotten tin foil and toilet paper ,
+screv_get_groceries_grocery	so we went back and got those two things .
+screv_go_checkout_grocery	then we went to the check-out
+screv_put_conveyor_grocery	where we put all our groceries on a conveyor belt
+relnscrev_grocery	and the clerk scanned each item in an electronic scanner to find out what it cost .
+unrelev_grocery	she told us the total ,
+screv_pay_grocery	and i swiped my bank card through an electronic reader to pay .
+screv_take_bags_grocery	meanwhile , a bagger was putting our groceries into re-usable shopping bags that we had brought with us .
+screv_other_grocery_grocery	he put the bags back into the cart .
+screv_get_receipt_grocery	we got a receipt from the clerk
+screv_bring_vehicle_grocery	and pushed the cart out to our car , where we moved the bags into the back seat .
+screv_return_shop_cart_grocery	then my husband put the cart in little corral in the parking lot that keeps the carts away from people 's cars ,
+screv_leave_grocery	and we got in our car and went home .
+<end_of_story>

@@ -1,0 +1,54 @@
+evoking_tree	i have actually planted a few trees in my day .
+screv_get_tree_tree	i helped my mom plant a few fruit trees that she had bought .
+relnscrev_tree	interestingly enough , we never leave them in the pot ,
+screv_place_root_tree	but we never put them in the ground dirt either .
+screv_dig_hole_tree	we start out by digging a pretty deep hole .
+unrelev_tree	depending on the size of the tree and the roots , its usually about a foot and a half deep and about a foot wide .
+screv_place_fertilizers_tree	we then put soft planting soil in the bottom to make sure that the tree will have more nutrition .
+screv_place_fertilizers_tree	my mom also has manure that she uses sometimes , but i let her handle that one .
+unrelev_tree	after we have everything set up ,
+screv_unwrap_root_tree	we take the tree out of the pot , and gently spread out the roots to make sure they can grow with some more space .
+screv_place_root_tree	then we stick in in the hole ,
+screv_refill_hole_tree	and put more dirt
+screv_tamp_dirt_tree	and whatever around it and gently pack it in .
+screv_get_tools_tree	after all that , we find a stake of some sort
+screv_tie_stakes_up_tree	and tie it next to the tree so it has something to keep it upright while it grows .
+<end_of_story>
+screv_choose_tree_tree	my husband and i went to the nursery to look at trees .
+screv_get_tree_tree	we wanted to plant a tree in the front yard , but we were n't sure what to get yet .
+unrelev_tree	we wandered through the nursery
+screv_choose_tree_tree	and considered a few of our option .
+unrelev_tree	we did n't want a large tree , like a pine tree .
+unrelev_tree	we did n't want a small tree , like a japanese maple .
+unrelev_tree	we wanted something in-between .
+relnscrev_tree	when we spoke to one of the workers at the nursery , he suggested that we plant a crabapple .
+unrelev_tree	it would have green leaves , and would have white flowers in the spring .
+screv_take_home_tree	we took the tree home in the back of our truck .
+screv_dig_hole_tree	my husband used our shovel to dig a hole in the ground .
+screv_dig_hole_tree	it took him some time - you have to dig a pretty big hole when you plant a tree !
+screv_other_tree_tree	then i helped him carry the tree over to the hole .
+screv_unwrap_root_tree	we had to cut off the plastic bucket it was in .
+unrelev_tree	when we were done ,
+screv_place_root_tree	we put it in the hole ,
+relnscrev_tree	and i helped by holding the tree steady
+screv_refill_hole_tree	and pushing dirt into the hole .
+screv_refill_hole_tree	once we had filled in all the dirt around the tree ,
+relnscrev_tree	we turned on the sprinklers .
+screv_water_tree	we wanted to water the tree and get it off to a good start .
+unrelev_tree	we were excited to have a new tree in the front yard .
+<end_of_story>
+evoking_tree	this winter , my family and i decided we wanted to plant a tree in our backyard .
+evoking_tree	since it was still the middle of winter , we decided to wait until it was april to plant it because we learned that was the best time of year to do it .
+unrelev_tree	once april came around ,
+screv_choose_tree_tree	we chose a suitable tree for our area .
+screv_dig_hole_tree	with a shovel , we dug a hole that had enough room for the fresh roots to grow .
+unclear_tree	after that was done ,
+screv_get_tree_tree	we prepared the tree by gently taking it out of the pot .
+unrelev_tree	once our tree was ready ,
+screv_dig_hole_tree	we placed it into our freshly dug hole .
+screv_place_root_tree	once the tree was properly placed ,
+screv_refill_hole_tree	we refilled the hole with the dirt
+relnscrev_tree	and soil so that it was securely in place .
+screv_water_tree	we were happy to see our tree all set and watered the tree .
+relnscrev_tree	we plan to enjoy watching the tree grow for many years .
+<end_of_story>

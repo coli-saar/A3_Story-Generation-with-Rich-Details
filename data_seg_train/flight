@@ -1,0 +1,423 @@
+relnscrev_flight	'' before you board the plane you should consider picking up a bottle of water and a snack in case they do n't have anything you 'd like to drink or eat on the flight .
+relnscrev_flight	you should also stop at the restroom so , hopefully , you wo n't have to go to the bathroom during the flight .
+relnscrev_flight	if you have an assigned seat for your flight do n't rush to get on because it 'll just mean sitting there for a longer period of time .
+screv_board_plane_flight	once you are ready to board just be patient with everyone else who is flying and with the flight attendants .
+screv_stow_away_luggage_flight	once you have found your seat store any large items overhead
+relnscrev_flight	and keep whatever you might want during the flight in the seat-back .
+relnscrev_flight	i suggest putting your electronic devices there , headphones , books etc. .
+relnscrev_flight	i also like to make sure to have gum , my snack and my water readily available .
+relnscrev_flight	if you have a smaller item you can put that underneath the seat in front of you .
+screv_other_flight_flight	it is a good idea to chew gum at least at the start of the flight so you avoid having your ears pop .
+unrelev_flight	try to stay hydrated during your flight ,
+relnscrev_flight	and keep your seat-belt on whenever you are sitting down .
+<end_of_story>
+evoking_flight	i was excited to go home for the holidays last december , but i was less excited about having to take an airplane !
+evoking_flight	i normally would drive , but my mother persuaded me to take a plane because she was afraid i would have to drive through snow .
+screv_pack_luggage_flight	i filled a single suitcase with as many necessities i could fit , because i did not want to have to deal with putting multiple suitcases through the luggage handler .
+screv_get_airport_flight	i arrived at the airport
+screv_check_in_flight	and waited in line to check in .
+screv_go_security_checks_flight	i let the tsa search me for any contraband that would not be allowed on the plane ,
+screv_wait_boarding_flight	and then waited to be allowed to board .
+screv_board_plane_flight	once we were let on the plane ,
+screv_take_seat_flight	i walked over to my seat
+screv_stow_away_luggage_flight	and shoved my suitcase into the overhead compartment .
+relnscrev_flight	luckily it fit , so i would be able to keep it with me .
+relnscrev_flight	i snuggled into my seat and tried to ignore the butterflies in my stomach .
+relnscrev_flight	flying always makes me nervous .
+relnscrev_flight	the person seated directly next to me was a middle aged woman flying alone .
+unrelev_flight	she gave me a sympathetic smile and asked me if i was as nervous as she was .
+unrelev_flight	i said yes , and i think we both felt better that at least we would be good seatmates .
+unrelev_flight	the plane ride was uneventful ;
+screv_landing_flight	after five hours in the air , we landed at our destination in one piece .
+<end_of_story>
+evoking_flight	i flew to iceland one year on vacation .
+relnscrev_flight	i left jfk airport in new york and flew to keflavik in iceland .
+unrelev_flight	jfk is an enormous airport .
+screv_get_airport_flight	i parked in long term parking
+screv_other_flight_flight	and then took a shuttle to actual terminals .
+relnscrev_flight	i felt so nervous that i would n't make my flight !
+screv_pack_luggage_flight	i was so afraid beforehand of getting my bag lost that i just packed everything i needed into a small carry on bag .
+screv_go_security_checks_flight	i checked in and then went to security .
+screv_go_security_checks_flight	security moved along quickly
+relnscrev_flight	and i was waiting at my gate to catch my flight .
+unrelev_flight	jfk airport is pretty gross !
+screv_wait_boarding_flight	while i was waiting , i had a beer at a restaurant .
+unrelev_flight	a roach fell on my husband who was with me !
+unrelev_flight	we quietly called our server over and she stepped on it and told us it happens all the time !
+unrelev_flight	we were so disgusted .
+screv_board_plane_flight	it actually made us want to get on the plane even quicker and get out of there .
+screv_board_plane_flight	finally , we boarded the plane
+screv_take_seat_flight	and were seated next to some nice people from oregon .
+unrelev_flight	we chatted a bit with them and i watched an in-flight movie of jane eyre .
+unrelev_flight	finally we got to iceland .
+relnscrev_flight	i loved flying !
+<end_of_story>
+relnscrev_flight	we had finally earned enough points to travel to portland .
+screv_get_ticket_flight	husband bought the tickets a few months before our trip .
+screv_other_flight_flight	as the date of departure neared , i began to prepare for the flight and trip .
+screv_other_flight_flight	i packed our clothes and planned things to do .
+screv_get_airport_flight	his parents drove us to the fly away
+screv_other_flight_flight	and we took a bus from there to the airport .
+screv_go_check_in_flight	we walked up to the airline counter
+screv_check_in_flight	and checked in for the flight .
+relnscrev_flight	we decided to carry our luggage on , since it was n't over sized .
+screv_go_security_checks_flight	the lady gave us our boarding passes and we walked over to the line to get through the security checkpoint .
+unrelev_flight	the line was pretty short ,
+screv_wait_flight	so we made it to the front rather quickly .
+screv_present_id/ticket_flight	the attendant check our ids .
+screv_go_security_checks_flight	we took off our shoes , husband took off his belt , and we placed our luggage on the x-ray belt .
+relnscrev_flight	he emptied his pockets
+screv_go_security_checks_flight	and we walked through the metal detector .
+unrelev_flight	everything went without a hitch
+relnscrev_flight	and we grabbed our belongings and put our shoes back on .
+screv_find_terminal_flight	we walked to our gate
+screv_board_plane_flight	and soon they called for boarding .
+screv_board_plane_flight	we walked out the door , onto the tarmac , up the stairs to the airplane , into the airplane ,
+screv_stow_away_luggage_flight	put our baggage up in the compartments ,
+screv_take_seat_flight	and took our seats .
+screv_listen_crew_flight	we held hands as they went over the safety protocol
+screv_take_off_flight	and the plane taxied to take off .
+screv_take_off_flight	when it took off , i closed my eyes
+relnscrev_flight	and soon we were soaring in the air .
+relnscrev_flight	we flew over for a few hours and then had a gentle landing .
+screv_get_destination_airport_flight	we deplaned and walked into the terminal .
+<end_of_story>
+evoking_flight	last week , i flew in an airplane to visit a different state .
+relnscrev_flight	after i parked my car in the parking lot ,
+screv_go_check_in_flight	i found the right ticket counter for my airline
+screv_check_in_flight	and then turned in my suitcase
+relnscrev_flight	so it could travel in the cargo of the plane .
+screv_find_terminal_flight	then i went to a place called a gate which is really just an indoor place to wait for my plane to arrive .
+screv_board_plane_flight	it has a big window where i watched the planes and waited for my turn to get on one .
+screv_other_flight_flight	once my plane arrived ,
+relnscrev_flight	a nice flight attendant showed me to my seat
+screv_wait_flight	and i sat down to wait .
+unrelev_flight	my seat was comfortable , but small , and there were people sitting on each side of me .
+relnscrev_flight	once everyone settled in ,
+screv_take_off_flight	the plane started and then drove down the runway to wait its turn to take off .
+screv_take_off_flight	when we took off , it rose into the air
+relnscrev_flight	and then leveled off to what the pilot called cruising speed .
+screv_other_flight_flight	then the flight attendants brought around food and drinks .
+screv_spend_time_flight_flight	the plane was a little noisy , but it was fun to watch the people and the food was pretty good .
+screv_spend_time_flight_flight	the plane ride was short and we had barely finished our food
+screv_listen_crew_flight	and drinks before the pilot said it was time to land in the next town .
+relnscrev_flight	the flight attendants came back around to pick up our trash
+screv_landing_flight	and then we had to buckle our seat belts again for the plane to land .
+unrelev_flight	it was a fun trip and i hope i get to do it again sometime .
+<end_of_story>
+evoking_flight	a month ago , i bought a plane ticket online .
+screv_get_ticket_flight	i chose a round-trip ticket
+relnscrev_flight	and was able to pick a window seat .
+screv_go_security_checks_flight	the day of my flight , i arrived at the airport 23 hours early to be able to check in and go through security with plenty of time to spare to make my flight on time .
+screv_board_plane_flight	i boarded the plane .
+screv_stow_away_luggage_flight	i placed my baggage in the overhead bin
+screv_take_seat_flight	and took my seat near the window .
+relnscrev_flight	two people sat next to me , filling out the row .
+screv_buckle_seat_belt_flight	i put on my seat belt .
+screv_listen_crew_flight	the stewardess informed everyone about safety precautions .
+screv_take_off_preparations_flight	everyone put their seats in the upright position and locked up their tray tables .
+screv_listen_crew_flight	the pilot spoke to us over the intercom , telling us to sit back and relax ,
+relnscrev_flight	and that we will reach our destination in a short time .
+screv_take_off_preparations_flight	the plane rumbled to life , sped forward ,
+screv_take_off_flight	and off we soared into the sky .
+relnscrev_flight	my ears popped from the change in air pressure but it only took a few moments for my body to acclimate itself to its new , airborne environment .
+screv_other_flight_flight	the stewardess served the passengers drinks and peanuts .
+screv_spend_time_flight_flight	i took a nap .
+screv_spend_time_flight_flight	once i awoke ,
+screv_landing_flight	we were landing .
+relnscrev_flight	we were told to put our seats back in the upright position and to lock back up our tray tables .
+screv_landing_flight	we glided to the ground and landed with a bit of a bump and jolt .
+screv_other_flight_flight	the plane pulled up to the gate
+screv_exit_plane_flight	and we were let off .
+<end_of_story>
+evoking_flight	i flew from amsterdam to new york city last week .
+screv_get_ticket_flight	i had purchased and reserved my ticket a week in advance .
+screv_get_airport_flight	i left the hostel i was staying and arrived at schiphol airport at about 21:00 .
+screv_check_in_flight	after waiting about 23 hours for the flight check-in ,
+screv_board_plane_flight	i boarded the plane .
+screv_take_seat_flight	i went to and found my seat , located on the left-hand side near the middle of the plane .
+screv_stow_away_luggage_flight	i placed some of my hand luggage in an overhead compartment
+relnscrev_flight	and sat down next to another passenger who was seated to my right .
+unrelev_flight	i watched the rest of remaining passengers who were heading to their seats .
+relnscrev_flight	about 23 minutes later , once everyone was seated and were given basic safety instructions by the flight attendants , the pilot announced that the we were now going to take off for new york .
+screv_take_off_flight	the plane engines then started , and we were soon airborne with amsterdam soon far below us .
+unrelev_flight	it was a evening flight ,
+screv_spend_time_flight_flight	so i slept on and off for a little while , then began watching an in-flight movie .
+screv_spend_time_flight_flight	after about 23 hours , we were served a light dinner of a chicken entree , bread , and juice .
+unrelev_flight	the food was surprisingly tasty and i enjoyed it .
+screv_spend_time_flight_flight	after finishing my meal , i relaxed and occasionally looked out the window at the night sky , as well as occasionally chatting with the person sitting next to me .
+screv_get_destination_airport_flight	finally , the pilot announced that we were approaching jfk airport .
+screv_landing_flight	the plane touched down shortly afterwards , and we safely landed in new york .
+<end_of_story>
+evoking_flight	wow ! i got to fly on an airplane to go see my uncle !
+relnscrev_flight	i called the airline in advance
+screv_get_ticket_flight	and purchased a ticket .
+evoking_flight	on the day i was flying to see him ,
+screv_get_airport_flight	i got to the airport 23 hours early .
+screv_check_in_flight	i checked in at a big desk
+screv_get_ticket_flight	where they give me my ticket ,
+relnscrev_flight	weighed my suitcase , and put my suitcase on a big conveyor belt to take it to my plane .
+screv_other_flight_flight	i went over to a big line of people
+screv_go_security_checks_flight	and waited my turn to go through security .
+unrelev_flight	when i was safely through ,
+screv_listen_call_flight	i waited until they called my seat number
+screv_board_plane_flight	and i boarded the plane .
+screv_take_seat_flight	i found my seat in my row .
+relnscrev_flight	i got a window seat !
+screv_buckle_seat_belt_flight	we all fastened our seat belts
+relnscrev_flight	and listened to the flight attendants give us safety information about flying .
+unrelev_flight	it was short flight ,
+screv_other_flight_flight	but the flight attendants still brought us snacks and drinks on a little cart that they rolled down the aisle .
+screv_landing_flight	when the plane landed ,
+screv_exit_plane_flight	we all lined up and walked out of the plane door .
+relnscrev_flight	the pilot was there waving goodbye to us all !
+<end_of_story>
+unrelev_flight	last summer , i decided to visit my friend emily .
+unrelev_flight	she lives very far from me : i live in the middle of the country , and she lives on the coast .
+evoking_flight	so , i had to visit by flying there in an airplane .
+unrelev_flight	i got up very early in the morning
+screv_get_airport_flight	so that i could drive to the airport - it was still dark outside when i left my house .
+relnscrev_flight	i parked in the lot , picked up my duffle bag and slung it across my shoulders ,
+screv_get_airport_flight	and walked into the airport .
+screv_check_in_flight	i went to the ticket counter to check in at one of the kiosks , so that the airline knew i would be flying that day ,
+screv_go_security_checks_flight	and then i had to go through the security line .
+relnscrev_flight	i was flying on a weekday ,
+relnscrev_flight	so the line was very long with people who were flying for work , even though it was still early in the morning .
+unrelev_flight	i checked my email
+screv_wait_flight	while i waited ,
+screv_other_flight_flight	sent my bags through the x-ray machine ,
+screv_find_terminal_flight	and finally stepped out into the main terminal of the airport .
+unrelev_flight	it was bright and sunny , with lots of people rushing everywhere .
+screv_find_terminal_flight	i walked over to my gate ,
+screv_board_plane_flight	and waited for my section of the plane to be called to board .
+unrelev_flight	the flight crew got to my section ,
+screv_board_plane_flight	and i walked onto my plane , being careful to hold my bags so that they would n't bump into the people who were already sitting down .
+screv_stow_away_luggage_flight	i put my luggage in the overhead compartments and made sure it was secure
+relnscrev_flight	so that it would n't fall on anyone ,
+screv_buckle_seat_belt_flight	and then i sat down in my assigned seat and put my seatbelt on .
+unrelev_flight	i pulled out a book i brought with me ,
+screv_spend_time_flight_flight	and read until the plane was ready to take off .
+screv_listen_crew_flight	i listened to the flight attendant 's safety instructions , and then the plane started to move - with a mighty jerk ,
+screv_take_off_flight	the wheels left the ground and we were flying .
+relnscrev_flight	it was very loud with the noise of the engine .
+screv_take_off_flight	a few minutes after we took off ,
+screv_listen_crew_flight	the pilot came on the intercom
+screv_leave_airport_flight	and gave us some details about the weather and our flight time .
+screv_other_flight_flight	then , the flight attendants walked past in the aisles with their cart , and offered me a drink .
+screv_other_flight_flight	i got a cup of coffee ,
+screv_spend_time_flight_flight	and drank it while i read my book .
+screv_listen_crew_flight	a few hours later , the pilot came on the intercom and let us know we were getting ready to land .
+relnscrev_flight	i put my book away ,
+screv_other_flight_flight	turned off my phone like the flight attendants asked ,
+screv_other_flight_flight	and made sure everything was secure .
+screv_landing_flight	the plane landed with a bump .
+screv_other_flight_flight	after a few minutes of waiting on the ground , a gate opened up , and we were allowed to get up and stretch ,
+screv_other_flight_flight	and get our bags out of the compartments .
+screv_meet_people_flight	a few minutes later , i walked off the plane with my bags , and walked out to the waiting area to meet my friend .
+evoking_flight	flying in a plane was an interesting experience .
+<end_of_story>
+unrelev_flight	two years ago was my first
+evoking_flight	and only airplane flight .
+unrelev_flight	i was moving from the state of kansas to the state of washington , permanently .
+screv_get_ticket_flight	i had ordered my tickets three months in advance ,
+relnscrev_flight	with a little bit of hassle due to rescheduling -lrb- it was free , thankfully ,
+relnscrev_flight	-rrb- and met with my parents at the airport .
+screv_go_security_checks_flight	after they wished me goodbye i took my luggage to the security area , got cleared ten minutes in advance ,
+screv_wait_boarding_flight	and waited for my plane ,
+screv_listen_call_flight	listening carefully for my number while i played my nintendo ds .
+screv_board_plane_flight	after that , we were all filed single line into my plane ,
+screv_take_seat_flight	and i took a seat - it was an open seated plane -
+screv_take_off_flight	and i waited to take off !
+relnscrev_flight	it was super shaky due to turbulence but the flight was otherwise a very boring two hours - i fell asleep several times waiting for us to get there ,
+screv_spend_time_flight_flight	and also ordered soda and a few snacks .
+screv_spend_time_flight_flight	i was allowed to play my games on the plane as long as it did n't use any wireless networks , but they got boring after a while .
+screv_exit_plane_flight	when i got off , i made sure to grab my carry-on and meet my ride to the new place at the washington airport !
+<end_of_story>
+evoking_flight	in september 23 , i rode and flew in an airplane on my way back home from my parents ' country of birth , the philippines .
+evoking_flight	i rode two different planes , but this one will be about the second one , the trip on the way back to the united states .
+screv_get_airport_flight	i was in narita international airport
+screv_board_plane_flight	and boarding my second flight .
+unrelev_flight	i forgot which airline it was .
+unrelev_flight	but like one would normally do ,
+screv_wait_flight	i waited in line ,
+screv_present_id/ticket_flight	showed the boarding attendant my ticket and passport ,
+relnscrev_flight	and headed to the tunnel connecting the building and the plane .
+screv_other_flight_flight	as i headed for my seat , i tried looking at the seat numbers on the compartments above them .
+screv_take_seat_flight	i found mine ,
+screv_stow_away_luggage_flight	and opened the compartment to put my carry-on in .
+screv_take_seat_flight	i sat down and tried to make myself comfortable .
+screv_take_off_preparations_flight	in about 23 minutes , we were ready for take-off .
+screv_listen_crew_flight	the flight attendant made some announcements , and we were set .
+relnscrev_flight	i was seated by the window , as i always do .
+unrelev_flight	i love sitting by the window .
+unrelev_flight	the view is awe-inspiring when you ' re that high .
+screv_spend_time_flight_flight	i decided to open up a fresh set of earphones and browsed the media player in front of me , and watched avengers .
+screv_spend_time_flight_flight	my viewing was interrupted when dinner was being served .
+unrelev_flight	i love airport food as well , for the most part .
+unrelev_flight	it ' s not always the best , but most of the time i like it .
+screv_spend_time_flight_flight	after eating , i finished the movie and fell asleep .
+unrelev_flight	for the rest of the flight , i saw clouds , sunshine , and other planes , and by nighttime ,
+screv_landing_flight	we landed in new york , at the jfk international airport .
+unrelev_flight	it was a great flight .
+<end_of_story>
+unrelev_flight	several months ago i had to travel to a city in the midwest for a business conference .
+evoking_flight	i needed to take a plane to get there .
+screv_get_ticket_flight	i had to purchase a ticket , so i went online to a travel website .
+relnscrev_flight	there were a lot of options to choose from .
+relnscrev_flight	i first picked the day i wanted to travel , and what airport i was leaving from , and where i was going to .
+unrelev_flight	i then had to choose when i wanted to leave , in the morning or the afternoon .
+screv_get_ticket_flight	i chose everything i needed and purchased my ticket with my credit card .
+screv_get_airport_flight	the day of my flight , i drove to the airport
+relnscrev_flight	and parked in the parking garage .
+screv_go_check_in_flight	i took my luggage inside to the ticketing counter .
+unrelev_flight	i told the attendant i
+relnscrev_flight	where i was flying to and the flight number , and that i had a bag to check .
+screv_present_id/ticket_flight	she took my identification card and the flight information ,
+screv_check_in_flight	and checked me in for the flight .
+screv_other_flight_flight	she put a big tag on my bag , and put it on a moving conveyor belt behind her and it disappeared .
+unrelev_flight	i knew it would be safe
+relnscrev_flight	and arrive when i did , but it did seem kind of mysterious .
+screv_go_security_checks_flight	i then took my ticket and went to the security checkpoint .
+screv_go_security_checks_flight	i went through a large machine , but i was n't nervous .
+screv_wait_boarding_flight	i then went to my gate to wait for my flight .
+screv_board_plane_flight	eventually we were told that we could board .
+screv_take_seat_flight	we all got on the plane and took our seats .
+unrelev_flight	when everyone was on ,
+screv_buckle_seat_belt_flight	we fastened our seatbelts and began to move .
+screv_spend_time_flight_flight	it was fun looking out the window .
+relnscrev_flight	all of sudden we were speeding very fast down the runway ,
+screv_take_off_flight	and then lifted into the air .
+relnscrev_flight	it 's surprising such a big plane can fly so easily .
+screv_spend_time_flight_flight	i watched as the world seemed to get smaller .
+relnscrev_flight	we then leveled off and flew straight to our destination .
+screv_spend_time_flight_flight	i slept a bit on the plane , and read a book that i brought .
+screv_other_flight_flight	they did offer us some snacks and drinks .
+screv_landing_flight	a short time later , the captain announced we were going to land .
+screv_other_flight_flight	everyone put their items away ,
+screv_landing_flight	and we landed soon after .
+screv_get_destination_airport_flight	when we got to the gate ,
+screv_other_flight_flight	everyone undid their seat belts and started to exit the plane .
+unrelev_flight	it was a very good and smooth flight in the airplane .
+<end_of_story>
+evoking_flight	my first flight out of the united states was to myanmar .
+unrelev_flight	i was excited but very nervous all at the same time .
+screv_go_security_checks_flight	going through security checks and all that comes with it is nerve racking .
+unrelev_flight	but once i finished with that part ,
+relnscrev_flight	the next thing was understand the time change and how that affects my flights and connections was a real hassle .
+screv_board_plane_flight	once we got on the plane it was absolutely wonderful .
+relnscrev_flight	the flight attendants took great care of us never stopping to rest for the entire 23 hours flight .
+screv_other_flight_flight	they brought food , warm face towels ,
+relnscrev_flight	drinks and snacks and all this was included in the price of the ticket .
+screv_landing_flight	i am very afraid of flying the take off the landing are the worst parts for me .
+unrelev_flight	true to my phobia i was in near tears and gripping the seats but once the flight was off the ground i was happy .
+screv_spend_time_flight_flight	the flight came with a tv in the back of the set in front of you and there was so many choices of what to watch .
+unrelev_flight	i love documentaries and there were numerous ones .
+unrelev_flight	i almost hated when the flight was over .
+relnscrev_flight	the only part that i found difficult was that , i did not have an end seat and so i hesitated to use the bathroom and did n't do so until i was in extreme discomfort because i did n't want to bother the person on the end seat .
+relnscrev_flight	so , next time i decide to travel the only change i would make is to select an end seat that way bathroom use is not an issue .
+<end_of_story>
+unrelev_flight	my sons and i were invited by their grandmother to come for a visit .
+evoking_flight	we decided to fly across the country .
+screv_get_airport_flight	we went to the airport
+screv_get_ticket_flight	and purchased plane tickets .
+screv_pack_luggage_flight	then we went home and packed our suitcases .
+screv_get_airport_flight	the next day we took a cab to the airport and hour early .
+screv_present_id/ticket_flight	we went to the airlines check in area an waited in line to show our tickets ,
+screv_other_flight_flight	get our seat assignments and check out bags .
+screv_find_terminal_flight	the we headed upstairs to the airplane gate .
+evoking_flight	there were many people flying on this plane and the waiting room was crowded .
+screv_other_flight_flight	then the plane pulled in next to the gate and the flight attendant started calling people over to board the plane .
+screv_board_plane_flight	we were near last to get on the plane .
+screv_take_seat_flight	once on the plane we found our seats and sat down .
+relnscrev_flight	after the plane took off the stewardess did a demonstration about how to use the emergency exits .
+relnscrev_flight	then we sat back and flew all the way to reno ,
+screv_meet_people_flight	nv where we were picked up from the airport by grandma .
+<end_of_story>
+unrelev_flight	i wanted to go to atlanta to visit my daughter , son-in-law and granddaughter .
+screv_other_flight_flight	i went on-line and searched for the cheapest flights for the weekend on which i wanted to go .
+unrelev_flight	i saw that frontier airlines had a really reasonable rate
+screv_get_ticket_flight	so i purchased a ticket for friday , march 13th through sunday , march 15th .
+relnscrev_flight	several hours before my flight was due ,
+screv_get_airport_flight	i drove to national airport
+relnscrev_flight	and parked in the daily-rate lot .
+screv_other_flight_flight	i went into the airport
+screv_go_security_checks_flight	and passed through the security checkpoint ,
+screv_present_id/ticket_flight	showing the tsa agent my electronic ticket\/boarding pass and my driver 's license .
+screv_wait_boarding_flight	once through security i waited at the gate
+relnscrev_flight	until the plane had landed for my flight .
+screv_board_plane_flight	once boarding started ,
+screv_wait_boarding_flight	i got in line with my boarding pass
+screv_board_plane_flight	and entered the plane .
+relnscrev_flight	i found my seat , the aisle seat in row 23 ,
+screv_take_seat_flight	and sat down .
+screv_listen_crew_flight	after the safety instructions had been given ,
+screv_take_off_preparations_flight	the flight taxied to the end of the runway
+screv_take_off_flight	and then took off .
+screv_landing_flight	in just a few short hours we had safely touched down at the atlanta airport
+screv_meet_people_flight	where my daughter was waiting for me .
+<end_of_story>
+relnscrev_flight	when i was a kid , my dad was a licensed pilot and he had a small plane .
+relnscrev_flight	it seated 23 .
+unrelev_flight	he lived in a small town about 23 hours by car north of the larger town when we kids lived with our mom .
+unrelev_flight	we would go visit my dad every other weekend .
+relnscrev_flight	my grandfather was a pilot too and had a small plane .
+unrelev_flight	his was smaller , though ,
+relnscrev_flight	and only seated 23 people .
+relnscrev_flight	it was fun to fly in because i got to sit in front and see out the front
+relnscrev_flight	and watch him work the controls .
+relnscrev_flight	when we flew with my dad ,
+screv_take_seat_flight	my stepmother sat in the front seat and all three of us kids sat in the back seat .
+unrelev_flight	we were small ,
+relnscrev_flight	so we all fit .
+unrelev_flight	there was n't much room for luggage ,
+relnscrev_flight	but my dad would load the luggage behind the back seat .
+screv_take_off_preparations_flight	then he would do the preflight checks .
+unrelev_flight	some of these were outside the plane , but most of them were done from the inside .
+screv_take_off_flight	he would radio the tower and ask for permission to take off .
+unrelev_flight	this was always very exciting .
+screv_take_off_flight	the takeoff was a little scary because in a plane that small you could really feel the wind
+screv_take_off_flight	and the forces of the take off .
+unrelev_flight	the flight itself was fairly boring because you could n't really see anything from the back .
+unrelev_flight	sadly , i had bad motion sickness ,
+relnscrev_flight	and my main memory of the landings is throwing up down the back of my dad 's neck .
+<end_of_story>
+screv_other_flight_flight	i made sure that the doors to the airplane were all closed and all the passengers were seated and buckled in .
+screv_listen_crew_flight	after i went on the speaker
+screv_take_off_preparations_flight	and told everybody we were ready to depart ,
+screv_take_off_preparations_flight	i carefully increased the speed of the plane
+relnscrev_flight	as it bolted down the runway .
+relnscrev_flight	as the plane reached maximum speed on the driveway ,
+screv_take_off_flight	i slowly pulled on the lever to lift the plane off the ground slowly .
+unrelev_flight	the plane eventually came completely off the runway
+relnscrev_flight	and was in flight .
+screv_other_flight_flight	i pulled the lever to lift the wheels into the plane .
+relnscrev_flight	i manuveured the plane 's direction with the pilot wheel to aim it at the direction i wanted to go .
+screv_other_flight_flight	as soon as the plane was at a maximum flying height i put the autopilot on and let the plane 's computer fly it automatically .
+relnscrev_flight	i sat back and kept watched over the data on the plane 's dashboard the rest of the flight until we got to where we were going .
+<end_of_story>
+relnscrev_flight	my cousin wanted me to visit him in florida over the summer and i needed to make a plan and book a flight to get there .
+relnscrev_flight	after searching on the internet for a great price , i found one and booked it .
+evoking_flight	the day of the flight i was a bit nervous as it had been a long time since i had flown on an airplane .
+screv_board_plane_flight	i boarded along with the other passengers and realized that i had a great window seat in a good location
+relnscrev_flight	so i was n't crowded in .
+screv_take_off_flight	after a very smooth take off ,
+screv_spend_time_flight_flight	the flight attendants brought me something to drink and a snack .
+unrelev_flight	it was a very smooth flight and about 23 hours later ,
+relnscrev_flight	i ended up at my destination .
+relnscrev_flight	it all went very nicely and i was happy to be back on the ground .
+screv_other_flight_flight	after we parked at our terminal ,
+screv_exit_plane_flight	we all orderly departed the airplane .
+screv_get_destination_airport_flight	after walking down the tunnel leading into the airport ,
+relnscrev_flight	i saw my family members waiting for me .
+unrelev_flight	it was a very pleasurable experience .
+<end_of_story>
+evoking_flight	i flew in an airplane for the first time when i was eight years old .
+unrelev_flight	i was on my way to disney world .
+unrelev_flight	i was very nervous and was n't sure what to expect !
+screv_take_seat_flight	i sat down next to my mom and she explained what would happen .
+screv_listen_crew_flight	she told me the flight attendant would talk to us about safety but that air travel was very safe and i should worry .
+screv_take_off_flight	then she told me that we were getting ready to take off !
+unrelev_flight	she told me we 'd go up in the air
+screv_other_flight_flight	and then the wheels would retract .
+unrelev_flight	i was relieved to know what that sound was
+relnscrev_flight	when i heard it , otherwise i woul

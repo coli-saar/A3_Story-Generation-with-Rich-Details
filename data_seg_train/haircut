@@ -1,0 +1,1752 @@
+screv_get_salon_haircut	last week i went to the hairdresser and got my hair cut .
+screv_get_salon_haircut	when i got there ,
+screv_wait_haircut	the receptionist told me i could have a seat
+relnscrev_haircut	and she 'd call me when it was time for my appointment .
+relnscrev_haircut	i flipped through a magazine , and about five minutes later my name was called .
+screv_put_on_cape_haircut	a woman gave me an apron to put on .
+unrelev_haircut	the apron was to keep water and hair off my clothes during my appointment .
+unrelev_haircut	she brought me over to a sink
+screv_sit_down_haircut	and sat me in front of it .
+unrelev_haircut	the sink has a special notch
+relnscrev_haircut	so you can lean your head back comfortably .
+screv_wash_haircut	she wet my hair and shampooed it , then brought me to my stylist .
+screv_sit_down_haircut	i sat in a swivel chair in front of a mirror .
+relnscrev_haircut	the chair swivels so the stylist can turn me and reach different areas of my hair .
+screv_talk_haircut_haircut	she asked me how i 'd like my hair cut .
+screv_talk_haircut_haircut	i told her i 'd like her to cut a few inches off ,
+screv_make_hair_style_haircut	and to give my hair some layers to fluff it up .
+unrelev_haircut	she used special extra sharp hair-cutting scissors
+screv_cut_haircut	and cut my hair .
+screv_customer_opinion_haircut	every so often , she - asked me how i liked it so far .
+unrelev_haircut	when she finished ,
+relnscrev_haircut	she gave a mirror to hold and turned the chair around .
+relnscrev_haircut	i was able to hold the mirror in front of my face , and at the same time ,
+screv_look_mirror_haircut	see the back of my head in the large mirror .
+screv_customer_opinion_haircut	i told her i was happy with the cut .
+screv_dry_haircut	she blew-dry my hair ,
+screv_make_hair_style_haircut	and added some styling mousse .
+screv_leave_tip_haircut	i gave her a tip ,
+screv_pay_haircut	then i paid for the haircut at the front desk .
+screv_remove_cap_haircut	i almost forgot to take off the apron
+screv_leave_haircut	before i left .
+<end_of_story>
+screv_get_salon_haircut	earlier this week i went to get a haircut .
+unrelev_haircut	over the summer i had just gone for a cheap haircut at great clips and i ended up with a bad haircut .
+unrelev_haircut	i went back to a nicer place
+screv_pay_haircut	where i had to pay more , but i had to do something about the bad cut .
+screv_cut_haircut	i had to cut most of it off to start over .
+unrelev_haircut	this last cut was the first time i started to see some of the growth coming back and some of the curl !
+screv_make_appointment_haircut	lots of people make standing hair appointments , but i prefer to just call when my hair was bugging me so once the ends started looking straggly i called and went in .
+screv_check_in_haircut	i checked in at the front desk
+screv_small_talk_haircut	and had a nice chat with the receptionist who is getting ready to go out on maternity leave .
+screv_talk_haircut_haircut	then my stylist took me back and asked me if i was still growing out my hair .
+screv_talk_haircut_haircut	i said i was so she looked it over
+screv_scalp_massage_haircut	and then gave me a nice scalp massage
+screv_cut_haircut	and a shampoo before cutting .
+screv_cut_haircut	the cut is about the same length as it was the last time i got it cut , but it is getting more and more even every time .
+screv_make_hair_style_haircut	my stylist likes to straighten my hair on each visit so she can make sure it is all correct .
+unrelev_haircut	looking forward to it growing some more .
+<end_of_story>
+evoking_haircut	it had been a while since i got my hair cut .
+unrelev_haircut	my ends were fried , frizzy , and dry .
+unrelev_haircut	i did n't want to do it .
+screv_enter_haircut	i did n't want to spend the money , but i succumbed and walked into the salon .
+screv_make_appointment_haircut	i had n't made an appointment
+relnscrev_haircut	and therefore was told they could fit me in a half an hour from now .
+screv_wait_haircut	i nodded to wait and took a seat .
+relnscrev_haircut	i flipped through the magazines for hair inspirations and looked at my phone .
+unrelev_haircut	when the time had passed ,
+relnscrev_haircut	the stylist called my name .
+screv_talk_haircut_haircut	she sat me down and asked me what i would like .
+screv_cut_haircut	i told her to cut off the damaged parts , but nothing fancy .
+screv_wash_haircut	she took me over to the sinks to wash my hair .
+screv_wash_haircut	after washing and conditioning it , she guided me back over to the chair
+screv_put_on_cape_haircut	and draped a cloak over me .
+screv_comb_haircut	she combed out my long hair
+screv_cut_haircut	and began snipping .
+unrelev_haircut	after she was done ,
+screv_dry_haircut	she blew dry the front part of my hair .
+screv_pay_haircut	i paid at the register and walked over to give her a $ 23 tip to thank her .
+unrelev_haircut	my head felt lighter and i was happy with how it looked .
+<end_of_story>
+evoking_haircut	i decided to get a haircut yesterday .
+unrelev_haircut	a friend recommended a place
+screv_make_appointment_haircut	where i would n't have to make an appointment ahead of time ,
+screv_get_salon_haircut	so i went there .
+screv_get_salon_haircut	after i got there ,
+screv_wait_haircut	i took a ticket and waited my turn .
+relnscrev_haircut	then one of the beautician s called for me
+screv_sit_down_haircut	and i sat in her chair .
+relnscrev_haircut	the first thing she did was introduce herself
+screv_talk_haircut_haircut	and then she asked me what kind of haircut i wanted while she looked at my hair .
+screv_cut_haircut	i told her just to give me the same cut , only about an inch shorter .
+screv_put_on_cape_haircut	so , the next thing she did was put a plastic cape around my shoulders to protect my clothes
+relnscrev_haircut	and then she turned me around and lowered my chair
+screv_wash_haircut	so she could wash my hair .
+relnscrev_haircut	then she raised me up again and turned me back around .
+screv_cut_haircut	the whole time she was cutting my hair ,
+screv_look_mirror_haircut	i could see what she was doing in the mirror
+screv_small_talk_haircut	and she talked to me .
+unrelev_haircut	it was very pleasant and not at all scary .
+unrelev_haircut	once my haircut was finished ,
+screv_dry_haircut	she dried it with a dryer
+screv_brush_hair_haircut	and then brushed the hair off of the cape
+screv_remove_cap_haircut	before she took the cape off of me .
+screv_customer_opinion_haircut	finally , she asked me if i liked my haircut and i did so i paid and gave her a tip .
+<end_of_story>
+relnscrev_haircut	yesterday , i went to get a haircut .
+screv_enter_haircut	when i walked into the salon , a lady named sara came over and told me to follow her to the shampoo station .
+screv_sit_down_haircut	i sat in a chair and another lady named marsha washed my hair and put a towel around my head .
+screv_sit_down_haircut	she then took me over to sara who asked me to sit in her chair
+screv_put_on_cape_haircut	and put a cape around my neck .
+screv_talk_haircut_haircut	next sara asked me how short i wanted my hair .
+screv_talk_haircut_haircut	i told her i still wanted it to be a little past my shoulders , therefore ,
+screv_cut_haircut	she should only cut off about 23 inch .
+screv_talk_haircut_haircut	she told me that was fine and began cutting my hair .
+screv_cut_haircut	it took her about twenty minutes to cut an inch off of all of my hair .
+screv_cut_haircut	after she cut it ,
+relnscrev_haircut	she took the blow dryer out
+screv_dry_haircut	and dried my hair .
+screv_make_hair_style_haircut	then she curled it with a curling iron .
+unrelev_haircut	it looked really great !
+relnscrev_haircut	so i paid her for cutting my hair and told her how much i appreciated the great job that she did for me !
+<end_of_story>
+screv_get_salon_haircut	yesterday , i went to my local barber .
+screv_talk_haircut_haircut	i told him i wanted the buzz cut
+screv_sit_down_haircut	and he sat me down in the barber 's chair .
+screv_put_on_cape_haircut	he put a plastic sheet over my front so that i would n't get hair on my clothes .
+relnscrev_haircut	he then raised the chair to his preferred height .
+screv_comb_haircut	he combed out my hair to get it ready .
+relnscrev_haircut	he got his mechanical clippers
+screv_cut_haircut	and buzzed around my head .
+unrelev_haircut	he was careful not to get hair in my eyes .
+relnscrev_haircut	i sat calmly as he made his way around my head and tried to move as little as possible so that he would not make any mistakes .
+screv_customer_opinion_haircut	after every few minutes , he asked what i thought about the progress .
+screv_talk_haircut_haircut	i gave him some additional input as to the type of style i wanted and he gladly obliged .
+screv_cut_haircut	once my hair was cut ,
+screv_look_mirror_haircut	he gave me a mirror to check out the back of my head .
+unrelev_haircut	i was quite satisfied .
+screv_brush_hair_haircut	he brushed away all remaining cut hair ,
+screv_remove_cap_haircut	took away the plastic sheet ,
+relnscrev_haircut	lowered the chair ,
+screv_pay_haircut	and i paid him .
+<end_of_story>
+unrelev_haircut	i had really long , really straight hair .
+unrelev_haircut	one day a friend of mine mentioned a charity called '' `` locks of love '' '' .
+evoking_haircut	people with long hair can get their hair cut off and donate it to make wigs for people with cancer .
+unrelev_haircut	i decided to do it !
+screv_make_appointment_haircut	i made an appointment with a hair stylist .
+screv_get_salon_haircut	i went to see him and told him of my plan .
+screv_wash_haircut	he started by washing and conditioning my hair .
+relnscrev_haircut	i sat in a chair that leaned backwards so my head would go in the sink .
+unrelev_haircut	the water was warm .
+unrelev_haircut	when i was done ,
+screv_put_on_cape_haircut	he put a big black cape around my neck and put me in a big chair in front of a mirror .
+screv_comb_haircut	he combed my hair straight ,
+relnscrev_haircut	put it in a ponytail ,
+screv_cut_haircut	then cut off just over 23 foot of my hair !
+screv_cut_haircut	after he cut it off , he trimmed the rest of my hair ,
+screv_dry_haircut	dried it ,
+screv_make_hair_style_haircut	and styled it .
+screv_look_mirror_haircut	i looked in the mirror and smiled , knowing i was helping someone else .
+<end_of_story>
+evoking_haircut	carla decided to get her hair cut today .
+screv_get_salon_haircut	so , she stopped by a nearby hair salon .
+relnscrev_haircut	after saying hello to the hairdresser
+screv_wait_haircut	and waiting for a few minutes ,
+screv_sit_down_haircut	she sat on one of the chairs that were now free .
+screv_wash_haircut	the hairdresser next washed carla 's hair with water and shampoo .
+unrelev_haircut	once the hair was dry ,
+relnscrev_haircut	she inspected carla 's face shape
+screv_talk_haircut_haircut	and asked what kind of hair style she wanted .
+screv_talk_haircut_haircut	they discussed this for about a minute before a decision was made .
+relnscrev_haircut	the hairdresser then prepared the hair , separating it into different sections before she began cutting it .
+unrelev_haircut	she worked calmly and carefully , making sure that she would successfully achieve the style carla wanted .
+unrelev_haircut	after about 23 minutes , the hairdresser had almost finished .
+screv_dry_haircut	so , she made last-minute touches by drying the hair using a blow dryer ,
+screv_cut_haircut	and some final trimming .
+unrelev_haircut	once this was finished ,
+screv_look_mirror_haircut	carla checked herself in the mirror and was very happy once she saw how nice her new hairstyle looked .
+<end_of_story>
+evoking_haircut	i decided it was time to get my hair cut .
+unrelev_haircut	i wanted a new style and a shorter length .
+screv_make_appointment_haircut	i called the hair salon and made an appointment .
+relnscrev_haircut	the stylist greeted me upon my arrival and directed me to sit at her station .
+screv_talk_haircut_haircut	we discussed what style and length i wanted and i showed her a picture in a magazine as a reference .
+screv_put_on_cape_haircut	she placed a fabric cape around my neck and directed me to wash bowls .
+screv_sit_down_haircut	i sat in the wash chair ,
+screv_prepare_wash_haircut	and leaned my head back into the bowl .
+screv_dry_haircut	the stylist washed my hair and towel dried it , the directed me back to her station .
+screv_comb_haircut	she combed my hair out and began to trim it with scissors .
+screv_cut_haircut	after she was finished cutting my hair ,
+screv_talk_haircut_haircut	she blow dried it and styled it in the manner i asked .
+screv_pay_haircut	i paid her for the work
+screv_leave_tip_haircut	and left a tip in her jar .
+unrelev_haircut	i was very pleased with my new haircut .
+<end_of_story>
+screv_get_salon_haircut	on saturday i went to the hair salon to get a haircut .
+screv_make_appointment_haircut	first , i called the store on friday to make an appointment for 23 pm on saturday .
+screv_get_salon_haircut	i arrived at the salon at 23 o'clock on saturday
+screv_check_in_haircut	and told them i had an appointment .
+unrelev_haircut	a lady immediately showed me to a seat .
+screv_put_on_cape_haircut	she wrapped a cutting cape around me to protect my clothing ,
+screv_talk_haircut_haircut	and then she asked me what kind of hairstyle i would like .
+relnscrev_haircut	i showed her a picture of a celebrity
+screv_talk_haircut_haircut	and told her i wanted my hair to look like the celebrity 's hair .
+screv_talk_haircut_haircut	the lady said she would be happy to cut my hair like that , and she got to work cutting my hair .
+screv_cut_haircut	while she was cutting my hair ,
+relnscrev_haircut	i watched her in the mirror i was facing .
+screv_small_talk_haircut	she made conversation with me and we had a nice chat .
+unrelev_haircut	when she was done ,
+screv_customer_opinion_haircut	she asked me if i was happy with the cut .
+unrelev_haircut	i was very happy with it ,
+screv_customer_opinion_haircut	so i said thank you and told her it looked even better than i 'd expected it would .
+unrelev_haircut	the lady then showed me to the register ,
+screv_pay_haircut	where i paid for the cut
+screv_leave_tip_haircut	and gave the hairdresser a generous tip .
+<end_of_story>
+evoking_haircut	i noticed my hair was getting very long and needed to get a trim .
+unrelev_haircut	my previous haircut was done very poorly at what i thought it would be a decent place .
+relnscrev_haircut	i looked up other nearby barbers by doing a google search for them in my zip code .
+relnscrev_haircut	i ended up choosing one place i used to frequent in the past and knew to be reliable .
+screv_get_salon_haircut	i drove over to the barber
+screv_enter_haircut	and entered the store .
+unrelev_haircut	it was during a non-busy hour
+screv_check_in_haircut	so when i entered they immediately asked me to come to the account register .
+screv_check_in_haircut	i gave them some basic info about me
+screv_sit_down_haircut	and was sat down in a chair .
+screv_talk_haircut_haircut	they asked me what style i would like and i told them i wanted to have a look similar to a celebrity i knew .
+relnscrev_haircut	it was an unusual style so instead i ended up taking their recommendation .
+unrelev_haircut	the haircut did n't take long at all .
+relnscrev_haircut	and after i got out of my chair , i headed over to the register again
+screv_pay_haircut	and paid .
+unrelev_haircut	my hair looked great .
+<end_of_story>
+relnscrev_haircut	my hair was getting long and it was getting hard to style it .
+evoking_haircut	it looked like it was time to get a haircut .
+screv_make_appointment_haircut	i called the hair salon to see if i could get an appointment with my favorite hairdresser .
+relnscrev_haircut	she told me she could see me that afternoon at 3pm .
+screv_get_salon_haircut	i drove to the salon , parked my car and went in .
+screv_wait_haircut	i sat down on one of the chairs in the waiting area .
+screv_wait_haircut	there were several other people waiting to see their hairdresser .
+unrelev_haircut	there was an assortment of magazines on a table in the center of the waiting area .
+unrelev_haircut	my hairdresser was still working on another client ,
+screv_wait_haircut	so i picked up a magazine to read while i waited my turn .
+unrelev_haircut	when she was ready for me i walked over to her station
+screv_sit_down_haircut	and sat down .
+unrelev_haircut	the chair was operated by hydraulics ,
+relnscrev_haircut	and she adjusted the height so she could reach my head easily .
+unrelev_haircut	there was a large mirror in front of the chair , and a small shelf that held combs , brushes , and other tools .
+screv_put_on_cape_haircut	she placed a white tissue around my neck and then a black plastic cape which covered my shoulders , back and front .
+screv_comb_haircut	she then squirted a liquid from a spray bottle over my hair to wet it and combed it through .
+screv_cut_haircut	although she has been cutting my hair for quite a while ,
+screv_talk_haircut_haircut	she asked how i would like my hair cut since i might have decided to change the style .
+screv_talk_haircut_haircut	when i told her what i wanted she began to hold up sections of my hair in her fingers , using a small scissors to cut each piece .
+screv_cut_haircut	when my entire head of hair was cut ,
+relnscrev_haircut	she took a blow dryer
+screv_make_hair_style_haircut	and brush and dried and styled my hair .
+relnscrev_haircut	when she was finished she gave me a small hand mirror and turned my chair around
+screv_look_mirror_haircut	so i could see the back of my hair in the reflection of the large mirror .
+screv_customer_opinion_haircut	i was happy with the way it came out and told her so .
+screv_remove_cap_haircut	she then removed the cape and tissue and we went to the front of the salon
+screv_pay_haircut	where i paid her for the cost of the haircut .
+unrelev_haircut	she put the money in a cash register
+screv_leave_tip_haircut	and i gave her some extra money as a tip , since i was so pleased with how my hair looked .
+<end_of_story>
+unrelev_haircut	my hair had grown quite long , and it was getting more
+relnscrev_haircut	and more difficult to style it as i wanted in the morning .
+evoking_haircut	i decided i needed to get a haircut .
+screv_make_appointment_haircut	i called my local salon and made an appointment .
+evoking_haircut	luckily they were able to cut my hair the next afternoon .
+screv_get_salon_haircut	the next day i drove to the salon , and arrived a few minutes before my appointment .
+screv_wait_haircut	i sat in the waiting chairs until my stylist was ready for me .
+screv_sit_down_haircut	i sat in the large chair ,
+screv_put_on_cape_haircut	while my stylist put a large cape around my neck and shoulders .
+unrelev_haircut	this would keep the hair trimmings off of my clothes and from going down my neck .
+screv_talk_haircut_haircut	she asked me how i wanted my hair cut ,
+screv_talk_haircut_haircut	and i told her i just wanted to keep the same style ,
+screv_cut_haircut	but with several inches cut off so it would be easier to style .
+screv_prepare_wash_haircut	she then leaned my chair back toward the sink ,
+screv_wash_haircut	and washed my hair .
+unrelev_haircut	when she was done ,
+screv_comb_haircut	she sat me up and combed my hair out straight .
+relnscrev_haircut	she then took her hair scissors and comb ,
+screv_cut_haircut	and carefully combed out and snipped hair off in sections .
+screv_comb_haircut	she combed my hair in between each cut to make sure it was the right length .
+unrelev_haircut	she went all around my head ,
+screv_comb_haircut	alternately cutting and combing .
+screv_cut_haircut	when she was done cutting ,
+relnscrev_haircut	she took the hair dryer
+screv_dry_haircut	and blew dry my hair ,
+screv_make_hair_style_haircut	styling it as she went with a large brush .
+unrelev_haircut	it felt very nice having someone work on my hair .
+unrelev_haircut	i felt much lighter and my head did not feel as heavy with my long hair .
+unrelev_haircut	when we were all done ,
+screv_brush_hair_haircut	she removed the cape and shook off all the hair .
+screv_look_mirror_haircut	i looked in the mirror and loved my new haircut .
+unrelev_haircut	i went to the cashier
+screv_pay_haircut	and paid for my haircut ,
+screv_leave_tip_haircut	and left a tip for my stylist as well , since she did a good job .
+screv_leave_haircut	i left the salon very happy with my haircut .
+<end_of_story>
+evoking_haircut	it had been a while since i had gotten a hair cut and decided it was time .
+relnscrev_haircut	i found the number of the salon in the phone book
+screv_make_appointment_haircut	and called to make an appointment .
+screv_get_salon_haircut	then i drove to the salon .
+relnscrev_haircut	my favorite stylist was there and she greeted me
+screv_sit_down_haircut	and had me sit down in a chair that was in her booth .
+screv_put_on_cape_haircut	she wrapped a plastic protector over me
+relnscrev_haircut	and bent the chair back .
+screv_wash_haircut	then she shampooed my hair .
+screv_comb_haircut	then she combed my hair to get it ready to be cut .
+screv_cut_haircut	then she started cutting my hair with a special pair of scissors .
+screv_cut_haircut	she took her time about cutting my hair .
+relnscrev_haircut	when she was all done she grabbed a hair dryer
+screv_dry_haircut	and dried it .
+relnscrev_haircut	i thanked her and went to the counter to pay .
+screv_pay_haircut	i paid ,
+screv_leave_haircut	left the shop and drove home .
+<end_of_story>
+evoking_haircut	i get my hair cut at an inexpensive hair salon
+relnscrev_haircut	where people can not make appointments or choose their stylist .
+screv_get_salon_haircut	so when i get to the shop , the first thing i do is go up to the desk and give my name .
+screv_wait_haircut	then , i sit and wait with everyone else until my turn comes .
+relnscrev_haircut	usually i read magazines and eavesdrop on conversations to pass the time .
+unrelev_haircut	eventually , a stylist comes and gets me .
+unrelev_haircut	he or she leads me to a chair in a line of chairs in front of a huge mirror .
+screv_put_on_cape_haircut	she -lrb- it is almost always a woman -rrb- puts a plasticized drape around me to keep the hair from going down my blouse .
+relnscrev_haircut	during this period , we also greet one another and tell each other our names .
+screv_talk_haircut_haircut	once she gets me draped she asks me what kind of cut i want ,
+screv_cut_haircut	and i usually ask that she just trim what i already have .
+screv_cut_haircut	i have short fine hair i wear in a wash and wear style , and i never want it washed before it is cut .
+screv_cut_haircut	she begins cutting my hair ,
+screv_talk_haircut_haircut	usually asking styling questions like whether i want my ears to show and whether i want the bangs feathered .
+screv_cut_haircut	as she cuts ,
+screv_small_talk_haircut	we chat about something unimportant , like a dog that runs by the window or a tv show .
+screv_small_talk_haircut	many times i have talked to stylists about their children , or mine .
+relnscrev_haircut	at the same time , the stylist will exchange a few remarks with other stylists , and i will spy on other peoples ' haircuts .
+unrelev_haircut	when she finishes ,
+relnscrev_haircut	the stylist will give me a hand mirror
+screv_look_mirror_haircut	so i can inspect the back of my head .
+screv_remove_cap_haircut	she brushes me off and removes my drape ,
+screv_pay_haircut	and i slip her a folded bill .
+unrelev_haircut	chances are i will never see her again .
+<end_of_story>
+evoking_haircut	my hair had become very long and shaggy looking so i decided to go out and get a haircut .
+screv_get_salon_haircut	i decided to go to the hair cuttery because it is near my home and they always do a nice job .
+screv_check_in_haircut	i walked in and told the front desk receptionist that i would like to get a shampoo ,
+screv_dry_haircut	cut and blowdry .
+unrelev_haircut	they took me right away .
+screv_wash_haircut	first the attendant shampooed my hair and escorted me to the stylist 's chair .
+screv_talk_haircut_haircut	the stylist asked me how i would like my hair cut ,
+screv_make_hair_style_haircut	and i told her just to trim the ends and shape the bangs and sides a little bit .
+screv_comb_haircut	she combed through my hair ,
+relnscrev_haircut	clipping up sections at a time to keep them out of the way
+screv_cut_haircut	while she cut the rest of my hair , and went to work .
+screv_dry_haircut	after she finished she blow dried my hair in a nice style .
+relnscrev_haircut	i thanked her
+screv_leave_tip_haircut	and after i paid i left her a good tip .
+<end_of_story>
+unrelev_haircut	i was looking in the mirror two weeks ago and thought my hair was getting too long , it looked scruffy and was getting difficult to style .
+screv_make_appointment_haircut	i called my hairdresser and made an appointment to go and see her the following week to get a hair cut .
+screv_make_appointment_haircut	it was difficult getting an appointment because she was very busy but i managed to get one .
+screv_get_salon_haircut	i drove to the hair salon where she works and parked the car .
+screv_check_in_haircut	i walked inside and spoke to the lady on the reception desk to tell her who i was and who i was there to see ,
+screv_wait_haircut	and she asked me to take a seat in the waiting area .
+unrelev_haircut	there were lots of hair products on shelves around
+screv_wait_haircut	where i was sitting , and some hair style magazines on a table in front of the sofa i was sitting on .
+unrelev_haircut	my stylist came through a door
+relnscrev_haircut	and greeted me and took me past people sitting on chairs in front of mirrors ,
+evoking_haircut	all of them in various stages of having a hair cut .
+screv_sit_down_haircut	i sat down at my stylist 's usual chair and faced the mirror
+screv_talk_haircut_haircut	while she asked me what i wanted her to do .
+unrelev_haircut	sometimes when i go to see her i will have a picture of a style that i like that i have found on the internet or in a magazine but this time i just wanted her to keep it the same style but make it shorter .
+screv_wash_haircut	first of all she took me to an area with basins for washing hair
+screv_sit_down_haircut	and i had to sit with my back to it , with my head tilted back so my hair was in the basin .
+screv_prepare_wash_haircut	my stylist rolled up a towel and put it under the back of my neck to make the position more comfortable
+screv_wash_haircut	and washed my hair for me .
+screv_cut_haircut	after she was done she took me back to the chair and started to cut my hair ,
+relnscrev_haircut	she pinned up sections of hair that she was n't working on and gradually let them down to cut them , eventually she had done all of it .
+relnscrev_haircut	she plugged in the hairdryer and sprayed some lotion onto my hair to make it easier to blow dry and proceeded to dry my hair until it was all dry and styled and shorter .
+relnscrev_haircut	when she was finished she held up a mirror for me
+screv_look_mirror_haircut	so i could see the back of my hair .
+unrelev_haircut	i was happy with it
+relnscrev_haircut	so i said goodbye and walked back to the lady on the reception desk to pay her for the hair cut .
+<end_of_story>
+screv_get_salon_haircut	last week , i went to one of my favorite hairstylists after trying to get an appointment with her for over a month .
+screv_make_appointment_haircut	she 's very in demand and it is hard to get an appointment with her .
+screv_make_appointment_haircut	after finally getting one , i was very happy to be able to see her as my hair had gotten a bit too long for my tastes .
+screv_get_salon_haircut	when i got there , she started with a very gentle shampooing and scalp massage .
+unrelev_haircut	she also gave me a beer to have while this was happening .
+unrelev_haircut	afterwards she did some aromatherapy and walked me back over to her chair
+screv_cut_haircut	where she cut my hair .
+unrelev_haircut	she knows me well
+unclear_haircut	as i go to her fairly often when i feel like spending good money on a haircut , so it turned out great !
+relnscrev_haircut	afterwards , i thanked her and made sure to leave her a nice tip for her good work .
+screv_leave_haircut	finally , i left and went home .
+<end_of_story>
+evoking_haircut	i got a haircut yesterday .
+screv_make_appointment_haircut	i called my salon and they said they had an opening that afternoon !
+screv_enter_haircut	i entered the salon
+relnscrev_haircut	and was greeted by my stylist .
+screv_scalp_massage_haircut	she escorted me to her chair and took some time running her hands through my hair
+relnscrev_haircut	and asking me lots of questions about how i wanted to style it and how i typically wore it .
+unrelev_haircut	she led me to the sink
+screv_wash_haircut	and washed my hair , then brought me back to comb it out .
+screv_cut_haircut	she started cutting some layers into it and slowly worked her way around my head .
+unrelev_haircut	when she was finished ,
+screv_dry_haircut	she blow dryed my hair with a big round brush .
+screv_make_hair_style_haircut	once my hair was dried and styled ,
+relnscrev_haircut	she tidied it up with a hair straightener and some smoothing gel .
+unrelev_haircut	i was so happy with my new cut !
+unrelev_haircut	i walked to the front desk
+screv_make_appointment_haircut	and paid and made another appointment and noticed i had a bounce in my step because the haircut had been such a '' `` pick me up '' '' !
+<end_of_story>
+unrelev_haircut	i woke up and looked at myself in the mirror .
+unrelev_haircut	i realized that my hair was really long and unkempt and that it was time for a hair cut .
+evoking_haircut	sometimes , when i do n't get a haircut , i look like a really scary homeless man .
+unrelev_haircut	this is often
+relnscrev_haircut	because i do n't shave my big beard either .
+evoking_haircut	whenever i get a haircut , it is when i also get a shave .
+unrelev_haircut	so this means that i am often unshaven for three months straight .
+unrelev_haircut	since , i wanted to go back into the world again , i knew it was time for a new hair cut and shave .
+screv_get_salon_haircut	i went to the neighborhood barber , santiago 's , and got a hair cut and shave .
+screv_cut_haircut	he first used scissors to trim my hair into something manageable , then he used a electric trimmer to buzz some of my side burns off .
+screv_cut_haircut	he then continued using his scissors and cut my hair into something that was acceptable .
+relnscrev_haircut	he also had to take a few minutes to shave off my beard .
+screv_cut_haircut	first he trimmed the excess off with his electric trimmer .
+unrelev_haircut	then he proceeded to use a knife and shaving cream to give me a very deep shave .
+relnscrev_haircut	it costed a total of 23 dollars .
+evoking_haircut	this was n't bad considering i got a new hair cut ,
+relnscrev_haircut	i was shaved , and they even offered to wash my hair for free .
+<end_of_story>
+unrelev_haircut	my hair had gotten really long ,
+evoking_haircut	so i needed to get a haircut .
+screv_get_salon_haircut	i went downtown to the barber shop
+screv_check_in_haircut	and checked in .
+screv_wait_haircut	there a few people ahead of me , so i had to wait a little while .
+relnscrev_haircut	but that gave me some time to look in the books to pick out a good style for my hair .
+unrelev_haircut	when it was my turn ,
+screv_talk_haircut_haircut	i showed the barber how i wanted my hair cut .
+screv_sit_down_haircut	i got up in the barber chair ,
+relnscrev_haircut	and the barber put a paper towel around my neck so the hair would n't get down on my shirt .
+screv_put_on_cape_haircut	he put an apron on over me ,
+screv_cut_haircut	and started cutting my hair .
+screv_cut_haircut	i watched in the mirror as bits of hair would fall down as he cut .
+relnscrev_haircut	i started to see the design i had chosen take shape .
+unrelev_haircut	before i knew it ,
+screv_brush_hair_haircut	he was brushing some loose hair off with his brush and i was all done .
+unrelev_haircut	he did a great job , and my hair is just how i want it .
+<end_of_story>
+evoking_haircut	today i went to go get a haircut .
+evoking_haircut	i 've been waiting to get a haircut for a while but finally i decided it was time to get it .
+screv_get_salon_haircut	so i went over to the barbershop near my house .
+screv_check_in_haircut	once inside the barbershop i told the barber that i needed a haircut and took my seat util they called my name .
+relnscrev_haircut	once they called my name i went and sat at the chair
+screv_other_haircut_haircut	and the barber put a towel over me
+screv_cut_haircut	so that the hair that he cuts does n't get over my clothes .
+screv_talk_haircut_haircut	i tell him what kind of haircut i want and then he begins to cut my hair .
+screv_customer_opinion_haircut	he periodically asks me if he is doing a good job throughout the haircut to make sure that i am happy with the hair that he is cutting .
+screv_customer_opinion_haircut	i reassure him that he is doing a good job and after he is done he takes off the towel
+screv_look_mirror_haircut	and i get a final look at my haircut .
+screv_customer_opinion_haircut	i nod my head ,
+screv_pay_haircut	pay him for the haircut
+screv_leave_haircut	and also a tip and leave the barbershop after that .
+unrelev_haircut	i have to take a shower afterwards for some hair that happened to get down the back of my shirt .
+<end_of_story>
+evoking_haircut	the last time i got a hair cut was a very long time ago .
+unrelev_haircut	i needed to look presentable to see my distant family .
+screv_make_appointment_haircut	i called up and made a reservation with the salon for four twenty five in the afternoon the next day .
+screv_talk_haircut_haircut	the next day i went in and they asked me about what sort of haircut i wanted .
+screv_cut_haircut	i did not really know exactly what i wanted so i let them just give me a simple , regular haircut .
+relnscrev_haircut	they started by washing my hair by dipping my head into a sink , massaging the soap in , and finally washing it out .
+screv_dry_haircut	next they dried my hair a little bit , but left it damp so it would be easier for them to cut .
+screv_cut_haircut	then they started cutting away using a combination of scissors and a razor .
+screv_customer_opinion_haircut	after about thirty minutes they asked me how i felt about my haircut ,
+screv_customer_opinion_haircut	and since i approved , the cut was done .
+<end_of_story>
+evoking_haircut	i needed to get my hair cut .
+unrelev_haircut	there is a place nearby
+evoking_haircut	where they cut hair .
+unrelev_haircut	it 's relatively inexpensive , but nothing fancy .
+unrelev_haircut	you do n't need an appointment .
+screv_get_salon_haircut	i went there ,
+screv_enter_haircut	walked in ,
+screv_check_in_haircut	and told the woman at the desk my name .
+relnscrev_haircut	she told me they 'd be ready for me in a few minutes .
+screv_wait_haircut	i sat down in one of the chairs in the lobby and looked around at the pictures on the walls .
+unrelev_haircut	all of them are pictures of men and women showing stylish haircuts .
+relnscrev_haircut	in a few minutes they called my name and i walked to the rear of the place ,
+screv_cut_haircut	where they cut your hair .
+screv_sit_down_haircut	i sat in the chair
+screv_put_on_cape_haircut	and the woman cutting my hair put a big sheet over me to keep the hair off me
+screv_cut_haircut	as she cut .
+screv_talk_haircut_haircut	she asked me what i wanted done and raised my chair so it was a convenient level for her .
+screv_talk_haircut_haircut	i told her i just wanted my hair trimmed , with long bangs left on the side .
+screv_cut_haircut	she started cutting my hair ,
+screv_small_talk_haircut	and she talked about a story that was on the news that morning .
+unrelev_haircut	when she was done ,
+screv_other_haircut_haircut	she picked up a mirror and showed me how my hair looked in the back .
+screv_customer_opinion_haircut	i said it looked good and thanked her .
+screv_remove_cap_haircut	she took the sheet off me , and i walked over to the desk .
+relnscrev_haircut	the woman there told me how much i owed .
+screv_pay_haircut	i paid her , and then i went back and gave a tip to the woman who 'd worked on my hair .
+screv_leave_haircut	i left the building and went home .
+<end_of_story>
+unrelev_haircut	i was long overdue for a haircut
+screv_make_appointment_haircut	so i made an appointment for saturday .
+screv_move_in_salon_haircut	when i arrived i had to sit and wait a few minutes for the stylist to escort me to the chair .
+relnscrev_haircut	i read a magazine
+screv_wait_haircut	while i waited .
+relnscrev_haircut	after the stylist greeted me she asked if i wanted the usual .
+unclear_haircut	i did ,
+screv_move_in_salon_haircut	so we went straight to the shampoo area .
+screv_wash_haircut	she shampooed my hair
+screv_small_talk_haircut	and we made small talk about television shows we were watching .
+relnscrev_haircut	then we went back to the chair and she commenced cutting .
+screv_cut_haircut	we chatted as she went .
+screv_make_hair_style_haircut	after the cut she styled my hair with product
+screv_dry_haircut	and blow dried it for me .
+screv_other_haircut_haircut	i asked to buy some of the product
+screv_other_haircut_haircut	so she grabbed it and added it to my bill .
+screv_move_in_salon_haircut	when the haircut was done she walked me back to the counter
+screv_leave_tip_haircut	where i paid and tipped her 23 percent .
+<end_of_story>
+evoking_haircut	every other month , i get a haircut from my favorite barbershop in the heart of the city .
+unrelev_haircut	i love the barbershop because the haircuts are cheap
+screv_small_talk_haircut	and the barbers are always making jokes about anything .
+screv_get_salon_haircut	last week , i went to the barbershop to get my hair cut with my friend , john .
+screv_get_salon_haircut	john and i took my car and arrived there around noon
+relnscrev_haircut	so that my favorite barber would be there .
+relnscrev_haircut	luckily , my barber and another good barber were there and ready for us .
+screv_sit_down_haircut	we took our seats
+screv_put_on_cape_haircut	and they draped the long black cloth over our bodies
+relnscrev_haircut	so the hair would n't get all over us .
+screv_comb_haircut	then , they combed our hair so that it made it easier to cut it .
+screv_cut_haircut	next , they turned on their clippers and began cutting our hair .
+screv_cut_haircut	as they cut ,
+screv_small_talk_haircut	they talked about all the big topics and new of the day .
+screv_small_talk_haircut	there were plenty of laughs just like i expected !
+relnscrev_haircut	after they were done ,
+screv_make_hair_style_haircut	they sprayed our hair with sheen ,
+screv_brush_hair_haircut	brushed us off ,
+screv_remove_cap_haircut	took off the cloth ,
+relnscrev_haircut	and showed us the finished product in the mirrors .
+screv_customer_opinion_haircut	we looked great !
+screv_pay_haircut	we paid them for the haircuts ,
+screv_leave_tip_haircut	with a nice little tip added on ,
+screv_leave_haircut	and left the shop .
+<end_of_story>
+evoking_haircut	i get my hair cut by a person i met when my kids were in preschool with her kids .
+unrelev_haircut	she is the best hair cutter i 've ever been to .
+relnscrev_haircut	she works at a nice salon , although she used to cut hair for cheaper out of her home .
+screv_get_salon_haircut	now when i go to get a haircut ,
+screv_make_appointment_haircut	i call the salon to make an appointment .
+screv_get_salon_haircut	when i arrive at the salon ,
+screv_check_in_haircut	i check in with the receptionist
+screv_put_on_cape_haircut	and she asks whether i want to wear a tunic .
+screv_put_on_cape_haircut	-lrb- you can take off your top and wear one of their tunics if you want to be sure you do n't get hair on your top .
+unrelev_haircut	-rrb- i used to , but now i do n't because the tunics are uncomfortable .
+relnscrev_haircut	usually the receptionist asks whether i want a glass of lemon water or a cup of tea .
+relnscrev_haircut	i ask for lemon water .
+screv_wait_haircut	then i sit down on one of the couches in the waiting area
+relnscrev_haircut	and read a fashion magazine and sip my water
+screv_wait_haircut	while i wait for my appointment time .
+screv_move_in_salon_haircut	the person who cuts my hair comes out to the waiting area to get me when it 's time .
+screv_put_on_cape_haircut	she puts a big plastic cape around my neck
+screv_wash_haircut	and washes my hair at a sink .
+screv_scalp_massage_haircut	she gives me a scalp massage ,
+relnscrev_haircut	which always feels great .
+screv_put_towel_haircut	then she wraps my head in a towel
+screv_move_in_salon_haircut	and we walk to her hair cutting station .
+relnscrev_haircut	i have to take my glasses off , so everything is very blurry .
+relnscrev_haircut	first i stand up behind the chair
+screv_cut_haircut	and she cuts the hair at the nape of my neck .
+screv_cut_haircut	then i sit down and she cuts the rest .
+screv_dry_haircut	after the haircut , she blow-dries my hair gently
+screv_make_hair_style_haircut	and arranges the curls
+relnscrev_haircut	so that they look good .
+screv_look_mirror_haircut	then she gives me a hand mirror ,
+relnscrev_haircut	and i put my glasses on to see what the haircut looks like .
+screv_look_mirror_haircut	while i look at it ,
+screv_other_haircut_haircut	she sweeps up the hair from the floor .
+screv_move_in_salon_haircut	then she walks me back out to the reception area ,
+screv_pay_haircut	and i pay for the haircut .
+<end_of_story>
+unrelev_haircut	i have a very important job interview coming up in a few days and i want to make sure i look my best .
+screv_make_appointment_haircut	i called up my barber and made an appointment for later on in the day .
+screv_sit_down_haircut	when i got to the barber shop i greeted him and took a seat in his chair .
+screv_small_talk_haircut	i told him about the interview and he told me not to worry i was in good hands .
+screv_put_on_cape_haircut	he put the barber apron over me
+relnscrev_haircut	so i would n't get any hair on my clothes while he cut my hair .
+relnscrev_haircut	he took out his scissors and started sniping away like he usually did .
+unclear_haircut	after about 23 minutes we were all done .
+relnscrev_haircut	he took out a small mirror
+screv_look_mirror_haircut	and showed me the front and back of my new haircut .
+screv_customer_opinion_haircut	as always i was very satisfied with his work .
+screv_brush_hair_haircut	he dusted off the loose hair
+screv_remove_cap_haircut	and removed the apron
+relnscrev_haircut	as i got up .
+screv_leave_tip_haircut	i paid him and gave him a nice tip for a job well done .
+relnscrev_haircut	before leaving he wished me good luck on my interview and thanked me for stopping by .
+<end_of_story>
+evoking_haircut	this past weekend i went to get a hair cut .
+relnscrev_haircut	my hair has grown out quite a bit and i hate it when it takes too long to dry .
+evoking_haircut	that 's usually my indication to get a hair cut .
+screv_get_salon_haircut	i went down to the barber shop near my apartment early in the morning
+relnscrev_haircut	so that i could avoid the lines .
+screv_enter_haircut	this particular time i was the first to arrive .
+unrelev_haircut	the barber knows me already
+screv_sit_down_haircut	so i just hop into the chair
+screv_talk_haircut_haircut	and tell him the usual .
+screv_cut_haircut	the usual for me is to just cut my hair short .
+screv_cut_haircut	this involves using the trimmer on the back and sides , and then a scissor cut on the top .
+relnscrev_haircut	the top i keep longer otherwise it sticks up and is uncontrollable .
+unrelev_haircut	the process takes about 23 minutes but there 's a tv there
+relnscrev_haircut	so i can watch some of the news
+screv_cut_haircut	while he cuts my hair .
+screv_leave_tip_haircut	after the haircut , i pay him and leave him a pretty good tip since we 've known each other for so long .
+<end_of_story>
+screv_make_appointment_haircut	i made an appointment a week before i wanted to get my hair cut at a local salon .
+screv_enter_haircut	i showed up about 23 minutes
+screv_make_appointment_haircut	before my scheduled appointment .
+screv_get_salon_haircut	when i arrived ,
+screv_enter_haircut	i immediately went to the front desk to let the receptionist know that i was there .
+screv_check_in_haircut	she told me that she would let my stylist know .
+relnscrev_haircut	about five minutes later , elena , my hairdresser approached me .
+screv_move_in_salon_haircut	we went to her stylist chair
+relnscrev_haircut	and she looked and felt my hair .
+screv_talk_haircut_haircut	she asked me how i would like my hair cut today .
+screv_talk_haircut_haircut	i told her that i wanted the length trimmed about 1\/2 inch
+relnscrev_haircut	and some layers added to increase fullness in my thin hair .
+screv_move_in_salon_haircut	we went over to the sink and she started to wash my hair .
+screv_wash_haircut	she wet it with warm water , lathered it up with a fragrant shampoo and finished by adding a deep conditioning treatment .
+screv_put_towel_haircut	elena placed a warm towel around my wet hair
+screv_move_in_salon_haircut	and we walked back to her chair .
+screv_comb_haircut	she combed out my hair and then began cutting .
+relnscrev_haircut	it took about 23 minutes for her to finish cutting it and making sure it was all even .
+screv_make_hair_style_haircut	afterwards , she dried and styled my hair .
+screv_pay_haircut	i thanked her for doing a wonderful job and then went to the front desk to pay for her services .
+screv_leave_tip_haircut	there is a place to leave individual tips for each stylist .
+screv_leave_tip_haircut	i left her a 23 % tip
+screv_make_appointment_haircut	and also scheduled my next hair cut appointment .
+screv_customer_opinion_haircut	i love my new hair do !
+<end_of_story>
+unrelev_haircut	i had a job interview coming up in a couple days .
+relnscrev_haircut	after filling out so many applications i noticed that my hair was getting very long .
+relnscrev_haircut	so i ended up deciding to get my hair cut in order to look good for the upcoming interview .
+unclear_haircut	i got in the care in the early afternoon
+screv_get_salon_haircut	and drove off to my usual barber .
+evoking_haircut	i have been going to this barber for the last 23 years , and never had a problem .
+screv_enter_haircut	once i arrived for the appointment ,
+screv_sit_down_haircut	i sat down on the chair
+screv_talk_haircut_haircut	and told her i wanted the usual .
+screv_small_talk_haircut	she asked what the occasion was and i told her that i had a job interview in a couple days .
+screv_small_talk_haircut	she wished me the best of luck while she continued cutting my hair .
+relnscrev_haircut	after some conversation , she was done .
+screv_leave_tip_haircut	i ended up paying her a good tip considering i felt bad that i did n't get a good hair cut in a long time .
+<end_of_story>
+screv_enter_haircut	i went into the barber shop .
+unrelev_haircut	there were three barber 's chair lined up along the wall .
+screv_wait_haircut	each one had a customer in it who was already getting a haircut so i had to wait .
+relnscrev_haircut	i read a magazine for about five minutes
+screv_leave_haircut	until a customer paid and left .
+screv_get_called_haircut	the barber called me over ,
+screv_put_on_cape_haircut	put a smock on me ,
+screv_cut_haircut	and asked me how i liked my hair cut .
+screv_talk_haircut_haircut	i told him i liked it short all over .
+screv_wash_haircut	he wet my hair down with a spray bottle of water and then started cutting my hair on the top and sides with scissors .
+screv_cut_haircut	after he had thinned it out a bit , he shaved the sides and back with electric clippers .
+relnscrev_haircut	finally , he put hot foam on my neck and used a straight razor to shave my neck and leave a clean neat hairline .
+screv_look_mirror_haircut	he showed me how it looked in the mirror
+screv_customer_opinion_haircut	and i approved .
+screv_brush_hair_haircut	the barber whipped off the smock
+screv_pay_haircut	and i paid him ,
+screv_leave_tip_haircut	giving him a tip as well .
+unrelev_haircut	now i was ready for my big date !
+<end_of_story>
+relnscrev_haircut	as i got out of the shower and looked in the mirror today i realized that my hair was getting quite shaggy and long .
+unrelev_haircut	i think that it was time for a brand new hair cut !
+screv_get_salon_haircut	i went down to the barber shop and just as i should of known ,
+screv_enter_haircut	coming in on a saturday was not one of my most brightest ideas in hindsight .
+relnscrev_haircut	there was quite a crowd , but i figured i was already here
+screv_wait_haircut	so i might as well just wait .
+screv_check_in_haircut	i went over and put my name down under my barber , bill , who has been cutting my hair for the past 23 years .
+relnscrev_haircut	as i waited i grabbed a sports illustrated and sat down and began to read how the pirates were doing in the world series .
+screv_get_called_haircut	after about 23 minutes or so bill called my name up
+screv_talk_haircut_haircut	and asked me what kind of hair cut i wanted .
+relnscrev_haircut	i told him to stick with the usual
+screv_put_on_cape_haircut	and he put the big barber apron around me and began to cut my hair
+screv_small_talk_haircut	while we talked about life and caught up on what has been going on since the last time i saw him , which was about a month ago .
+screv_customer_opinion_haircut	afterwards my haircut was done and i looked great !
+screv_move_in_salon_haircut	we went up to the register
+screv_leave_tip_haircut	and i paid him and gave him a good tip ,
+screv_leave_haircut	then was on my way .
+<end_of_story>
+evoking_haircut	getting a hair cut can be a stressful activity .
+screv_get_salon_haircut	you have to know where you are going to go for this service and how much you want to spend .
+unrelev_haircut	some people have one hair dresser they like and stick with that person over years .
+unrelev_haircut	i have n't had such luck , so i sometime have to take a gamble
+screv_make_appointment_haircut	and just make an appointment at a random salon .
+screv_talk_haircut_haircut	if i want a new look , i 'll make sure to be prepared with an example picture of exactly what i want , or if i just want a trim i coach myself into being very firm about not cutting too much .
+screv_get_salon_haircut	i try to get to my appointment early ,
+screv_get_called_haircut	in case they 're ready to see me sooner than they expected .
+screv_small_talk_haircut	there is generally small talk back and forth during the process , which can be uncomfortable for socially awkard folks like myself ,
+screv_small_talk_haircut	but i muddle through it somehow .
+screv_customer_opinion_haircut	if i am happy with my service
+screv_look_mirror_haircut	and with how my hair looks , i make sure to leave a generous tip .
+<end_of_story>
+unrelev_haircut	it is important to have hair that is clean ,
+screv_make_hair_style_haircut	groomed and presentable .
+evoking_haircut	one key component to good hair is getting it cut .
+screv_cut_haircut	the way i like it cut is best done within the confines of a beauty school .
+screv_get_salon_haircut	to set up a cut at the beauty school which i like to go to ,
+screv_make_appointment_haircut	i call in a day or two before to set up an appointment .
+screv_get_salon_haircut	at the appropriate appointment time i make my way to the school
+screv_check_in_haircut	and check in .
+screv_move_in_salon_haircut	a friendly student always greets me and steers me to her station .
+screv_talk_haircut_haircut	i explain to him or her thoroughly what i like done to my hair .
+screv_cut_haircut	it helps that i always bring photos in to show what i would like it cut like .
+screv_small_talk_haircut	as they cut my hair i always chat with them .
+unrelev_haircut	i like getting to know people and this is always enjoyable for me and for my stylist .
+screv_brush_hair_haircut	at the end of the cut , they brush off all the hair
+screv_customer_opinion_haircut	and ask how i like it .
+screv_customer_opinion_haircut	i always give glowing praise .
+screv_pay_haircut	i pay for the cut
+screv_leave_haircut	and am on my way .
+<end_of_story>
+relnscrev_haircut	i always wear my hair very long ,
+relnscrev_haircut	but it needed trimmed because i had some split ends .
+evoking_haircut	i went to my favorite hairdresser , michael .
+relnscrev_haircut	he works in a very nice salon .
+unrelev_haircut	we 're friends ,
+relnscrev_haircut	so he gave me a hug when he saw me come in .
+screv_sit_down_haircut	i was seated in the chair
+relnscrev_haircut	and had an apron tied around my neck to keep the hair off .
+screv_wash_haircut	first michael shampooed my hair ,
+screv_dry_haircut	and blew it dry .
+screv_comb_haircut	then , he brushed and combed it out thoroughly .
+relnscrev_haircut	it was relaxing and enjoyable to have michael 's skilled hands working with my hair .
+unclear_haircut	he is the only hairdresser i 'll go to .
+screv_cut_haircut	before long , it was time for the actual cutting of my hair .
+relnscrev_haircut	he knew i wanted it left long ,
+screv_customer_opinion_haircut	so he trimmed off the damaged ends and did the ends of my hair in a pleasing half-moon shape .
+screv_customer_opinion_haircut	my hair looks great and i enjoyed my time at the hairdresser 's .
+<end_of_story>
+relnscrev_haircut	sometimes my hair gets too long , so i have to get it cut .
+screv_get_salon_haircut	i go to a hair salon to get my hair cut .
+screv_make_appointment_haircut	i call the salon to schedule an appointment for a specific time and day .
+screv_make_appointment_haircut	they tell me when my appointment is , so i make sure that i have free time that day .
+screv_get_salon_haircut	when i get to the salon ,
+screv_get_called_haircut	they call my name
+relnscrev_haircut	when they are ready to help me .
+screv_wash_haircut	the stylist washes my hair for me ,
+screv_talk_haircut_haircut	and she asks me what kind of haircut i would like .
+screv_talk_haircut_haircut	sometimes i want a trim , but other times i want a big haircut .
+screv_wash_haircut	after my hair is washed ,
+screv_sit_down_haircut	i sit in the stylist 's chair .
+screv_cut_haircut	she carefully combs and cuts my hair .
+screv_small_talk_haircut	we often talk while she is doing this .
+screv_cut_haircut	after she cuts my hair ,
+screv_dry_haircut	she blow dries it
+screv_look_mirror_haircut	so i can see how it looks .
+relnscrev_haircut	when this is all done ,
+screv_leave_haircut	i pay her and i go home .
+<end_of_story>
+relnscrev_haircut	i was looking in the mirror this morning and noticed my hair had gotten out of control .
+evoking_haircut	so i decided to get a hair cut .
+unrelev_haircut	i was new to the area ,
+relnscrev_haircut	so first i wanted to research all the available barber shops nearby .
+relnscrev_haircut	i found three different places , and all with great reviews .
+screv_get_salon_haircut	so i decided to go the closest one to my house .
+screv_get_salon_haircut	when i got there ,
+screv_enter_haircut	i had to wait for the 23 people currently waiting before i arrived .
+relnscrev_haircut	i started looking at the posters on the wall and came up with some new ideas on what hair cut style i think would look best on me .
+relnscrev_haircut	i decided on a buzz cut .
+screv_talk_haircut_haircut	when it was my turn i told the barber i wanted a buzz cut .
+screv_cut_haircut	he trimmed my hair low ,
+screv_cut_haircut	then got a fine-edge razor to get my hairline .
+screv_customer_opinion_haircut	i walked out the barber shop feeling like a new man .
+<end_of_story>
+evoking_haircut	i recently got a haircut .
+screv_customer_opinion_haircut	i was n't happy with my previous haircut , so i wanted to try someplace new .
+relnscrev_haircut	i searched online for barbers and salons that were highly rated in the area .
+relnscrev_haircut	i finally decided on one that was fairly close by , highly reviewed , and had fair prices .
+screv_make_appointment_haircut	i called the salon and made an appointment for the next day .
+screv_enter_haircut	upon arriving ,
+screv_small_talk_haircut	i was greeted by a very nice hair stylist .
+screv_sit_down_haircut	she had me sit in the chair
+screv_cut_haircut	and asked me how i wanted my hair cut .
+screv_talk_haircut_haircut	i told her exactly what i wanted and she understood completely .
+relnscrev_haircut	she went to work immediately ,
+screv_small_talk_haircut	we made small talk .
+unrelev_haircut	she was very friendly .
+screv_cut_haircut	after she cut my hair ,
+screv_wash_haircut	she washed it .
+screv_dry_haircut	after drying my hair ,
+screv_make_hair_style_haircut	she added a little wax to style the hair .
+screv_customer_opinion_haircut	i was very happy with the haircut .
+screv_leave_tip_haircut	i then paid and gave her a tip for her service .
+<end_of_story>
+unrelev_haircut	it was finally the day ,
+relnscrev_haircut	i was going to donate all of my hair to make wigs for people with cancer .
+relnscrev_haircut	i had been growing my hair out for 23 years and today was the day my plan would come to fruition .
+screv_get_salon_haircut	i headed to the barber shop , my head filled with ideas on how i should get my hair styled .
+evoking_haircut	i finally settled on the idea of getting a high and tight ,
+relnscrev_haircut	after so long having long hair ;
+unrelev_haircut	short hair would be a great change of pace .
+screv_enter_haircut	i walked in the door of the barber shop
+screv_wait_haircut	and i waited until one of the barbers had a free chair .
+screv_cut_haircut	the man asked how i wanted my hair cut ,
+relnscrev_haircut	i told him i would like a high and tight , but i needed him to cut off the long ponytail that i was going to donate .
+screv_make_hair_style_haircut	after all the formalities he got to work and styled my hair ,
+screv_cut_haircut	we idly chatted the whole time he was cutting my hair .
+relnscrev_haircut	after he was finished i paid and took my hair with me .
+relnscrev_haircut	it would be mailed away for a good cause today .
+<end_of_story>
+evoking_haircut	last week i decided that i wanted to get a haircut .
+screv_enter_haircut	i called my hairstylist and made an appointment to come in .
+screv_get_salon_haircut	on the day of my appointment i drove to the salon ,
+screv_check_in_haircut	checked in with the receptionist
+screv_get_called_haircut	and sat down and looked through a magazine for a few minutes until the stylist came out and called my name .
+screv_move_in_salon_haircut	i followed her back to her booth
+screv_sit_down_haircut	where she sat me in a spinning chair in front of a mirror .
+screv_talk_haircut_haircut	she asked me questions about how i wanted my hair cut and i explained it to her .
+screv_move_in_salon_haircut	then she took me to another chair in front of a small sink
+screv_wash_haircut	where she washed my hair .
+unrelev_haircut	when she was done ,
+screv_put_towel_haircut	she wrapped my hair in a towel
+screv_move_in_salon_haircut	and took me back to the spinning chair .
+screv_comb_haircut	she combed my hair and then began to cut it .
+unrelev_haircut	once she was done ,
+screv_dry_haircut	she blow-dried my hair .
+screv_look_mirror_haircut	i looked in the mirror
+screv_customer_opinion_haircut	and was very happy with my new haircut .
+screv_leave_tip_haircut	i thanked her and gave her a tip ,
+screv_pay_haircut	went back to the receptionist to pay for the haircut ,
+screv_leave_haircut	then went back out to my car and drove home .
+<end_of_story>
+relnscrev_haircut	i have really long hair so i tend to trim my hair myself .
+relnscrev_haircut	if i need to go in to get it done , it 's because i need a really good trim .
+relnscrev_haircut	my hair goes all the way down almost to my butt , so i am very leery of letting other people mess with my hair .
+screv_talk_haircut_haircut	i will sit there and listen to them say how much they think needs to be trimmed and then tell them how much i want trimmed and it ends up somewhere in between .
+relnscrev_haircut	it is really annoying when you have long hair and want to keep it that way
+screv_cut_haircut	and the girl who chops it off just does n't understand some people happen to like having it really long .
+screv_get_salon_haircut	so , i usually avoid going and getting it cut ,
+screv_cut_haircut	and just trim it myself .
+unrelev_haircut	it 's easy , i know what i want ,
+screv_cut_haircut	i wo n't chop it all off , and if i screw up i have no one to blame but myself .
+<end_of_story>
+evoking_haircut	this weekend i went to get a haircut .
+screv_get_salon_haircut	i went down town to my favorite barber shop
+relnscrev_haircut	and waited for the barber to be done with his current client .
+relnscrev_haircut	i sat and read some magazines
+screv_wait_haircut	while i waited .
+unrelev_haircut	then when it was my turn .
+unrelev_haircut	if i wanted ,
+screv_talk_haircut_haircut	i could choose from a selection of hair cuts he had on his walls ,
+screv_talk_haircut_haircut	or i could ask for something specific , but i just wanted my usual .
+screv_cut_haircut	i had n't come in for a hair cut in a while , so i had a lot of hair to remove .
+screv_sit_down_haircut	i sat in his barber chair ,
+relnscrev_haircut	and he put a cloth around my neck to keep the hair off of my clothes .
+relnscrev_haircut	he sprayed my hair with a little water to keep the loose hair together , and then he began clipping away the larger amounts of hair with a pair of scissors .
+relnscrev_haircut	then when my hair was shorter , he brought out some electric hair clippers and started trimming my hair to an even length .
+relnscrev_haircut	the clippers made a loud buzzing noise in my ear , which used to scare me but now i think is kind of fun .
+screv_cut_haircut	finally , he used the scissors again to trim any stray hairs ,
+screv_remove_cap_haircut	and then wiped me off and took off the cloth .
+screv_pay_haircut	i paid him ,
+screv_small_talk_haircut	shook his hand and thanked him ,
+screv_leave_haircut	and left the barber shop with my nice clean hair cut .
+<end_of_story>
+evoking_haircut	my son in law cuts my hair .
+screv_get_salon_haircut	he texts me to come and get a haircut .
+screv_get_salon_haircut	i go to the upscale salon and get the royal treatment .
+screv_get_salon_haircut	it starts with me remembering how to get there easily .
+unrelev_haircut	it is downtown and they are all one way streets and canyons .
+screv_get_salon_haircut	i find my lucky parking spot
+screv_enter_haircut	and go around the corner into the salon
+screv_small_talk_haircut	and am greeted .
+unrelev_haircut	i noticed that they remodeled .
+unrelev_haircut	i see my son in - law
+screv_small_talk_haircut	and says '' `` go get a smock '' '' .
+screv_move_in_salon_haircut	i went into the little room ,
+screv_sit_down_haircut	picked out a black smock and put on and sit down .
+screv_get_salon_haircut	i come with my hair wet .
+screv_other_haircut_haircut	he colors the hair ,
+screv_dry_haircut	i sit under the dryer .
+screv_wash_haircut	we wash the hair ,
+screv_sit_down_haircut	i get back in the chair
+screv_cut_haircut	and he cuts it .
+relnscrev_haircut	the whole thing takes a couple of hours .
+screv_customer_opinion_haircut	i always feel so beautiful on the way home .
+<end_of_story>
+relnscrev_haircut	my hair grows so fast .
+relnscrev_haircut	the other day i noticed it was getting a little wild .
+unrelev_haircut	i thought to myself ,
+evoking_haircut	'' `` it is time for a hair cut !
+unrelev_haircut	'' '' i have heard of a great salon in town called cuts-r-us and thought i would give it a try .
+relnscrev_haircut	i looked up the phone number ,
+screv_make_appointment_haircut	and i gave them a call .
+screv_make_appointment_haircut	a girl named gina answered the phone and asked how she could help .
+screv_make_appointment_haircut	i told her that i need an appointment for a hair cut .
+screv_make_appointment_haircut	we set the appointment for 2:00 the next day .
+relnscrev_haircut	this is exciting to try a new salon !
+screv_get_salon_haircut	the next day rolled around and i went to cuts-r-us at about 1:45 , it never hurts to be a little early .
+screv_cut_haircut	gina greeted me and said that shelly would be cutting my hair .
+relnscrev_haircut	shelly was just finishing up with a client
+screv_other_haircut_haircut	and cleaning her area .
+relnscrev_haircut	shelly called me over
+screv_talk_haircut_haircut	and we discussed what style i would like .
+screv_talk_haircut_haircut	i just wanted a trim with some layers .
+screv_put_on_cape_haircut	shelly put a cape around my neck
+screv_sit_down_haircut	and adjusted my chair .
+relnscrev_haircut	she got a water bottle and sprayed my hair ;
+screv_cut_haircut	it is easier to cut wet hair .
+screv_cut_haircut	she then cut , cut , and cut some more .
+unrelev_haircut	it took a long time .
+screv_make_hair_style_haircut	shelly blow dried my hair and styled it for me .
+screv_customer_opinion_haircut	it looks very nice now !
+relnscrev_haircut	she used a little brush to get small stray hairs off of my face ,
+screv_remove_cap_haircut	and then she removed my cape .
+screv_move_in_salon_haircut	i went up to the cash register
+relnscrev_haircut	where gina complemented my new cut .
+screv_pay_haircut	i paid for my hair cut
+screv_leave_tip_haircut	and left a little tip for shelly .
+screv_customer_opinion_haircut	sometimes , when someone does a good job , i like to give them a little extra to show my appreciation .
+screv_leave_haircut	then i went home .
+screv_customer_opinion_haircut	i enjoyed the services at cuts-r-us , and i love my new cut !
+<end_of_story>
+evoking_haircut	today , i decided i really needed to get a haircut ,
+screv_get_salon_haircut	so i went by lou ' s. lou has been my barber since i first had hair , and my father went there before that .
+screv_enter_haircut	when you enter his place ,
+screv_small_talk_haircut	he immediately says ' ? welcome ' .
+screv_sit_down_haircut	he sits you in his adjustable barber ' s chair ,
+relnscrev_haircut	and gets just the right height while facing you toward his wall size mirror .
+relnscrev_haircut	he pulls out his comb
+screv_comb_haircut	and pulls it through your hair
+relnscrev_haircut	as you both talk about the length the hair needs to be , and whether you need a shave also .
+unrelev_haircut	then the magic happens .
+relnscrev_haircut	he turns you away from the mirror and starts clipping away ,
+screv_small_talk_haircut	the whole time talking with you about the weather and sports .
+screv_small_talk_haircut	he asks about your family , and whether the fish are biting down at the local lake .
+unrelev_haircut	in what seems just like seconds ,
+screv_cut_haircut	lou takes one last clip
+screv_look_mirror_haircut	and spins you back to the mirror to show you his creation on your head .
+screv_customer_opinion_haircut	when you are satisfied ,
+screv_pay_haircut	you pay him plus a little extra for the sheer perfection of this haircut ,
+relnscrev_haircut	and tell him you will see him next month .
+<end_of_story>
+evoking_haircut	i was looking in the mirror yesterday and noticed that my hair was too long , so i decided to get a haircut .
+relnscrev_haircut	i called my regular salon to see if they were busy .
+unrelev_haircut	luckily , they were not
+screv_get_salon_haircut	and i was told to come right in .
+screv_get_salon_haircut	i drove to the salon
+screv_check_in_haircut	and checked in with the receptionist at the front desk .
+screv_wait_haircut	i was told to take a seat
+relnscrev_haircut	and that someone would be with me shortly .
+screv_wait_haircut	i was only seated for a few minutes
+relnscrev_haircut	when the hairdresser said that she was ready for me .
+screv_move_in_salon_haircut	she led me over to a chair
+screv_sit_down_haircut	and i sat down .
+screv_talk_haircut_haircut	we discussed what i wanted to do with my hair , a trim ,
+screv_move_in_salon_haircut	and then she took me to the shampoo area .
+screv_wash_haircut	my hair was washed and conditioned and then i was led back to the hairdresser 's chair .
+screv_comb_haircut	she combed my hair out
+relnscrev_haircut	and then cut off the split ends a few small sections at a time .
+relnscrev_haircut	i saw little wisps of my hair fall onto the floor .
+screv_cut_haircut	when the hairdresser was finished cutting ,
+relnscrev_haircut	she took out a blow dryer
+screv_dry_haircut	and dried my hair .
+screv_look_mirror_haircut	i looked in the mirror
+screv_customer_opinion_haircut	and i was very pleased with my haircut .
+screv_move_in_salon_haircut	i walked back over to the receptionist
+screv_pay_haircut	and paid for the cut .
+screv_leave_tip_haircut	i added about twenty percent
+relnscrev_haircut	as a tip to reward the hairdresser for doing a great job .
+screv_leave_haircut	i left the hair salon and drove home .
+<end_of_story>
+evoking_haircut	yesterday i visited my hairdresser for a haircut .
+screv_get_salon_haircut	i went to the salon
+screv_talk_haircut_haircut	and asked for a haircut with a wash .
+screv_wait_haircut	the receptionist said it would be a 23 minute .
+screv_talk_haircut_haircut	i said that would be fine ,
+screv_wait_haircut	and sat down .
+unrelev_haircut	on the table in front of me were a selection of magazines .
+screv_wait_haircut	i picked '' `` people '' '' and browsed through it as i waited .
+screv_get_called_haircut	soon , the hairdresser called my name
+screv_sit_down_haircut	and i sat down in the chair .
+screv_cut_haircut	she asked me how i 'd like my hair cut .
+screv_talk_haircut_haircut	i told her i wanted a trim with some layers .
+screv_talk_haircut_haircut	she asked me if i wanted a wash .
+screv_talk_haircut_haircut	i said yes .
+screv_move_in_salon_haircut	she took me first to get my hair washed .
+relnscrev_haircut	she waited until the water was warm , then started spraying my hair .
+screv_wash_haircut	once it was soaked , she lathered my hair first with shampoo , then with conditioner .
+screv_wash_haircut	after that , she rinsed my hair off
+screv_put_towel_haircut	and put a towel over my head .
+screv_put_towel_haircut	back in the chair , she soaked up the extra water from my hair with the towel .
+screv_cut_haircut	then she began to style my hair .
+unrelev_haircut	after about half an hour , my haircut was done .
+screv_look_mirror_haircut	i took a look in the mirror
+relnscrev_haircut	and told my hair stylist she did a good job .
+screv_pay_haircut	then i tipped her and paid my bill .
+screv_leave_haircut	finally , i left the salon .
+<end_of_story>
+unrelev_haircut	brandons hair was long .
+unrelev_haircut	it flopped in his eyes .
+unrelev_haircut	it blew it in the wind .
+unrelev_haircut	he was annoyed at school when he had to push it out of the way to see his paper .
+evoking_haircut	so him and his mommy decided to go see the barber .
+relnscrev_haircut	brandon loved the barber and his silly jokes and chit chat .
+screv_small_talk_haircut	he liked listening to the men talk .
+screv_move_in_salon_haircut	when brandon got to the barber he lead him to the hair washing sink .
+screv_wash_haircut	he sat him in the chair that tilted back into the sink and laid back as the barber washed his hair .
+unrelev_haircut	the water was just right , never too hot or cold .
+screv_move_in_salon_haircut	next they walked over to the hair cutting chair .
+unrelev_haircut	brandon loved it
+relnscrev_haircut	when the barber pumped his chair way up high
+screv_look_mirror_haircut	and he could see himself in the large mirror in front of him .
+screv_talk_haircut_haircut	the barber asked brandon how he would like his hair cut and mommy told him just how they like it .
+relnscrev_haircut	then he wrapped a big cape around brandon to protect him from hair clippings .
+screv_comb_haircut	once his hair was towel dried and combed well .
+screv_cut_haircut	snip , snip , snip , went the scissors .
+relnscrev_haircut	brandon held very still .
+unrelev_haircut	the barbers chair is a place even for little boys to be still and brandon knew that .
+relnscrev_haircut	he watched as his hair fell to the floor .
+relnscrev_haircut	soon the barber spun him around in the chair
+screv_look_mirror_haircut	and brandon saw his new hair cut .
+unrelev_haircut	it was smooth and neat .
+screv_comb_haircut	after another comb through and a few more snips of the scissors he was all done .
+screv_remove_cap_haircut	off came the cape .
+screv_leave_tip_haircut	brandons mommy paid the barber and tipped him for a job well done .
+screv_customer_opinion_haircut	brandon was glad for his hair cut .
+<end_of_story>
+screv_enter_haircut	upon entering my local hair salon ,
+screv_small_talk_haircut	i was greeted by a stylist .
+screv_check_in_haircut	she took my name and told me that i would be next to receive a haircut , because no other customers were in line before me .
+screv_wait_haircut	i waited in a chair for several minutes ,
+screv_move_in_salon_haircut	then she called my name and led me to the chair in which i would get my hair cut .
+screv_cut_haircut	the stylist introduced herself and asked how i would like my hair cut .
+screv_talk_haircut_haircut	i described how i would like my hair cut and she showed that she understood .
+screv_put_on_cape_haircut	then , the stylist covered me with a cape to keep hair from getting on my clothes .
+screv_comb_haircut	she then sprayed my hair with water to wet it and quickly combed my hair ,
+screv_cut_haircut	preparing it to be cut .
+screv_cut_haircut	now we were ready to cut my hair .
+screv_cut_haircut	with scissors , she cut my hair in sections , starting at the front and working toward the back .
+screv_talk_haircut_haircut	she used her skills to cut my hair to match what i described to her earlier .
+screv_cut_haircut	once she was finished , she used electric clippers to shave my neckline and shape the back of my hair .
+screv_remove_cap_haircut	once the haircut was complete , she used a blow drier to remove the cut hair and then removed the cape .
+screv_move_in_salon_haircut	finally , she led me to the cash register ,
+screv_pay_haircut	where i paid her for her services
+screv_small_talk_haircut	and thanked her for her time .
+screv_leave_haircut	i then exited the shop with a fresh haircut .
+<end_of_story>
+unrelev_haircut	i have very long hair
+evoking_haircut	and rarely get it cut .
+relnscrev_haircut	lately i noticed that my hair had split ends and needed a trim .
+relnscrev_haircut	the local beauty college has reasonable prices and has done a good job in the past when i have needed beauty services .
+screv_other_haircut_haircut	i checked online to see their prices
+screv_make_appointment_haircut	and hours of service and then made an appointment .
+screv_wait_haircut	upon arriving i gave my name and waited a few minutes
+relnscrev_haircut	before i was introduced to my stylist .
+screv_talk_haircut_haircut	she asked what services i needed ,
+screv_talk_haircut_haircut	and after i explained we got started .
+screv_other_haircut_haircut	she washed my hair and conditioned it in a sink .
+screv_cut_haircut	she combed my hair and trimmed about 23 inches off the bottom
+screv_look_mirror_haircut	and gave me a mirror to inspect her work .
+screv_other_haircut_haircut	because this is a beauty school she had the instructor check her work and make sure i was satisfied .
+screv_make_hair_style_haircut	she dried my hair and styled it .
+screv_customer_opinion_haircut	i paid and left a satisfied customer .
+<end_of_story>
+relnscrev_haircut	two weeks ago , i called the beauty salon
+screv_make_appointment_haircut	and made an appointment to get a hair cut .
+screv_get_salon_haircut	today is the day to go get my hair cut , and i was pretty excited .
+screv_check_in_haircut	i walked in and talked to the receptionist .
+screv_check_in_haircut	she told me it would be a few minutes , so i went to sit down .
+screv_wait_haircut	while i was waiting ,
+relnscrev_haircut	i thumbed through some of the magazines in the waiting area to get ideas of how i wanted my hair cut .
+screv_sit_down_haircut	a few minutes later , the stylist called me back to sit in her chair .
+screv_small_talk_haircut	we talked about the weather while she washed
+screv_wash_haircut	and shampooed my hair .
+screv_comb_haircut	she took a comb and started to comb the tangles out of my hair .
+relnscrev_haircut	the shampoo made my hair smell really nice , and i complemented her on the choice .
+screv_talk_haircut_haircut	she asked what style of hair cut i wanted .
+relnscrev_haircut	i told her i had decided on a bob .
+unrelev_haircut	she started to go to work .
+screv_other_haircut_haircut	she sectioned my hair off with clips and started to trim it with her scissors .
+evoking_haircut	i have to admit that every time i get a hair cut , i get a little nervous .
+unrelev_haircut	there is always the chance of not being happy with the end result , but my stylist reassured me that she had years of experience
+relnscrev_haircut	and she would ask periodically if i thought the length was getting to short .
+screv_customer_opinion_haircut	a few minutes later , we both agreed that the length was right .
+screv_cut_haircut	she finished the cut ,
+screv_dry_haircut	and i went under the hair dryer for awhile .
+relnscrev_haircut	i read some more magazines , since i could n't hear to talk with anyone .
+screv_move_in_salon_haircut	when i was finished i went up front to the receptionist
+screv_pay_haircut	and paid for my hair cut .
+unrelev_haircut	it was a nice , relaxing day .
+<end_of_story>
+unrelev_haircut	last week i got a phone call for a job interview , and i decided i should clean myself up before going there .
+evoking_haircut	the major thing i needed to do was get a haircut since my hair had become long and unkempt .
+screv_get_salon_haircut	i went over to the local barber
+screv_other_haircut_haircut	and signed into the waiting list .
+screv_wait_haircut	i sat around waiting my turn ,
+relnscrev_haircut	which took about 23 minutes .
+screv_get_called_haircut	when they called my name i got up and sat in the barber chair .
+screv_talk_haircut_haircut	the barber asked me what kind of haircut i wanted ,
+relnscrev_haircut	and i just told them to give me a professional look .
+unrelev_haircut	they were good at their job
+relnscrev_haircut	so they knew exactly what to do .
+relnscrev_haircut	the hair cutting process took about 23 minutes to finish , and once it was over i looked in the mirror and was very pleased with the result .
+screv_move_in_salon_haircut	i went to the front desk
+screv_pay_haircut	and paid ,
+screv_leave_tip_haircut	and i also gave the barber a tip .
+<end_of_story>
+screv_get_salon_haircut	last saturday , i went to get my hair cut at my favorite hair salon .
+screv_enter_haircut	i walked into the salon ,
+screv_check_in_haircut	told the girl at the desk why i was there ,
+screv_wait_haircut	and sat down in one of their comfy chairs to wait .
+relnscrev_haircut	i browsed through magazines
+screv_wait_haircut	while i waited .
+relnscrev_haircut	my hair stylist walked up and told me she was ready .
+screv_move_in_salon_haircut	she took me to her chair ,
+screv_talk_haircut_haircut	i sat down and we talked about what i wanted done that day .
+screv_wash_haircut	then she walked me over to the hair washing station .
+relnscrev_haircut	i sat down and leaned my head back
+screv_wash_haircut	and she washed my hair with warm water
+relnscrev_haircut	and really nice smelling shampoo .
+unrelev_haircut	when she was done ,
+screv_dry_haircut	she towel dried my hair
+screv_move_in_salon_haircut	and we walked back to her station .
+screv_sit_down_haircut	i sat down ,
+screv_cut_haircut	she put a cape around me to catch the hair she cuts .
+screv_cut_haircut	and she began to cut my hair .
+screv_customer_opinion_haircut	when she finished she blew it dry and asked me how i liked it .
+screv_customer_opinion_haircut	i loved it .
+screv_move_in_salon_haircut	so we walked over to the desk ,
+screv_pay_haircut	i paid my bill ,
+screv_leave_tip_haircut	left her a tip ,
+screv_leave_haircut	and left the salon .
+<end_of_story>
+evoking_haircut	i usually get a haircut every few months to maintain .
+screv_make_appointment_haircut	i choose a day where i have time to relax and will reserve an appointment at my favorite salon and with my favorite stylist to get my haircut .
+screv_get_salon_haircut	i arrive at my salon
+relnscrev_haircut	and was greeted nicely .
+screv_other_haircut_haircut	i hang my jacket in their closet .
+screv_wash_haircut	i start my getting a hair wash .
+screv_sit_down_haircut	i sit and relax as they massage and wash my hair with very fragrant shampoos and conditioners .
+screv_sit_down_haircut	after the hair wash i go sit in the chair of my favorite stylist .
+screv_small_talk_haircut	he greets me with a smile
+relnscrev_haircut	and asks me what kind of haircut would i like this time
+screv_talk_haircut_haircut	and i had said just a trim .
+screv_dry_haircut	he blows my hair dry first
+screv_cut_haircut	and cuts my hair nicely as always and then ends it by styling it with some hair product .
+screv_leave_tip_haircut	i pay the cashier and tip my stylist well .
+screv_leave_haircut	i leave the salon with nice salon hair .
+<end_of_story>
+evoking_haircut	it is time for me to get my haircut .
+screv_make_appointment_haircut	i call my hairdresser and make an appointment .
+screv_make_appointment_haircut	she says she can see me today at 3:00 pm .
+screv_get_salon_haircut	i leave the house at 2:30 in order to get there in time .
+screv_other_haircut_haircut	when i arrive i check in and sit down in the waiting area .
+screv_get_called_haircut	my hairdresser calls me back .
+screv_wash_haircut	she first takes me to the shampoo bowl to wash my hair .
+relnscrev_haircut	i sit down and she puts a plastic cape around my neck to protect my clothes .
+screv_prepare_wash_haircut	she leans the seat back and places my head over the shampoo bowl .
+screv_wash_haircut	she wets my hair and then lathers it with soap .
+screv_wash_haircut	then she rinses the soap out and puts in conditioner .
+screv_wash_haircut	she rinses the conditioner out
+screv_other_haircut_haircut	and then wraps a towel around my head .
+relnscrev_haircut	she leans my seat back up
+screv_dry_haircut	and dries my hair with the towel .
+screv_sit_down_haircut	she then leads me to her barber chair to sit .
+screv_comb_haircut	she combs my hair and begins cutting .
+screv_cut_haircut	she cuts the top , sides and back .
+relnscrev_haircut	i keep my head very still
+screv_cut_haircut	while she does this .
+screv_dry_haircut	after she is through cutting my hair she dries it with a blow-dryer .
+screv_remove_cap_haircut	the she removes the plastic cape from around my neck and uses a soft brush to brush any look hair from my neck and face .
+screv_move_in_salon_haircut	next we go to the cash register
+screv_pay_haircut	and i pay her for my haircut plus a tip .
+<end_of_story>
+unrelev_haircut	it was the summertime and my hair was getting quite long , as it was down to nearly my bellybutton .
+evoking_haircut	as a result , i decided it was time for a haircut .
+relnscrev_haircut	after flipping through numerous options , i decided to get a bob hair cut to my chin .
+unrelev_haircut	this was a drastic change , yet i knew i was ready for it .
+screv_get_salon_haircut	i left the house and took the drive over to the salon .
+screv_small_talk_haircut	my favorite hairstylist michelle eagerly greeted me with an excited smile .
+screv_talk_haircut_haircut	'' `` you ready for this ? '' '' she asked me .
+screv_talk_haircut_haircut	'' `` yes ! definitely ! '' '' i exclaimed .
+screv_move_in_salon_haircut	michelle led me over to a sink
+relnscrev_haircut	as she washed my hair with sweet smelling shampoo .
+screv_dry_haircut	after towel-drying my hair quickly ,
+screv_move_in_salon_haircut	she led me over to her salon chair .
+screv_other_haircut_haircut	she took out her scissors and started cutting .
+unrelev_haircut	i looked down at the floor at all the hair that flying all over the place .
+unrelev_haircut	i started to get nervous , wondering if i made a mistake .
+screv_dry_haircut	by the time she was done cutting and blew dry my hair ,
+screv_look_mirror_haircut	i looked back in the mirror .
+screv_customer_opinion_haircut	it looked amazing !
+<end_of_story>
+evoking_haircut	every few months when my hair starts to feel shaggy , i know it is time for a hair cut .
+screv_make_appointment_haircut	mom calls to make an appointment with the stylist .
+screv_get_salon_haircut	when we arrive to the salon ,
+screv_small_talk_haircut	the hair dresser greets me .
+screv_put_on_cape_haircut	she drapes a cape around me to keep hair from sticking to my clothes , and invites me to sit in a special chair .
+screv_wash_haircut	first , she leans me back to shampoo and rinse my hair .
+unrelev_haircut	once my hair is nice and clean ,
+screv_comb_haircut	the hair dresser combs it out ,
+screv_other_haircut_haircut	gently removing any tangles .
+screv_cut_haircut	then she grabs a pair of professional scissors to cut my hair .
+screv_cut_haircut	she trims the ends , which are often damaged .
+screv_cut_haircut	sometimes she will add layers into my hair as well .
+screv_cut_haircut	after trimming my hair , she uses a hair dryer to dry it .
+screv_brush_hair_haircut	finally , she brushes my hair .
+unrelev_haircut	when she is finished ,
+screv_look_mirror_haircut	i look in the mirror ,
+screv_cut_haircut	pleased with my freshly cut hair .
+screv_remove_cap_haircut	i hop off the chair and remove the cape .
+screv_pay_haircut	after mom pays the stylist ,
+relnscrev_haircut	i thank her and say ' i ' ll see you in a few months .
+<end_of_story>
+evoking_haircut	today i got my hair cut .
+unrelev_haircut	last time i was at the stylist ,
+screv_make_appointment_haircut	i made an appointment for today .
+screv_get_salon_haircut	i arrived about 23 minutes before my appointment , to make sure that i would n't be late .
+screv_enter_haircut	when i walked in ,
+screv_small_talk_haircut	the lady behind the counter greeted me ,
+relnscrev_haircut	and asked if i would like something to drink .
+unrelev_haircut	i said no , that i would not .
+screv_wait_haircut	i then had a seat and waited for my stylist to come and collect me .
+screv_move_in_salon_haircut	after a few minutes the stylist came out and led me back to the area where i would be getting my hair cut .
+screv_wash_haircut	first we washed my hair ,
+screv_sit_down_haircut	then she seated me in a chair that is designed for hair cutting .
+relnscrev_haircut	the stylist asked me what type of haircut i wanted ,
+screv_talk_haircut_haircut	i told her , and she began to cut .
+screv_cut_haircut	first she clipped the sides and back ,
+screv_cut_haircut	then she used scissors to trim the top and front .
+screv_cut_haircut	after she was done she used a blow dryer to blow off all the hair she had cut .
+screv_brush_hair_haircut	she then brushed my shoulders with a special hair brush , and i was done .
+<end_of_story>
+unrelev_haircut	my hair was really long
+evoking_haircut	and i needed to get it cut .
+unrelev_haircut	my mom called the hair salon
+screv_make_appointment_haircut	and made an appointment for me .
+screv_enter_haircut	we went into the salon
+screv_check_in_haircut	and the receptionist asked us for our name .
+screv_check_in_haircut	we told her what it was and she marked our names off in her book .
+screv_move_in_salon_haircut	a lady came and took me to an area where there were some really deep sinks .
+screv_prepare_wash_haircut	she told me to lie back with my neck on the edge of the sink and my hair falling into the sink .
+screv_wash_haircut	she washed my hair with warm water
+relnscrev_haircut	and some nice smelling shampoo .
+screv_move_in_salon_haircut	she put a towel on my hair to dry it and took me to a special chair .
+relnscrev_haircut	the chair had a foot pump that the lady used to raise the chair way up in the air .
+screv_look_mirror_haircut	when it was up high enough for me to look into the mirror ,
+screv_put_on_cape_haircut	she put a cape around my shoulders and began combing out my hair .
+screv_cut_haircut	she took out some scissors and used them to cut my hair into a nice style .
+relnscrev_haircut	i was very surprised to find that it did not hurt one bit !
+screv_dry_haircut	she dried my hair with the blow dryer
+relnscrev_haircut	and then it was finished .
+screv_customer_opinion_haircut	i was very happy with my new look .
+<end_of_story>
+evoking_haircut	last week , i went to supercuts for a haircut .
+screv_wait_haircut	there were only two people in the waiting area , so i assumed that i would n't have to wait long .
+unrelev_haircut	however , supercuts has an option
+relnscrev_haircut	where you can phone in ahead of your arrival
+screv_other_haircut_haircut	and get on the waiting list and apparently several people had done this .
+screv_other_haircut_haircut	after about an hour and a half , i was called back .
+screv_sit_down_haircut	i sat in a chair
+screv_cut_haircut	and the girl asked me how i wanted my hair cut .
+screv_cut_haircut	i told her that i wanted it cut behind my ears and about two inches off the length all over .
+screv_put_on_cape_haircut	she covered me with a plastic sheet up to my neck ,
+relnscrev_haircut	took a spray bottle
+screv_wash_haircut	and wet my hair down ,
+screv_comb_haircut	combed it through ,
+screv_cut_haircut	and began cutting .
+screv_cut_haircut	she started by trimming around my ears so that they were exposed .
+relnscrev_haircut	next , she took her comb and grabbed a hand full of hair on the top of my head .
+screv_comb_haircut	she combed it straight up with one hand while following the comb with my hair between two fingers of her other hand , stopping about two inches short of the ends .
+screv_cut_haircut	she took her scissors and snipped the top two inches of my hair
+relnscrev_haircut	and then grabbed an adjacent handful of hair and repeated this action .
+unrelev_haircut	she did this until she had gone over my entire head .
+screv_small_talk_haircut	during all of this , we chatted about the weather , what kind of food we liked , and some other trivial , but interesting things .
+screv_comb_haircut	finally , she combed my hair down into the style that i had when i sat down and asked me how it looked .
+screv_customer_opinion_haircut	'' `` great ! '' '' , i replied .
+screv_remove_cap_haircut	she removed the plastic sheet
+screv_brush_hair_haircut	and brushed me off
+relnscrev_haircut	and we headed to the cash register .
+screv_pay_haircut	she rang me up on the register and i swiped my credit card ,
+screv_leave_tip_haircut	leaving a tip in the process .
+relnscrev_haircut	we each told the other to '' `` have a good day '' ''
+screv_leave_haircut	and i headed out the door .
+<end_of_story>
+unrelev_haircut	my hair is getting to long for the warm weather that is arriving so i call the hair salon
+screv_make_appointment_haircut	and make an appointment to have my haircut .
+screv_get_salon_haircut	the next day i go to the salon for my appointment ,
+relnscrev_haircut	as i enter i was greeted and ask to have a seat and that they would be ready for me in a few minutes .
+screv_talk_haircut_haircut	my stylist comes over and asks me how i would like my haircut
+screv_move_in_salon_haircut	as we walk over to their station .
+relnscrev_haircut	i consider getting new style
+screv_other_haircut_haircut	and we look over a few books that have photographs inside .
+unrelev_haircut	i decide just to keep my original style
+screv_other_haircut_haircut	and the stylist takes me over to the wash station
+screv_wash_haircut	and washes and conditions my hair .
+screv_other_haircut_haircut	i go back to the chair where the stylist is stationed and she begins to cut my hair .
+screv_dry_haircut	it takes about 23 minutes for her to cut my hair and style and blow-dry my hair ,
+screv_customer_opinion_haircut	but when she finishes i am very pleased with the way my hair looks .
+relnscrev_haircut	i tip the woman and thank her ,
+screv_pay_haircut	then go to the counter to pay for my haircut .
+screv_leave_haircut	i thank them and leave the salon ,
+screv_customer_opinion_haircut	feeling very happy and looking beautiful .
+<end_of_story>
+evoking_haircut	although i keep my head mostly shaved very , very short i decided to get a haircut .
+unrelev_haircut	summer is fast approaching and the shorter the better to keep my old head nice and cool .
+relnscrev_haircut	i gathered the clippers , towel , a razor for the neck shave and awaited my wife to get home from her job .
+screv_cut_haircut	i always get her to cut my hair as she is really good at it albeit a tad slow getting it done .
+relnscrev_haircut	when she arrived she smiled when she saw the tools for a haircut gathered and got right to work .
+screv_put_on_cape_haircut	she placed the towel over my shoulders and proceeded to get to work with the clippers .
+relnscrev_haircut	fine pieces of hair fell in the floor
+screv_cut_haircut	as she ran the clippers over my head .
+screv_other_haircut_haircut	then my neck was lathered up
+screv_cut_haircut	and the razor used to shave that area .
+unrelev_haircut	a quick shower later and i felt like a new man .
+<end_of_story>
+unrelev_haircut	friday was madison 's birthday party and i wanted to make sure that i looked my best .
+evoking_haircut	i asked my dad to take me to the local barber shop .
+screv_get_salon_haircut	when i got there ,
+screv_sit_down_haircut	i sat down and saw that there were two other people waiting .
+relnscrev_haircut	i decided to go over to the magazine rack and i found a magazine about baseball .
+unrelev_haircut	i really enjoyed all of the stories that were in the magazine .
+unrelev_haircut	before i knew it ,
+screv_get_called_haircut	the barber called me over to the chair .
+relnscrev_haircut	i sat down and then he asked me what kind of haircut i wanted .
+relnscrev_haircut	it was summer so i decided to get a crew cut .
+screv_cut_haircut	he started off by using the electric razor on my head .
+screv_cut_haircut	after that , he got out the scissors in order to cut some of the remaining hair .
+unrelev_haircut	after he finished ,
+relnscrev_haircut	he put some powder on my face
+relnscrev_haircut	and brushed off any hair that had fallen .
+screv_look_mirror_haircut	he showed me the haircut in a mirror
+screv_customer_opinion_haircut	and i was pleased .
+<end_of_story>
+screv_brush_hair_haircut	one morning , i was brushing my hair and realized it stretched all the way past my shoulders .
+evoking_haircut	i had to pull so far and hard that i realized it was time to get it cut .
+screv_make_appointment_haircut	i called my barber and scheduled an appointment for 1:00 .
+unrelev_haircut	when it came time for my appointment ,
+screv_get_salon_haircut	i drove to the barber shop
+relnscrev_haircut	and waited for my barber to call my name .
+relnscrev_haircut	i looked through some pamphlets showing all the fancy hairdos i could get , but i decided to keep my simple hairstyle .
+screv_get_called_haircut	when my barber called my name ,
+screv_prepare_wash_haircut	i sat down in a special chair in front of the sink and leaned my head back .
+screv_wash_haircut	my barber gave my hair a quick shampoo and a rinse so that it would be clean for him .
+screv_move_in_salon_haircut	next , i moved over to a special ,
+screv_put_on_cape_haircut	big chair and he wrapped a smock around me
+relnscrev_haircut	so that the cut hair would n't get on my clothes . '' `` just a trim , '' '' i told him .
+relnscrev_haircut	he pushed a foot pedal at the bottom of the chair and i was raised upwards so that he could see more clearly .
+screv_cut_haircut	he began snipping at my hair with his scissors ,
+screv_look_mirror_haircut	and i watched him in the mirror .
+relnscrev_haircut	after some time , he put the scissors away and began combing my hair .
+unrelev_haircut	it was all done !
+screv_brush_hair_haircut	he brushed the loose hairs off my neck
+screv_remove_cap_haircut	and unhooked the smock .
+screv_cut_haircut	the parts of my hair he had cut away were all over the floor .
+screv_pay_haircut	i paid him and went home with my clean , shorter hair .
+<end_of_story>
+screv_get_salon_haircut	i arrived at the salon
+screv_enter_haircut	and walked inside .
+relnscrev_haircut	at the front counter was a receptionist who asked me if i had an appointment .
+screv_make_appointment_haircut	i did have an appointment that i scheduled for that day .
+unrelev_haircut	she let me know that my hairdresser would be ready for me in a few minutes ,
+screv_sit_down_haircut	so i sat down in the lobby
+relnscrev_haircut	and read a magazine for a few minutes .
+unrelev_haircut	i found a picture of a short hairstyle that i really liked .
+screv_move_in_salon_haircut	when my hairdresser came to the lobby to get me ,
+screv_talk_haircut_haircut	i showed her the picture of the haircut that i wanted .
+screv_talk_haircut_haircut	she said that it would be an easy job with my thick hair .
+relnscrev_haircut	i followed her back to the salon area , and she motioned for me to take a seat in a big chair .
+screv_sit_down_haircut	i sat down ,
+relnscrev_haircut	and she put a cape around my shoulders to prevent hair from sticking to my clothes .
+screv_prepare_wash_haircut	she brought over a cart with a small tub on it , and told me to lean my neck back
+screv_wash_haircut	while she washed my hair .
+screv_wash_haircut	after shampooing my hair , she rinsed it out with water
+screv_put_towel_haircut	and put it up in a towel to let it dry .
+relnscrev_haircut	she rolled the cart away and came back with a comb and pair of scissors ,
+screv_comb_haircut	and combed through my hair .
+screv_other_haircut_haircut	she applied a special creme to my hair to help nourish it , and then started snipping away .
+relnscrev_haircut	long pieces of my hair fell all around me to the floor .
+relnscrev_haircut	she turned my chair around so she could reach the hair in the front of my head , and when she was done she washed her scissors off .
+screv_dry_haircut	then , she dried my hair with a blow dryer
+relnscrev_haircut	and my haircut was fully revealed .
+screv_remove_cap_haircut	she took the cape off of me
+screv_small_talk_haircut	and we chatted for a bit about our days
+relnscrev_haircut	and i thanked her .
+screv_pay_haircut	i returned to the receptionist to pay with my credit card .
+screv_leave_haircut	then i left .
+<end_of_story>
+unrelev_haircut	it had been close to a year since my last trim .
+relnscrev_haircut	i usually make sure i 'm clean if i plan to go to a hairdresser .
+unrelev_haircut	i jumped in the shower and quickly lathered up .
+unrelev_haircut	my hair was pretty clean to begin with , but i wanted to make sure i was clean for sure .
+relnscrev_haircut	the haircut place takes walk-in appointments ,
+screv_sit_down_haircut	and i waited barely 23 minutes to be seated in a chair .
+unrelev_haircut	the attendant was especially nice ,
+screv_small_talk_haircut	and asked how i was ,
+relnscrev_haircut	and how i wanted my hair to be done .
+unrelev_haircut	in the summer i usually keep it quite short ,
+screv_cut_haircut	so i asked for most of it to be trimmed off .
+screv_talk_haircut_haircut	i asked the hairdresser to go forward with what they thought was best .
+screv_talk_haircut_haircut	i usually ask this because they are trained to judge what appearances would work best for certain people .
+relnscrev_haircut	overall , it took 23 minutes for the haircut to finish .
+screv_brush_hair_haircut	after a quick dusting off ,
+screv_leave_haircut	i was on my way home with a fresh look .
+<end_of_story>
+evoking_haircut	i woke up this morning and decided to go get my haircut .
+screv_get_salon_haircut	i normally go to a place that calls for a phone call in advance of arriving but this time i decided to go to a different place
+relnscrev_haircut	where i could just walk in .
+screv_wait_haircut	when i arrived i had to wait for about 23 minutes
+screv_cut_haircut	before someone could cut my hair , which was alright with me since i did not make an appointment or anything .
+screv_talk_haircut_haircut	when i got in the chair the lady cutting my hair asked me what kind of haircut i wanted and i told her short hair on the top with a buzz cut on the sides .
+screv_talk_haircut_haircut	she told me that would be a great look for me
+screv_talk_haircut_haircut	and i agreed .
+screv_small_talk_haircut	during the hair cut i talked to the barber about what i did in life and asked her some questions as well .
+relnscrev_haircut	after about 23 minutes she finished the job .
+screv_leave_tip_haircut	i tipped her 23 dollars for her effort
+screv_customer_opinion_haircut	and went off satisfied with my haircut .
+unrelev_haircut	it was a good experience .
+<end_of_story>
+evoking_haircut	i went to the hair stylist for a trim .
+screv_wait_haircut	while i was seated in the waiting area , i happened to glance a cover of a hair styling book and , being intrigued , decided to pick it up and browse .
+unrelev_haircut	i found a haircut i really liked .
+screv_move_in_salon_haircut	my hairstylist called my name and led me back to her barber chair .
+relnscrev_haircut	she wrapped a drape around my shoulders to protect my clothes from hair clippings ,
+screv_talk_haircut_haircut	asking me what i was looking to do with my hair this time .
+screv_talk_haircut_haircut	i pointed out the book i had been looking through and showed her the picture i had found .
+unrelev_haircut	she nodded ,
+screv_other_haircut_haircut	spritzed water on my head with her spray bottle ,
+relnscrev_haircut	then grabbed her comb
+screv_comb_haircut	and started running it through my hair .
+relnscrev_haircut	she then grabbed her scissors and started trimming the length ,
+relnscrev_haircut	parted some hair to one side
+screv_cut_haircut	and clipped that side .
+screv_cut_haircut	then she parted and clipped the other to match ,
+screv_small_talk_haircut	all the while chatting with me about stuff .
+screv_make_hair_style_haircut	a few moments later , she applied a little hair gel and worked it through my hair .
+relnscrev_haircut	pleased with the outcome , she spun me around
+screv_customer_opinion_haircut	so i could see the mirror and asked how i liked my new hairdo .
+screv_customer_opinion_haircut	i loved it
+screv_leave_tip_haircut	so much that i gave her a nice tip
+screv_pay_haircut	when i paid the bill !
+<end_of_story>
+evoking_haircut	yesterday , i went to get a hair cut .
+screv_make_appointment_haircut	i made an appointment with my hairstylist a week prior .
+unrelev_haircut	i was tired of my long hair so i decided it was time for a new hair look .
+unrelev_haircut	even though , i wanted a new hair style , i was still very nervous .
+screv_cut_haircut	cutting hair is a very big change .
+screv_cut_haircut	before she cut my hair ,
+screv_wash_haircut	she washed my hair .
+screv_wash_haircut	after she washed it , she did n't do a big chop .
+screv_cut_haircut	she cut little by little so i wo n't be in utter shock .
+screv_cut_haircut	every time she cut it , i took a deep breath
+relnscrev_haircut	and accepted it .
+unrelev_haircut	after all , hair does grow back eventually .
+relnscrev_haircut	eventually she managed to cut it at the specific length i wanted it .
+screv_make_hair_style_haircut	afterwards , she layered it and styled it properly .
+screv_look_mirror_haircut	at this point , she did n't let me see the final result
+relnscrev_haircut	until she was finished .
+relnscrev_haircut	when she was done ,
+screv_look_mirror_haircut	she turned me over to the mirror
+screv_customer_opinion_haircut	and i was shocked .
+screv_customer_opinion_haircut	it was beautiful .
+screv_customer_opinion_haircut	i loved my new hair cut !
+<end_of_story>
+unrelev_haircut	it all began when i woke up in the morning and noticed the messiest hair i had ever seen in my entire life .
+unrelev_haircut	i looked like a porcupine with its burrs all sticking straight out in every direction .
+unrelev_haircut	there was no way i was going to be seen in public like this .
+unrelev_haircut	i hurried to get ready and wet my head completely to make it seem like it was a normal hairdo .
+screv_get_salon_haircut	i quickly went to the barber shop to get a complete buzz so that i will never have to see that ugly porcupine hair ever again .
+screv_make_hair_style_haircut	the barber quickly buzzes my hair and then blends it together
+relnscrev_haircut	so that it looks normal .
+screv_small_talk_haircut	we talk during the appointment about my life and how my school is .
+unrelev_haircut	she is a very nice lady and we get along quite well .
+relnscrev_haircut	the haircut only costs $ 23
+screv_pay_haircut	but i pay with a $ 23
+screv_leave_tip_haircut	and let her keep the change .
+relnscrev_haircut	i believe everyone who does a good job deserves a tip !
+<end_of_story>
+screv_make_appointment_haircut	i had made an appointment at my favorite salon earlier in the month , with my preferred stylist .
+evoking_haircut	i usually keep on a schedule of getting my hair trimmed up once a month , and this time was no different .
+screv_check_in_haircut	i got inside and informed the girl at the desk who i was and that i already had an appointment .
+screv_wait_haircut	she logged it down and told me that i could have a seat , while my preferred stylist finished up with her previous client .
+unrelev_haircut	i used the time to catch up on some light reading and listening to the radio station that was being played over the speakers in the salon .
+screv_sit_down_haircut	the girl at the desk let me know when i could be seated at my stylist 's station .
+screv_small_talk_haircut	she started to make small talk
+screv_cut_haircut	as she put the cape over my shoulders to catch the trimmed hairs .
+relnscrev_haircut	i told her that i just needed my hair reshaped and she got to work .
+screv_small_talk_haircut	she chats a bit while working and i made polite conversation with her .
+screv_cut_haircut	she snipped away with sharp scissors
+relnscrev_haircut	and used a small comb to part my hair and fix the layers .
+relnscrev_haircut	when she was done ,
+relnscrev_haircut	i told her that it looked great
+screv_customer_opinion_haircut	and that i was very happy with it .
+screv_brush_hair_haircut	she brushed the hair snips off of the cape
+screv_remove_cap_haircut	and removed it .
+relnscrev_haircut	i thanked her and went back to the desk at the front to pay .
+<end_of_story>
+evoking_haircut	a few weeks ago i decided that it was time for me to get a hair cut .
+evoking_haircut	normally it is recommended to get a hair cut every six months , but i had gone quite a bit longer .
+unrelev_haircut	the ends of my hair were splitting , and my bangs were getting longer than i liked them to be .
+screv_get_salon_haircut	i decided to go back to great clips , which is a chain that has a location near where i live .
+relnscrev_haircut	they do not require an appointment ,
+screv_check_in_haircut	although you can check-in online ahead of time , so i decided to walk in .
+screv_get_salon_haircut	i drove to the location and found a parking place easily , and there was only one or two other customers there at the time .
+screv_check_in_haircut	i walked in and gave my name ,
+relnscrev_haircut	and they had a record of what i had done at my previous visits .
+screv_check_in_haircut	the woman who took my name
+screv_talk_haircut_haircut	and i told her that i wanted a shampoo and a hair cut .
+screv_talk_haircut_haircut	she said that she could start right away and led me to a section where i could leave my phone and wallet .
+unrelev_haircut	i put those down ,
+relnscrev_haircut	and followed her over to the chair for the shampoo .
+unrelev_haircut	it was very relaxing
+relnscrev_haircut	and did not take much time .
+screv_move_in_salon_haircut	we then went back to her section
+relnscrev_haircut	and she asked what i wanted done .
+screv_cut_haircut	i explained i just wanted about an inch taken off of most of my hair , but my bangs to be cut so they were more above my eyes again .
+screv_small_talk_haircut	we did n't really talk much
+screv_cut_haircut	while she was cutting my hair ,
+relnscrev_haircut	and it took her less than ten minutes .
+screv_dry_haircut	i did not want my hair blow dried ,
+relnscrev_haircut	so she left it wet .
+screv_pay_haircut	i went back to the front of the shop with her to pay , and i also made sure to leave her a tip .
+screv_leave_haircut	i left the shop
+screv_customer_opinion_haircut	and was very pleased with my hair cut .
+<end_of_story>
+relnscrev_haircut	last week , i decided that i wanted to try a new hairstyle and decided to get a haircut .
+unrelev_haircut	i called my salon and made an appointment for monday .
+unrelev_haircut	my salon is one of several stores in the chicago area .
+unrelev_haircut	it is located in a busy shopping area and has a modern and edgy feel .
+screv_get_salon_haircut	before going to the salon , i found a couple pictures online of haircuts that i liked .
+relnscrev_haircut	i saved them on my iphone to show my stylist .
+screv_get_salon_haircut	i drove to the salon
+screv_enter_haircut	and went inside .
+screv_move_in_salon_haircut	my stylist greeted me and took me to her chair .
+screv_talk_haircut_haircut	we talked about the type of haircut i wanted ,
+relnscrev_haircut	and i showed her the pictures on my phone .
+screv_move_in_salon_haircut	she then took me to get my hair washed .
+screv_move_in_salon_haircut	we went back to her chair .
+screv_put_on_cape_haircut	she put a cape around my neck .
+screv_other_haircut_haircut	she sectioned off pieces of my hair
+screv_cut_haircut	and began cutting it .
+unrelev_haircut	once my haircut was finished ,
+relnscrev_haircut	she used a blowdryer
+screv_make_hair_style_haircut	and a curling iron to style my hair .
+screv_leave_tip_haircut	i paid the bill and left my stylist a tip .
+screv_leave_haircut	finally , i left the salon .
+unrelev_haircut	i will go back to the salon in three months .
+<end_of_story>
+evoking_haircut	a couple of days ago i decided my hair was getting a little to long , so i went to get my hair cut .
+screv_get_salon_haircut	i go to an old-fashioned barber , not a hair salon ,
+screv_make_appointment_haircut	so i did n't need to make an appointment .
+screv_get_salon_haircut	i just drove there , parked and walked in the door .
+unrelev_haircut	there was only one person ahead of me ,
+screv_wait_haircut	so i did n't have to wait too long .
+relnscrev_haircut	i read a magazine while he finished the other person ,
+screv_sit_down_haircut	then got into the chair .
+screv_talk_haircut_haircut	as usual , he asked how i wanted it cut and i told him to do it the same way as always .
+unrelev_haircut	maybe someday i 'll surprise him and ask for a mohawk or something , but not today .
+relnscrev_haircut	he went to work with the scissors
+screv_small_talk_haircut	while we talked a little about sports teams .
+relnscrev_haircut	it did n't take too long before he was done with the cutting and used the electric trimmer to make everything neat .
+relnscrev_haircut	i go to an old enough barber that he actually finishes up with a hot towel and neck massage , which is always nice .
+screv_leave_haircut	i paid him and headed home a lot neater looking then i was before .
+<end_of_story>
+unrelev_haircut	my sons todd 's hair seemed to grow at an exceptionally fast rate compared to other four year olds .
+evoking_haircut	it seemed as if every single week he needed a hair cut .
+unrelev_haircut	he would fret every time he knew we were going and even threw tantrums .
+screv_get_salon_haircut	but once we get there things seemed to be smoother with him .
+relnscrev_haircut	we would grab a seat and wait for our favorite barber to get an opening .
+screv_sit_down_haircut	as soon as he did todd would run up to him and sit in the chair knowing he would get ice cream if he sat still .
+screv_put_on_cape_haircut	the barber draped a piece of plastic around todd 's shoulder
+relnscrev_haircut	so that hair would n't get on his clothes .
+unrelev_haircut	the sound of the hair clippers tiny motor always had my boy on edge but he always sticks it out like a champ .
+screv_leave_haircut	fifteen minutes later a brand new child walks out of the barber shop ;
+relnscrev_haircut	clean shaven and ready for a cool yummy treat .
+<end_of_story>
+evoking_haircut	i have the luxury of having a hairdresser for a mother , but if you were interested in getting a haircut you are in luck as it is quite a simple process !
+screv_get_salon_haircut	if you have short hair like me feel free to frequent a local chain establishment
+relnscrev_haircut	as they do just as good of a job as the luxury salons .
+unrelev_haircut	a place like cost cutter or supercuts will work just fine .
+relnscrev_haircut	generally you can show up without any announcement
+screv_wait_haircut	and will only have to wait for a short period of time .
+screv_check_in_haircut	make sure to sign in when you get there .
+screv_sit_down_haircut	once you are called up sit in the chair
+screv_talk_haircut_haircut	and explain the details of your haircut to your hair dresser .
+relnscrev_haircut	sometimes it helps if you bring a picture along with you .
+screv_pay_haircut	the haircut should be relatively quick if you have short hair , and then all you need to do is pay .
+screv_leave_tip_haircut	it is suggested that you tip the hair dresser for your haircut .
+unrelev_haircut	after this is done make sure to go to a public setting or over a friends house to see if they notice the new do !
+<end_of_story>
+screv_get_salon_haircut	i head to the beauty salon where my sister works as a hair dresser so i can get a hair cut .
+screv_make_appointment_haircut	she always knows when i am coming so i never have to wait in line .
+screv_sit_down_haircut	i sit down in the chair
+screv_talk_haircut_haircut	and say '' `` the usual .
+unrelev_haircut	'' '' and she gets right to work .
+screv_cut_haircut	she cuts the sides first
+screv_talk_haircut_haircut	and asks if i want to do something different with the top of my head
+screv_talk_haircut_haircut	but i always decline and like to keep my normal hair cut .
+screv_dry_haircut	when she 's all done cutting she blow drys the hair off of me .
+screv_wash_haircut	when that 's done i walk over to the sink to get my hair washed because there is a lot of little hair pieces that might get in my clothes and make me itchy .
+screv_dry_haircut	she shampoos and conditions my hair then dries my hair with a towel .
+screv_pay_haircut	i never have to pay full price
+screv_leave_tip_haircut	so i give my sister a nice tip on the side .
+evoking_haircut	getting my hair cut is always fun .
+<end_of_story>
+evoking_haircut	i went to my hairdresser a few weeks ago for a hair cut .
+relnscrev_haircut	my appointment was at 3:15 ,
+screv_enter_haircut	so i arrived at about 3:10 .
+screv_enter_haircut	when i got there ,
+relnscrev_haircut	kayla -lrb- my hairdresser -rrb- was still finishing up with her last appointment .
+screv_wait_haircut	so i sat in the waiting area .
+screv_wait_haircut	the attendant at the desk offered me water or coffee , but i said no thank you .
+relnscrev_haircut	when kayla was done with her last appointment ,
+screv_get_called_haircut	she called me in
+screv_sit_down_haircut	and i sat down in the swivel chair in front of the mirror at her station .
+screv_talk_haircut_haircut	she asked what i wanted done with my hair , and i showed her about how short i wanted it to be , a little shorter than usual .
+screv_talk_haircut_haircut	she noticed that my hair did seem to have grown a lot since the last time i was in .
+screv_move_in_salon_haircut	we went to a back room where there are sinks for washing hair .
+screv_sit_down_haircut	i sat down in front of the sink kayla told me to sit at , then i leaned back to put my head in the sink ,
+screv_wash_haircut	and kayla washed my hair and conditioned it .
+screv_put_towel_haircut	then she put a towel on my hair
+screv_sit_down_haircut	and we went back to her chair ,
+screv_cut_haircut	where she cut my hair .
+screv_cut_haircut	while she was cutting my hair ,
+screv_small_talk_haircut	we talked about a lot of things .
+unrelev_haircut	kayla has a young son
+screv_small_talk_haircut	so i asked about him .
+screv_small_talk_haircut	i also ended up talking to a woman who was getting her hair cut next to me .
+unrelev_haircut	the time flew ,
+screv_make_hair_style_haircut	and then kayla used the blow dryer to dry my hair and curled it with a flat iron and put hair spray on it .
+screv_customer_opinion_haircut	i was very happy with my hair cut .
+screv_pay_haircut	i paid at the front desk and made sure to leave kayla a tip ,
+screv_leave_haircut	and then i went home .
+<end_of_story>
+evoking_haircut	i had n't gone for a hair cut in about 23 weeks so i was certainly due .
+unrelev_haircut	the hair around the side of my head was starting to grow over my ears .
+screv_get_salon_haircut	i generally go the same hairdresser
+screv_check_in_haircut	and ask for the same person , sue who is very good at her job and is quite pleasant .
+screv_make_appointment_haircut	so i make an appointment with sue for the following saturday morning .
+screv_enter_haircut	when i arrived the place was rather full with customers , seemingly more woman than men .
+screv_dry_haircut	several people were covered with the big hair drying bag over their head which makes me giggle .
+screv_move_in_salon_haircut	i was told to go right in the back where the men 's area is located and sat down for my hair cut .
+screv_sit_down_haircut	after having my hair washed by a helper i was soon seated at sue 's chair
+screv_small_talk_haircut	and enjoyed our usual small talk
+screv_cut_haircut	while she cut my hair .
+screv_small_talk_haircut	we discussed recent weekend getaways and holiday family gatherings .
+screv_leave_tip_haircut	after she was done i gave her my usual tip
+screv_leave_haircut	and was on my way .
+<end_of_story>
+evoking_haircut	getting a hair cut is not always fun but it has to be done regularly if you want to control your hair and not look shaggy and mangy .
+relnscrev_haircut	first pick a good barber or stylist that you think does a good job and stick with them .
+relnscrev_haircut	in time they will get to know your hair
+relnscrev_haircut	and needs and will consistantly cut your hair to your liking .
+relnscrev_haircut	do n't be afraid to look at pictures of models or whatever to see styles you like and then ask the stylist to try to cut your hair like that .
+screv_sit_down_haircut	and always sit still
+relnscrev_haircut	so as they cut your hair they dont slip and mess up a cut .
+screv_look_mirror_haircut	then let them show your full cut from front to back with a mirror you hold up and look into the other mirror .
+screv_remove_cap_haircut	after they take your hair cover thing
+screv_pay_haircut	then give them their money and a few extra dollars for a tip .
+<end_of_story>
+unrelev_haircut	as i was getting ready for work this morning , i noticed in the mirror that my hair was getting a bit longer than i 'd like .
+evoking_haircut	i resolved to go get a haircut after work .
+unrelev_haircut	while i was at work ,
+relnscrev_haircut	i researched salons .
+unrelev_haircut	i decided on one while i was at lunch ,
+screv_make_appointment_haircut	and called to make an appointment for 23 pm .
+screv_get_salon_haircut	i got there about 23 minutes early ,
+screv_make_appointment_haircut	and informed the receptionist that i had an appointment .
+screv_wait_haircut	she welcomed me and asked me to have a seat .
+screv_wait_haircut	i saw and perused a few magazines and hairstyle books while i waited ,
+relnscrev_haircut	and actually found a style i liked more than what i had already had in mind .
+relnscrev_haircut	once the stylist was done with her previous client , she came to greet me .
+relnscrev_haircut	she asked what i wanted and i presented the picture i found .
+screv_talk_haircut_haircut	she said that was no problem ,
+screv_sit_down_haircut	and took me back to the styling chair .
+screv_put_on_cape_haircut	she washed and conditioned my hair and put a cape on me .
+screv_talk_haircut_haircut	she confirmed with me again what i wanted , and set off to cutting .
+relnscrev_haircut	i sat as tiny bits of hair fell all around me .
+relnscrev_haircut	once she was done ,
+screv_make_hair_style_haircut	she blow dried and styled my hair .
+unrelev_haircut	it looked just like the picture .
+evoking_haircut	that 's how i got a hair cut .
+<end_of_story>
+evoking_haircut	it has been six months since i got my hair cut .
+screv_cut_haircut	i usually get it cut really short
+relnscrev_haircut	and let it grow out to be shaggy .
+screv_get_salon_haircut	i usually just go to whichever local salon is closest , and i do n't have a regular person who usually cuts my hair .
+screv_get_salon_haircut	i only like to spend about $ 23 each time i go .
+relnscrev_haircut	today , i decided get a faded haircut .
+screv_pay_haircut	the nearest place only charges $ 23 ,
+screv_customer_opinion_haircut	so i was pleased with that .
+relnscrev_haircut	the lady who helped me was named sarah ,
+screv_small_talk_haircut	and she talked a lot about the weather and how much she wanted to be outside .
+screv_small_talk_haircut	she also asked me a lot about my job , and it turns out her husband also works where i work .
+relnscrev_haircut	the haircut took about 23 minutes and she did a pretty good job .
+screv_cut_haircut	it 's just the right length and she cut the back of my hair the way i like most .
+screv_pay_haircut	i paid her $ 23
+screv_leave_tip_haircut	and tipped her $ 23 .
+screv_customer_opinion_haircut	i left completely satisfied .
+<end_of_story>
+evoking_haircut	everytime i get my haircut , i have terrible anxiety .
+relnscrev_haircut	i got a really really bad haircut once and never got over it .
+evoking_haircut	when i get a haircut ,
+relnscrev_haircut	first i research different haircuts and styles that i might like and compile a bunch that i like .
+screv_make_appointment_haircut	then i make my appointment with a trusted hairstylist .
+screv_get_salon_haircut	the day of i drive to the hair salon
+screv_check_in_haircut	and give my name .
+screv_wait_haircut	i wait while for a bit
+screv_wash_haircut	and then they bring me to the back to wash my hair .
+unrelev_haircut	once done , i see the hair stylist
+screv_talk_haircut_haircut	and i show her my pictures .
+screv_wash_haircut	while she brushes out my washed hair , we make a decision as to what cut and style will look best on me .
+screv_cut_haircut	then she gets to cutting my hair .
+screv_cut_haircut	once she is done cutting ,
+screv_customer_opinion_haircut	she dries and styles my hair and checks that it is to my liking .
+relnscrev_haircut	small change are made ,
+screv_leave_tip_haircut	and then i tip her ,
+screv_pay_haircut	pay my bill ,
+screv_leave_haircut	and go home .
+<end_of_story>
+evoking_haircut	i needed a hair cut one day .
+relnscrev_haircut	it had been quite a while since my last cut , and the ends of my hair were starting to look uneven and ragged .
+unrelev_haircut	while i was driving one day , i found a sign for a haircut for only $ 23 .
+unrelev_haircut	what a great deal ! i decided to go ahead and stop in for a quick trim .
+screv_check_in_haircut	i went inside and signed my name on the waiting list .
+screv_wait_haircut	i found a chair to sit in and looked around .
+unrelev_haircut	there were a lot of people there !
+unrelev_haircut	it must have been because of the great deal on the hair cut .
+unrelev_haircut	because it was busy ,
+screv_wait_haircut	i had to wait a while ,
+screv_get_called_haircut	but eventually my name was called .
+screv_cut_haircut	i told the beautician i had my hair cut not that long before and just wanted my ends to be cleaned up so my hair looked better .
+screv_put_on_cape_haircut	she put a cape around my shoulders
+screv_wash_haircut	and took me to wash my hair .
+screv_wash_haircut	after washing my hair ,
+screv_cut_haircut	she cut off a half of an inch
+screv_dry_haircut	and used a blow dryer .
+screv_pay_haircut	i paid for my haircut ,
+screv_leave_tip_haircut	left a tip for the beautician ,
+screv_leave_haircut	and left the salon feeling light and beautiful .
+<end_of_story>
+screv_get_salon_haircut	last month i went to shag to get a haircut from my stylist , bridgit .
+unrelev_haircut	i like to have short hair
+screv_talk_haircut_haircut	so i told her she could do whatever she wanted to my hair .
+screv_cut_haircut	she shaved the sides and back and cut the top very close , then used thinning shears to thin out the top of my hair .
+screv_cut_haircut	after she was done cutting my hair ,
+relnscrev_haircut	she led me to the hair washing station to get all the loose hairs off .
+screv_sit_down_haircut	she washed and conditioned my hair then took me back to her chair .
+screv_make_hair_style_haircut	she used a blow dryer to dry my hair and put product in to make it look shiny and stay in place .
+screv_make_hair_style_haircut	she gave me advice on how to best style it and then finished my hair with some hairspray .
+relnscrev_haircut	when she was done we went to the cash register
+screv_pay_haircut	so she could ring me up .
+screv_leave_tip_haircut	i paid in cash and left a large tip
+screv_customer_opinion_haircut	because i liked the haircut a lot .
+screv_leave_haircut	i then left the salon .
+<end_of_story>

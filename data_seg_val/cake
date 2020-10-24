@@ -1,0 +1,74 @@
+evoking_cake	baking a cake begins with a good recipe that you want to use .
+screv_get_ingredients_cake	follow the recipe to get all the ingredients at the store .
+unrelev_cake	assuming you have all the ingredients ,
+screv_get_utensils_cake	you will also need to acquire all the tools necessary to bake the cake .
+unrelev_cake	this usually includes measuring cups , mixing bowls , and the actual mixer .
+screv_other_cake_cake	you will then follow the recipe to measure out the ingredients in the exact proportions that the recipe calls for .
+screv_other_cake_cake	this has to be done very accurately else the cake will not bake properly .
+screv_make_dough_cake	once all the ingredients in the mixing bowl , use the mixer to mix all the ingredients into a nice batter .
+screv_make_dough_cake	be sure to mix until all the lumps are gone .
+screv_preheat_cake	next pre-heat the over to the temperature the recipe calls for .
+screv_pour_dough_cake	once the oven is pre-heated you can pour the cake batter into a cake pan
+screv_put_cake_oven_cake	and then put the cake pan into the over .
+screv_wait_cake	set the timer for however long the cake is supposed to bake for and be ready to take out the cake
+relnscrev_cake	when the timer is done .
+screv_take_out_oven_cake	be careful when taking the cake out of the oven as the cake and the over will be extremely hot .
+screv_cool_down_cake	once the cake cools ,
+screv_decorate_cake	you can decorate the cake with icing and other toppings for an enjoyable treat !
+<end_of_story>
+evoking_cake	baking a cake can be a lot of fun .
+screv_eat_cake	plus , at the end , you have a yummy cake to eat !
+evoking_cake	first , decide what kind of cake to make .
+unrelev_cake	do you have a recipe written down ?
+evoking_cake	a recipe is a set of instructions for making a particular cake .
+relnscrev_cake	make sure to read the recipe all the way through before you start , so there are no surprises !
+screv_get_ingredients_cake	then gather all your ingredients together : flour , sugar , eggs , and whatever else your recipe says .
+screv_preheat_cake	next , you need to pre-heat the oven .
+unrelev_cake	your recipe will tell you what temperature to use .
+screv_preheat_cake	while the oven heats up ,
+screv_make_dough_cake	you mix your ingredients in a big bowl .
+screv_grease_cake_tin_cake	next , you need to prepare the baking pans .
+relnscrev_cake	look again at the recipe .
+unrelev_cake	it will tell you what size pan to use ,
+screv_grease_cake_tin_cake	and whether it needs to be greased .
+screv_grease_cake_tin_cake	to grease a pan means to put a thin layer of shortening or butter on the bottom and sides , so the cake wo n't stick .
+unrelev_cake	you 'll use two pans
+evoking_cake	if you 're making a layered cake .
+unrelev_cake	when the pan or pans are ready ,
+screv_make_dough_cake	pour in the well-mixed ingredients .
+relnscrev_cake	check if the oven is hot enough -- has it reached the temperature you set it to yet ?
+screv_put_cake_oven_cake	if so , slide your pan right into the middle of the oven , and close it up .
+screv_wait_cake	the recipe will say how many minutes it will take for the cake to bake .
+screv_set_time_cake	it 's a good idea to set a timer , because you do n't want to forget about it , and have a burnt cake , after all your hard work !
+screv_wait_cake	while the cake cooks ,
+relnscrev_cake	it 's a good idea to clean up the kitchen .
+unrelev_cake	you 're almost there !
+relnscrev_cake	when your timer goes off ,
+screv_check_cake	you can check if the cake is done by sticking a toothpick into the middle .
+screv_check_cake	if the toothpick comes out dry , and not gooey , your cake is done .
+screv_turn_off_oven_cake	turn off the oven ,
+screv_take_out_oven_cake	and carefully remove the hot cake with oven mitts on .
+unrelev_cake	unfortunately , now you have to leave it alone
+screv_cool_down_cake	until it cools .
+screv_cool_down_cake	when it 's cooled ,
+screv_take_out_cake_tin_cake	turn it out of the pan ,
+screv_decorate_cake	and put the frosting on , if your cake is a frosted cake .
+screv_eat_cake	next is the best part : slice that cake into eight , put a slice on a plate , and enjoy !
+<end_of_story>
+evoking_cake	i love baking cakes .
+evoking_cake	that is why yesterday , i took it upon myself to bake the most delicious chocolate cherry cake the world has ever seen or tasted .
+unrelev_cake	it is called red velvet .
+screv_get_ingredients_cake	so , first i went to the grocery store in the next town to get the necessary ingredients : flour , sugar , baking powder , yeast , artificial colors , butter , fake cherries , eggs and chocolate .
+unrelev_cake	then , i drove my car home
+screv_other_cake_cake	and spread out all the ingredients on the kitchen table .
+unrelev_cake	i pulled out my baking book
+screv_choose_recipe_cake	and found the recipe to the cake i wanted to cook .
+screv_prepare_ingredients_cake	i mixed the dry ingredients in one bowl
+screv_other_cake_cake	and set them aside .
+screv_add_ingredients_cake	then , i took all the eggs
+screv_prepare_ingredients_cake	and liquid ingredients and blended them in another bowl .
+screv_make_dough_cake	then i took both bowls and blended the ingredients .
+screv_preheat_cake	then i preheated the oven to 23 degrees ,
+relnscrev_cake	and put the mixture in a glass pan with a buttered bottom .
+relnscrev_cake	then i baked it .
+<end_of_story>

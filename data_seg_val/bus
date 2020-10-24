@@ -1,0 +1,60 @@
+evoking_bus	to get to work everyday i take the bus .
+relnscrev_bus	i always get to the bus stop early to wait for it to arrive .
+screv_get_ticket_bus	once it comes i board and swipe my metro card to pay .
+relnscrev_bus	if i do n't have my card i have to feed money into the machine which always stressed me out for some reason .
+screv_find_place_bus	then i choose a seat if one is available .
+screv_spend_time_bus_bus	if not i stand .
+screv_other_bus_bus	if i see someone who is elderly or pregnant i always give them my seat .
+unrelev_bus	sometimes crazy people are on the bus as well .
+unrelev_bus	there is nothing to be done but avoid them and hope they do n't bother you .
+screv_other_bus_bus	the bus stops and starts a lot
+screv_get_off_bus	and passenger board and depart .
+screv_press_stop_button_bus	when i get to my stop i pull the cord at the top of the bus so the driver knows to stop .
+screv_get_off_bus	once we stop i depart the bus and continue on my journey .
+<end_of_story>
+evoking_bus	yesterday i rode the bus to work , because my car had broken down .
+screv_bus_comes_bus	the night before i used the internet to find out what time the bus would be arriving at the stop nearest my house , and made plans to leave the house early so i could be at the bus stop on time .
+screv_get_bus_stop_bus	i made sure to leave a bit earlier than i thought would be necessary , just in case something came up that might make me late .
+screv_get_bus_stop_bus	when i arrived at the bus stop ,
+screv_bus_comes_bus	i sat down on the bench and waited for the bus to arrive .
+relnscrev_bus	it was right on time !
+screv_door_opens_bus	the doors to the bus opened ,
+relnscrev_bus	and i asked the lady behind the wheel how much an all day pass was .
+relnscrev_bus	she told me it would be $ 23 ,
+relnscrev_bus	so i took some money out of my wallet
+screv_get_ticket_bus	and placed it into the collection tray .
+relnscrev_bus	i then walked to the back of the bus
+screv_find_place_bus	and picked a seat that looked comfortable .
+screv_find_place_bus	after everyone else had sat down , the bus began to move .
+screv_bus_stops_bus	when i saw that i was getting close to work ,
+screv_press_stop_button_bus	i grabbed the yellow cord above my head and pulled , which caused a light to flash and a bell to ring , signalling the bus driver that i wanted to get off at the next stop .
+screv_bus_stops_bus	the bus then pulled over at the next stop ,
+screv_get_off_bus	and i thanked the driver and got off .
+<end_of_story>
+evoking_bus	yesterday i rode the bus to school .
+relnscrev_bus	the bus i get is the number 23 .
+relnscrev_bus	it costs 23 cent when i am in my school uniform .
+unrelev_bus	i asked my parents for 23 cent and they gave it to me .
+screv_get_bus_stop_bus	i then made my way to the bus stop .
+unrelev_bus	the bus stop is about a 23 minute walk from my house .
+unrelev_bus	on my way to the bus stop i counted the money my parents gave me .
+screv_wait_bus	when i got to the bus stop i waited for five minutes
+screv_bus_comes_bus	and then the bus arrived .
+screv_board_bus_bus	the bus doors opened and i got on the bus .
+relnscrev_bus	i said hello to the bus driver and told him where i wanted to go .
+screv_get_ticket_bus	i then put the 23 cent on the counter .
+screv_get_ticket_bus	the bus man took the money and gave me a ticket .
+screv_get_ticket_bus	i took the ticket from him
+screv_find_place_bus	and walked towards the seats .
+screv_spend_time_bus_bus	i sat near the front beside my friend laura .
+relnscrev_bus	she gets the bus with me every day .
+unrelev_bus	i put my schoolbag on the ground .
+screv_spend_time_bus_bus	we talked about what we had done the night before .
+screv_ride_bus	the journey to school lasts about 23 minutes .
+relnscrev_bus	after 23 minutes i heard the name of my destination being announced .
+unrelev_bus	i picked my bag up off the ground
+screv_go_exit_bus	and walked towards the exit doors .
+relnscrev_bus	i thanked the bus driver
+screv_get_off_bus	as i got off the bus .
+relnscrev_bus	he wished me a nice day .
+<end_of_story>

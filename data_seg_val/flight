@@ -1,0 +1,37 @@
+unrelev_flight	i made sure i had my ticket in advance
+relnscrev_flight	and checked to make sure my flight was not canceled .
+screv_pack_luggage_flight	i had pre-packed what i needed and doubled checked the list to make sure that all my items were approved .
+screv_get_airport_flight	then , i arrived at the airport about one and a half hours early .
+screv_go_security_checks_flight	i made sure to go through security first , since there were long lines for that .
+screv_go_security_checks_flight	i had to take off my shoes and put my bags through an x-ray .
+unrelev_flight	after i was done ,
+screv_check_luggage_flight	i put my luggage in the correct area
+relnscrev_flight	so it could be loaded on the plane .
+screv_wait_boarding_flight	i waited until my plane was ready to board and showed the flight attendant my boarding pass .
+relnscrev_flight	i stayed quietly on the plane and made sure i was in my assigned seat .
+unrelev_flight	it can be crowded and boring ,
+screv_spend_time_flight_flight	so i read my book on the flight .
+screv_listen_crew_flight	i made sure to listen to the flight attendants when they had an announcement to make .
+<end_of_story>
+screv_get_airport_flight	i arrived at the airport with my luggage , identification , boarding pass , and some spare cash .
+screv_go_check_in_flight	i went up to the front desk
+relnscrev_flight	and asked if my flight was currently on time , and it was .
+screv_wait_boarding_flight	i waited in the lobby for a few minutes
+screv_board_plane_flight	until they announced that the plane was now boarding for my flight to california .
+unrelev_flight	i got up with my luggage
+screv_find_terminal_flight	and belongings and walked towards the terminal .
+screv_present_boarding_pass_flight	a worker scanned my boarding pass with a special scanner ,
+relnscrev_flight	and i then took off my shoes and set them in a bin that a worker handed me , along with my carry-on luggage .
+screv_check_luggage_flight	i set my big suitcase onto a cart where it would be taken onto the plane as cargo .
+screv_go_security_checks_flight	i walked through a body scanner manned by security guards
+screv_go_security_checks_flight	and passed through it without a problem .
+relnscrev_flight	then , i got my carry-on luggage and shoes back and put them on .
+screv_get_plane_flight	i walked through a tunnel onto the airplane
+screv_take_seat_flight	and sat down .
+screv_listen_crew_flight	i listened to the instructions that were said over a speaker
+screv_take_off_flight	and the plane took off after a long wait .
+screv_spend_time_flight_flight	then , i listened to music on my smartphone and fell asleep for the full four hour flight .
+screv_spend_time_flight_flight	when i woke up ,
+screv_spend_time_flight_flight	the plane was landing and i looked out my window and saw california .
+unclear_flight	we had made it safely to our destination .
+<end_of_story>

@@ -1,0 +1,45 @@
+evoking_train	i taking a train today from boston , massachusetts to new york city , new york .
+screv_get_train_station_train	when i arrive at the station , i see an automated machine that lets me purchase my ticket .
+relnscrev_train	i enter the necessary information about my travel
+screv_get_tickets_train	and my credit card information and it dispenses a ticket to me .
+screv_train_departs_train	i see that my train is leaving from track 23 .
+relnscrev_train	i follow the signs above me that show the directions to all of the track locations .
+screv_train_arrives_train	the train pulls up about 23 minutes later .
+screv_get_on_train	i board the train .
+unrelev_train	there are n't too many empty seats
+screv_find_place_train	but i find a nice one next to the window .
+screv_train_departs_train	the train slowly pulls out of the station .
+screv_conductor_checks_train	about 23 minutes into the journey , a conductor comes by and asks to see my ticket .
+screv_conductor_checks_train	i show it to him and he punches a hole in it .
+screv_conductor_checks_train	he then rips off part of it
+relnscrev_train	and places the ripped part into a special see through pocket in my seat .
+screv_get_tickets_train	this is so he knows that i have paid my fare to ride the train .
+unrelev_train	it 's about a three hour train ride
+screv_spend_time_train_train	so i get up and wander a few cars down to the food train .
+screv_spend_time_train_train	i purchase a coffee
+relnscrev_train	and donut and bring them back to my designated seat .
+screv_spend_time_train_train	i 'm happy to say that there is free wi-fi on the train so i 'm able to surf the web while riding the train .
+screv_get_off_train	we make a few stops along the way to new york to pick up more passengers and let others off .
+relnscrev_train	the three hours pass quickly
+screv_get_off_train	and soon i 'm disembarking the train to enjoy a day in the city .
+<end_of_story>
+screv_get_train_station_train	this morning i arrived at the train station to take a train to my sisters house in texas .
+relnscrev_train	i had pre-purchased my ticket for the amtrak train leaving a 23 am .
+screv_get_train_station_train	so i arrived around 23 minute before hand to check in and get to the platform in time to get my train .
+relnscrev_train	this was the first time have taken a long distance train and figured it would be similar to the local city trains i take to work each day .
+screv_find_place_train	as the train boards i found my correct car and seat .
+unrelev_train	i entered the car and saw how much nicer these trains are compared to the local one .
+unrelev_train	the seats were similar to seats on a tour coach , and was actually quite nice inside .
+screv_spend_time_train_train	i brought a book along to read and help pass the time .
+unrelev_train	i settled in my seat and a nice elderly woman sat down next to me ,
+screv_spend_time_train_train	we exchanged pleasantries and she puled out a blanket she was crocheting for her grandson .
+unrelev_train	i was fascinated with her work and she started to teach me
+screv_train_departs_train	as the train pulled away from the platform .
+screv_spend_time_train_train	she spent most of the trip working on the blanket as i watched .
+unrelev_train	eight hours later , it seemed like much less ,
+screv_arrive_destination_train	the train pulled into the station and it was time for me to get off .
+unrelev_train	i said good bye to the woman and thanked her for teaching me what she had .
+unrelev_train	she went back to her work
+screv_get_off_train	as i got off the train .
+relnscrev_train	my sister was waiting on the platform for me and we got into her car and headed to the nearest craft store to purchase crocheting supplies .
+<end_of_story>

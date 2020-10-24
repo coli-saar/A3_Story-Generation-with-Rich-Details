@@ -1,0 +1,1623 @@
+evoking_bus	'' i wanted to go shopping downtown , so i decided to take the public bus .
+screv_wait_bus	i waited at the bus stop where other people were also waiting .
+screv_bus_comes_bus	the bus came right on time
+screv_other_bus_bus	and pulled over to the curb .
+relnscrev_bus	i waited for the people getting off the bus to step down .
+screv_wait_bus	then i waited in line
+screv_board_bus_bus	as each person got on .
+screv_board_bus_bus	when it was my turn i stepped up the few steps into front of the bus .
+screv_get_ticket_bus	i swiped my bus card to pay , smiled at the driver ,
+screv_find_place_bus	and chose a seat .
+relnscrev_bus	the bus was a little crowded , so i stood and held onto the bar .
+screv_board_bus_bus	an elderly woman got on the bus next , and a younger person got up to give her his seat .
+unrelev_bus	when everyone was on ,
+screv_other_bus_bus	the bus put on his turn signal
+screv_bus_leaves_bus	and pulled back into the street .
+unrelev_bus	as i got closer to my stop ,
+screv_press_stop_button_bus	i pulled the cord .
+screv_other_bus_bus	the cord dinged to signal that i wanted to get off .
+screv_bus_stops_bus	the bus pulled into the stop
+screv_board_bus_bus	where other people were waiting to get on .
+screv_board_bus_bus	they waited until i got off before boarding .
+<end_of_story>
+unrelev_bus	i live near blacksburg , virginia and often stay with friends who live near virginia tech .
+evoking_bus	a bus route stops at their apartment complex
+evoking_bus	and we often ride it downtown to eat brunch after a late night .
+unrelev_bus	nothing unusual ever happens .
+screv_get_bus_stop_bus	we get ready and go to the bus stop .
+unrelev_bus	there 's a bench and it 's covered but there 's no doors .
+screv_bus_comes_bus	the bus is always on time
+screv_board_bus_bus	and we hop on .
+relnscrev_bus	it 's never crowded so we can always find a seat .
+screv_board_bus_bus	the varying bus drivers are nice and we hop on ,
+screv_get_ticket_bus	pay ,
+screv_find_place_bus	and take our seats .
+relnscrev_bus	the ride downtown takes about 23 minutes because of other stops .
+unrelev_bus	no other passengers ever talk to each other and honestly groups of friends from different races stick together .
+relnscrev_bus	being near a college such as virginia tech makes for a very diverse area where different cultures intermingle but the bus seems to have the most obviously segregated groups .
+screv_ride_bus	we get to our stop and enjoy brunch .
+screv_ride_bus	i like riding the bus because of the convenience factor , no parking , and it feels like we are doing something to help the environment .
+<end_of_story>
+unrelev_bus	last saturday , i decided to visit a friend in the hospital .
+unrelev_bus	i own a car , but it 's been acting up lately ,
+evoking_bus	so i needed to take the bus .
+unrelev_bus	i set out from my apartment with a spring in my step , because it was an amazing day .
+screv_get_bus_stop_bus	i walked through my apartment complex 's parking lot to reach the bus stop ,
+screv_wait_bus	where i waited for the bus around 23 minutes .
+screv_bus_comes_bus	when it came to a stop in front of me ,
+screv_get_ticket_bus	i boarded and put a $ 23 bill and 23 quarters in the fare machine .
+screv_find_place_bus	i selected a seat near the entrance ,
+relnscrev_bus	because it has more space and fewer people .
+relnscrev_bus	riding the bus often gives me motion sickness , so i closed my eyes and tried to ignore the swaying motion as it rolled down the street .
+unrelev_bus	behind me , two college students were eagerly discussing a class project .
+unrelev_bus	in the very back , a small child was loudly pretending to be a dinosaur .
+unrelev_bus	i was glad
+screv_other_bus_bus	when i finally reached my destination .
+relnscrev_bus	i pulled the cord signaling that i would need the bus to stop next to the hospital ,
+screv_get_off_bus	and got up to exit out the bus 's side door .
+unrelev_bus	fresh air never smelled so good !
+<end_of_story>
+unrelev_bus	my husband and i decided we 'd go down to owning just one car in the fall of 23 .
+unrelev_bus	i was not going to be working away from home during 23 so we thought we could share and most of the time that went pretty well , but there were times
+evoking_bus	when i had to take the bus .
+unrelev_bus	i knew i needed to get from a final day of teaching , for example , at the university to downtown to meet up with my husband .
+screv_other_bus_bus	i checked the bus schedules online and determined i needed to take the number 7 bus .
+screv_other_bus_bus	i plotted this out on my phone as well so i 'd know the time for sure .
+screv_wait_bus	i walked across campus and waited at the stop .
+screv_wait_bus	i had to wait about 23 minutes
+screv_bus_comes_bus	before the bus came .
+screv_get_ticket_bus	since this was just one trip i had cash that i put into the bus meter
+screv_find_place_bus	and found a seat .
+screv_bus_stops_bus	the bus made a lot of stops on its way to downtown
+relnscrev_bus	and i did n't take it as far as i could have to meet up with my husband .
+screv_get_off_bus	instead i got off at an earlier stop once i recognized the area and walked .
+unrelev_bus	it was a regular stop
+relnscrev_bus	so i did n't have to pull the cord to ask the driver to let me off .
+<end_of_story>
+unrelev_bus	i needed to get to the craft store , there was a sale !
+unrelev_bus	unfortunately , husband had the car and he would be gone a while .
+evoking_bus	i decided to take the bus .
+relnscrev_bus	i made sure i had a couple dollars for the fare
+screv_get_bus_stop_bus	and walked to the bus stop .
+screv_wait_bus	i waited about ten minutes ,
+screv_bus_comes_bus	then the bus came around the corner and stopped at the bench i was sitting .
+screv_get_off_bus	a few people got off the bus
+screv_board_bus_bus	and i stepped through the doors onto the bus .
+unrelev_bus	i smiled at the bus driver
+screv_get_ticket_bus	and put the money into the machine to pay for my ride .
+screv_find_place_bus	i took a seat at an open place
+screv_spend_time_bus_bus	and looked out the window .
+unrelev_bus	the store i was going to was only a few stops away and when i saw we were close ,
+relnscrev_bus	i pulled the cord to signal to the driver i was ready to get off .
+screv_bus_stops_bus	he stopped at the shopping center
+relnscrev_bus	and i thanked him for the ride
+screv_get_off_bus	as i stepped onto the pavement .
+<end_of_story>
+evoking_bus	yesterday , i went to the bus stop .
+screv_wait_bus	i waited for the bus with a few others .
+screv_bus_comes_bus	the bus arrived .
+screv_board_bus_bus	when i got on ,
+screv_get_ticket_bus	i scanned my bus pass on the bus pass scanner
+screv_find_place_bus	and then took my seat .
+relnscrev_bus	the bus was not crowded ,
+screv_find_place_bus	so i was able to take a seat near the front .
+screv_spend_time_bus_bus	i sat quietly , playing with my cellphone .
+unrelev_bus	others stared around or talked quietly amongst themselves .
+screv_other_bus_bus	a bell rang every few blocks to indicate someone wanting to get off .
+screv_bus_stops_bus	the bus would stop ,
+screv_get_off_bus	let people off ,
+screv_board_bus_bus	and let new people on .
+screv_other_bus_bus	the bus started to get crowded so i offered my seat to an older woman .
+unrelev_bus	she thanked me for the polite etiquette .
+screv_other_bus_bus	i saw my stop coming up ,
+screv_press_stop_button_bus	so i pulled the lever
+screv_other_bus_bus	and the bell rang again .
+screv_bus_stops_bus	the bus stopped a few moments later .
+relnscrev_bus	i thanked the bus driver for his services
+screv_get_off_bus	and exited the bus .
+<end_of_story>
+evoking_bus	i took a public bus to get the work this morning .
+screv_get_bus_stop_bus	at around 23 am , i left my apartment and walked to the nearest bus stop which was about a 23 minute walk from home .
+screv_get_bus_stop_bus	once i got there ,
+relnscrev_bus	i waited for the bus to arrive along with two other people .
+screv_bus_comes_bus	after about 23 minutes , an express bus heading to manhattan arrived .
+screv_get_ticket_bus	i boarded the bus and paid the driver my fare .
+screv_find_place_bus	i then walked to a window seat near the front of the bus , that was free .
+unrelev_bus	it was pretty early , and the bus was initially somewhat empty .
+relnscrev_bus	however , several stops later , the bus was filled with fellow commuters heading to work .
+screv_other_bus_bus	along the way , the bus passed through about 23 different towns
+relnscrev_bus	while traveling on local roads , before headed out to the george washington bridge to get to manhattan .
+relnscrev_bus	while getting there , the bus ran into a traffic jam which caused a 23 minute delay .
+relnscrev_bus	after working its way through traffic , the bus made it onto the bridge , and several minutes later ,
+screv_other_bus_bus	we were at the bus terminal on 178th street .
+screv_other_bus_bus	once we got there ,
+screv_get_off_bus	the bus stopped and the driver let us out , whereby i then walked to the office .
+<end_of_story>
+unrelev_bus	my car is in the repair shop
+evoking_bus	so i had to take the bus to work yesterday .
+screv_get_bus_stop_bus	the first thing i did was walk to the bus stop at the corner
+screv_bus_comes_bus	and then waited for the bus to arrive .
+screv_other_bus_bus	i watched the signs on the front of the buses as they approached so i would know which one to take .
+unrelev_bus	when i saw the right one ,
+screv_other_bus_bus	i stood up so the driver would know i want to ride .
+screv_bus_stops_bus	the bus stopped and then the door opened .
+screv_board_bus_bus	i climbed the steps
+relnscrev_bus	and the bus driver said hello .
+relnscrev_bus	you can buy a bus pass
+screv_ride_bus	if you ride the bus a lot , but i do n't so i do n't have a pass .
+screv_get_ticket_bus	instead , i put coins into the money receiver beside the bus driver
+screv_other_bus_bus	and then i walked to where the seats are .
+unrelev_bus	the bus was only about half full ,
+screv_find_place_bus	so i chose a seat by myself and sat down by the window .
+screv_other_bus_bus	once the bus started again , there was a little jerking motion
+screv_ride_bus	as it moved forward and then we were rolling down the street .
+screv_spend_time_bus_bus	while i was sitting , i did n't touch anything in case it was dirty .
+screv_spend_time_bus_bus	instead , i kept my hands in my lap and watched people , cars and buildings out of the window .
+unrelev_bus	a nice lady in the seat across from me smiled at me , but no one else paid attention to me
+screv_other_bus_bus	and when the bus stopped i got up along with several other people
+screv_get_off_bus	and climbed down to the street again .
+<end_of_story>
+evoking_bus	yesterday we got to ride the bus downtown to the fisherman 's wharf .
+unrelev_bus	before we left ,
+screv_other_bus_bus	we checked the schedule to see what bus we should take and what time it would pick up .
+screv_bus_comes_bus	23 minutes before the bus was scheduled to pick up in our area ,
+screv_get_bus_stop_bus	we walked to the street corner and stopped in front of the '' `` bus stop '' '' sign .
+<end_of_story>
+evoking_bus	today , i had to ride the bus home from the market .
+screv_wait_bus	i walked over to the bus stop to wait for the next bus .
+screv_bus_comes_bus	it was supposed to arrive in 23 minutes .
+screv_bus_comes_bus	when the bus pulled up to the bus stop
+screv_wait_bus	where i was waiting ,
+screv_other_bus_bus	i stood up and walked over to curb .
+screv_door_opens_bus	the bus driver opened the bus doors
+screv_board_bus_bus	and i stepped up into the bus .
+screv_get_ticket_bus	i had to hand my money to the bus driver
+screv_ride_bus	so that i could ride .
+relnscrev_bus	once the driver took my money ,
+screv_find_place_bus	i walked down the aisle to find a seat .
+unrelev_bus	there were many seats available
+screv_find_place_bus	so i picked one beside an older lady that looked like my grandmother .
+unrelev_bus	she was very nice and talked to me
+relnscrev_bus	while we rode down the street .
+screv_bus_stops_bus	once the bus stopped down the street from my house ,
+screv_get_off_bus	i got off and walked down the sidewalk to my house .
+unrelev_bus	i was very glad to be home .
+<end_of_story>
+evoking_bus	i love to ride the bus in my town .
+relnscrev_bus	the fare is only 23 cents .
+relnscrev_bus	it will take you anywhere .
+screv_get_bus_stop_bus	on saturdays i get up early and walk down to the bus stop .
+screv_bus_comes_bus	i wait for the bus to come at 8:15 .
+screv_get_ticket_bus	i climb up the stairs and drop my fare into the collection box and say hello to the driver .
+screv_find_place_bus	before the bus starts up again i move all the way to the back to sit in the last row of seats .
+screv_board_bus_bus	lots of different people get on .
+unrelev_bus	some with shopping bags , others all dressed up and some like me dressed casual for a summer morning .
+relnscrev_bus	i take the bus all the way
+screv_ride_bus	until it gets to the center of town
+screv_get_off_bus	where i get off .
+screv_get_ticket_bus	before i get off i get a transfer ticket .
+unrelev_bus	and then the fun begins .
+screv_other_bus_bus	i look at the bus route map at the bus stop and look for a part of the city i want to explore .
+relnscrev_bus	for 23 cents i can get to any part of my city .
+unrelev_bus	i see all kinds of people and get to explore the city i live in .
+<end_of_story>
+evoking_bus	i ride the bus almost every day , and yesterday was no exception .
+unrelev_bus	i was taking a trip to a donation center to drop off some items .
+screv_get_bus_stop_bus	before i went out to the bus stop ,
+screv_other_bus_bus	i checked my phone for schedules and live info on where the bus is so i could spend the least amount of time waiting for the bus .
+unrelev_bus	once it was time ,
+screv_get_bus_stop_bus	i ran out to the bus stop with my wallet
+relnscrev_bus	and my bus card - a pass containing all the fare money i use electronically .
+screv_board_bus_bus	once i was on the bus ,
+screv_get_ticket_bus	i scanned my pass ,
+screv_find_place_bus	looked for an open seat , and sat down .
+relnscrev_bus	when my stop was nearby ,
+screv_other_bus_bus	i pulled a cord that made a signal on the bus to let the driver know i needed him to stop there .
+screv_get_off_bus	i gathered my belongings and got off the bus ,
+relnscrev_bus	using the rear exit so i do n't bump into anyone who might be boarding in front .
+<end_of_story>
+evoking_bus	this morning i rode a public bus to college .
+unrelev_bus	before i left my house ,
+screv_other_bus_bus	i checked the bus schedule so i would know what time the bus was meant to arrive .
+screv_get_bus_stop_bus	i then left my house and walked to the bus stop right outside my house .
+unrelev_bus	i then sat on the bench next to an old man
+screv_bus_comes_bus	and waited for the bus to arrive .
+screv_wait_bus	while i waited , i chatted with the old man .
+screv_bus_comes_bus	when the bus arrived , i let the old man get on in front of me .
+screv_board_bus_bus	i then climbed on board the bus ,
+screv_get_ticket_bus	paid the bus driver the bus fare ,
+relnscrev_bus	and the bus driver said '' `` good morning '' ''
+screv_other_bus_bus	as he handed me my ticket .
+unrelev_bus	holding onto my ticket ,
+screv_find_place_bus	i took a seat near the front of the bus .
+screv_spend_time_bus_bus	i stared out the window throughout the bus journey , just enjoying the view .
+screv_other_bus_bus	when my stop was coming up ,
+screv_press_stop_button_bus	i pressed the button to let the bus driver know to stop the bus .
+screv_bus_stops_bus	he stopped at my stop
+screv_get_off_bus	and i stood up and got off the bus ,
+relnscrev_bus	thanking the bus driver
+screv_get_off_bus	before i exited .
+<end_of_story>
+unrelev_bus	i was walking to my car last night from work and was ready to drive home .
+unrelev_bus	i started the car up , but i noticed that i left my phone at work , so i turned the ignition back off , locked the car doors , and shut the driver door .
+unrelev_bus	unfortunately for me , i shut the door with my keys still in the ignition .
+unrelev_bus	that 's right ;
+unrelev_bus	i was locked out of my own car .
+unrelev_bus	flustered and embarassed , i pulled at the handles of the doors and attempted to open the trunk off the car - no luck at all .
+unrelev_bus	i walked back to my office , got my phone , and contemplated what i would do next .
+unrelev_bus	there was no one there with me ,
+evoking_bus	so my only hope was riding the public bus -lrb- i did n't have money for a cab -rrb- .
+screv_wait_bus	i waited for the bus , the last one of the night , at the bus stop .
+screv_door_opens_bus	the bus driver opened the door for me
+screv_board_bus_bus	and i came aboard .
+screv_get_ticket_bus	i paid the two dollar bus fare
+relnscrev_bus	so that i could ride and asked him for a transfer
+screv_change_bus_bus	so that i could get on the next bus at the terminal .
+screv_find_place_bus	i took my seat ,
+relnscrev_bus	and the bus took me to the terminal at the plaza .
+screv_change_bus_bus	i got off the bus and hopped on the bus that would take me home .
+screv_other_bus_bus	i handed the transfer to the driver and took my seat .
+unrelev_bus	as i approached my apartment ,
+screv_press_stop_button_bus	i pushed the button to request for the bus to stop .
+screv_bus_stops_bus	the driver pulled over ,
+screv_get_off_bus	and i thanked them and got off .
+unrelev_bus	when i got in the apartment , i immediately jumped into my bed .
+unrelev_bus	i was dead-tired , and though i had the dilemma of having my keys locked in the car , i would figure that out in the morning .
+<end_of_story>
+evoking_bus	after looking for a bus route to my workplace online ,
+screv_get_bus_stop_bus	i headed outside .
+unrelev_bus	the nearest bus stop was only about a block or two away
+screv_get_bus_stop_bus	so i walked over .
+unrelev_bus	there were two bus stops at the same intersection , one on either side of the road .
+relnscrev_bus	i made sure i was at the right stop by reading the stop location id listed on the sign next to the bus stop .
+screv_bus_comes_bus	my bus arrived in about five minutes
+screv_board_bus_bus	and i got on board .
+screv_wait_bus	i waited until i got to the rider
+relnscrev_bus	before taking out my wallet ,
+screv_get_ticket_bus	and quickly paid the exact fee for a one day , unlimited bus pass .
+screv_get_ticket_bus	after receiving the pass ,
+screv_other_bus_bus	i walked inside the bus
+screv_find_place_bus	and looked for the nearest , open seat .
+screv_find_place_bus	i found one close to the back of the bus .
+unrelev_bus	since my stop was a common one ,
+relnscrev_bus	i did n't have to let the bus driver know when i needed to get off .
+screv_other_bus_bus	once we arrived at my stop ,
+screv_get_off_bus	me and several others all got off and went our separate ways .
+<end_of_story>
+evoking_bus	this past weekend i rode a public bus .
+unrelev_bus	i was in a busy city
+relnscrev_bus	and needed to get to a tour bus .
+screv_get_bus_stop_bus	after getting of the train system i was directed to the city bus .
+unrelev_bus	i noticed a section of the block
+relnscrev_bus	where a lot of people were standing around and the bus would stop in this area to put up passengers .
+unrelev_bus	there was but after bus after bus and you had to move fast .
+unrelev_bus	i was told that number 23 was my bus .
+screv_other_bus_bus	so when i saw it pull up i had to push through the crowd
+screv_board_bus_bus	so that i could board my bus .
+screv_board_bus_bus	i was able to get on and the bus captain came over to me after a minute or so
+screv_get_ticket_bus	and collected my fair .
+screv_spend_time_bus_bus	as i sat back to relaxed i noticed that the bus driver was driving the bus with wild abandon .
+unrelev_bus	he was flying through the street
+relnscrev_bus	and than squealing the brakes as he tried to keep control of the vehicle .
+unrelev_bus	i just knew we were all going to die .
+unrelev_bus	i was trying to get my friends attention but she was turned around and deep in a conversation .
+unrelev_bus	this was a nerve racking situation not only
+relnscrev_bus	because of his driving but i did n't really know my stop so i was tried to calm my heart as we nearly missed car after car
+screv_spend_time_bus_bus	and look our the window to determine where the tour bus company was located .
+screv_get_off_bus	it finally worked out because a few of the passengers was going to same place and directed me to get off at the right location .
+unrelev_bus	they were so nice and i was able to speak with a few of them .
+unrelev_bus	so , i guess i can say it was n't all bad because i made a friend or two with some of the passengers
+relnscrev_bus	and i made it to my tour bus location in plenty of time for my trip home .
+<end_of_story>
+unrelev_bus	i live in a large city , and while i do have a car , sometimes there is a lack of parking where i need to go .
+unrelev_bus	when this happens or if i think it will be hard to park ,
+evoking_bus	i will take the city bus .
+relnscrev_bus	they have a very good bus service in our city , and you can get wherever you need to be fairly easily and quickly .
+evoking_bus	i know riding the bus can be confusing at first ,
+relnscrev_bus	but they make some very easy bus schedules to help people .
+unrelev_bus	i knew where i needed to go ,
+screv_other_bus_bus	so i took out my bus schedule and found out when the bus i needed to ride would be at the stop near my house .
+screv_get_bus_stop_bus	i went there a few minutes early , and right on time ,
+relnscrev_bus	i saw the bus i needed to ride .
+relnscrev_bus	i could tell it was my bus by the big number flashing near the top of the bus .
+screv_bus_comes_bus	when the bus stopped ,
+screv_get_ticket_bus	i got on and put my money into the coin taker which is near the driver .
+screv_other_bus_bus	i then moved to the back of the bus
+screv_find_place_bus	and chose a seat .
+unrelev_bus	a nice woman was sitting across from me
+screv_spend_time_bus_bus	and she smiled and said hello .
+screv_spend_time_bus_bus	i smiled and said hello in return .
+unrelev_bus	people are usually very friendly on the bus .
+screv_ride_bus	i rode the bus for several more stops , and then saw my stop coming up .
+screv_bus_stops_bus	when the bus stopped ,
+screv_get_off_bus	i got off the bus and went to my destination .
+unrelev_bus	it is very easy
+evoking_bus	and convenient to ride the public bus .
+<end_of_story>
+unrelev_bus	the other day i decided not to drive into the city like i usually do ,
+evoking_bus	but to take the bus instead .
+evoking_bus	even though it is a ten minute walk from my house to the bus stop , it is still much more relaxing to travel by public bus instead of getting stressed driving in traffic in the city .
+screv_get_bus_stop_bus	i walked in the sunshine to the bus stop
+screv_wait_bus	where lots of other people were already waiting for the bus ,
+relnscrev_bus	some of them were reading the bus timetable attached to the covered bus stop .
+unrelev_bus	there was no space on the bench
+screv_wait_bus	so i just stood in line and waited until i saw the big red double decker bus turn the corner and head towards us .
+screv_bus_comes_bus	when the driver pulled up at the curb , people started to board the bus , it took a while as each of them had to stop to pay the driver before finding a seat but eventually it was my turn to get on board .
+relnscrev_bus	i told the driver where i wanted to get off the bus
+relnscrev_bus	and that i needed a return fare as i wanted to come home later .
+screv_get_ticket_bus	i found the correct change to hand to the driver
+relnscrev_bus	and he punched some buttons on a machine at the side of the steering wheel .
+screv_get_ticket_bus	the machine printed a ticket which he gave to me and said i would have to keep safe to hand in on the return bus journey .
+unrelev_bus	i decided to sit upstairs as the view of the countryside is always better from higher up ,
+screv_other_bus_bus	and climbed the little spiral staircase up to the top deck
+screv_find_place_bus	where i found an empty seat .
+relnscrev_bus	the journey was noisy , lots of people were talking and laughing and it took a lot longer than if i was driving as the bus stopped in various villages along the way .
+screv_get_off_bus	by the time i got to the city and left the bus , i was relaxed and happy and looking forward to doing some shopping .
+<end_of_story>
+evoking_bus	needing to go across town , i decided to take a public bus rather than drive .
+relnscrev_bus	i had no bus tokens to pay for the fare
+screv_get_bus_stop_bus	so i walked to the bus station downtown
+screv_get_ticket_bus	and bought some .
+relnscrev_bus	then i got a bus schedule and looked for a bus that was going across town .
+relnscrev_bus	i would be riding bus number 23 .
+screv_get_bus_stop_bus	so i went out to the platform
+screv_wait_bus	where a lot of other people were waiting for their buses .
+unrelev_bus	i found where number 23 stopped
+screv_other_bus_bus	and got in the line .
+screv_bus_comes_bus	when the bus came i had my token out
+relnscrev_bus	and ready to deposit in the fare collection box .
+screv_find_place_bus	then i went and found a seat .
+screv_find_place_bus	i was going to sit next to a woman that looked like she was going to work .
+relnscrev_bus	the bus meandered through the city and finally got me to my destination .
+<end_of_story>
+evoking_bus	my car had broken down so i needed to take the public bus to work on wednesday morning .
+screv_other_bus_bus	first i looked on-line to see which bus i should take to get to mclean , and what bus stop was the closest to my home .
+relnscrev_bus	the instructions were to go to seven corners shopping center ,
+screv_board_bus_bus	catch the 3a to tyson corner ,
+relnscrev_bus	and then transfer to the 18a to get within a block of my office .
+screv_get_bus_stop_bus	in the morning i walked up to the shopping center
+screv_bus_comes_bus	and waited until the bus came .
+screv_board_bus_bus	i got on ,
+screv_get_ticket_bus	paying the driver with change and dollar bills .
+relnscrev_bus	i confirmed with the driver that this was the correct bus to go to tyson corner and transfer .
+screv_find_place_bus	i chose a seat near the front so i could make sure i did not miss my next stop .
+screv_change_bus_bus	i transferred at tyson corner to the 18a ,
+relnscrev_bus	which took me within a block of my work place .
+<end_of_story>
+unrelev_bus	i wanted to go the museum downtown milwaukee .
+unrelev_bus	i got ten dollars from my bank and put in my pocket .
+screv_get_bus_stop_bus	i walked a block from my house to catch the bus .
+screv_bus_comes_bus	the number nine bus came ten minutes later .
+relnscrev_bus	i boarded the bus and asked the driver ' how much ?
+relnscrev_bus	' the driver asked me where i was going and when i told him he said ' that ll be two seventy five .
+screv_other_bus_bus	' i pulled three dollars out of my pocket
+screv_get_ticket_bus	and put them in the bus money collection machine .
+relnscrev_bus	the machine showed three dollars were entered and that my ride would cost two seventy five .
+unrelev_bus	a quarter dropped in the drop box .
+unrelev_bus	i retrieved the quarter
+screv_find_place_bus	and then found a seat .
+relnscrev_bus	the bus driver told i had ten stops before mine so i started counting stops .
+screv_bus_stops_bus	the first stop was fifth street .
+screv_bus_stops_bus	the second was hadley avenue .
+screv_bus_stops_bus	the next stop was dobson .
+screv_bus_stops_bus	adams was the ninth stop .
+relnscrev_bus	finally , main street came up .
+relnscrev_bus	i pulled the bus s rider cord to let the bus driver i wanted to get off .
+screv_get_off_bus	the bus let me off in the front of the milwaukee public museum .
+unrelev_bus	i spent almost the whole day there and then returned home the opposite way i came .
+<end_of_story>
+evoking_bus	riding a public bus is a good way to get around a city .
+unrelev_bus	if i am traveling in a big city ,
+evoking_bus	i think it 's easier to take the bus than depend on my car .
+relnscrev_bus	in chicago , i can get anywhere in the city more quickly and inexpensively using public transit .
+relnscrev_bus	first , i look online to find the stop nearest to where my hotel is .
+screv_other_bus_bus	then i plan out the stops i want to make .
+unrelev_bus	maybe i am going to a museum or the zoo .
+relnscrev_bus	i find the bus routes that go where i want to go .
+screv_get_bus_stop_bus	i go to the bus stop
+screv_bus_comes_bus	and wait for the bus to come along .
+screv_get_ticket_bus	then i hop on and pay my fare .
+screv_find_place_bus	i like to sit by the window
+screv_spend_time_bus_bus	and get a good glimpse of the city i am in .
+screv_spend_time_bus_bus	sometimes i will even see something that catches my eye
+screv_get_off_bus	and i will get off before i planned !
+relnscrev_bus	when it 's time for me to depart ,
+screv_press_stop_button_bus	i pull the cord and let the driver know i want to get off .
+screv_get_off_bus	then i get off at the next opportunity and continue on with my day without needing to deal with parking !
+<end_of_story>
+unrelev_bus	i wanted to go to san francisco from my home in san jose and i did n't feel like driving .
+screv_other_bus_bus	i looked online and found a bus route from here to there that was leaving in just about 23 minutes .
+screv_get_bus_stop_bus	i walked out of my house to the bus stop
+screv_board_bus_bus	and got on it .
+unrelev_bus	it was a very empty bus
+screv_spend_time_bus_bus	and i stared out of the window at the scenery .
+unrelev_bus	the bus driver was very nice and asked me how my day was .
+screv_spend_time_bus_bus	we spoke for the whole entire ride and after a short time ,
+relnscrev_bus	we arrived into san francisco .
+unrelev_bus	it was very pleasant not having to drive and it was a very smooth ride on the bus .
+unrelev_bus	luckily , there was n't much traffic
+relnscrev_bus	so we got there in a very short time frame .
+relnscrev_bus	after getting to the bus stop ,
+screv_door_opens_bus	the driver opened his doors for me
+relnscrev_bus	and wished me a great day .
+screv_get_off_bus	i did the same and stepped off of the bus .
+unrelev_bus	it was a very easy and fun experience .
+<end_of_story>
+evoking_bus	i ride the bus to school everyday .
+unrelev_bus	i live in new york city
+evoking_bus	so riding the bus is a common thing .
+relnscrev_bus	everyone does it because it is convenient .
+unrelev_bus	in our city , it is very packed , so driving is n't as convenient or affordable .
+unrelev_bus	parking is expensive
+relnscrev_bus	so public transportation saves us a lot of money .
+unrelev_bus	every morning when i go to school ,
+screv_wait_bus	i wait by the bus stop .
+relnscrev_bus	the morning bus comes every ten minutes .
+screv_board_bus_bus	once it arrives i board onto the bus
+screv_get_ticket_bus	and i insert my metro card .
+relnscrev_bus	the metro card has a balance of money stored inside it .
+relnscrev_bus	this money is subtracted from the balance every time i ride the bus and insert my metro card .
+relnscrev_bus	basically the metro card pays for the bus ride .
+unrelev_bus	when i run out of money ,
+relnscrev_bus	i go to a metro card machine and put more money into my balance .
+evoking_bus	riding the bus is annoying sometimes .
+relnscrev_bus	in the morning , it is very crowded so sometimes there are n't enough seats for everybody .
+relnscrev_bus	this means i have to stand while holding on to a pole .
+unrelev_bus	sometimes its so crowded that i am sandwiched in between people .
+unrelev_bus	if i am lucky ,
+relnscrev_bus	sometimes there will be open seats .
+screv_spend_time_bus_bus	otherwise , i have to stand for 23 minutes .
+<end_of_story>
+evoking_bus	yesterday i decided to take the bus to the zoo .
+screv_get_bus_stop_bus	i walked over to the bus stop and sat down on the bench
+relnscrev_bus	while i waited for the bus to arrive .
+relnscrev_bus	there was a map of all the bus routes at the stop ,
+screv_other_bus_bus	so i looked on there to make sure i knew which bus would take me to the zoo .
+unrelev_bus	i saw i needed bus number 23 .
+screv_bus_comes_bus	sure enough , there came number 23 .
+screv_bus_comes_bus	as the bus pulled up to the stop ,
+screv_get_off_bus	the driver opened the door to let passengers off .
+relnscrev_bus	once everyone who need off was off ,
+screv_board_bus_bus	i climbed up the stairs , smiled at the bus driver ,
+screv_get_ticket_bus	and put my money in the slot .
+screv_find_place_bus	i took a seat
+screv_other_bus_bus	and off we went .
+screv_spend_time_bus_bus	i watched all the buildings go by as the driver drove the bus towards the zoo .
+relnscrev_bus	there were a couple of other stops before the zoo , and at each one people got off the bus and on the bus .
+relnscrev_bus	finally , we made it to the zoo .
+screv_door_opens_bus	the driver opened up the door ,
+screv_get_off_bus	and i climbed down out of the bus and off to my day at the zoo .
+<end_of_story>
+evoking_bus	yesterday i rode a public bus to go to work .
+unrelev_bus	i woke up early because the bus is very very very unreliable .
+unrelev_bus	i packed the items that i needed for the day in my backpack .
+screv_other_bus_bus	i double checked to make sure i had everything , including my one dollar and twenty five cents bus fare .
+screv_get_bus_stop_bus	i walked out the door and started heading in the direction of the bus stop .
+screv_get_bus_stop_bus	i walked to the bus stop as quickly as i could
+screv_wait_bus	and then waited for the bus .
+screv_wait_bus	i waited about ten
+screv_bus_comes_bus	and a half minutes before the bus came .
+screv_get_ticket_bus	when the bus arrived i got on and paid my fare ,
+screv_find_place_bus	and sat down .
+screv_spend_time_bus_bus	during the bus ride i listened to music to avoid hearing the loud noise of the bus motor and the other noises caused by the large number of people around me .
+screv_get_off_bus	finally when i arrived at the destination i got off .
+<end_of_story>
+relnscrev_bus	i have never had to ride a public bus until 23 years ago when i had no other transportation and was forced to take a public bus anywhere i needed to go .
+screv_other_bus_bus	the first thing i had to do was find a bus schedule and learn how to read the time and places to catch the bus and how to make any needed transfers .
+unrelev_bus	this was a little hard to do but once i figured it out it was ok as long
+relnscrev_bus	as i always kept a schedule with me .
+relnscrev_bus	i mostly took the bus to work and i only had to worry about catching one bus on the street i lived on and i did not have to sorry about any transfers .
+relnscrev_bus	the bus ride cost me $ 23 and transfers where an additional 23 cents .
+screv_ride_bus	many people rode the bus and i meet several nice people on the bus .
+unrelev_bus	the bus drivers were always nice and i became friends with several of them .
+relnscrev_bus	the bus only came once an hour and i had to make sure i did not miss it if i was going to work because then i would be late for work .
+screv_bus_stops_bus	the bus always made a stop at the main depot in order to pick up more people .
+relnscrev_bus	there was usually about a 23 minute wait so the driver could have break in the late afternoon .
+relnscrev_bus	i did not like having to take the bus but it served my purpose for a while and i was thankful to have the bus available .
+<end_of_story>
+evoking_bus	tonight i road on a public bus .
+relnscrev_bus	i waited outside of the store near my house for the bus which runs on a schedule .
+screv_bus_comes_bus	once the bus came i got on
+screv_get_ticket_bus	and paid the bus fare .
+screv_spend_time_bus_bus	after that i took my seat i looked around at all the other people .
+evoking_bus	when you ride on the bus there can be all types of people on the bus with you .
+unrelev_bus	i had my mp3 player with me with ear-buds
+relnscrev_bus	so i put my ear-buds into my ears and turned on my mp3 player and began listening to my music .
+unrelev_bus	my public bus ride was n't very long
+screv_bus_stops_bus	so after a little while the bus stopped at my stop
+screv_get_off_bus	and i got off the bus and arrived at my destination .
+evoking_bus	riding on a public bus can be a fun experience if you want it to be and you can even talk to the other people on the public bus but overall i had a good experience .
+<end_of_story>
+unrelev_bus	i live near the city of santa cruz
+evoking_bus	and often take the 17x bus to the nearby city of san jose .
+relnscrev_bus	it 's possible to get discount fares by paying for multiple rides in advance , but i usually pay cash , five dollars for one-way .
+screv_get_bus_stop_bus	i get to my small town 's transit center early on weekday mornings ,
+relnscrev_bus	because the bus fills up quickly , and most good seats are already taken by riders who started their trip in downtown santa cruz .
+screv_wait_bus	we wait in line in civilized fashion .
+relnscrev_bus	some people need only show the driver their pass , some shove a five-dollar bill into the fare machine efficiently .
+relnscrev_bus	but some fumble with small coins or ask other riders for change , which makes everyone in line restive .
+screv_find_place_bus	once on , riders can choose seats grouped around small tables , seats facing forward , or seats facing sideways .
+unrelev_bus	table seats are premium ,
+relnscrev_bus	since the bus has wifi and many people bring laptops .
+unrelev_bus	others prefer seats in the back where the roughnecks are , just like in high school .
+unrelev_bus	my little town is the last stop before highway 23 .
+relnscrev_bus	the bus whips along amid the pine trees and the yellow-flowered acacia that blooms this time of year .
+unrelev_bus	it is pleasant not to have to keep your eyes on the road .
+unrelev_bus	unspoken bus etiquette decrees that strangers do n't speak to each other ,
+screv_spend_time_bus_bus	but of course some people know each other and chat .
+screv_spend_time_bus_bus	many tap away on their machines or play video games , others read books or enjoy the ride .
+unrelev_bus	it ends at san jose 's train station ,
+screv_change_bus_bus	where passengers can transfer to the san francisco train ,
+relnscrev_bus	or take a rattling inferior 1-hour bus ride to fremont to catch the bart mass transit line to oakland , richmond , or distant pittsburg , where the california delta begins .
+<end_of_story>
+evoking_bus	there is a bus stop down the street from my house .
+relnscrev_bus	if you take it going south , it leads to the city , and if you take it going north , it leads to the next suburban town .
+unrelev_bus	i needed to go to the city ,
+screv_get_bus_stop_bus	so i went to the bus stop
+screv_wait_bus	and waited .
+screv_wait_bus	i waited about ten minutes
+screv_bus_comes_bus	and then the bus came .
+screv_bus_stops_bus	it wheezed to a stop near me
+screv_door_opens_bus	and then the door opened .
+screv_board_bus_bus	i walked into the bus and up the short flight of stairs toward the driver .
+screv_get_ticket_bus	i had just enough change on me to pay the fare .
+screv_get_ticket_bus	i fed my coins into the slot where you put your money
+screv_other_bus_bus	and then walked to the left
+screv_find_place_bus	and down the aisle to find my seat .
+relnscrev_bus	i passed the front seats , which are intended for older or handicapped passengers ,
+screv_find_place_bus	and took a seat about halfway down the bus , next to the window .
+relnscrev_bus	the bus ride lasted 23 minutes .
+relnscrev_bus	when i saw that my stop would be next ,
+screv_press_stop_button_bus	i pulled the yellow cord that runs along the side of the bus .
+relnscrev_bus	that makes a beep and signals the driver that someone wants to get off the bus .
+screv_other_bus_bus	the beep sounded and the bus driver pulled over to the side of the road at the next bus stop .
+screv_door_opens_bus	the doors opened .
+screv_other_bus_bus	i got up and went to the rear door of the bus ,
+screv_get_off_bus	walked down the stairs , and walked out onto the sidewalk .
+<end_of_story>
+evoking_bus	i usually do n't take the bus to work but today i decided to give it a try since the bus stop is right across the street from my house .
+relnscrev_bus	when the bus came i greeted the bus driver with a friendly hello
+screv_get_ticket_bus	and paid my bus fare .
+screv_find_place_bus	i was lucky enough to find a seat all the way in the back .
+relnscrev_bus	there was a lot of different people on the bus , some were kids going to school others were adults going to work like i was .
+screv_bus_stops_bus	i watched the bus come to a stop every few blocks
+screv_get_off_bus	and drop off a few people ,
+screv_board_bus_bus	but for every person that left a new person got on .
+relnscrev_bus	i noticed my stop was near so i pushed the strip on the wall that notifies the bus driver my stop is coming up .
+screv_get_off_bus	when he pulled into the next stop i exited the back of the bus and was happy that after 23 minutes i finally reached my destination .
+<end_of_story>
+unrelev_bus	after touring the city ,
+screv_get_bus_stop_bus	i arrived at the public bus stop
+screv_bus_comes_bus	and took a seat on the bench waiting for the bus to arrive .
+screv_check_time-table_bus	i looked at a map on what this bus 's route was ,
+screv_ride_bus	and it was heading towards
+relnscrev_bus	where i needed to go .
+relnscrev_bus	since i am easily bored , i brought my mp3 player with me to listen to music .
+screv_board_bus_bus	after a 23 minute wait the bus arrived and i got on with another person .
+screv_board_bus_bus	as i walked up on the bus ,
+relnscrev_bus	i paid the fee that is required since i do n't have a bus pass .
+screv_find_place_bus	since most people in the city like to keep to themselves , i left them alone and found an open seat on the bus in the back .
+screv_bus_stops_bus	after about 23 minutes on the bus , they finally arrived at my destination spot
+screv_get_off_bus	and i got off .
+screv_get_off_bus	after getting off the bus , i walked a couple more blocks over to where my hotel was .
+<end_of_story>
+unrelev_bus	i live in an area with good train and bus coverage .
+unrelev_bus	i typically choose the train as it is more predictable but for some parts of the city that the train can not reach ,
+evoking_bus	i will take the bus .
+screv_get_bus_stop_bus	the bus stations are typically outdoors so depending on where i 'm going i 'll head to the nearest bus stop .
+screv_check_time-table_bus	there 's an app that shoes when the next bus is coming so i 'll take out my phone to see how long the wait is .
+screv_wait_bus	typically the wait is about 10-15 minutes .
+screv_bus_comes_bus	once the bus arrives ,
+screv_get_ticket_bus	i take out my transit card to tap on the machine that collects the fare .
+unrelev_bus	this is done at the very beginning at the entrance of the bus .
+screv_find_place_bus	once i hear the beep notifying me that the fare has been collected i will take a seat upstairs if it 's a double decker bus .
+unrelev_bus	the view is much better from the top and there are usually seats at the top .
+screv_get_off_bus	now it 's time to sit back and enjoy the ride and get off at my destination .
+<end_of_story>
+unrelev_bus	i woke up early in the morning
+screv_get_bus_stop_bus	and walked from my house to the road
+screv_ride_bus	where the bus travels .
+screv_find_bus_bus	this is a busy bus route , so there are a lot of buses i can catch at this spot .
+screv_wait_bus	i waited 23 minutes and saw a bus in the distance coming my way .
+screv_wait_bus	i waited patiently at the bus stop making sure the bus driver could see i wanted to board .
+screv_door_opens_bus	the bus driver stopped the bus and opened the door for me .
+screv_get_off_bus	i had to wait for some other passengers to get off the bus first .
+screv_board_bus_bus	i walked up steps into the bus
+screv_get_ticket_bus	and paid for my trip .
+relnscrev_bus	there is a machine that collects money and tokens in front of the bus .
+screv_find_place_bus	luckily , there was a seat available to sit in .
+screv_ride_bus	i rode the bus for about 23 minutes
+screv_bus_stops_bus	until we were coming close to my stop .
+screv_get_off_bus	i pulled the string to tell the bus driver i wanted off .
+screv_get_off_bus	i said goodbye and got off the bus and went to my destination .
+<end_of_story>
+evoking_bus	riding a public bus is n't something i look forward to doing .
+screv_ride_bus	when i was a teenager some friends convinced me that it would be fun to jump on a bus and ride around .
+unrelev_bus	having done so , i disagree , it is n't fun .
+unrelev_bus	however , for some people the bus is the only mode of transportation available .
+evoking_bus	riding the bus does require a little research .
+screv_ride_bus	you have to know which line you are riding , whether it is an express or whether it will be making many stops .
+screv_get_ticket_bus	you must also have the appropriate amount of fare ready to pay .
+screv_find_place_bus	once on board the bus , it 's best to find a hopefully clean seat nearby a normal looking person .
+unrelev_bus	since bus fare is quite cheap
+evoking_bus	and anyone can use it , they do tend to attract undesirable types , so it 's best to be aware of that fact
+screv_spend_time_bus_bus	and watch yourself and your belongings closely .
+screv_spend_time_bus_bus	listen and watch to make sure you do n't miss your stop , since busses do get crowded and you do n't want to miss it .
+<end_of_story>
+screv_board_bus_bus	i waited at the bus stop for my bus to come pick me up .
+relnscrev_bus	it seemed to be running a little behind today .
+screv_bus_comes_bus	finally , at 8:03 , the bus pulled up .
+unrelev_bus	there were other people at the stop as well ,
+screv_board_bus_bus	so i waited in lined for my turn to get on .
+screv_board_bus_bus	i climbed the three steps up into the bus ,
+screv_get_ticket_bus	and then deposited my change to pay for the trip .
+unrelev_bus	the fare was $ 23
+screv_get_ticket_bus	so i put six quarters into the box .
+relnscrev_bus	then i walked down the aisle of the bus
+screv_find_place_bus	and looked for an empty seat .
+screv_spend_time_bus_bus	i found one next to a young person listening to music on their headphones .
+screv_bus_leaves_bus	the bus pulled away from the curb .
+screv_ride_bus	as we rode ,
+screv_spend_time_bus_bus	i looked out the window and watched the stores
+relnscrev_bus	and houses pass by .
+screv_bus_stops_bus	after about 23 minutes , we reached my stop .
+screv_bus_stops_bus	i waited for the bus to come to a complete stop
+screv_get_off_bus	and then exited , steeping down and then stepping back up the curb onto the sidewalk .
+unrelev_bus	time to start another day !
+<end_of_story>
+unrelev_bus	i wanted to spend the evening at the theater on friday .
+evoking_bus	there was a good play on in town and i decided to take the bus .
+screv_get_bus_stop_bus	at 6:30 pm , i walked to the bus stop near my house .
+unrelev_bus	it was a ten-minute walk in nice weather .
+screv_wait_bus	at the bus stop , i waited only two minutes
+screv_bus_comes_bus	before the bus arrived .
+screv_board_bus_bus	i stepped onto the public bus
+screv_get_ticket_bus	and paid for a one-way ticket .
+relnscrev_bus	the trip into town took fifteen minutes
+screv_bus_stops_bus	because the bus had other stops to make in the area before returning to the station .
+screv_spend_time_bus_bus	i saw someone i knew on the bus
+screv_spend_time_bus_bus	and we spent most of the travel time talking .
+screv_bus_stops_bus	then we reached the bus station .
+screv_bus_stops_bus	the driver slowed down ,
+relnscrev_bus	and maneuvered the bus into its numbered space .
+screv_door_opens_bus	the doors opened and the passengers began to exit ,
+relnscrev_bus	moving together smoothly at a leisurely pace .
+screv_get_off_bus	i got off the bus and went to the theater .
+<end_of_story>
+unrelev_bus	late last week on my way home from work i got into an accident that damaged my car .
+unrelev_bus	luckily everyone who was involved came out uninjured but my car was damaged and would have to spend about two weeks in the shop .
+evoking_bus	since my insurance did not cover a rent a car this meant that i had to take public transportation for the next couple of weeks to get to work .
+unrelev_bus	i was fortunate to have a bus stop only a couple of blocks from my house
+screv_get_bus_stop_bus	so i would walk to the bus stop
+screv_wait_bus	and wait for the bus with the other people .
+relnscrev_bus	some people talked to one another and others like myself had headphones in , listening to music .
+relnscrev_bus	it is not that i am against talking to people i am just not really a morning person and do not feel like it at 7am .
+screv_ride_bus	the bus pulled up and we got in line to board and showed him our ticket to ride .
+screv_spend_time_bus_bus	i then grabbed a seat and gazed out the window
+screv_bus_stops_bus	until i reached my stop downtown .
+screv_go_exit_bus	i got up ,
+relnscrev_bus	thanked the bus driver
+screv_get_off_bus	and got off the bus and started walking down the street to work .
+<end_of_story>
+unrelev_bus	i went to college in a big city and did n't have a car on campus .
+unrelev_bus	thankfully , there was n't a need for one because the public transportation system was great .
+unrelev_bus	i often went to visit my friend that went to school on the other side of town .
+relnscrev_bus	i always took a public bus to get there .
+screv_check_time-table_bus	the first thing i would do is look up the bus route and schedule .
+screv_bus_comes_bus	once i knew what time the bus would arrive ,
+screv_get_bus_stop_bus	i 'd walk to the bus stop
+screv_wait_bus	and wait on the bench .
+screv_bus_comes_bus	once the bus arrived ,
+screv_get_ticket_bus	i would pay the driver via a electronic machine and was then on my life .
+screv_bus_stops_bus	the bus would make many stops before arriving at mine .
+relnscrev_bus	at one point , the bus was full and i gave up my seat
+screv_find_place_bus	so that an older lady could sit down .
+screv_bus_stops_bus	once i saw that my stop was arriving ,
+screv_press_stop_button_bus	i pulled the lever to let the bus driver know that i wanted to depart the bus at the next stop .
+screv_get_off_bus	i then thanked the driver and was on my way .
+<end_of_story>
+unrelev_bus	there are times when i need to get somewhere without using my car or without using the tube .
+evoking_bus	for these times i use transport for london 's public bus system .
+unrelev_bus	one such time just happened yesterday .
+unrelev_bus	i wanted to go from my flat to the bumping club in shoreditch .
+unrelev_bus	unfortunately it was past midnight and the tubes were closed .
+evoking_bus	i decided upon taking a bus instead of taking a minicab or a taxi .
+screv_get_bus_stop_bus	i found the bus stop
+screv_wait_bus	and waited patiently for the correct bus .
+relnscrev_bus	stepping on i tapped in and greeted the driver .
+unrelev_bus	he seemed very nice , as did the people on the bus .
+relnscrev_bus	it was filled with many other revelers who were in similar states of intoxication .
+screv_ride_bus	we rode towards our destination , a popular club , in unison .
+screv_spend_time_bus_bus	i met a pretty girl who i talked with at length .
+unrelev_bus	we decided we were going to dance together at the club !
+unrelev_bus	all in all it was an exciting and enjoyable ride on a london double decker bus !
+<end_of_story>
+evoking_bus	i really like to take the bus when i have to run errands .
+unrelev_bus	there is a bus stop right outside of my apartment building .
+unrelev_bus	when i have to go to the store ,
+screv_wait_bus	i wait at the bus stop .
+screv_bus_comes_bus	when the bus pulls up ,
+screv_get_ticket_bus	i pay the bus fare using quarters .
+screv_get_ticket_bus	it costs six quarters to ride the bus .
+screv_bus_stops_bus	the bus makes lots of different stops before it gets to the grocery store ,
+screv_ride_bus	so i am on it for several minutes .
+screv_find_place_bus	i sit quietly in my seat .
+screv_spend_time_bus_bus	sometimes other people on the bus will say hello and we will have a small conversation .
+screv_bus_stops_bus	when i get to the store and finish shopping ,
+screv_wait_bus	i wait at another bus stop so i can go home .
+screv_get_ticket_bus	i pay the bus fare again ,
+screv_find_place_bus	sit in my seat
+screv_bus_stops_bus	and patiently wait for the bus to get to my apartment .
+screv_bus_stops_bus	when it stops in front of my apartment ,
+screv_get_off_bus	i get off the bus and go inside .
+<end_of_story>
+unrelev_bus	i needed to get from my house to work , but my car wouldn ' t start .
+evoking_bus	i decided my best option was to take the bus .
+screv_get_bus_stop_bus	i walked down the street to the nearest bus stop that would take me close to work .
+screv_bus_comes_bus	i waited for about five minutes for the bus to come .
+screv_board_bus_bus	once i got on ,
+screv_get_ticket_bus	i put my money in the machine
+screv_find_place_bus	and headed towards the back to find a seat .
+unrelev_bus	there were only three open seats
+screv_find_place_bus	so i took one of them
+screv_spend_time_bus_bus	and popped in my ear buds to listen to music .
+screv_spend_time_bus_bus	i also brought a book along to read so nobody would try to talk to me .
+screv_bus_stops_bus	the bus made three stops before we got to the corner nearest to my work .
+relnscrev_bus	each time people would get off and as they shuffled past would bump into my knees which was really annoying .
+screv_find_place_bus	then more people would get on and some would find seats , but others had to stand .
+screv_find_place_bus	one person stood directly in front of me , in constant contact with my legs .
+unrelev_bus	this really annoyed me even more .
+evoking_bus	i don ' t like riding public transportation .
+screv_bus_stops_bus	finally we got to my stop
+screv_get_off_bus	and i got out of the bus through the rear doors .
+<end_of_story>
+unrelev_bus	my car had recently broke down and i had no mode of transportation ,
+evoking_bus	i needed to ride the bus to work everyday now .
+evoking_bus	i had never rode the bus before so it was kind of a daunting experience .
+screv_get_ticket_bus	i looked up what i needed to do online , the first thing i needed to do was buy a bus pass in order to even ride the bus .
+screv_ride_bus	after that it was relatively simple , i just had to wait for the bus that would take me nearest to my office building ,
+screv_board_bus_bus	and board it .
+screv_find_place_bus	once i was on i just had to scan my pass and pick a seat .
+screv_bus_stops_bus	after that i just waited until i reached my stop
+screv_get_off_bus	and i got off of the bus .
+unclear_bus	once work was over i just did the same thing
+screv_get_off_bus	and got off at the stop as close to my house as possible .
+evoking_bus	riding the bus was not as scary as i thought it would be .
+<end_of_story>
+screv_get_bus_stop_bus	i walk a few blocks from my home to the local bus stop picking up a newspaper along the way .
+screv_bus_comes_bus	as the bus arrives i prepare to remove money from my wallet for the fare .
+screv_board_bus_bus	as the bus stops the doors open and i walk up the metal steps and stop to pay my fare to the driver .
+unrelev_bus	the bus is partially full
+screv_find_place_bus	but with enough seats to choose from i select a window seat .
+screv_spend_time_bus_bus	being a warm day i open the window a crack to get a breeze on me .
+screv_spend_time_bus_bus	during my ride just out of curiosity i check out all of the other passengers before settling down to read my newspaper .
+screv_spend_time_bus_bus	i check out the local scores in the sports section first then continue to read the remainder of the paper .
+screv_get_off_bus	as the bus nears my stop i get up and walk to the exit waiting for the door to open then depart .
+<end_of_story>
+unrelev_bus	my boss gave me tickets to the pittsburgh penguins hockey game .
+unrelev_bus	the penguins play in the downtown area of my city .
+unrelev_bus	i live in a busy city so driving a car to the downtown area is n't always the best idea .
+unrelev_bus	first , you have to deal with traffic .
+unrelev_bus	after dealing with traffic , you have to find a place to park .
+unrelev_bus	paying for parking is very expensive .
+unrelev_bus	a public bus is usually the quickest way to get to downtown .
+screv_get_bus_stop_bus	first , i had to go to the bus stop
+screv_check_time-table_bus	and get a schedule to plan my bus trip .
+unrelev_bus	i did this days in advance , because i was really excited for the game .
+screv_board_bus_bus	after setting the time i would get on the bus , i made sure to arrive 23 minutes early
+relnscrev_bus	so i do n't miss the bus .
+screv_get_ticket_bus	i got on the bus and paid my fare for the trip .
+screv_find_place_bus	i sat back and let the bus driver take me right to the front entrance of the hockey arena because that 's where the bus stop was .
+<end_of_story>
+unrelev_bus	in the morning , i had to get ready to go to work .
+unrelev_bus	at the time , i did n't have a car , and the weather was too wet and windy to use a bicycle for transportation .
+unrelev_bus	after a quick breakfast , i got my good shoes on and a jacket .
+screv_get_bus_stop_bus	out the door , i locked the deadbolt and went for the bus stop about 23 blocks away from my house .
+screv_check_time-table_bus	i called the bus lines number and input the code on my phone corresponding to the bus arrival at my stop , and realized i only had a 23 minute wait .
+screv_bus_comes_bus	the bus arrived ,
+screv_get_ticket_bus	and i paid the fare for my 2-hour ticket .
+relnscrev_bus	i went to the back of the bus , as there were no seats in the front .
+unrelev_bus	the bus came to life
+relnscrev_bus	as it passed other stops without passengers ,
+screv_bus_stops_bus	and we eventually got to the transit station , where i was able to walk by foot the rest of the way to my workplace .
+<end_of_story>
+unrelev_bus	a few years ago we took a mexican vacation .
+unrelev_bus	we heard the best way to travel is on the bus .
+unrelev_bus	it was very hot and tropical .
+screv_wait_bus	we stood outside in the heat on the long sidewalk waiting for it .
+screv_wait_bus	as we were standing there a giant gecko came out of the bushes .
+unrelev_bus	they say not to get near them .
+screv_board_bus_bus	we hopped on the bus .
+unrelev_bus	the bus was very inexpensive .
+unrelev_bus	it was a mixture of locals and tourists .
+evoking_bus	we decided to ride the bus to the old side of town .
+screv_get_off_bus	we got off near a strange mcdonalds .
+screv_ride_bus	very soon after that we got back on the bus and went back into the main part of town where we felt safe .
+screv_ride_bus	after that we just got on and off within a few mile radius of the hotel .
+unrelev_bus	we did end up renting a car the next day .
+<end_of_story>
+unrelev_bus	i found myself in my youth in a precarious and annoying position .
+unrelev_bus	not only did i live in the very rough part of town with theives , drug dealers , and crack addicts , but i was without reliable transportation .
+unrelev_bus	i did , however , have enough money for bus fare .
+unrelev_bus	as the job search continued i found an oportunity on the other side of town working for subway .
+evoking_bus	i utilized the bus service .
+unrelev_bus	the characters on the bus were generally normal people but there were always a few outliers that were a bit intimidating .
+unrelev_bus	most of these reeked of alcohol and insanity .
+unrelev_bus	they were probably homeless people .
+screv_spend_time_bus_bus	i usually did n't talk to too many people on the bus , just kept to myself .
+screv_bus_stops_bus	i would go to the transfer spot in downtown ,
+screv_ride_bus	and switch to the bus that would take me to my final location at subway .
+<end_of_story>
+screv_wait_bus	i was waiting at the bus stop , and as it was a very hot day , i was happy for the shady bench .
+screv_wait_bus	more people gathered around the stop , getting on and off other buses ,
+screv_bus_comes_bus	as i waited for my bus to arrive .
+screv_bus_comes_bus	finally , a bus with my number on it , arrived .
+screv_board_bus_bus	it felt a little like a rush to get on ,
+screv_get_ticket_bus	by finally i had paid my fair ,
+screv_find_place_bus	and looked for a place to sit .
+screv_find_place_bus	not finding a seat ,
+relnscrev_bus	i placed my shopping bag between my feet
+screv_find_place_bus	and stood for a few stops , holding the handhold hanging from the ceiling .
+relnscrev_bus	finally the bus cleared out a little and i was able to find a place to sit .
+screv_spend_time_bus_bus	i read my book , looking occasionally out the windows , and listening for information on the next stop ,
+screv_bus_stops_bus	until finally reaching the stop for home .
+screv_get_off_bus	even though i stepped carefully off the bus ,
+relnscrev_bus	i did stumble slightly on one the steps .
+unrelev_bus	i promised myself to be more careful in the future .
+<end_of_story>
+unrelev_bus	i needed to get to work , but my car was not working .
+evoking_bus	i decided to take the public bus .
+screv_get_bus_stop_bus	i walked to the bus stop
+relnscrev_bus	and sat down on the bench that was provided .
+screv_wait_bus	i waited until the bus that i needed pulled up and boarded the bus .
+screv_get_ticket_bus	i paid the bus driver the fare
+screv_find_place_bus	and took a seat .
+screv_find_place_bus	i sat on the bus
+relnscrev_bus	as it passed by all the stops that we drove past until we reached the stop that i needed .
+screv_get_off_bus	i pulled the bell to alarm the bus driver that i needed to get off at the next stop .
+screv_get_off_bus	he stopped when we arrived and i got off the bus .
+unrelev_bus	i had made it my work right on time .
+unrelev_bus	i walked from the bus stop a couple blocks down the street until i reached my job .
+unrelev_bus	then i entered my work and began working at my job .
+<end_of_story>
+evoking_bus	'' `` riding a public bus '' '' hannah and her mommy had just moved to the city .
+unrelev_bus	daddy took the car to work each day now and her and mommy decided they wanted to go to the shopping center .
+evoking_bus	hannah was excited because today was her first time taking the public bus .
+unrelev_bus	hannah and her family had moved to portland ,
+evoking_bus	maine and the bus they were taking was called the metro .
+unrelev_bus	hannah took her mom 's hand
+screv_get_bus_stop_bus	as they walked down the sunny streets of the city until they reached a sign that hannah could not read but she did understand the picture .
+unrelev_bus	it was a picture of a bus .
+unrelev_bus	'' `` does that sign say bus mommy ?
+unrelev_bus	'' '' hannah asked .
+screv_bus_stops_bus	her mother replied that it was and it was one of many many places around the city to get the bus to stop for them and others .
+screv_wait_bus	they waited for a long while
+screv_bus_comes_bus	and finally a large public bus came down the street and stopped before them .
+relnscrev_bus	they waited while a few passengers exited the bus because her mom said it was the polite thing to do and then they climbed the steps
+screv_get_ticket_bus	where her mother dropped their coins into the busses toll collector .
+screv_get_ticket_bus	her mother then asked for a transfer
+screv_find_place_bus	and they walked quickly to their seats .
+screv_board_bus_bus	hannah asked her mom what a transfer was and she explained that because they were going way across the city they would need to get on yet another bus and the transfer was so the other bus driver could see they already paid for their ride .
+screv_get_ticket_bus	soon the bus jolted to another stop an older lady stepped onto the bus and flashed a card at the bus driver
+screv_find_place_bus	and took a seat at the front of the bus that was saved for elderly and handicapped people .
+screv_get_ticket_bus	hannah tugged at her moms sleeve and whispered the lady did not pay .
+screv_get_ticket_bus	her mother quietly told her she had a bus pass that she paid for a whole months worth of rides for a bigger fee than just one ride .
+screv_get_ticket_bus	that people who use the bus daily buy them to save money .
+unrelev_bus	hannah thought to herself she would like bus passes for her and mommy .
+screv_ride_bus	she enjoyed the bumpy ride with the jolting stops and wide turns that made her have to hold on tight .
+screv_press_stop_button_bus	hannah also noticed people pulling a cord and she figured out why .
+screv_bus_stops_bus	it made the bus driver stop where ever they would like to get off .
+screv_press_stop_button_bus	oh how she wanted to pull the string but , mommy told her no .
+unrelev_bus	it was only for when you needed it .
+screv_bus_stops_bus	soon the bus stopped at the busy bus station .
+screv_board_bus_bus	they stepped off the bus and got on a new bus .
+screv_get_ticket_bus	her mom handed the bus driver their transfers .
+unrelev_bus	hannah was excited because this meant the next place they were going was the shopping center to buy her new shoes .
+screv_bus_stops_bus	soon the bus took off and made stop after stop .
+screv_board_bus_bus	they even picked up a man in a wheelchair .
+screv_board_bus_bus	he drove his wheelchair right up a special ramp
+relnscrev_bus	and into a spot on the bus where the driver buckled him and his wheelchair in .
+screv_press_stop_button_bus	soon hannah 's mom told her she could pull the cord to make the bus stop .
+unrelev_bus	the cord was up high but with a little help from her mom she reached it .
+screv_bus_stops_bus	ding ! the bus came to a stop shortly after and there was the shopping center right in front of them .
+evoking_bus	taking the bus was a fun form of transportation .
+relnscrev_bus	hannah waved to the driver
+screv_get_off_bus	as he pulled away to pick up and drop off even more people around the city .
+<end_of_story>
+evoking_bus	yesterday , i decided to take a bus to visit my friends at the beach .
+screv_check_time-table_bus	i checked the bus schedule on my computer .
+screv_bus_comes_bus	around the time the bus would be in the area ,
+screv_get_bus_stop_bus	i walked from my house to the bus stop .
+screv_bus_comes_bus	i wanted with other riders for the bus to arrive .
+screv_bus_comes_bus	when it did ,
+screv_get_ticket_bus	i boarded the bus and paid for my ride with coins .
+screv_find_place_bus	i then took the first available seat towards the front of the bus .
+screv_find_place_bus	there was a older lady seated next to me
+screv_spend_time_bus_bus	and we had a nice conversation .
+screv_bus_stops_bus	the bus stopped at various locations and people got on and off .
+screv_board_bus_bus	when a pregnant woman got on the bus ,
+relnscrev_bus	i stood up and let her have my seat .
+relnscrev_bus	i then stood and held the pole in the middle of the bus to keep stable as the bus lurched during it 's starts and stops .
+screv_bus_stops_bus	before long , the bus arrived at the bus stop closest to the beach
+screv_get_off_bus	and i exited the bus to meet my friends .
+<end_of_story>
+evoking_bus	my car was in the shop , so today i decided to commute to school on a public bus .
+screv_check_time-table_bus	first , i looked up what bus i would need .
+screv_change_bus_bus	i found i need to take two buses and transfer in the middle .
+screv_get_bus_stop_bus	i started walking to the first bus stop and arrived ten minutes
+screv_bus_comes_bus	before the bus was scheduled to arrive .
+screv_bus_comes_bus	it came on time ,
+screv_get_off_bus	and the bus driver let off the other passengers .
+screv_get_ticket_bus	i stepped onto the bus and paid the driver the fare .
+screv_find_place_bus	then i found an open seat by a window and sat down .
+unrelev_bus	the ride was around 23 minutes or so .
+screv_bus_stops_bus	then the driver announced my stop .
+screv_get_off_bus	i headed out the back doors .
+screv_wait_bus	outside , i found a bench and sat down .
+screv_bus_comes_bus	the next bus came fairly quickly .
+screv_get_ticket_bus	i hopped on and showed the driver my transfer ticket .
+relnscrev_bus	this time , the bus was packed ,
+screv_find_place_bus	so i found a pole and hung on .
+unrelev_bus	the ride was n't too long , however ,
+screv_bus_stops_bus	and soon i was at my final destination .
+screv_get_off_bus	i found my way off the bus and walked over to school .
+<end_of_story>
+evoking_bus	today i rode the public bus to work as i usually do .
+evoking_bus	because i ride several busses daily ,
+screv_get_ticket_bus	i had previously purchased a bus pass that allows unlimited use for the month .
+relnscrev_bus	by having this pass i did n't need to worry about having proper change or tokens for the bus .
+screv_check_time-table_bus	i checked the schedule for my bus by using '' `` google maps '' ''
+relnscrev_bus	and determined that my regular bus was on schedule .
+screv_get_bus_stop_bus	i walked to the bus stop and saw that my bus was several blocks away .
+screv_board_bus_bus	when the bus arrived i boarded it after several other passengers ,
+screv_get_ticket_bus	and then slid my pass through the card reader .
+unrelev_bus	there were several seats available
+screv_find_place_bus	and i selected the first one i came to .
+screv_board_bus_bus	the bus continued on schedule along the route with passengers departing and boarding .
+relnscrev_bus	when i arrived at work i gathered all of my personal belongings
+screv_get_off_bus	and disembarked .
+<end_of_story>
+unrelev_bus	i exited my home and locked my front door .
+unrelev_bus	i walked down my stoop stairs and turned left .
+screv_get_bus_stop_bus	the bus stop was three and a half blocks away .
+relnscrev_bus	i checked my watch .
+screv_check_time-table_bus	i had looked up the bus schedule
+screv_bus_comes_bus	and the bus was supposed to be arriving in ten minutes .
+screv_wait_bus	i arrived at the bench with a few minutes to spare .
+relnscrev_bus	i sat on the bench underneath the rain awning and read my book until i noticed the bus approaching .
+unrelev_bus	i stood up , closed my book ,
+relnscrev_bus	and fished through my purse for my metrocard .
+screv_bus_comes_bus	the bus pulled to a stop
+screv_door_opens_bus	and the doors opened .
+screv_get_ticket_bus	i climbed up the steps and pushed my metrocard into the automated ticket taker .
+relnscrev_bus	the machine beeped and i read the digital display showing me that i had some money left on my card .
+relnscrev_bus	i was glad to have enough left over for my return trip .
+relnscrev_bus	i put my metrocard away
+screv_find_place_bus	and walked toward the back of the bus .
+unrelev_bus	there was an empty seat near the window
+screv_find_place_bus	and i sat down .
+screv_spend_time_bus_bus	i gazed out the window , choosing not to continue reading my book
+relnscrev_bus	because it makes me carsick .
+screv_bus_stops_bus	when the bus neared my destination ,
+screv_press_stop_button_bus	i pressed the button to request a stop .
+relnscrev_bus	the bus stopped and i said excuse me to a few fellow passengers
+screv_go_exit_bus	as i made my way to the back door .
+screv_other_bus_bus	i touched the tape on the doors
+screv_door_opens_bus	and they opened automatically .
+relnscrev_bus	i gave a wave of thanks to the bus driver
+screv_get_off_bus	and stepped down carefully onto the curb .
+<end_of_story>
+unrelev_bus	yesterday my car broke down , so i was thinking of how i would get to work .
+evoking_bus	i decided one of the best options would be to take a public bus .
+evoking_bus	since i 've never taken one before , i went to the city website
+screv_check_time-table_bus	and looked at a schedule of all the bus times and routes .
+screv_find_bus_bus	when i had finally decided on the bus that i needed to take , it was time to put my plan into action .
+screv_get_bus_stop_bus	i left my house and walked over to the bus stop .
+screv_wait_bus	there were a few other people waiting there as well .
+screv_get_ticket_bus	when the bus arrived i got on and paid the driver the fee , which was $ 23 .
+screv_bus_stops_bus	i then sat down and waited for the bus to arrive at my destination .
+screv_ride_bus	it took about 23 minutes to get where i was going ,
+screv_bus_stops_bus	and i arrived safely .
+unrelev_bus	i think that overall it was a pleasant experience .
+<end_of_story>
+screv_wait_bus	i stood at the bus stop
+screv_check_time-table_bus	and consulted the bus timetable .
+screv_bus_comes_bus	my bus should be there any minute .
+screv_wait_bus	there were several people waiting with me .
+relnscrev_bus	we were standing under the shelter , because it had started raining .
+screv_bus_comes_bus	then i saw the bus arriving .
+screv_bus_comes_bus	it pulled up to the bus stop
+screv_board_bus_bus	and we all stood in line to get on .
+relnscrev_bus	i said hello to the driver
+screv_get_ticket_bus	and paid my fare .
+screv_find_place_bus	then i found an empty seat at the back of the bus .
+screv_spend_time_bus_bus	i sat down and looked out the window at the city
+screv_ride_bus	while we drove .
+unrelev_bus	there were many stops
+unclear_bus	and people getting off and on .
+screv_find_place_bus	the bus grew so crowded that someone came and sat next to me .
+relnscrev_bus	i scooted over to make room and kept looking out the window .
+screv_bus_stops_bus	finally it was my stop .
+screv_find_place_bus	i said excuse me to the person sitting next to me ,
+relnscrev_bus	and he moved over to let me go by .
+screv_get_off_bus	i stood up and walked off the bus .
+screv_bus_stops_bus	i had arrived at my location .
+<end_of_story>
+unrelev_bus	where i live ,
+screv_ride_bus	i always need to take a public bus to the train station to get to my destinations .
+unrelev_bus	the bus is not usually on schedule so sometimes this can be frustrating especially on a cold winter day
+screv_wait_bus	as you are waiting for a bus .
+unrelev_bus	since the discovery of a bustimes app on my iphone , i am able to know exactlly
+screv_check_time-table_bus	when my bus arrives using their gps technology .
+unrelev_bus	it is accurate most of the times .
+screv_get_bus_stop_bus	i get ready to leave my house ,
+screv_check_time-table_bus	look at my bustimes app to see when the bus is arriving ,
+screv_board_bus_bus	and then leave my house to catch the bus without wasting my time waiting for the bus .
+screv_board_bus_bus	i pay the fare getting on the bus ,
+relnscrev_bus	greet the driver with a smile ,
+screv_find_place_bus	and find a seat to sit down .
+unrelev_bus	it is a short ride to my train station where i can get on the train to my final destination .
+<end_of_story>
+unrelev_bus	last year i got a job in downtown atlanta .
+unrelev_bus	i live 23 miles from the downtown .
+unrelev_bus	so during commute hours it takes 1-1 23 hours to get to job .
+unrelev_bus	in a day , i 'll be spending 23 hours in car with nothing else to do .
+unrelev_bus	so i started thinking about alternatives .
+evoking_bus	how about taking public transport ?
+screv_find_bus_bus	i checked online and found a route which is closer to where i live .
+screv_find_bus_bus	i found that the best stop was right in front of my apartment complex which i had never noticed before .
+unrelev_bus	i started waking up by 6:30 .
+screv_get_bus_stop_bus	by 23 , i 'll reach the bus stop .
+screv_bus_comes_bus	the bus will come sharp at 7:10 .
+screv_get_ticket_bus	i need to swipe the transport 's card or pay in cash
+screv_board_bus_bus	when i get into the bus .
+screv_find_place_bus	usually there will be couple of seats vacant so i do n't need to stand .
+screv_spend_time_bus_bus	i will either sleep or read a book for the entire journey .
+screv_spend_time_bus_bus	or i could talk to passengers .
+unrelev_bus	overall it was a nice experience .
+<end_of_story>
+evoking_bus	the trick to getting around an island as congested with traffic as oahu , is to ride the public bus .
+unrelev_bus	there are too many cars , in too small of an area , and the result is hours of gridlock on the roads .
+unrelev_bus	the bus can use special lanes , and helps reduce the overall traffic .
+evoking_bus	learning to ride the public bus was a little stressful at first .
+screv_check_time-table_bus	i studied bus routes online on their website , there are quite a few and it seemed like it 'd be easy to get on the wrong bus .
+unrelev_bus	i learned each bus has a number assigned to it and displayed on the front though .
+screv_wait_bus	with that in mind , and armed with maps , i learned to stand at my local bus stop
+screv_board_bus_bus	and climb on board
+screv_get_ticket_bus	where i drop my change into the toll taker next to the driver .
+screv_find_place_bus	i always look for an empty seat ,
+relnscrev_bus	and then relax , watching the scenery roll by .
+screv_bus_stops_bus	as my stop approaches ,
+screv_press_stop_button_bus	i stand and pull the bell ,
+screv_bus_stops_bus	and the driver stops the bus .
+evoking_bus	now that i regularly ride the public bus , i find i do n't mind the long commute nearly as much !
+<end_of_story>
+evoking_bus	last week , my friend and i rode the public bus into town .
+screv_check_time-table_bus	we looked at a bus schedule
+screv_find_bus_bus	and found the bus stop closest to our homes .
+screv_get_bus_stop_bus	we got to the bus stop ten minutes before our bus was supposed to arrive and waited .
+screv_bus_comes_bus	when it arrived ,
+screv_board_bus_bus	we got into the line to board .
+screv_get_ticket_bus	each person in front of us climbed the steps and put a token into the machine at the front of the bus .
+unrelev_bus	we had no token ,
+screv_get_ticket_bus	so we gave the bus driver our money and he gave us tokens to put in .
+screv_find_place_bus	we found a seat at the back of the bus and sat down .
+screv_check_time-table_bus	we checked our bus schedule
+screv_find_bus_bus	and decided where we wanted to get off .
+screv_bus_stops_bus	when the sign at the front of the bus showed that it was our stop ,
+screv_get_off_bus	we gathered our things and prepared to get off .
+screv_get_off_bus	after we got off , we made a note of which bus stop we were at
+screv_bus_comes_bus	and the time the bus would be there again to take us home .
+unrelev_bus	then we went off to explore the town .
+<end_of_story>
+unrelev_bus	today is the first day for my new job .
+unrelev_bus	this new job is near the center of the city an parking is horrible .
+evoking_bus	so i decided the best thing to do was take a bus to work .
+screv_check_time-table_bus	i got a bus schedule
+screv_find_bus_bus	and found the nearest bus stop to my house
+screv_check_time-table_bus	and went over the times of the buses . .
+screv_change_bus_bus	since i would have to take 2 buses to get to work i had to make sure of the i would be able to meet the next bus and get to work on time .
+screv_wait_bus	as i waited on the corner for my bus ,
+screv_wait_bus	a few other people came up to wait also .
+screv_get_ticket_bus	the bus pulled up and we all boarded and paid our fare and i got a transfer for the second bus .
+relnscrev_bus	as the bus was in route i decided to read my paper .
+screv_bus_stops_bus	i happened to look up and notice that i was close to my stop
+screv_press_stop_button_bus	so i pulled the cord to let the bus driver know i wanted to get off ,
+relnscrev_bus	he pulled over and wished me a good day and i in kind said the same to him .
+screv_wait_bus	i waited a few moments for the next bus ,
+screv_board_bus_bus	as i board the next bus ,
+screv_spend_time_bus_bus	and sat down i pulled out my newspaper and finished reading the news .
+screv_get_off_bus	the bus let me off a half a block from my new job , as i walked the short way i thought this will not be so bad , a bit more time to get to work but i liked riding the bus .
+<end_of_story>
+evoking_bus	as my car was not working correctly i decided to take a public bus .
+relnscrev_bus	i called the bus depot and asked how much tickets where and the departure times .
+unrelev_bus	the rates where reasonable for what i needed and i really did n't have a choice in the matter as my own car was messed up .
+screv_get_bus_stop_bus	i had a friend take me to the bus stop
+screv_get_ticket_bus	where i purchased my round trip ticket and prepared to wait for the bus to load and leave to take me to my destination .
+unrelev_bus	i went to the restroom to double check my concealed handgun and make sure it was cocked , locked , and loaded as you can never be too safe .
+unrelev_bus	my gun was fine so i tucked it under my shirt
+screv_board_bus_bus	and boarded the bus .
+screv_find_bus_bus	i found a seat near the back
+screv_spend_time_bus_bus	where i could see most of the other passengers and kicked back to make the trip .
+<end_of_story>
+relnscrev_bus	i was very excited to go visit my friend in the city .
+screv_check_time-table_bus	i needed to take a bus there so i went online the night before to plan my route .
+screv_get_bus_stop_bus	my parents dropped me off at the bus stop
+screv_get_ticket_bus	and i went to the ticket machine to get a metrocard .
+relnscrev_bus	i sat down on a bench
+screv_bus_comes_bus	and waited for the bus to arrive .
+screv_door_opens_bus	after a few minutes the big bus arrived and opened its doors .
+relnscrev_bus	as i walked up the stairs i said hello to the bus driver .
+relnscrev_bus	i took out my metrocard and swiped it in the slot .
+relnscrev_bus	i asked the driver how long until my stop and he said it was the fifth stop
+screv_ride_bus	and would take about forty minutes .
+screv_get_off_bus	after forty minutes it was time for me to get off the bus .
+relnscrev_bus	the bus driver told me to have a good day
+screv_get_off_bus	and i got off the bus .
+unrelev_bus	i could see my friend mickey waving to me across the street .
+<end_of_story>
+unrelev_bus	one afternoon , i decided to go to the library to check out some books and movies .
+evoking_bus	it was too far away to walk , so i decided to ride the bus .
+unrelev_bus	i found a map and looked for my home and the library .
+unrelev_bus	on the map , there was a symbol that stood for '' `` bus '' '' at a street corner a block from where i lived .
+unrelev_bus	there was another symbol for the bus on the road right in front of the library .
+screv_find_bus_bus	i looked up the name of each of these stops on the map , and it said that the number 23 bus goes to both of these stops .
+screv_bus_comes_bus	it also listed what times the number 23 bus arrives at each of these stops .
+screv_bus_comes_bus	when it was a few minutes before the bus was due to arrive at the stop at my street corner ,
+relnscrev_bus	i checked my piggy bank and took out some dollar bills and quarters ,
+screv_get_bus_stop_bus	and then i walked to the bus stop .
+screv_wait_bus	after waiting for a few minutes , a big bus that said '' `` number 23 '' '' pulled up ,
+screv_door_opens_bus	and the driver opened the door .
+relnscrev_bus	i walked on and read the sign explaining the fare .
+screv_get_ticket_bus	i paid exactly what the sign said into the machine near the driver
+screv_find_place_bus	and found a seat near the middle of the bus .
+screv_ride_bus	as the bus drove down the road ,
+relnscrev_bus	the names of each stop appeared in writing near the front of the bus .
+relnscrev_bus	an electronic voice also said the names out loud so that the deaf would know what stop they are approaching .
+screv_board_bus_bus	sometimes the bus driver would stop and let more people on board ,
+screv_get_off_bus	and sometimes people got off .
+screv_wait_bus	sometimes there was nobody waiting at a stop and nobody trying to get off , so the driver kept on moving .
+relnscrev_bus	when i saw the name of the stop outside the library appear ,
+screv_press_stop_button_bus	i pulled a big yellow cord hanging above the window .
+screv_press_stop_button_bus	this made a noise and notified the bus driver that i wanted to get off at this stop .
+screv_bus_stops_bus	he stopped the bus when we arrived ,
+screv_door_opens_bus	opened the doors ,
+screv_get_off_bus	and i got off to enjoy my afternoon at the library .
+<end_of_story>
+screv_get_bus_stop_bus	i walked to the bus stop near my home
+relnscrev_bus	so that i could get to work .
+unrelev_bus	i brought along my purse which had my bus card in it
+screv_get_ticket_bus	so that i could ride without paying cash .
+screv_bus_comes_bus	it only took a few minutes for the noisy bus to arrive .
+screv_bus_stops_bus	it stopped at the bus stop
+screv_door_opens_bus	and the door opened .
+relnscrev_bus	the bus driver scanned my bus card
+screv_find_place_bus	and i walked to an empty bench near the middle of the bus .
+screv_board_bus_bus	many other passengers boarded the bus after me and soon the bus was nearly full .
+screv_spend_time_bus_bus	looking around me , i saw a number of senior citizens as well as other young adults .
+screv_spend_time_bus_bus	there was even a woman with a sleeping baby sitting on the bus near my bench .
+screv_bus_stops_bus	i decided to listen to music on my smart phone while i waited for the bus to reach my destination .
+screv_bus_stops_bus	the bus stopped every few minutes to let other passengers on and off of the bus .
+screv_bus_stops_bus	after about an hour , the bus stopped at my bus stop
+screv_get_off_bus	and i got up and walked out of the bus ,
+relnscrev_bus	wishing the driver a good day .
+<end_of_story>
+evoking_bus	the first time i rode a public bus was in high school .
+relnscrev_bus	i needed a ride to get home from school since no family members could get me .
+screv_wait_bus	so i waited for the bus
+screv_bus_comes_bus	until it came .
+screv_board_bus_bus	then i stepped onto the bus ,
+screv_get_ticket_bus	i inserted the fee of two dollars into the cash machine
+relnscrev_bus	and the driver waived me on .
+screv_spend_time_bus_bus	i went and took my seat and minded my own business .
+screv_ride_bus	once the bus was on its way ,
+screv_spend_time_bus_bus	i waited until we were close to my house .
+screv_press_stop_button_bus	i then pulled on the yellow stop cord that is hung throughout the bus .
+screv_press_stop_button_bus	it sends a message to the driver that someone on the bus wants to get off at the next stop .
+screv_bus_stops_bus	when the driver pulled up to a stop ,
+screv_get_off_bus	i got off ,
+relnscrev_bus	i said thank you to the driver to be polite
+relnscrev_bus	and grateful and he nodded his head at me .
+unrelev_bus	then i walked the rest of the way home .
+unrelev_bus	i had always thought it would be hard
+evoking_bus	and gross to take a public bus , but it was actually kind of nice .
+unrelev_bus	there are also seat belts on public buses , but you are not required to wear one if you do not want to .
+<end_of_story>
+unrelev_bus	i live in a city where there is never enough parking .
+evoking_bus	because of this , i like to take the bus .
+unclear_bus	if you know what bus to take ,
+relnscrev_bus	you can get almost anywhere !
+relnscrev_bus	today i needed to go to the grocery store to get ingredients for dinner .
+unrelev_bus	happily , there is a bus stop only a block from my apartment .
+relnscrev_bus	before i left the house i made sure to check if i had my bus pass .
+evoking_bus	my pass allows me to ride the bus whenever i want !
+unrelev_bus	if i did n't have it ,
+screv_get_ticket_bus	i would have to pay $ 23 for the ride .
+screv_wait_bus	i waited at the bus stop for just a few minutes
+relnscrev_bus	before a bus drove by .
+screv_board_bus_bus	i did n't get on it , however , because it was the 23 bus .
+relnscrev_bus	i know that i need to take the 23 or 23 to get to the grocery store .
+screv_bus_stops_bus	finally an 23 bus stopped ,
+screv_board_bus_bus	and i got on ,
+relnscrev_bus	tapping my bus pass onto a special box near the door .
+screv_ride_bus	the driver started driving down the street .
+screv_bus_stops_bus	we stopped a couple of times at lexington road and then drove street .
+screv_get_off_bus	sometimes people got off the bus ,
+screv_board_bus_bus	and sometimes people got on .
+unrelev_bus	next it was my stop : broadway street .
+relnscrev_bus	i thanked the bus driver
+screv_get_off_bus	as i got off .
+evoking_bus	it 's so much nicer to take the bus than walk all that way !
+<end_of_story>
+relnscrev_bus	every time i have to go to school or work i have to always ride a public bus .
+relnscrev_bus	i have to make sure that i am by the bus stop in order to catch the bus on time .
+screv_board_bus_bus	when i get on the bus ,
+screv_get_ticket_bus	i have to pay the bus fare .
+evoking_bus	i live in a big city , so there 's always a lot of people needing to take the bus .
+screv_spend_time_bus_bus	therefore ; sometimes i am not lucky to find a seat to sit on .
+screv_spend_time_bus_bus	in that case , i would have to stand up .
+evoking_bus	overall , riding a bus is not enjoyable because it tends to be dirty , people are very loud , and it is very crowded .
+unrelev_bus	not to mention , it always smells like urine .
+unrelev_bus	my commute is always a long one .
+screv_ride_bus	i usually stay on the bus for one hour .
+screv_spend_time_bus_bus	for that one hour on the bus , i listen to music or play on my cell phone .
+screv_bus_stops_bus	eventually , i get to my stop .
+relnscrev_bus	i get off the bus and reach my destination .
+<end_of_story>
+screv_bus_comes_bus	yesterday , i stood at the bus stop for over twenty minutes waiting for vta bus 23 to show up at my stop at my community college .
+screv_bus_comes_bus	after the bus arrived at the stop ,
+relnscrev_bus	i scanned my clipper card , which gives me unlimited vta bus rides as long
+screv_get_ticket_bus	as i pay my school fee of $ 23 at the start of the quarter .
+screv_spend_time_bus_bus	i walked past several people sitting in the first front rows
+screv_find_place_bus	and decided upon a window-seat near the middle of the bus .
+screv_spend_time_bus_bus	i pulled out my headphones and started listening to my own music from my phone in order to pass the time .
+screv_bus_leaves_bus	we took off five minutes later
+screv_bus_stops_bus	and arrived at the first stop in about five minutes .
+unrelev_bus	this is an express bus ,
+screv_bus_stops_bus	meaning it takes limited stops .
+screv_bus_stops_bus	another five minutes later we arrived at the second stop , which was mine to get off at .
+screv_bus_stops_bus	before arriving at the stop ,
+screv_press_stop_button_bus	i pulled the cord to initiate the voice recording which states '' `` stop requested '' '' .
+screv_bus_stops_bus	the bus driver pulled to the side ,
+relnscrev_bus	i grabbed my backpack
+screv_get_off_bus	and all my other belongings and headed off the bus .
+<end_of_story>
+relnscrev_bus	i often use the public bus system locally to get around town , as it is much cheaper than driving .
+relnscrev_bus	before i leave home , i always make sure that i have enough money to pay for riding the bus wherever i need to go that day and back home .
+unrelev_bus	this is especially important if i am going to be buying anything else that day .
+unrelev_bus	some bus systems have a special price for certain groups , like students .
+unrelev_bus	i am able to use my student id card to get a discounted rate .
+unrelev_bus	i have a bus schedule at home
+screv_check_time-table_bus	where i can easily check it , but i have it memorized because i use it so much .
+screv_get_bus_stop_bus	i make sure i leave to go to the bus stop so that i get there about five minutes early .
+unrelev_bus	usually the bus is on time , as long as there have n't been any issues that day .
+screv_bus_comes_bus	when the bus arrives ,
+relnscrev_bus	i first check that it is the bus number for
+relnscrev_bus	where i want to go , as different bus lines go to different areas of the city .
+screv_board_bus_bus	when i get on the bus ,
+screv_get_ticket_bus	i have to show my id and pay ,
+screv_find_place_bus	and then i can go to a seat .
+unrelev_bus	sometimes the bus can be pretty full ,
+screv_spend_time_bus_bus	and i have to sit next to someone else .
+evoking_bus	a lot of the same people will often ride the bus with me , so i get to know them .
+screv_spend_time_bus_bus	i will sometimes bring a book with me to read while i ride the bus .
+relnscrev_bus	i make sure to pay attention to what stop we are at , and start to prepare one stop ahead of
+screv_get_off_bus	where i need to get off the bus .
+screv_bus_stops_bus	once i arrive at my bus stop ,
+screv_go_exit_bus	i walk to the front of the bus
+relnscrev_bus	and thank the driver ,
+screv_get_off_bus	then hop off and continue with whatever i need to do that day .
+<end_of_story>
+relnscrev_bus	this morning , i took a public bus so i could go to the beach .
+unrelev_bus	the bus fare is cheaper than a taxi .
+screv_ride_bus	in my city , it costs $ 23 to ride .
+screv_wait_bus	first , i waited at the bus stop near to my house .
+screv_bus_comes_bus	when the bus stopped for me ,
+screv_board_bus_bus	i walked up the steps , which are pretty high .
+relnscrev_bus	i said hello to the bus-driver and he gave me a friendly smile .
+screv_get_ticket_bus	i paid my fare went to look for a seat .
+evoking_bus	there are usually a lot of people riding , but today it was pretty empty .
+screv_ride_bus	the bus began to move ,
+screv_spend_time_bus_bus	so i had to get my footing .
+screv_find_place_bus	i saw a good corner spot in the back and made my way .
+screv_spend_time_bus_bus	i was hanging onto the poles because i did not want to fall over when the bus started to pick up speed .
+unrelev_bus	there was an older woman who i passed and she had about two bags with her
+screv_spend_time_bus_bus	and she was humming a quiet song .
+unrelev_bus	there were pen markings on the chair in front of me and a piece of gum stuck to the window .
+screv_find_place_bus	i sat down ,
+screv_spend_time_bus_bus	got a book out and read for a little while .
+unclear_bus	people got on
+screv_ride_bus	and off the bus while we drove .
+unrelev_bus	it was a little bumpy .
+relnscrev_bus	i knew my stop was coming up when i saw the mall .
+unrelev_bus	the bus ride took about thirty minutes .
+screv_press_stop_button_bus	i stood up to pull the chord for my stop
+relnscrev_bus	and a light at the front of the bus lit up bright red .
+screv_get_off_bus	the bus stopped and the doors opened and i got out from the back of the bus .
+unrelev_bus	it was a nice , quick ride .
+<end_of_story>
+relnscrev_bus	i was going to meet up with my friends at the mall to watch a new movie that recently came out .
+unrelev_bus	but , since the mall is pretty far away ,
+evoking_bus	i needed to take the bus .
+screv_check_time-table_bus	so , i went online to the bus ' site to check the time that the mall route bus would be near my house .
+relnscrev_bus	i marked the times down on my phone and got ready to leave .
+unrelev_bus	i sent a text to my friends and let them know that i could make it and that i 'd been there soon .
+screv_get_ticket_bus	i grabbed my jacket , wallet , and made sure to get my bus pass .
+unrelev_bus	i checked the time and set off .
+screv_get_bus_stop_bus	i walked a few blocks to the bus stop and double checked the time .
+screv_wait_bus	i had to wait for a little bit , but it 's always better to get to the stop early , since sometimes the bus is n't quite on schedule .
+screv_board_bus_bus	the bus finally pulled up and i got on .
+relnscrev_bus	i swiped my card
+screv_find_place_bus	and i found a decent seat .
+unrelev_bus	luckily , there were n't that many people on board and the stops were short .
+screv_ride_bus	as the bus got closer to the mall ,
+relnscrev_bus	and it was nearing the stop ,
+screv_get_off_bus	i pulled on the line that let the driver know that she needed to let someone off .
+relnscrev_bus	i made it to the mall in good time and got to hang out with my friends a bit before the movie .
+unrelev_bus	it was a pretty good day .
+<end_of_story>
+relnscrev_bus	yesterday i had to go across town to the library to return some books .
+unrelev_bus	all my friends were busy and my car was in for repairs ,
+evoking_bus	so i had to take the bus .
+screv_find_bus_bus	first thing was to see what bus i needed .
+unrelev_bus	i went over to my computer and pulled up the bus schedules for my city .
+relnscrev_bus	i found the nearest bus stop
+screv_bus_stops_bus	and checked the bus lines that stopped there ,
+relnscrev_bus	then looked for the stop nearest the library .
+relnscrev_bus	there was a bus that went to both stops ,
+relnscrev_bus	so i would n't have to change buses to get there .
+screv_check_time-table_bus	next i found the next time the bus would be at the stop near my house , which was only 23 minutes from now .
+screv_get_bus_stop_bus	i grabbed the books and headed out to walk to the bus stop .
+screv_get_bus_stop_bus	i got to the stop about 23 minutes early
+screv_bus_comes_bus	and waited for the bus to arrive .
+unrelev_bus	it was only 23 minutes late , which is n't too bad .
+screv_board_bus_bus	i climbed into the bus ,
+screv_find_place_bus	paid the driver and found an empty seat .
+unrelev_bus	it was a pretty nice day ,
+screv_spend_time_bus_bus	so i just sat there looking out the window
+screv_bus_stops_bus	until we got to the stop by the library .
+screv_get_off_bus	i got off the bus and went inside to return my books .
+unrelev_bus	it was a good bus ride , no problems with traffic at all .
+<end_of_story>
+unrelev_bus	do n't own a car ?
+unrelev_bus	tired of walking around ?
+unrelev_bus	well i have a perfect solution for you , and it 's right under your nose .
+screv_get_bus_stop_bus	head to your local corner bus stop
+relnscrev_bus	and travel on another form of transportation !
+unrelev_bus	it 's very simple if you live in an urban setting , and still pretty simple in the suburbs .
+screv_check_time-table_bus	a good resource first is to look up a bus schedule on the internet .
+screv_find_bus_bus	additionally , you could search the sidewalks for prominent signage that indicates a bus will stop in your area .
+relnscrev_bus	once you decide on where you want to go ,
+screv_bus_comes_bus	and the time at which the bus comes ,
+screv_get_bus_stop_bus	just head out to this stop
+screv_wait_bus	and simply wait .
+screv_get_ticket_bus	a bus will eventually show up where you can board and pay directly to the bus driver .
+screv_get_ticket_bus	once paid ,
+screv_find_place_bus	simply find an open seat
+relnscrev_bus	and gaze out the window at the bustling of life that you are passing by .
+screv_bus_stops_bus	eventually you will arrive at your destination
+screv_get_off_bus	and can exit the bus .
+screv_get_bus_stop_bus	once you finish running your errands simply return to another bus spot
+screv_find_bus_bus	and find a ride home .
+<end_of_story>
+evoking_bus	when riding a public bus , i usually feel anxious so i try not to do it too often .
+screv_wait_bus	i wait at the bus stop until the bus i am looking to board arrives .
+screv_get_bus_stop_bus	i usually walk to the bus stop .
+screv_board_bus_bus	when the bus arrives ,
+screv_get_ticket_bus	i pay the fare and it .
+screv_spend_time_bus_bus	i usually hope that the bus will not be too full , since i do not like to sit with strangers .
+screv_spend_time_bus_bus	hopefully i can sit somewhere by myself .
+screv_spend_time_bus_bus	i sit down and usually put on some headphones so that no one tried to have a conversation with my .
+screv_find_place_bus	hopefully i was able to secure a window seat
+relnscrev_bus	so i stare out the window while i wait to get to my destination .
+unrelev_bus	i use a lot of hand sanitizer since buses skeeve me out .
+screv_spend_time_bus_bus	if i 'm going to be on the bus for a long time , i will use a antibacterial wipe to clean around me .
+screv_bus_stops_bus	when we get to my destination i will be very relieve and leave .
+<end_of_story>
+unrelev_bus	never will i ever forget the first time my third grade class went on a field trip .
+evoking_bus	that was the first day i ever took a bus other than a school bus .
+screv_get_ticket_bus	we had to get our permission slips signed and bring in $ 23 for a bus pass .
+screv_get_ticket_bus	when i first held my bus pass i wondered why people did n't just pay with cash .
+relnscrev_bus	the day finally came for us to go to the museum
+screv_get_bus_stop_bus	and we walked together as a class to the bus stop .
+screv_bus_comes_bus	we stood there waiting for about ten minutes for the bus to come .
+screv_board_bus_bus	when it arrived people rushed off and we boarded one by one .
+relnscrev_bus	we each swiped our bus pass
+screv_find_place_bus	and searched for a seat .
+unrelev_bus	there were some people who took up two seats and the aroma of breath lingered in the air .
+screv_press_stop_button_bus	each stop a bell rang letting the driver know passengers wanted to get off .
+screv_ride_bus	it took us ten stop to get to the museum but it seemed like forever .
+screv_press_stop_button_bus	my teacher pressed the button and we all ran to the museum doors happy to be free .
+<end_of_story>
+unrelev_bus	last friday , my car broke down .
+relnscrev_bus	i had to get to work monday , so i decided to ride the public bus since it ran fairly close to my home and work both .
+screv_wait_bus	monday morning i got ready early and set off to wait at the bus stop .
+screv_wait_bus	after sitting for quite a while ,
+screv_bus_comes_bus	the bus finally pulled up .
+screv_board_bus_bus	i let others at the stop get on first , then i got on .
+relnscrev_bus	i asked the bus driver how much the fare was and he told me .
+screv_get_ticket_bus	i paid the fare by sticking my money in the box near the bus driver ,
+screv_find_place_bus	and walked to find a free seat .
+screv_find_place_bus	i found one near the back of the bus , and i sat down .
+unrelev_bus	the bus ride was fairly quick and uneventful .
+screv_ride_bus	i noted that the ride went the same route that i did .
+screv_bus_stops_bus	once the bus stopped at the stop near my work ,
+screv_get_off_bus	i disembarked .
+evoking_bus	that 's how i rode the public bus .
+<end_of_story>
+relnscrev_bus	before leaving my house ,
+screv_check_time-table_bus	i check the bus schedule on the internet .
+relnscrev_bus	i noticed the bus was running late today ,
+screv_wait_bus	but i went outside to wait at the bus stop anyway .
+screv_bus_comes_bus	the bus actually arrived even later than it was estimated on the internet .
+screv_board_bus_bus	i got onto the bus after the arriving passengers exited .
+screv_get_ticket_bus	i paid with exact change into the money collector .
+unrelev_bus	there were no empty seats on the bus
+screv_spend_time_bus_bus	and almost all the places to stand were full too .
+screv_find_place_bus	i found a spot next to a man who smelled like he was eating onions .
+screv_get_off_bus	for the next 23 blocks i had to smell him before he exited the bus .
+screv_spend_time_bus_bus	the next person who stood by me was a morbidly obese man who liked to talk about anything he could think of .
+screv_spend_time_bus_bus	i tried to just look out the window because it was so uncomfortable .
+unrelev_bus	finally , seven blocks later i was at my stop and i could not have been more relieved .
+<end_of_story>
+unrelev_bus	i made plans to meet a friend in the city .
+evoking_bus	normally i would drive but there is a lot of traffic and very little parking in the city so decided to take the bus .
+relnscrev_bus	i made sure i had enough fare and left the house .
+screv_get_bus_stop_bus	i walked to the bus stop and there was two elderly people waiting before me .
+screv_wait_bus	i waited on line and short time later i saw the bus coming .
+screv_bus_stops_bus	the bus stopped in front of us
+screv_board_bus_bus	and the elderly people got on first .
+screv_board_bus_bus	i got on the bus after them
+screv_get_ticket_bus	and then paid my bus fare .
+screv_find_place_bus	i could n't find any seats so i held on the the metal handles provided in the bus
+relnscrev_bus	so i would n't fall .
+relnscrev_bus	after awhile i saw that my destination was near and should get off .
+screv_bus_stops_bus	i pushed the button that sent a signal requesting the bus to stop at the next bus top .
+screv_bus_stops_bus	the bus pulled over at the next stop
+screv_get_off_bus	and i got off the bus .
+unrelev_bus	i met my friend a few blocks down at a restaurant and had a great time .
+<end_of_story>
+evoking_bus	i had to ride a public bus one day .
+evoking_bus	i was n't sure about the routes or the charge to ride ,
+relnscrev_bus	so i got on the computer
+screv_check_time-table_bus	and looked it up .
+relnscrev_bus	i was able to enter in where i was starting from and where i wanted to be in order to find an acceptable route .
+screv_board_bus_bus	i had to catch two different buses , so i had to pay a transfer fee in addition to the regular fee and let the bus driver know as i got on the bus .
+relnscrev_bus	i also looked up a route home with extra times in case i missed a bus .
+relnscrev_bus	i gathered the things i needed for my travels
+screv_find_bus_bus	and found a sign with a bus stop symbol on it , and made sure it listed the bus number i needed .
+relnscrev_bus	i told the driver i needed a transfer ticket
+screv_get_ticket_bus	and paid my extra fee .
+screv_get_off_bus	when it was time to get off the bus ,
+relnscrev_bus	i had to pull the cord to let the driver know before we passed my spot .
+<end_of_story>
+relnscrev_bus	this morning when i woke up for work i realized i was running late for my usual ride .
+screv_get_bus_stop_bus	i hurried to get ready and then raced to the bus terminal that is nearest to my apartment .
+screv_get_bus_stop_bus	i arrived at the bus stop just in time
+screv_get_bus_stop_bus	as the bus was pulling up when i got there .
+screv_door_opens_bus	the bus driver opened the door
+screv_board_bus_bus	and a line of people filed into the bus ahead of me .
+screv_get_ticket_bus	as i boarded the bus i dropped some change in the drivers bucket to pay for my ride to work .
+screv_find_place_bus	i quickly moved toward the back of the bus and found an open seat .
+screv_spend_time_bus_bus	i sat patiently
+screv_bus_stops_bus	as the bus made a few more stops
+screv_get_off_bus	and people came and went from the bus .
+screv_bus_stops_bus	after about twenty minutes the bus pulled up outside my office building .
+screv_bus_stops_bus	the bus came to a stop
+screv_go_exit_bus	and i hopped up and made my decent down the stairs and off the bus .
+unrelev_bus	i was at work with only minutes to spare before i needed to be punched in for my shift .
+unrelev_bus	i was happy i had made it on time .
+<end_of_story>
+evoking_bus	my friend and i took the bus last week to the mall .
+relnscrev_bus	this was a fun trip that last for a few hours back and forth .
+screv_wait_bus	in the morning we got up early to wait outside the bus stop near our houses .
+screv_get_ticket_bus	when the bus came on time we got on board and paid for our tickets through the machine .
+relnscrev_bus	my friend swiped his bus card
+screv_get_ticket_bus	and i paid in cash .
+screv_find_place_bus	after we got on we both went to the back where there were two empty seats .
+screv_change_bus_bus	after stopping at 23 stops we transferred buses at the local station .
+relnscrev_bus	this would allow us to take the right route to the mall .
+evoking_bus	after coming back from the mall we took the same bus .
+unrelev_bus	there were a lot more people in the afternoon .
+unrelev_bus	at one point there were no seats left
+screv_board_bus_bus	and two old ladies got on board .
+unrelev_bus	my friend an i decided to be polite and gave them our seats
+screv_spend_time_bus_bus	while we stood .
+evoking_bus	overall it was a great experience being able to ride the bus and help others at the same time .
+<end_of_story>
+relnscrev_bus	yesterday i decided i needed to get to the grocery bus .
+evoking_bus	my car had a flat tire , so i decided to ride the public bus .
+relnscrev_bus	first , i went online to see the map of the public bus ' because it overwhelms me and i am afraid i will get lost .
+relnscrev_bus	then i called the bus hotline and asked the operator how to get where i wanted to go .
+relnscrev_bus	he helped me figure out what buses i need to take where .
+unrelev_bus	then , i had some lunch ,
+relnscrev_bus	took my backpack and left the house .
+screv_get_bus_stop_bus	i had to walk to the bus stop .
+unrelev_bus	on the way , i could smell the exhaust from the cars and i already started freaking out .
+unrelev_bus	the exhaust is really unhealthy for you .
+screv_wait_bus	then i waited for the bus at the stop .
+screv_bus_comes_bus	after 23 minutes , the bus i needed finally came .
+screv_bus_stops_bus	the bus came to stop ,
+screv_door_opens_bus	the doors opened .
+screv_board_bus_bus	i stepped onto the bus
+screv_get_ticket_bus	and gave the driver my money .
+<end_of_story>
+evoking_bus	the other day , i decided to ride the bus to work since my car had broken down .
+unrelev_bus	it was a cold day in january as the rain had just fallen the night before .
+screv_spend_time_bus_bus	i sat nearby the rear-door of the bus and felt he air-conditioner blowing onto my neck
+relnscrev_bus	and watched the street signs to see how much further my stop was going to be .
+evoking_bus	i had been riding on the bus for approximately 23 minutes
+screv_bus_stops_bus	and stopped three times so far .
+relnscrev_bus	we came upon a busy intersection where the bus stop was crowded with what appeared to be fifteen or so people huddled by the bench area waiting to get on .
+screv_board_bus_bus	slowly the people in queue walked onto the bus steps and piled into each available space as quickly as they could .
+screv_ride_bus	after driving for two more blocks ,
+screv_get_off_bus	i noticed my stop and pressed the button to signal the driver to drop me off .
+screv_go_exit_bus	i stood up from my seat and headed to the door
+relnscrev_bus	and left to go to work .
+<end_of_story>
+unrelev_bus	last weekend there was a parade in the downtown area of my city , and i decided to take my little sister - we had so much fun !
+evoking_bus	i 'm not old enough to drive and our parents were busy , so i decided to take the bus .
+screv_get_off_bus	i went online and looked at the bus route to determine which stop let us off closest to the parade ,
+screv_bus_comes_bus	and then i looked at the bus schedule to see what time the bus would come and how often it ran .
+relnscrev_bus	i also found out how much the ride costs , and mom gave me the money i needed for both of us .
+screv_get_bus_stop_bus	the day of the parade my sister and i walked the two short blocks to the bus stop
+screv_wait_bus	and waited inside the little bus shelter .
+screv_bus_comes_bus	when the bus came ,
+screv_bus_stops_bus	the driver came to a stop
+screv_board_bus_bus	and the doors opened and we walked up the two steps .
+relnscrev_bus	we said hello to the driver
+screv_get_ticket_bus	and paid the fare - my sister loved putting the coins in the fare box .
+screv_spend_time_bus_bus	we walked a few steps down the aisle and took a seat near the front of the bus and settled in to look out of the window .
+screv_bus_stops_bus	the bus made a lot of stops and all types of people got on and off of the bus ;
+unrelev_bus	it was pretty noisy !
+relnscrev_bus	when i could tell we were getting close to our stop ,
+screv_get_off_bus	i pulled the chord to alert the driver that we were getting off at the next stop .
+screv_bus_stops_bus	when we reached our stop ,
+screv_go_exit_bus	my sister and i walked down the aisle and off of the bus .
+unrelev_bus	we were just in time to see the beginning of the parade !
+<end_of_story>
+unrelev_bus	i went to new york city on a business trip .
+unrelev_bus	i was in manhattan .
+relnscrev_bus	i wanted to go to ellis island .
+relnscrev_bus	i looked up the bus numbers that i would need to take to get to ellis island and what time they run .
+screv_board_bus_bus	i got on the first bus ,
+relnscrev_bus	which took me to the destination to catch the 2nd bus which would take me directly to battery park where i caught the ferry to go to ellis island .
+unrelev_bus	i stayed for a few hours .
+relnscrev_bus	i looked up the bus routes to return to my location in manhattan .
+unrelev_bus	i took the ferry back to battery park
+relnscrev_bus	where i caught the bus that took me to the connecting bus to take me back to my location in manhattan .
+screv_get_off_bus	the bus dropped me off one block away from where i was staying .
+unrelev_bus	i walked back to my hotel .
+evoking_bus	i very much enjoyed my day of sightseeing using the public bus in new york city .
+<end_of_story>
+relnscrev_bus	riding in a public bus is an inexpensive way to get around your city .
+unrelev_bus	i did this often last year .
+screv_find_bus_bus	first , i look up where i need to go on google maps and map it from my address to my destination address using public transit as my option .
+unrelev_bus	i then factor the departure and arrival times into my schedule ,
+relnscrev_bus	as well as make sure i have the proper amount of cash and\/or change for the fare .
+screv_get_bus_stop_bus	i would then walk to the bus stop at least 23 minuted ahead of time ,
+screv_bus_comes_bus	as they can sometimes come early .
+relnscrev_bus	when the bus appears i wait for him to stop and then i greet the driver ,
+screv_get_ticket_bus	deposit the fare -lrb- exact change -rrb-
+screv_find_place_bus	and take a seat where available .
+relnscrev_bus	while on the bus i look out the window to see where i am , and make sure that i press the button or pull the cord when my stop is near .
+<end_of_story>
+evoking_bus	last week me and my family wanted to ride the bus to the zoo .
+screv_check_time-table_bus	we checked the bus timetable
+screv_get_bus_stop_bus	and headed to the bus stop .
+screv_wait_bus	we waited for about 23 minutes
+screv_bus_comes_bus	and then the bus arrived .
+relnscrev_bus	we got on the bus and asked the bus man how much a family day ticket would cost .
+relnscrev_bus	he told us it was 23 euro .
+screv_get_ticket_bus	my mam paid him for the ticket .
+screv_find_place_bus	we went and sat at the back of the bus .
+screv_find_place_bus	me and my siblings sat by the window so we could see when we were close to the zoo .
+screv_spend_time_bus_bus	we talked about what animals we wanted to see at the zoo .
+unrelev_bus	my favorite animals at the zoo are the monkeys .
+screv_press_stop_button_bus	when we saw the zoo sign out the window we pushed the stop button
+screv_go_exit_bus	and walked towards the exit doors .
+relnscrev_bus	we thanked the bus driver
+screv_get_off_bus	and exited the bus .
+unrelev_bus	the zoo was right in front of us and we were all excited .
+unrelev_bus	we had a great day at the zoo .
+<end_of_story>

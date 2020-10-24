@@ -1,0 +1,1499 @@
+unrelev_library	'' i love everything about libraries ; their quiet atmosphere , comfortable chairs , and rows and rows of books on every topic .
+unrelev_library	i do n't have enough money to go out and buy books whenever i want ,
+screv_get_library_library	so i often go to the library to borrow books for free .
+screv_get_library_library	recently , i decided to go to the library
+relnscrev_library	and just browse until i found something interesting .
+screv_get_library_library	i drove to the library and parked close to the door , since i expected to leave with an armful of heavy books .
+screv_get_shelf_library	i walked inside and headed for the fiction section .
+screv_take_book_library	i ended up in the row for authors with last names starting with k , because i wanted to find stephen king books .
+unrelev_library	they ended up having a dozen books by stephen king ,
+relnscrev_library	and i selected three that i had never read before .
+relnscrev_library	then i went over to nonfiction to find a book on gardening , since i wanted to learn how to grow tomato plants .
+screv_take_book_library	i picked up a gigantic , fantastically long book on how to grow common vegetables and walked over to the reception desk .
+screv_show_card_library	i handed the librarian my card
+screv_register_library	and she checked out my books .
+relnscrev_library	i gathered them up in my arms
+screv_leave_library	and walked back to my car ,
+relnscrev_library	excited to be able to read them all
+screv_leave_library	once i got home .
+<end_of_story>
+unrelev_library	the library is one of my favorite places on earth !
+screv_get_library_library	my mom takes us to the library at least once a week .
+relnscrev_library	i like reading so much that my mom asked the librarian to give me an adult library card
+screv_register_library	so i could check out more books .
+screv_register_library	the kids card only allows you to check out two books a week , and only from the children 's room .
+unrelev_library	the adult card gives me all access -lrb- at the librarian 's discretion my mom said -rrb- and six books a week !
+screv_get_library_library	when i get to the library i like to browse the new releases shelves .
+screv_ask_librarian_library	sometimes i ask the librarian for a suggestion .
+screv_use_computer_library	if i have a specific topic i want to read i might do a search on the computer .
+screv_go_check_out_library	once i have the books i want i take them up to the librarian along with my library card
+screv_register_library	and she checks me out ,
+relnscrev_library	reminding me of when the books are due .
+<end_of_story>
+screv_get_library_library	yesterday i went to the library to borrow a book .
+unrelev_library	i was interested in learning more about birdwatching so i thought the library would be a great resource .
+screv_ask_librarian_library	i asked the librarian where the books on nature and birds were .
+relnscrev_library	she told me the call numbers of the aisle
+screv_get_shelf_library	and i went to that aisle .
+unrelev_library	each book had a small sticker on the spine indicating the call number .
+unrelev_library	the books are organized by subject ,
+relnscrev_library	so reading the call numbers is helpful for finding things .
+screv_look_for_book_library	i browsed through the books on birds .
+relnscrev_library	i picked one up and flipped through it .
+unrelev_library	it had a lot of beautiful photos and interesting facts and tips for watching birds .
+unrelev_library	i decided this would be a great book to start with .
+screv_go_check_out_library	i brought my book to the circulation desk
+screv_wait_library	and waited in line .
+unrelev_library	when it was my turn ,
+screv_show_card_library	i handed the librarian my library card .
+screv_register_library	she scanned the book ,
+relnscrev_library	opened up the flap , and stamped the due date on the inner card .
+evoking_library	i 'd be able to borrow the book for three weeks .
+unrelev_library	when the due date came ,
+relnscrev_library	i would return it to the front desk or the book drop box .
+<end_of_story>
+evoking_library	borrowing a book from the library is a big responsibility .
+unrelev_library	i got my first library card when i was in middle school .
+screv_get_library_library	i could go right down the street from my house
+relnscrev_library	and explore everything the library had to offer .
+unrelev_library	my library has books , magazines , computers , movies , anything i need .
+screv_look_for_book_library	i was searching for a book around halloween that had some fun ghost stories .
+unrelev_library	my library had the exact book i wanted !
+unrelev_library	the library also had some others .
+relnscrev_library	i sat around a table with my pile of books and looked through them .
+screv_get_library_library	finally , i could n't resist and i went to the counter with the book i had come there for .
+unrelev_library	the librarian was really nice
+relnscrev_library	as she took my card and typed into her computer .
+screv_register_library	i checked the book out for two weeks .
+screv_register_library	this would give me plenty of time to enjoy it and best of all , the librarian let me know i could check it out for even longer if i needed to .
+relnscrev_library	i would just have to bring the book back on the due date
+screv_register_library	and have it scanned out again .
+unrelev_library	i took great care of my book
+relnscrev_library	and returned it on time .
+relnscrev_library	libraries provide a great service to me and my community and i 'm thankful i can go there and always find what i want to read .
+<end_of_story>
+unrelev_library	i wanted to get a knitting book for one pattern , but did n't want to buy the entire book just to access three of its pages .
+screv_look_for_book_library	i decided to go see if they had it at the library .
+screv_get_library_library	when i got there ,
+relnscrev_library	i walked through the automatic doors and breathed the smell of old paper .
+relnscrev_library	i walked over to a computer to look up the title i was seeking and jotted down the area in which it could be found .
+screv_get_shelf_library	luckily , it had n't been checked out and i meandered over to the nonfiction section .
+screv_take_book_library	i quickly found the book and took some time perusing the selection .
+relnscrev_library	i did n't see anything else that perked my interest and walked to the front to check out the book .
+screv_other_library_library	i decided to use the self check out .
+screv_other_library_library	i scanned my library card and then the bar code on the book .
+relnscrev_library	the machine gave me a receipt .
+screv_get_receipt_library	i took that and the book ,
+screv_leave_library	then left .
+<end_of_story>
+screv_get_library_library	today i took a trip to the library .
+relnscrev_library	the library is so much fun because there are so many different books to see there .
+relnscrev_library	when i got to the library i walked up
+screv_look_for_book_library	and down the aisles looking for the perfect book for me .
+relnscrev_library	i wanted to read a book about horses or basketball .
+screv_look_for_book_library	i asked the librarian to help me find one .
+screv_use_computer_library	she looked on her computer
+relnscrev_library	and found a great book about horses but it had already been taken home by someone else .
+relnscrev_library	so she looked again and found a cool book about basketball .
+screv_get_shelf_library	she went with me to the shelf
+relnscrev_library	and helped me find the book .
+screv_take_book_library	after i got the book off of the shelf ,
+screv_go_check_out_library	i took it over to the counter
+relnscrev_library	and gave it to a lady behind the desk .
+relnscrev_library	she asked for my library card .
+screv_show_card_library	i gave her the card
+screv_register_library	and she scanned it and my book .
+screv_get_receipt_library	then she gave me a slip of paper that said i needed to bring the book back in two weeks .
+relnscrev_library	i was very excited to leave the library with a book to read about basketball !
+<end_of_story>
+screv_get_library_library	i paid a visit to the library a couple of days ago .
+unrelev_library	after getting off work at 5pm ,
+screv_get_library_library	i walked over to a library branch a couple of blocks from my home .
+relnscrev_library	i was looking to borrow a novel that i 'd been meaning to read for some time .
+screv_get_library_library	i got there at around 6pm .
+screv_check_catalog_library	i first logged onto one of the library computers to confirm that the book was still there .
+screv_check_catalog_library	after confirming this ,
+relnscrev_library	i went upstairs to the fiction section , located on the second floor of the library .
+unrelev_library	once i was in the fiction section .
+screv_get_shelf_library	i walked over to the bookshelves
+screv_look_for_book_library	and searched for the novel ,
+screv_take_book_library	successfully finding it fairly quickly .
+screv_go_check_out_library	i then walk downstairs to the library 's checkout desk .
+relnscrev_library	i placed the book onto the counter and also took my library card from my wallet .
+screv_show_card_library	i showed the librarian the card ,
+relnscrev_library	where she then checked out the book after scanning my card .
+relnscrev_library	next , once it came out , she handed me a receipt where the return date was printed on .
+screv_get_receipt_library	once i received this ,
+screv_leave_library	i walked to my apartment with the novel in my hand .
+relnscrev_library	i was really looking forward to reading the novel .
+<end_of_story>
+relnscrev_library	a friend of mine told me about a book she liked and i wanted to read it .
+screv_get_library_library	i did n't want to buy the book , though , so i decided to go to the library .
+screv_get_library_library	when i first got to the library ,
+relnscrev_library	i had to register for a library card
+screv_register_library	because you ca n't check out books without it .
+relnscrev_library	so , i went to the front desk , filled out a form
+screv_wait_library	and then waited .
+relnscrev_library	the lady at the desk made my library card right then and handed it to me .
+screv_ask_librarian_library	then i asked her
+relnscrev_library	where i would find the book i was looking for and she showed me the right bookshelves .
+relnscrev_library	i located the book right away
+screv_take_book_library	and took it from the shelf , but then i stayed to look around for more books .
+unrelev_library	the library has a card catalog
+screv_check_catalog_library	where you can look up any book you want and the catalog will tell you which shelf to go to for the book .
+relnscrev_library	so , i used the card catalog to find two more books
+screv_register_library	and then took all my books back to the front desk to check them out .
+screv_register_library	the lady at the front desk scanned a bar code in the back of the book and that registered them as checked out to me .
+relnscrev_library	she told me i would have four weeks to read them .
+unrelev_library	after she was finished ,
+screv_leave_library	i picked up the books and left the library .
+<end_of_story>
+unrelev_library	i needed to learn about gardening and was n't sure where to start .
+unrelev_library	a friend of mine recommended a book .
+evoking_library	i decided to check it out from the local library .
+screv_get_library_library	i walked to the library .
+screv_use_computer_library	inside there was a computer to look up where books are located .
+relnscrev_library	i typed in the name of the book i was looking for and it showed me the call number , a unique number used to tell where the book is located in the library .
+screv_note_shelf_library	i wrote the call number down
+screv_look_for_book_library	and looked at the stacks of books .
+unrelev_library	each stack had a range of numbers printed on a card taped to the side of the bookshelf .
+screv_look_for_book_library	i looked for my call number on the printed cards on the side of the bookshelves ,
+screv_look_for_book_library	then searched the books
+screv_look_for_book_library	until i found the one i was looking for .
+screv_go_check_out_library	i brought the book up to the front of the library .
+relnscrev_library	the librarian took my library card
+screv_register_library	and scanned it and my book with a special scanner .
+screv_get_receipt_library	she gave me a piece of paper inside the book that said i needed to bring it back within 23 weeks .
+screv_leave_library	i brought the book home
+relnscrev_library	and read it , then brought it back to the librarian .
+<end_of_story>
+relnscrev_library	i wanted to read a new novel , but rather than buying it , i decided to borrow it from the library .
+screv_get_library_library	when i arrived at the library , i was greeted by the friendly librarian who asked if i needed any help .
+screv_look_for_book_library	i told her which book i was looking for
+relnscrev_library	and she quickly helped me find it .
+relnscrev_library	after she helped me find the book ,
+screv_go_check_out_library	i walked to the checkout counter with the book .
+screv_show_card_library	i handed the librarian my library card ,
+screv_register_library	which she scanned with a scanner .
+relnscrev_library	she opened the book to find the bar code in the back cover and proceeded to scan it .
+relnscrev_library	the computer printed a receipt which told me that i had two weeks to return the book .
+screv_look_for_book_library	i placed the receipt inside the front cover of the book and thanked the librarian for helping me find the book i was looking for .
+<end_of_story>
+relnscrev_library	i needed to read a book for my history class , so i decided to see if the local library had a copy .
+relnscrev_library	i went to the library 's website
+screv_check_catalog_library	and searched for the book .
+relnscrev_library	i saw that they had it in stock ,
+screv_get_library_library	so i walked to the library .
+relnscrev_library	when i entered the library , i walked over to the front desk
+screv_look_for_book_library	and told the librarian the name of the book i was looking for .
+relnscrev_library	he showed me where the book was and asked me
+screv_look_for_book_library	if i 'd like to look for anything else .
+unrelev_library	i said that would be all ,
+screv_go_check_out_library	so he took the book over to the front desk , and i followed .
+relnscrev_library	at the desk , he scanned the book and asked me if i had a library card .
+screv_show_card_library	i said i did and showed him .
+screv_register_library	he then scanned my card ,
+relnscrev_library	handed me the book , and told me it would be due back in two weeks .
+<end_of_story>
+relnscrev_library	yesterday i went to the library to see if they had the new stephen king book .
+screv_register_library	i thought it might be already checked out , or maybe they did n't have it yet ,
+relnscrev_library	but i wanted to check before i spent the money on a hard-cover copy of the book .
+screv_get_library_library	when i got to the library , i stopped inside the doors and looked around for a few seconds and just took in the sights 23 the library is one of my favorite places .
+relnscrev_library	i went to the card catalog
+screv_check_catalog_library	and looked up the book and , sure enough , the library had two copies .
+screv_get_shelf_library	i went to the shelves that had the stephen king books and , to my great surprise and pleasure , there was a librarian there re-shelving books and one of the books in her hand was the new stephen king book .
+screv_ask_librarian_library	i asked her if i could have it
+screv_go_check_out_library	and after she handed it to me i went straight to the check-out desk ,
+relnscrev_library	paid a twenty-five cent fine i had from an overdue book several weeks before
+screv_register_library	and checked the book out .
+relnscrev_library	i could n't wait to get home to read it .
+<end_of_story>
+relnscrev_library	i had finished reading a very good book ,
+relnscrev_library	and wanted to get a new one to read .
+screv_get_library_library	i went to the library in my town .
+unrelev_library	they have rows and rows of books , some are old , and some are very new .
+screv_take_book_library	i wanted to get a new book that my favorite author had written not too long ago .
+unrelev_library	i was hoping that they would have it , but it was possible it was on loan to another library patron .
+unrelev_library	the books in our library are arranged by the author 's last name ,
+screv_get_shelf_library	so i went to the row of books that matches the authors name .
+relnscrev_library	i found a large section that had many of my favorite author 's books .
+screv_look_for_book_library	i looked carefully for the book i was searching for , and was very excited that it was there on the shelf .
+screv_register_library	i was very happy that it was not already checked out .
+screv_take_book_library	i took the book off the shelf ,
+relnscrev_library	and looked for a while more to see if there were any other books that i wanted to read .
+relnscrev_library	i found one more book that looked really interesting ,
+screv_take_book_library	so i took that one off the shelf as well .
+unrelev_library	when i was done with my search ,
+screv_go_check_out_library	i brought my two books to the front desk .
+screv_register_library	the librarian was there to help me check the books out .
+relnscrev_library	she said hello and asked for my library card .
+screv_show_card_library	i handed that to her ,
+screv_register_library	and she took the cards out of the back of the books i wanted to check out .
+relnscrev_library	she made a stamp in the back of each book , letting me know what day the books were due back to the library .
+relnscrev_library	i said thank you to the librarian , and she handed me back my library card and the books .
+relnscrev_library	i could n't wait to get home and start reading .
+<end_of_story>
+unrelev_library	i had just watched a movie , and saw that it had been based on a book .
+unrelev_library	since i liked the movie ,
+screv_look_for_book_library	i wanted to read the book and went to the library in my neighborhood to see if they had it .
+unrelev_library	in the library the books were separated into fiction and non-fiction areas .
+unrelev_library	since the story was about something that happened in real life , it would be in the non-fiction area .
+unrelev_library	if it were a make-believe story , it would have been in the fiction section .
+screv_look_for_book_library	the person who wrote the book had a last name that began with s. i began looking on the shelves for authors with the last name that began with s. all the books were in alphabetical order according to the authors last name .
+screv_take_book_library	i found the book i was looking for and took it off the shelf .
+screv_go_check_out_library	i brought it to the desk where the librarian was and gave her the book .
+relnscrev_library	she asked me for my library card , which gives me permission to borrow books .
+relnscrev_library	she entered my information into her computer so she would know who borrowed the book .
+relnscrev_library	she told me the book would be due back in the library in two weeks .
+relnscrev_library	if i did n't bring it back by then , i would have to pay the library money for every day the book was late .
+unrelev_library	i did n't want to have any late fees ,
+relnscrev_library	so i made sure i brought it back on time .
+unrelev_library	since the book belonged to the library , i took good care of it so others could enjoy the book
+evoking_library	when they borrowed it .
+<end_of_story>
+unrelev_library	the library called and a book that i had asked to be notified when it came back to the library was back in .
+screv_get_library_library	i drove to the library that is downtown .
+relnscrev_library	i went up to the librarians ' desk
+screv_ask_librarian_library	and asked for my book .
+unrelev_library	the librarian went away to a set of shelves behind the counter and returned with the book .
+relnscrev_library	i went and sat on a chair and looked the book over to see if it was something that i really did want to read .
+screv_go_check_out_library	the book looked interesting so i went back to the counter
+screv_wait_library	and waited in line .
+unrelev_library	the line was long today .
+unrelev_library	i found my library card in my wallet
+screv_wait_library	and waited some more .
+unrelev_library	the librarian came over and smiled at me .
+unrelev_library	then when it was my turn at the counter ,
+relnscrev_library	i handed the book to the person behind the desk .
+screv_register_library	she scanned my library card and the book .
+screv_leave_library	i left the library with book in hand .
+<end_of_story>
+relnscrev_library	i was bored one weekend and decided i would like to read a new book .
+unrelev_library	i checked in my wallet to make sure i had my library card .
+unrelev_library	seeing that i did in fact have the card , i got in my car
+screv_get_library_library	and drove to the nearest branch of the public library , about four miles from my home .
+relnscrev_library	when i went in ,
+screv_browse_releases_library	i first checked out the new arrivals , both fiction and non-fiction .
+screv_look_for_book_library	then i looked at biographies , then at the books on the stacks for favorite authors .
+relnscrev_library	i finally decided on a few selections , two from the new fiction section and one from the new non-fiction section , as well as a book on poetry .
+screv_go_check_out_library	i went to the check-out desk
+relnscrev_library	and presented the books along with my card to the librarian .
+screv_register_library	she checked the books out to me along with a receipt which told me when the books were due back .
+<end_of_story>
+unrelev_library	after enrolling in a basic college geometry class , i realized very early on that i needed to supplement what i was learning in class with an additional book that went over some of the basics that i had forgotten since high school .
+screv_get_library_library	i went to the local library
+screv_look_for_book_library	and searched through many of the ones that were available .
+unrelev_library	the college course i was taking was very important and i wanted to do well in it .
+relnscrev_library	after 23 hour of searching i found a book that was perfectly written for people that wanted a refresher course in the subject of geometry .
+relnscrev_library	i read about 23 pages of it while in the library and realized that it was a perfect fit for my needs .
+screv_go_check_out_library	i walked up to the checkout counter
+screv_register_library	and checked out the book for two weeks .
+relnscrev_library	i took the book home and read it and i am very glad i did so .
+unrelev_library	i am glad i have a great library nearby .
+<end_of_story>
+unrelev_library	why buy a book
+evoking_library	when you can borrow one from the library ?
+relnscrev_library	your local library has a wealth of resources just waiting for you to explore .
+screv_register_library	before you check anything out , you will need a library card .
+unrelev_library	typically , you will need to prove who you are and where you live .
+unrelev_library	your drivers license will probably work for that .
+screv_get_library_library	go to your local library
+relnscrev_library	and get a card .
+unrelev_library	once you have done that ,
+screv_register_library	you are ready to check things out !
+unrelev_library	the library is divided into different categories .
+unrelev_library	one area will be fiction , which is also occasionally broken down into smaller departments .
+unrelev_library	non-fiction is divided by the type of book .
+unrelev_library	there is reference , gardening , crafting , home repair , history , science , cooking , parenting , and any other subject you can imagine .
+screv_check_catalog_library	when you have found a book you want , either by browsing the aisles or by searching through the card catalog ,
+screv_go_check_out_library	select it and take it to the front desk .
+screv_register_library	they will scan your card and let you take the book home for a week or two !
+<end_of_story>
+screv_get_library_library	i went to the library to borrow a book i needed for a research paper .
+relnscrev_library	i went inside the library
+screv_get_shelf_library	and went to the section that contained the type of books i needed to do my research on .
+relnscrev_library	after finding the right section ,
+screv_look_for_book_library	i looked through the selections of books they had .
+relnscrev_library	i quicly looked through a few of the books to see what type of information they had .
+screv_take_book_library	after finding the book i wanted to borrow i took it to the counter
+screv_register_library	so i could check it out and borrow it for a few days .
+relnscrev_library	at the counter , the librarian asked for my library card .
+relnscrev_library	i took the library card out of my wallet
+screv_show_card_library	and gave it to her .
+relnscrev_library	she collected my information and gave me the book and my library card .
+relnscrev_library	i then exited the library and took the book home .
+unrelev_library	i am glad i had the library card because the book was really useful for helping me do my research paper .
+<end_of_story>
+relnscrev_library	i love reading books , and once i finished all my books in the library , i decided that i needed new books .
+screv_take_book_library	the best place in my neighborhood for getting new books for free was the local library .
+evoking_library	to borrow from the library , all you needed was a simple library card .
+screv_get_library_library	i walked to the local library
+screv_get_shelf_library	and went to my favorite section of the library .
+unrelev_library	the history section had my favorite books about napoleon .
+relnscrev_library	once i found my favorite book ,
+screv_take_book_library	i took it with me
+screv_go_check_out_library	and brought it over to the check outline .
+screv_wait_library	i waited in line until it was my turn .
+screv_other_library_library	i gave the librarian my book
+screv_register_library	and library card and they checked it out for me .
+screv_get_receipt_library	i was given a receipt
+relnscrev_library	and a date to return the book .
+relnscrev_library	i had three weeks to finish the book before i had to go back and return it .
+screv_leave_library	when i left the library ,
+relnscrev_library	the security checked my receipt and my books and allowed me to leave .
+<end_of_story>
+screv_take_book_library	the library has so many books to choose from , it 's hard to decide which one to borrow .
+relnscrev_library	looking around at all the shelves of books , i decided i wanted an adventure book .
+screv_look_for_book_library	the librarian was nice enough to help me look for a good book to borrow .
+unrelev_library	i decided on a pirate adventure book .
+evoking_library	but before i could borrow it ,
+relnscrev_library	i had to get a library card .
+unrelev_library	again , the librarian was very helpful .
+screv_go_check_out_library	we walked over to the counter , and she helped me sign up for a library card .
+relnscrev_library	all i had to do was tell her a few things like my name and my address , and i had my very own library card .
+screv_register_library	once i had that , it was easy to check out the book .
+relnscrev_library	she scanned my library card , punched some buttons on her computer , and the book was mine to borrow .
+relnscrev_library	i 'll be sure to bring it back in a few days so i do n't have to pay any late fees .
+<end_of_story>
+relnscrev_library	sometimes i buy books but more often i just decide to borrow one from the public library because you can read them and take them back and it does n't cost you anything .
+relnscrev_library	most libraries have a vast selection of books so you would never be unable to find something you wanted to read .
+unrelev_library	a lot of libraries have their catalog online
+screv_check_catalog_library	so you can check to see if they have a particular book
+screv_get_library_library	before you go to the library .
+relnscrev_library	i recently had to join a new library
+screv_ask_librarian_library	so i went there and spoke to the lady behind the desk who asked me to fill in a form with my address and contact details , and provide proof of my identity .
+relnscrev_library	when i had finished filling in the form , i took it back to her
+relnscrev_library	and she made me a little plastic library card with my account number and my name on it , along with a unique barcode .
+screv_get_library_library	she told me i had to use this card to check out books whenever i went to the library .
+unrelev_library	there were thousands of books on hundreds of shelves , all of them are filed in some sort of order .
+unrelev_library	fiction books were filed by author surname , and non-fiction books were filed by a system called the dewey decimal system which numbers books according to their subject classification and are then filed in that number order .
+relnscrev_library	the books were easy to find , there were computers around the library
+screv_look_for_book_library	where you could check to see what books were available .
+screv_take_book_library	when i had selected the books i wanted to borrow i went to one of the self service stations
+screv_register_library	and scanned the barcode on the books and the barcode on my new library card , and the books were issued to me .
+screv_get_receipt_library	i also got a printed receipt to show me when the books were due to be returned .
+unrelev_library	it was very easy to do .
+<end_of_story>
+relnscrev_library	i was sitting at home thinking about a particular book that i had been wanting to read so i decided to get in my car
+screv_get_library_library	and drive to the library .
+unrelev_library	after i parked my car in the parking lot i got out of my car
+relnscrev_library	and entered the library .
+relnscrev_library	once inside the library i went up the stairs of the library to the second floor .
+screv_look_for_book_library	once i got to the second floor i browsed around the aisles until i found the book that i was looking for .
+screv_go_check_out_library	once i got the book i went back down the stairs i went to the check-out counter
+screv_show_card_library	and gave the librarian my library card .
+relnscrev_library	i told the librarian thank you
+screv_register_library	after she checked out my book .
+screv_get_receipt_library	she handed me the book
+relnscrev_library	and a receipt and told me you 're welcome .
+screv_leave_library	i left the library and got into my car
+screv_leave_library	and drove home were i began reading the book i 'd been wanting to read .
+<end_of_story>
+evoking_library	the last time i wanted to borrow a book from the library i was in a different town than my home town .
+screv_ask_librarian_library	i talked to the librarian about this
+relnscrev_library	and he told me that it was possible for me to obtain a guest pass , though this would only allow me to take out two books at a time .
+unrelev_library	since this was my only option i decided i would take it .
+relnscrev_library	i filled out the form , providing my name and address , and showed him my identification card , and i was given a library card .
+screv_take_book_library	i used the card to pick up two books : a collection of poetry and the book hylozoic by rudy rucker .
+relnscrev_library	the librarian told me that i had to return the books within the space of three weeks ,
+screv_leave_library	so as soon as i returned to my house i began to read them immediately .
+relnscrev_library	after i was done with the books i returned them to the library .
+<end_of_story>
+screv_get_library_library	i went to the library and walked in the door .
+evoking_library	i was interested in borrowing a book about the american revolutionary war .
+relnscrev_library	the book was written by a man named john canton .
+unrelev_library	inside the library there is a bank of computers .
+relnscrev_library	i went to one of the computers
+screv_use_computer_library	and typed in the author 's last name .
+unrelev_library	there were a number of books by people with the last name canton ,
+screv_look_for_book_library	but i quickly found the one i was looking for .
+screv_use_computer_library	the computer told me the book 's call number .
+screv_note_shelf_library	i wrote it down on an index card i had with me .
+unrelev_library	the library has three floors .
+relnscrev_library	i looked at a sign on the wall that told me that books that started with the same letters my call number started with were on the second floor .
+screv_get_shelf_library	i walked up to the second floor and went to the book stacks ,
+relnscrev_library	the lines of shelving where they keep the books .
+screv_get_shelf_library	i walked along the shelving ,
+relnscrev_library	looking at the labels on the side of the shelves that said what call numbers were in the aisles i was passing .
+screv_get_shelf_library	finally i found the right shelf , and soon ,
+screv_look_for_book_library	again by looking at the call numbers on the books on those shelves ,
+relnscrev_library	i found the book i was interested in .
+screv_go_check_out_library	i brought the book to the circulation desk
+relnscrev_library	and gave the woman working there my library card .
+screv_register_library	she scanned the book
+relnscrev_library	and my card and handed both back to me .
+screv_return_book_library	she told me my book is due in two weeks .
+<end_of_story>
+evoking_library	for a school assignment i needed to find a book from the library .
+screv_get_library_library	i went to the library after class
+screv_use_computer_library	and looked the book up on the computer which had the library 's catalogue .
+unrelev_library	the book was upstairs ,
+screv_get_shelf_library	so i went there and followed the call numbers
+screv_look_for_book_library	until i found what i was looking for .
+screv_go_check_out_library	i then went back downstairs to the circulation desk .
+screv_register_library	i placed the book on the counter
+screv_show_card_library	and the friendly librarian swiped my library card
+screv_register_library	and then scanned the book .
+relnscrev_library	turns out i owed a fine which i had to pay before i could have the book .
+unrelev_library	it was only a dime which thankfully i had on my person .
+screv_get_receipt_library	after paying the fine the book was stamped with a due date
+relnscrev_library	and the librarian gave it to me .
+screv_other_library_library	it was raining out so she gave me a rain bag to protect the book .
+screv_leave_library	i was on my way .
+<end_of_story>
+evoking_library	in need of a new series to sink my teeth into , i decided to head to the public library .
+relnscrev_library	i ca n't seem to go long without reading some mythical , crazy fantasy !
+screv_get_library_library	anyway , when i got to the library ,
+relnscrev_library	i sat down at their computer
+screv_use_computer_library	where you can look up where certain books are in the library .
+screv_use_computer_library	i found where the fantasy section was and headed over to that shelf .
+unrelev_library	oh my goodness , there were more books than i could ever imagine !
+unrelev_library	i was practically drooling !
+screv_look_for_book_library	i saw the series i was looking for and decided to get just the first book in the series -lrb-
+relnscrev_library	so i do n't binge read -rrb- .
+screv_take_book_library	i took the book up to the front counter
+screv_show_card_library	and handed the librarian my member card
+screv_register_library	so that i could check the book out .
+relnscrev_library	she looked the book over and commented that it was one of her favorites which made me smile .
+screv_register_library	with the book now checked out ,
+screv_other_library_library	i slipped it into my page
+screv_leave_library	and made my way home .
+unrelev_library	i was ready to dive into a new adventure !
+<end_of_story>
+relnscrev_library	my five year old son loves to read books , so today we both decided to head towards the library to pick one out .
+evoking_library	before leaving the house i made sure he had his library card with him because without it he would n't be able to borrow a book .
+screv_get_shelf_library	when we entered the library we went straight towards the kid section .
+screv_look_for_book_library	there were thousands of books to choose from and he had a little trouble making up his mind .
+screv_take_book_library	finally we found a book about the different type of sea animals in the ocean .
+unrelev_library	he was very excited
+relnscrev_library	as he flipped through the pages of the book .
+screv_take_book_library	when he decided this was the book he wanted to take home ,
+screv_go_check_out_library	we make our way towards the librarian .
+relnscrev_library	she greeted us with a friendly hello
+screv_show_card_library	and asked my son for his library card .
+screv_register_library	she scanned the card
+relnscrev_library	and book then handed them both back to my son .
+relnscrev_library	she informed us
+screv_return_book_library	when the book was due back
+relnscrev_library	and we both thanked her and wished her a pleasant day .
+<end_of_story>
+evoking_library	borrowing a book from the library is quite a fun task .
+screv_obtain_card_library	make sure you have a library card first .
+screv_obtain_card_library	if not , you can ask the librarian about how to sign up for one .
+unrelev_library	library cards are usually free .
+screv_other_library_library	next , you 'll want to find a book that you 'll want to read .
+unrelev_library	if you have something in mind already ,
+relnscrev_library	then you 'll head over to the computers
+screv_use_computer_library	and use the search to find the book .
+screv_use_computer_library	the computer search will tell you
+relnscrev_library	where exactly in the library the book is located ,
+screv_use_computer_library	or it might tell you the book is not at this library
+relnscrev_library	and that you 'll have to request that they send it to the library for pick up later .
+relnscrev_library	if the book is available ,
+screv_look_for_book_library	navigate through the shelves to find the book .
+screv_look_for_book_library	each book has a unique number that is in order which makes finding the book pretty easy .
+screv_take_book_library	once you have located the book ,
+screv_go_check_out_library	bring the book with you to the counter and finish checking out the book .
+relnscrev_library	be sure to remember when you have to return the book by !
+<end_of_story>
+evoking_library	i went to the local library in my town yesterday .
+relnscrev_library	i was dying to read the new book by james patterson .
+unrelev_library	i love mysteries !
+unrelev_library	i was n't sure
+screv_get_shelf_library	where to find the mystery section in the library
+screv_ask_librarian_library	so i asked the librarian .
+screv_use_computer_library	she entered the book information into the computer
+screv_ask_librarian_library	and then told me
+screv_look_for_book_library	where i could find the book .
+unrelev_library	as it turned out ,
+relnscrev_library	the mystery section was clearly labeled , as were the books .
+unrelev_library	they were in alphabetical order by author .
+screv_get_shelf_library	i found the p section
+screv_look_for_book_library	and located books by patterson .
+screv_take_book_library	it was easy to find my book .
+screv_go_check_out_library	i took the book up to the checkout desk .
+screv_show_card_library	the librarian asked for my library card .
+unrelev_library	a library card has my name on it and a computer code on it .
+screv_return_book_library	the librarian swiped my card and told me that my book was due back in two weeks .
+relnscrev_library	i thanked her for helping me .
+relnscrev_library	she told me that she hoped i enjoyed the book .
+<end_of_story>
+evoking_library	in order to borrow a book from the library , i will check to be sure i have my library card on me , in my purse .
+screv_get_library_library	i drive to the local library
+relnscrev_library	and park my car .
+screv_get_library_library	i walk into the library
+screv_get_shelf_library	and head to
+relnscrev_library	where the books to check out are located .
+screv_get_shelf_library	i head over there and start to look for the book i am interested in borrowing .
+screv_look_for_book_library	if i am having a problem finding the book ,
+relnscrev_library	i will go to the information desk
+screv_ask_librarian_library	and ask for help .
+screv_look_for_book_library	sometimes , it is hard to find for me to find a book on my own in the library , since they have a coding system that is sometimes confusing to me .
+relnscrev_library	i either find my book available , or find that it is checked out .
+unrelev_library	if it is available ,
+relnscrev_library	i get my library card out
+screv_go_check_out_library	and head to the check out section of the library .
+unrelev_library	if it is n't available ,
+screv_ask_librarian_library	i will ask as to when it will be .
+screv_leave_library	i leave the library ,
+relnscrev_library	get in my car and drive home to enjoy my borrowed book .
+<end_of_story>
+unrelev_library	i waited too long to start working on my report that was due for my class .
+evoking_library	i was in a hurry , and had to get some research material for the assignment .
+unrelev_library	sadly , one of the requirements for this report was to have a couple citations from a book instead of other articles that can easily be found on the internet .
+relnscrev_library	after an hour of searching for my library card , i found it at last and head out .
+screv_ask_librarian_library	after i arrived i had to ask the librarian
+relnscrev_library	where they kept such books .
+unclear_library	it was a while since i have been in there .
+screv_get_shelf_library	after finding the section .
+screv_look_for_book_library	i carefully looked through the books that caught my eye and picked the book that i needed for my report .
+screv_go_check_out_library	i walked up to the librarian ,
+screv_register_library	and borrowed the book .
+relnscrev_library	but not without paying an old book fee i had from a year ago .
+relnscrev_library	after i paid ,
+relnscrev_library	i walked out with the book in hand ready to do some research .
+<end_of_story>
+evoking_library	i used to go to the library all the time .
+relnscrev_library	i am a complete bookworm , and since i do n't have the time to read completely through a 23 page novel anymore , i do n't borrow books very often anymore .
+relnscrev_library	i loved to go look through all the fiction books .
+relnscrev_library	the science fiction and fantasy novels always caught my eye .
+unrelev_library	i am just in love with the creative imagination involved with writing out such beautiful worlds and bringing me into them to see what they see .
+screv_take_book_library	so after i had chosen my book ,
+screv_go_check_out_library	i would go up to the desk .
+screv_register_library	when i was checking them out ,
+relnscrev_library	you had to bring your library card
+screv_show_card_library	so they could scan it .
+screv_show_card_library	they would then scan the card ,
+screv_register_library	scan each book ,
+screv_get_receipt_library	and give you a card with a stamped due date on it .
+screv_return_book_library	you could bring it back before that time , or , if the book was n't insanely popular and had no one waiting on it ,
+screv_register_library	you could recheck it out if you needed more time to read .
+<end_of_story>
+relnscrev_library	i wanted something interesting to read as i have several days with no plans starting this weekend .
+relnscrev_library	i enjoy various types of books but wanted something really different so i decided to go with a good science fiction and something that was rated well by reviewers .
+screv_get_library_library	i found what i wanted online and drove to the library .
+screv_ask_librarian_library	i asked the librarian where the sci fi section was and showed me .
+relnscrev_library	before looking for the one i wanted i browsed the books and saw several that looked interesting .
+relnscrev_library	i opened one in particular and starting going through it .
+screv_take_book_library	i decided to select this book .
+screv_look_for_book_library	i then looked for the book i came to borrow and eventually found it .
+unrelev_library	remarkably it had the same author
+screv_take_book_library	as the previous book i had selected .
+unrelev_library	i must have great taste in books .
+screv_go_check_out_library	i brought both books to the front desk
+screv_register_library	and checked them out .
+relnscrev_library	i was very pleased with the library and quite happy to have more than one book to look forward to reading .
+<end_of_story>
+unrelev_library	i am an avid reader so i am always on the lookout for the next best story of nonfiction !
+evoking_library	my buddy , frank , told me about the new library that was opening up about a mile away from my house and i thought this was a great opportunity to be able to borrow some free books !
+screv_get_library_library	i drove down and was in awe at how big the place was .
+screv_get_library_library	as i stepped inside and began to browse i realized that not only did they have books but they had video games , dvds , and music you could rent as well .
+screv_look_for_book_library	after spending about half an hour in there just browsing i finally came upon a book i wanted to read : the hitchhikers guide to the galaxy !
+screv_go_check_out_library	i grabbed the book and went up to the counter .
+screv_obtain_card_library	the nice librarian said that i would first have to get a library card
+screv_register_library	so i could rent out my book .
+relnscrev_library	i filled out the paper work and she handed me a shinny new library card !
+screv_register_library	i rented my book
+screv_return_book_library	and she told me that i was due by a week from today .
+screv_leave_library	i went back home and got started on my reading adventure .
+<end_of_story>
+relnscrev_library	i went to the library in town the other day because i really want to read this book that my friend told me about .
+screv_get_library_library	after driving to the library ,
+screv_ask_librarian_library	i went to the main desk to inquire about the book .
+screv_use_computer_library	the librarian kindly greeted me and searched for the book on her card catalog computer system .
+screv_use_computer_library	she saw that there were 23 copies available in the new books section .
+screv_get_shelf_library	she and i walked upstairs to the new books area and we were able to find the book .
+relnscrev_library	i thanked her for help .
+screv_register_library	then i walked back downstairs to check the book out .
+relnscrev_library	the check out lines were all full but there were a couple self-checkout machines available .
+screv_register_library	after checking out the book ,
+relnscrev_library	i went home and read it .
+unrelev_library	it was very good
+relnscrev_library	and i finished it in 23 days .
+relnscrev_library	the next day , i returned the book to the library for the next eager patron to enjoy .
+<end_of_story>
+evoking_library	using a school or public library is a great thing to do .
+screv_look_for_book_library	while i 'm at the library , i like to peruse the shelves and see if there is anything that catches my attention .
+relnscrev_library	if i do n't see anything i like ,
+relnscrev_library	i can use the online catalog to find something that i either need or want .
+screv_look_for_book_library	it 's simple to find books on the shelves
+screv_note_shelf_library	if i write down the call number
+relnscrev_library	and follow the signs directing to that area .
+screv_take_book_library	once my book is in hand , i prepare by getting out my library card
+screv_go_check_out_library	and heading toward the circulation desk .
+relnscrev_library	some libraries now have self-service checkout areas , while others still require you working with a clerk or librarian to check out .
+screv_show_card_library	at the self service kiosk , i scan my library card
+screv_register_library	and then scan the barcode on my book .
+screv_wait_library	it 's quite simple and helps the line move more quickly than waiting at the circulation desk .
+unrelev_library	once it is checkout out ,
+relnscrev_library	i will get a reciept telling me
+screv_return_book_library	when the book is due and i am free to go home with my book .
+<end_of_story>
+screv_get_library_library	a few months ago , i went to the library to check out a couple of books .
+unrelev_library	our local library is very large and full of very interesting books , magazines and movies .
+screv_look_for_book_library	before i went to find my books ,
+relnscrev_library	i stopped at the coffee shop in the library .
+relnscrev_library	i ordered a coffee and a blueberry muffin so i could have a snack .
+relnscrev_library	once i finished my snack , i began to look for my books .
+screv_use_computer_library	i used the library 's computer to find the location of each book .
+screv_look_for_book_library	finding the books only took me about 23 minutes .
+screv_take_book_library	after i found the books ,
+relnscrev_library	i sat down in a comfortable chair that was next to a lamp .
+relnscrev_library	i began reading one of my books while i was drinking my coffee .
+relnscrev_library	i stayed at the library and read for about thirty minutes .
+screv_register_library	i went to the checkout to check out my books ,
+relnscrev_library	and then i left to walk home .
+<end_of_story>
+unrelev_library	books are invaluable tools that bring you on wonderful adventures .
+relnscrev_library	everyone should read as many as they possibly can !
+evoking_library	the best way to do so is to borrow a book from the library .
+evoking_library	when i borrow a book from the library ,
+screv_obtain_card_library	i first obtained a library card .
+screv_get_library_library	i did this by going to my local library ,
+screv_ask_librarian_library	and speaking with a librarian ,
+relnscrev_library	there i created an account with my name .
+unrelev_library	following this , and following the successful attainment of my physical card ,
+screv_look_for_book_library	i began my search for a book .
+screv_check_catalog_library	in the old days i would need to use a card catalog ,
+screv_use_computer_library	these days i can search through books on a library computer .
+screv_use_computer_library	i search through many genres
+relnscrev_library	and types of books before making my decision .
+screv_note_shelf_library	i then write down the number of the book
+screv_look_for_book_library	and begin my search .
+relnscrev_library	i find the matching bookshelves and then find the matching book number .
+screv_go_check_out_library	book in hand , i gleefully skip to the checkout ,
+screv_register_library	and check my book out with the librarian , making sure to note the time which i need to return the book .
+<end_of_story>
+evoking_library	i decided to borrow some books from the library .
+screv_get_library_library	i went to the library and started looking on the shelves .
+screv_take_book_library	there were so many good books that it was difficult to pick out just a few ,
+screv_use_computer_library	so i used the library 's computer book search program .
+screv_take_book_library	eventually i chose several modern plays , a biography , and a book on ancient rome .
+screv_go_check_out_library	i took these books up to the librarian 's desk
+screv_register_library	and asked if i could check them out .
+screv_ask_librarian_library	she said yes , i could borrow the books ,
+screv_obtain_card_library	but i needed to sign up for a library card .
+relnscrev_library	i filled out the form , and she took it .
+relnscrev_library	then she made my library card and gave it to me .
+screv_register_library	with this accomplished , i was able to check out my books .
+relnscrev_library	she put a card in each one with a date stamped on it .
+screv_return_book_library	this was the date the books were due to be returned .
+screv_return_book_library	i promised to return them on time
+relnscrev_library	and took the books home to read .
+<end_of_story>
+relnscrev_library	i had the day off today so i wanted to relax and read a new book .
+screv_get_library_library	i decided to go to the library and check one out .
+relnscrev_library	i got my library card from my wallet
+screv_get_library_library	and walked to the library .
+screv_look_for_book_library	i looked around some of the different sections in the library
+relnscrev_library	and found a book in the fiction section that looked interesting .
+screv_go_check_out_library	i took it up to the front counter
+screv_register_library	and handed the librarian the book and my library card .
+screv_register_library	she scanned the book and my card ,
+relnscrev_library	told me
+relnscrev_library	when the book was due back and then handed the card and the book back to me .
+relnscrev_library	on the way out , i grabbed a bookmark from a table set up near the door .
+screv_leave_library	i walked home and began to read my book .
+relnscrev_library	a week later when i was done reading it ,
+screv_return_book_library	i returned the book to the library
+screv_take_book_library	and found a new one to check out and take home to read .
+<end_of_story>
+evoking_library	i wanted to get a book on gardening ,
+screv_get_library_library	so i went to the library .
+unrelev_library	i was n't sure where the gardening books were ,
+relnscrev_library	so i went to the electronic card catalog
+screv_check_catalog_library	and looked gardening up .
+screv_check_catalog_library	i found the dewey decimal number
+screv_get_shelf_library	and then went down the rows of shelves until i got to the right number .
+unrelev_library	there were so many books !
+unrelev_library	i have a small yard , so i thought a book on container gardening would be best .
+screv_take_book_library	i chose one with lots of pictures .
+screv_go_check_out_library	i then took the book to the circulation desk
+screv_wait_library	and waited in line behind a mother with a child .
+unclear_library	the child had about twenty picture books .
+unrelev_library	this could be a while .
+unrelev_library	finally , it was my turn .
+screv_show_card_library	i gave the librarian my library card
+screv_register_library	and book and she scanned them both in a laser reader .
+screv_get_receipt_library	then she handed me my book and a receipt .
+unrelev_library	looks like i have three weeks to learn how to garden !
+<end_of_story>
+evoking_library	i was babysitting my nephew and thought it would be fun to take him to the library .
+screv_get_library_library	we went to the local library .
+evoking_library	he was excited because he never visited the library before .
+screv_take_book_library	we picked out some books that were in the children 's section .
+unrelev_library	he is interested in dinosaurs .
+screv_take_book_library	we picked the ones with big pictures .
+screv_register_library	i told him he could borrow three .
+screv_take_book_library	i almost got a book for myself but i need to finish the ones i already started .
+screv_register_library	we checked out the books and i let him hand them to the librarian .
+unrelev_library	they had a record of me
+screv_obtain_card_library	and issued me a new card .
+screv_leave_library	we went to the park
+relnscrev_library	and read them under a tree .
+screv_get_library_library	then we went back to the library and i let him return them in the metal bin out front .
+unrelev_library	over all i think it was a day he will remember .
+<end_of_story>
+relnscrev_library	i love to read , and today i remembered that i had already finished my last mystery novel .
+screv_get_library_library	so now it was time to head back to the library .
+evoking_library	it was a short walk , but one i enjoyed as i considered what kind of stories i would check out next .
+screv_return_book_library	i dropped my return books into the slot at the entrance ,
+screv_get_library_library	and entered the library .
+unrelev_library	oh how i love the smell of books !
+screv_get_shelf_library	i made my way over to the fiction area ,
+screv_look_for_book_library	and randomly layed eyes on the book bindings ,
+relnscrev_library	until a title would catch my eye .
+screv_go_check_out_library	after 23 to 23 more , i would take my selections to the check out desk .
+unrelev_library	the librarian , who knows me well ,
+screv_take_book_library	smiled and noted the books i had chosen in the system .
+unrelev_library	the library has a scanner now .
+unclear_library	it makes the check out process so much faster now .
+relnscrev_library	i picked up the books on the other side ,
+screv_other_library_library	placed them in my bag ,
+screv_leave_library	and stepped out into the autumn air .
+<end_of_story>
+unrelev_library	i was sitting home on a saturday afternoon and was quite bored .
+relnscrev_library	i decided that i would enjoy reading , but i did n't have any books that i had n't read at home .
+evoking_library	so , off i went to the library .
+relnscrev_library	i got in my car
+screv_get_library_library	and drove a mile down the street until i reached the library .
+screv_look_for_book_library	once there i browsed through the fiction books as those are my favorite
+screv_look_for_book_library	until i found a book that i thought i would like to read .
+screv_go_check_out_library	i picked up the book and took it up to the front desk .
+relnscrev_library	i pulled out my library card
+screv_register_library	and the librarian scanned the book
+screv_show_card_library	and then scanned my card .
+relnscrev_library	she put a bookmark in the book and told me
+screv_return_book_library	when the book would be due back .
+relnscrev_library	i thanked her and proceeded to walk out to my car .
+relnscrev_library	i drove home and began reading the book and it was very enjoyable to read .
+<end_of_story>
+relnscrev_library	yesterday , i decided that i wanted to read a book and went to the library with my friend .
+screv_get_library_library	we entered the library and started browsing through all the books .
+relnscrev_library	i remembered a mystery novel that i had read about and wanted to read .
+relnscrev_library	i went to the library 's computer
+screv_use_computer_library	and looked up the title of the mystery book to see if it was available .
+screv_register_library	luckily , it was available for me to check .
+screv_note_shelf_library	i wrote down the call number
+screv_look_for_book_library	and located the book in the stacks .
+relnscrev_library	i found my friend and told her that i found a book that i wanted to borrow and was ready to check out .
+screv_wait_library	i waited in line at the checkout counter
+relnscrev_library	and when i reached the front of the line , i greeted the librarian .
+relnscrev_library	i handed him the book
+screv_register_library	and my library card and he scanned both into the library 's system , successfully borrowing the mystery book .
+relnscrev_library	i started reading it today and it is really good .
+screv_take_book_library	i 'm so happy i found it at the library yesterday .
+<end_of_story>
+evoking_library	today i decided to pick out a book from the library .
+relnscrev_library	i got in my car
+screv_get_library_library	and drove a couple of miles from my house down to the library .
+screv_get_library_library	i walked inside .
+screv_look_for_book_library	i began by looking through the fiction section .
+screv_look_for_book_library	i scanned the rows of books for familiar author names or interesting titles .
+screv_take_book_library	i picked up a few books
+relnscrev_library	and read the first page or so of each one .
+screv_take_book_library	once i found one that looked like it would be a good read ,
+screv_go_check_out_library	i picked it up and took it over to the front counter .
+unrelev_library	there was a short line ,
+screv_obtain_card_library	so i waited while other people signed up for library cards
+screv_register_library	and checked out books .
+unrelev_library	once i arrived at the counter ,
+screv_register_library	the librarian took my book and scanned it .
+screv_return_book_library	she told me it would be due two weeks from now ,
+screv_get_receipt_library	and gave me a receipt .
+screv_leave_library	i thanked her and exited the library .
+<end_of_story>
+relnscrev_library	there is a book i wanted to read .
+unrelev_library	however , i was n't sure if it was a book i actually wanted to buy .
+screv_get_library_library	instead , i decided to go to the public library to see if i could borrow it .
+screv_get_library_library	once i got to the library , i decided to use the card catalog to see if the particular book i wanted was carried by the library .
+unrelev_library	luckily , it was .
+screv_note_shelf_library	i used the paper and pen provided to write down the aisle and shelf number where the book would be located .
+screv_get_shelf_library	walking down the aisles of shelves , i found the one where my book should have been .
+unrelev_library	however , it was n't there .
+screv_go_check_out_library	i then went to the front desk
+screv_ask_librarian_library	and asked the librarian
+relnscrev_library	if the book was out .
+screv_return_book_library	she told me it had just come back in ,
+relnscrev_library	and if i could wait a bit for it to be processed ,
+screv_register_library	i could then borrow it .
+screv_return_book_library	once she checked it in , she let me have it
+screv_register_library	and i then checked it out .
+screv_show_card_library	i had to show her my library card ,
+screv_return_book_library	and she told me my due date to return the book was in two weeks .
+<end_of_story>
+relnscrev_library	i needed a book to read with a young relative of mine and decided to borrow it from the library rather than buy it .
+screv_get_library_library	the local library is only a few blocks away to i walked there .
+unrelev_library	i am familiar with the computers
+screv_use_computer_library	and the process for looking up to see if a book is available
+relnscrev_library	and where it is located on the shelf .
+unrelev_library	the computer lookup station was available
+screv_use_computer_library	and quickly i was given the location of the book .
+relnscrev_library	the book was located in the proper location on the shelf .
+screv_register_library	i selected the book and went to the counter to check it out .
+unrelev_library	there were a few people in line ahead of me ,
+screv_wait_library	but the wait was short .
+screv_register_library	after scanning my library card
+relnscrev_library	and then the book the librarian asked if i needed a plastic bag to keep the book dry as it had started raining .
+relnscrev_library	i declined the offer of the bag as i had a waterproof backpack .
+screv_leave_library	i left with my book .
+<end_of_story>
+screv_get_library_library	a week ago i decided i wanted to go to the local library and borrow a book .
+unrelev_library	this is something i have n't done since i was a kid , so i was n't sure if the process had changed .
+screv_get_library_library	i drove over to the library which was about 23 miles away from my house .
+screv_get_library_library	when i arrived i walked inside and was surprised to discover the interior had dramatically changed since the last time i had been there .
+screv_look_for_book_library	once i composed myself , i began my quest to search for a good book .
+relnscrev_library	i did n't have anything particular in mind , but then i thought back to the times when i was a kid and liked books about medieval history .
+relnscrev_library	so i went over to the history section to see what they had .
+screv_take_book_library	i found a book about knights
+relnscrev_library	and medieval combat that looked interesting ,
+screv_register_library	so i took it to the front desk to check out .
+screv_obtain_card_library	i first had to sign up for a library card , and after that was done i drove home with the book .
+<end_of_story>
+unrelev_library	i needed a book about gardening .
+evoking_library	so i went to the nearby public library to see if they had a book that would be useful to me .
+screv_get_library_library	i walked into the building
+relnscrev_library	and found the nonfiction section .
+relnscrev_library	i then sat at a computer
+screv_use_computer_library	and did a search for gardening books .
+screv_use_computer_library	lots of books showed up on my search .
+relnscrev_library	i took a small pencil and piece of paper that were sitting next to the computer
+screv_note_shelf_library	and wrote down several book titles with their call numbers next to them .
+screv_get_shelf_library	i then looked at the shelves for the corresponding call numbers .
+screv_get_shelf_library	when i found my section ,
+screv_use_computer_library	i then looked for the exact numbers to find the books i had found on the computer search .
+relnscrev_library	i found the books and took them out of the shelf to get a better look .
+relnscrev_library	after browsing through them for a few minutes , i decided that i did want these books .
+screv_go_check_out_library	i picked them up and walked over to the circulation desk .
+screv_show_card_library	i handed the librarian my library card and the books i wanted to get .
+screv_register_library	she checked them out for me ,
+screv_return_book_library	and told me when they were due .
+screv_leave_library	i then walked out of the library with my books .
+<end_of_story>
+unrelev_library	i have many local libraries
+evoking_library	where i can borrow books for reading pleasure and reference without having to buy the books .
+relnscrev_library	i first find my valid library card and visit my local library .
+unrelev_library	the library is quiet with many different types of people there .
+relnscrev_library	it is relaxing place to just sit and browse through some books .
+screv_look_for_book_library	i ask the librarian for help in finding some travel books i wanted to borrow for my trip .
+relnscrev_library	she is very helpful and directs me to the area where the travel books are .
+screv_look_for_book_library	i look through the shelves
+screv_take_book_library	and find the books i need .
+screv_register_library	i check them out and borrow them with my library card .
+screv_return_book_library	i have a certain amount of time to return the books so i will make sure to return them on time in good condition so that i do not get fined .
+screv_leave_library	i leave the library satisfied with the books i borrowed .
+<end_of_story>
+relnscrev_library	i 'd been looking forward to reading tigerman , the new novel by my favorite writer , nick harkaway .
+relnscrev_library	however , i do n't like paying for the hard cover editions of books , and the paperback version would not be released for another year .
+evoking_library	i therefore decided to walk to my local library and borrow the book .
+relnscrev_library	to my disappointment , it was already checked out ,
+screv_other_library_library	but i was able to place a hold on the book .
+screv_other_library_library	six weeks later , the library sent me an e-mail to let me know that tigerman had been returned and i could now check it out .
+screv_get_library_library	i stopped by on my way home from work that evening ,
+screv_other_library_library	and got the book .
+screv_other_library_library	it was a fun read , but i was not able to finish it by the due date , so i went online and obtained an extension of the due date .
+unrelev_library	a few days later , i finished the book , which was wonderful .
+unrelev_library	i wanted other people to be able to enjoy it too ,
+screv_return_book_library	so i promptly returned the book to the library .
+<end_of_story>
+evoking_library	i often make several trips to the library so my library card is always left in my wallet and i never have to search for it .
+screv_return_book_library	today , i had to return a book but i also wanted to borrow a new one .
+relnscrev_library	i had recently finished an introductory book on learning a new language and wanted to replace it with something more enjoyable .
+screv_get_library_library	i walked out to the library .
+unrelev_library	it was only a few minutes away and i only had to cross a few streets .
+unrelev_library	walking past the small store ,
+screv_go_check_out_library	i found the reception desk where a librarian was waiting for me .
+screv_register_library	i checked back in my book on a new language
+screv_look_for_book_library	and checked the rest of the library .
+screv_look_for_book_library	i scanned the aisles for the fiction and fantasy sections .
+relnscrev_library	once found ,
+screv_take_book_library	i just picked some random books until i was able to choose one that seemed interesting enough to read .
+screv_go_check_out_library	i took my book back to the reception desk
+screv_register_library	and had it checked out with my library card .
+<end_of_story>
+evoking_library	today i decided to borrow a book from the local library .
+screv_get_library_library	i got dressed and headed out to the library .
+unrelev_library	i was n't really sure what kind of book i wanted , other than a good novel or piece of fantasy fiction ,
+screv_look_for_book_library	so i started my search in the fiction section .
+screv_other_library_library	i browsed the first few pages of several books while i was at the library to see if any interested me .
+screv_take_book_library	eventually , i came across a fantasy novel that looked really interesting to me .
+screv_take_book_library	i took it up to the librarian
+screv_other_library_library	and borrowed the book out for a week .
+screv_other_library_library	the librarian collected some information for me
+screv_show_card_library	and asked for my library card ,
+screv_other_library_library	before stamping my name in the back of the book .
+screv_leave_library	i took the book home
+relnscrev_library	and read it over the next several days .
+screv_return_book_library	once i was done , i made sure to return the book to the library before the due date , dropping it off in the library 's return box .
+<end_of_story>
+unrelev_library	i was talking to my friend the other day and she told me about a book that she thought was very interesting .
+evoking_library	i decided i could borrow the book from the library .
+screv_get_library_library	i went to my local library
+relnscrev_library	and had to sign up as a member because i previously was not a member .
+screv_obtain_card_library	after signing up for a membership , i now had two options ;
+relnscrev_library	i could ask the librarian for help , or i could use the self service computers and find the location of my book on my own .
+unrelev_library	i chose to find the book on my own , because if i can avoid dealing with people i will always pick that option .
+screv_use_computer_library	so i go on the computer and type the name of the book in .
+unrelev_library	it tells me the location the book should be in .
+screv_get_shelf_library	now i go to the location .
+screv_other_library_library	i find the book right where it 's supposed to be .
+screv_register_library	last , i check the book out at the front desk .
+relnscrev_library	i will have to return it in 23 week or i will be charged a fee .
+<end_of_story>
+relnscrev_library	for a long time , i was planning to read a book about stock trading .
+unrelev_library	when i went online most of the books were quite expensive .
+unrelev_library	but there was a library very close to my house .
+evoking_library	that lead me to think about borrowing one book from the library .
+screv_other_library_library	one saturday morning i went there and browsed several books .
+relnscrev_library	i spent almost 23 hours to finalize a book .
+screv_go_check_out_library	finally i stood in the line for the check out counter .
+unrelev_library	when it was my turn ,
+relnscrev_library	i gave the person at the counter the book that i chose .
+relnscrev_library	they asked me for the membership card but that is when i realized that i did n't have one .
+relnscrev_library	i decided to apply for a new membership card .
+unrelev_library	all that was needed for the membership application was my id card .
+relnscrev_library	i gave them my driving license .
+screv_obtain_card_library	i was given a new membership card within 23 minutes .
+relnscrev_library	i used it to borrow the book that i selected .
+relnscrev_library	i was told that the book needs to be returned within 23 days .
+unrelev_library	overall the experience was a nice one and i would keep going there .
+<end_of_story>
+relnscrev_library	i love reading , and the library provides an endless array of books to choose from .
+evoking_library	when i go to the library ,
+relnscrev_library	i browse the various sections to select the books i ' m going to check out .
+unrelev_library	sometimes i ' m in the mood for mystery , other times i prefer humor .
+screv_other_library_library	after flipping through some books in the different sections , i make my choices .
+relnscrev_library	i usually choose a few books to check out . with my selections and library card in hand ,
+screv_go_check_out_library	i make my way to the front desk
+screv_wait_library	and wait in line .
+unrelev_library	when it is my turn ,
+screv_show_card_library	i present my library card to the librarian .
+screv_register_library	she scans the books to check them out under my name .
+screv_register_library	after the books are checked out to me ,
+screv_leave_library	i ' m headed home .
+screv_return_book_library	i have 23 weeks to enjoy the books before returning them back to the library .
+unrelev_library	when the 23 weeks are up ,
+screv_return_book_library	i return the books in the library ' s drop box , and look forward to checking out a new batch .
+<end_of_story>
+screv_get_library_library	my sister went to the library to borrow a book .
+unrelev_library	she had a library card from the city library .
+unrelev_library	she took her card with her .
+unrelev_library	when she was inside the library ,
+screv_check_catalog_library	she sat in the front of the computer to check the catalog .
+unrelev_library	she typed the name of the book that she was looking for .
+unrelev_library	she got the number from the computer search results .
+screv_look_for_book_library	she wrote down the number and looked through the books in the shelf .
+screv_other_library_library	she found the book rather quickly .
+unrelev_library	she made sure it was the one she was looking for .
+relnscrev_library	she then went to the front desk to check out the book .
+unrelev_library	the staff in the library took her book and her library card .
+screv_other_library_library	he scanned her card from the machine and printed out a note .
+unrelev_library	it has the information of the book ,
+relnscrev_library	when it was checked out and the date she needed to return to the library .
+relnscrev_library	the staff told her to return before the date to avoid any penalty .
+<end_of_story>
+relnscrev_library	i was about to go on a trip and i knew i 'd want some books to read on the plane and on the beach .
+unrelev_library	i 'd spent enough money on this trip , no need to pay for books too !
+unrelev_library	instead , i found my library card
+evoking_library	and headed down to my local branch of the county library .
+screv_look_for_book_library	there , i perused the shelves .
+relnscrev_library	they say not to pick a book by it 's cover but i always do .
+relnscrev_library	i always find myself grabbing the books the librarians have put up on display on top of the shelves .
+unrelev_library	soon i had an armful of books
+screv_go_check_out_library	and i headed for the desk .
+unrelev_library	the librarian was very friendly
+screv_register_library	as she scanned a code inside each book
+screv_other_library_library	and then asked for my library card .
+screv_leave_library	as i headed for the door ,
+relnscrev_library	she reminded me the books would be due back in two weeks .
+unrelev_library	that worked out perfectly , because that happened to be right when i would be back from my trip .
+<end_of_story>
+unrelev_library	my daughter , who is 23 , has been asking me how to make origami animals .
+unrelev_library	when i was a girl i liked to fold origami too .
+unrelev_library	i really enjoyed all the colors and patterns available .
+evoking_library	i did not remember how to fold any animals so i suggested to her that we might find a book on origami from the library .
+screv_get_library_library	we drove to the library
+screv_other_library_library	and walked inside .
+screv_ask_librarian_library	i told her we could ask the librarian
+relnscrev_library	where we might find a book on folding origami , but i would rather teach her to find the book on her own .
+unrelev_library	we headed over to the library 's reference computer
+screv_check_catalog_library	and opened the library catalog .
+unrelev_library	there was an area to search by the books subject , so we typed in origami .
+unrelev_library	several books came up .
+screv_note_shelf_library	i told my daughter to write down the location of the books that looked interesting to her .
+screv_other_library_library	she found about 23 that she liked because of how the cover looked .
+relnscrev_library	once we had the locations we went to the shelf to find the books , based on the book number , we knew just where to look .
+screv_look_for_book_library	we found two of the three books we were searching for .
+relnscrev_library	then we were ready to check out the books and head home .
+screv_register_library	i got out my library card and we went to a different computer that allows you to check the books out ,
+relnscrev_library	so you can borrow them and take them home for a few weeks .
+relnscrev_library	we scanned my card , and the books and the machine printed a slip that told us when to return the books .
+screv_leave_library	we took our slip and headed out the door to drive back home .
+unrelev_library	my daughter enjoyed looking at the pictures and trying a few of the animals herself .
+<end_of_story>
+evoking_library	this afternoon i went to the library .
+relnscrev_library	i needed a really good book to read about dinosaurs .
+screv_other_library_library	i walked up to the reception desk
+screv_ask_librarian_library	and asked the librarian
+relnscrev_library	where the dinosaur books could be found .
+relnscrev_library	she took me to the right area
+screv_look_for_book_library	and i looked at all of the choices .
+unrelev_library	there were so many !
+screv_other_library_library	i chose a few that i thought looked really interesting .
+screv_go_check_out_library	i took the books i had chosen and walked over to the self checkout area .
+screv_show_card_library	i pulled out my library card
+screv_other_library_library	and scanned it with the scanning wand .
+screv_register_library	i then used the wand to scan the bar code on each of the books .
+screv_other_library_library	when they had all been scanned i checked the screen to make sure everything was correct .
+screv_get_receipt_library	i clicked on the button to print my receipt .
+unrelev_library	i put the receipt inside one of the books ,
+screv_leave_library	picked up the books and went out the door .
+relnscrev_library	i could hardly wait to get home and start reading .
+<end_of_story>
+relnscrev_library	i was skimming my nook for something good to read and found that i had either read everything or that i was not interested in what i had not read .
+relnscrev_library	so i decided to go to the local library and get one of the old fashioned paper books that i had not read .
+screv_look_for_book_library	i went and looked around the shelves
+screv_ask_librarian_library	and talked to the librarian and other customers about what was good to read .
+screv_other_library_library	after picking up a few and reading the summary i finally found one of interest
+screv_take_book_library	and took it to the checkout line .
+screv_register_library	while checking out the book the librarian noticed the handgun on my hip and we had a great conversation about the importance of being ready , willing , and able to protect yourself in any situation and in any locality .
+unrelev_library	she said she was grateful to live in a nation where we had that right and i heartily agreed with her .
+<end_of_story>
+evoking_library	i went to the library to find books about making a set of wooden shelves .
+screv_ask_librarian_library	i asked the librarian for help
+relnscrev_library	and she pointed me towards the right section .
+screv_look_for_book_library	i looked at all the books on woodworking
+screv_other_library_library	until i found a few that i felt had the information i needed to build the shelves .
+screv_take_book_library	i took the books that i needed to the librarian and she told me that they now have a self-checkout .
+screv_other_library_library	she showed me how the system worked and assigned me a pin code .
+screv_obtain_card_library	they gave me a new library card that will let me use the self check out .
+screv_other_library_library	so i scanned my library card and put in my pass code .
+relnscrev_library	i scanned each of the books i had chosen and then clicked on the button to print my receipt .
+evoking_library	this new system will make going to the library much faster .
+screv_leave_library	i gathered my books and left the library and went home to start my book shelves .
+<end_of_story>
+unrelev_library	eliminating boredom by the book i had the day off work .
+unrelev_library	i was glad of that but only a few hours into my day , i realized how bored i was .
+unrelev_library	i had already cleaned my house and done everything i needed to do .
+unrelev_library	i turned on the television , but i could n't find anything to watch .
+unrelev_library	it was cloudy and rainy outside , so going outside was not the best option .
+relnscrev_library	i knew i needed to find something to do though and i thought that maybe it would be a great idea to find a new book to read .
+evoking_library	i decided to drive to the local library .
+screv_browse_releases_library	i looked at all of the new books that they had on display .
+screv_other_library_library	i found a book that really caught my eye and looked intriguing .
+relnscrev_library	i knew that i really wanted to read this book
+screv_register_library	so i checked it out .
+screv_leave_library	i went home and started reading .
+relnscrev_library	the book was so interesting that i read and read and forgot what time it was .
+unrelev_library	i was almost to the end of the book when i noticed it was already dark outside .
+unrelev_library	i was amazed at how fast time had gone due to being caught up in a very interesting book .
+evoking_library	going to the library to borrow a book had been a very great idea to cure my boredom .
+<end_of_story>
+relnscrev_library	the other day , i finished reading the fourth book of the game of thrones series .
+relnscrev_library	with the new season about to start on hbo , i wanted to get ahead of the show and continue reading the books in the series -- but i did not want to pay for the next book .
+unrelev_library	remembering that i had a library card somewhere in my desk at home , i went home and found it .
+screv_look_for_book_library	i went to the library and after browsing the fiction section ,
+screv_other_library_library	i finally found the fifth book in the series
+screv_take_book_library	and brought it to the check out desk of the library .
+screv_show_card_library	i handed over my information
+screv_register_library	and library card and checked out the book , getting two weeks to read it for free .
+relnscrev_library	i 'm now a quarter of the way through the book and enjoy every page of it while loving the fact that my taxes paid for me to read this and i had to pay no extra money .
+<end_of_story>
+screv_look_for_book_library	yesterday i went to the library to look at some books .
+unrelev_library	my favorite type of books are books about animals .
+unrelev_library	i love cats and wolves and many other fantastic creatures .
+screv_get_library_library	my dad dropped me off at the library at 3:00 pm .
+screv_ask_librarian_library	i asked the librarian at the desk
+relnscrev_library	where i could find some books on animals .
+relnscrev_library	she directed me to a large shelf in the back .
+unrelev_library	i started to look at the books
+screv_other_library_library	and found one on wolves and another on leopards .
+screv_take_book_library	i took the books off the shelf and sat down at a table .
+relnscrev_library	i started reading them and was so into them that i lost track of time .
+unrelev_library	soon it was 6:00 pm and my father was waiting outside to pick me up .
+screv_take_book_library	i took both books to the front desk and had the librarian check them out for me .
+screv_leave_library	i was so excited to continue reading them and i went outside and we drove home .
+<end_of_story>
+relnscrev_library	i needed to write a school report on tigers , and i decided to visit the library to find a book to use in my research .
+screv_other_library_library	when i entered the library , i saw hundreds of books on many different shelves and was not sure
+relnscrev_library	where to find books on tigers .
+relnscrev_library	i asked a librarian for help finding books on tigers .
+unrelev_library	are you looking for stories about tigers , or facts and photographs about tigers ?
+unrelev_library	she asked me .
+unrelev_library	i told her i wanted facts and real information so i can write a report .
+relnscrev_library	she walked over to a group of shelves labeled nonfiction and told me that these books all had true facts and pictures , rather than being imaginary stories .
+relnscrev_library	they are put in a special order using number codes called the dewey decimal system .
+unrelev_library	using these codes , all the books on tigers would be in the same place and would be very close to books about other animals .
+relnscrev_library	she looked up the dewey decimal system code for tigers
+screv_note_shelf_library	and wrote it down for me .
+screv_look_for_book_library	walking through the shelves with my code , i saw that the numbers on the spines of the books start at zero and keep getting bigger and bigger .
+relnscrev_library	finally , i was getting close to the number she wrote down for me .
+unrelev_library	there i saw books about lions , cheetahs , and finally tigers .
+screv_other_library_library	i found a book that looked like it would be helpful for my report
+screv_other_library_library	and brought it back to the librarian .
+relnscrev_library	she asked me for my library card ,
+screv_show_card_library	and after i handed it to her ,
+screv_other_library_library	she scanned it with her computer .
+screv_register_library	next , she scanned a barcode on the back of the book .
+screv_register_library	now the book was checked out in my name so that the library would know who has the book .
+relnscrev_library	she handed me the book and told me that i needed to bring it back to the library in two weeks .
+screv_return_book_library	if i did n't bring it back ,
+relnscrev_library	i would have to pay a fine for every day i kept it ,
+relnscrev_library	because other people might want to read the book too .
+screv_leave_library	i thanked her and went home to work on my report .
+<end_of_story>
+screv_ask_librarian_library	i visited the library and asked the main librarian
+relnscrev_library	where i could find the fiction books .
+relnscrev_library	i followed her instructions
+screv_look_for_book_library	and then looked around the shelves for the mystery genre books .
+screv_look_for_book_library	i browsed through the shelves of mystery books for a few minutes
+screv_take_book_library	and picked out a few books that looked interesting .
+unrelev_library	then , i sat down in a comfy chair near the shelves
+relnscrev_library	and read the beginnings to the books i had chosen to see if i would really like them .
+unrelev_library	i narrowed it down to one book that i found interesting
+relnscrev_library	and enjoyable to read .
+relnscrev_library	i placed the other books on a shelf to be returned to their proper place by the librarian .
+screv_take_book_library	i took the book and went to the front of the library and pulled out my library card .
+screv_show_card_library	i handed my library card
+screv_register_library	and the book to the librarian and she scanned them both using her card scanner .
+relnscrev_library	she informed me of the due date of the book and i thanked her for her help .
+screv_leave_library	i left the library to go home .
+<end_of_story>
+relnscrev_library	this morning , i finished reading the book i checked out the week before .
+evoking_library	after breakfast , i went to the library with my partner .
+screv_return_book_library	i dropped my book off in the return bin
+screv_other_library_library	after we walked in .
+unrelev_library	she wanted to look at the section in the far back of the library , concerning the history of wood furniture .
+unrelev_library	i had something special in mind .
+relnscrev_library	science fiction is the genre i typically read , so i went in that direction .
+screv_look_for_book_library	i browsed the long aisles for my favorite author , and saw that they had two copies of the book i was wanting to check out .
+unrelev_library	i left quickly to the drinking fountain , and came back to find that there was only one copy left .
+screv_take_book_library	i picked up the book and went to go find my partner ,
+screv_other_library_library	who had also found her book .
+screv_register_library	the checkout line was fast , we had our library cards ready for the attendant and had no issue checking out the books .
+relnscrev_library	the drive home was relaxing , and we began reading right away after returning to the living room .
+<end_of_story>
+evoking_library	today i decided to go to the library and borrow a book to read .
+unrelev_library	the library is my local public library ,
+relnscrev_library	and it is very big so there are many options to choose from .
+screv_get_library_library	when i arrived , i began walking up and down the aisles ,
+relnscrev_library	reading the titles on the books and looking at ones that had titles that caught my eye .
+relnscrev_library	i made my way through the fiction section , as this is what i prefer to read .
+relnscrev_library	i perused many genres , including fantasy , horror , thriller , and mystery .
+relnscrev_library	i finally settled on a book by stephen king - arguably one of the best horror writers of all-time .
+relnscrev_library	it was a book i had read before , but i enjoyed it enough to read again .
+relnscrev_library	after making my selection ,
+screv_register_library	i made my way to the self-scanner to check out my book .
+screv_other_library_library	i scanned my library card
+relnscrev_library	so that the book would be logged under my account ,
+screv_register_library	then i scanned the book itself .
+unrelev_library	finally , i was done !
+screv_leave_library	i left the library and went home to sit down and read .
+<end_of_story>
+evoking_library	borrowing a book from the library is so nice and super simple to do .
+unrelev_library	i love doing this
+relnscrev_library	because if you want to read a book and not buy it , then just go borrow it from the library .
+relnscrev_library	almost every library will add new books to their collection if you ask .
+unrelev_library	you just need a library card
+relnscrev_library	and you can get one from any library since they are free if you have a picture id card of yourself and an address where you reside .
+screv_ask_librarian_library	if you know what type of book you want , you can go to the section of the library that has that category or you can ask a librarian to help you .
+screv_ask_librarian_library	if you ask politely where a certain book is , they are more than happy to help you find the book .
+relnscrev_library	so once you find the book you are looking for ,
+screv_take_book_library	you take it to the checkout desk
+screv_show_card_library	and present them with your library card ,
+relnscrev_library	then they punch the card into their computer system
+screv_register_library	and scan the barcode on the book so they have a record of who has what book .
+relnscrev_library	they then tell you when the book is due , and for the next designated time frame , you can spend your time enjoying the book you are borrowing from the library .
+evoking_library	i go to the library just about every day
+relnscrev_library	and find a good book to read and i sit outside and read it .
+relnscrev_library	i went and got the divergent book and started reading it today in the library .
+screv_ask_librarian_library	i had to ask the librarian
+relnscrev_library	where to find it in the library since it was not where i thought it would be ,
+relnscrev_library	she kindly helped me find it and asked what types of books that i enjoy reading and suggested some for me to check out after i finish this one
+screv_leave_library	and then i went on my way to dive into this book and enjoy the story since i saw the movie last week .
+<end_of_story>
+relnscrev_library	for my english class , i had to read a book about president obama .
+unrelev_library	normally , i am able to find a pdf copy of a book online but i could n't find this book .
+unrelev_library	i had no choice
+relnscrev_library	but to go to the library to take out this book .
+unrelev_library	while i was at the library ,
+screv_wait_library	i had to wait on line to speak to the librarian .
+relnscrev_library	i wanted the librarian to help me find the book since the library was a huge library .
+relnscrev_library	i would n't be able to find the book on my own .
+screv_ask_librarian_library	when i was finally able to speak to the librarian about the book , she was very warm and helpful .
+relnscrev_library	not only did she tell me where the book was at but she personally walked with me to the area .
+relnscrev_library	on the way , she made small talk and asked why am i reading the book ?
+unrelev_library	i told her it was for an english class .
+unrelev_library	a minute later , we came to the area where the book was located .
+screv_take_book_library	she picked up the book and handed it to me .
+screv_register_library	soon , she helped me check out the book .
+unrelev_library	finally , i had the book
+screv_leave_library	and i left the library .
+<end_of_story>
+unrelev_library	the library is a magical place where dreams are made real and fantasies are explored .
+relnscrev_library	as i walk through the aisles and aisles of books i ca n't imagine what to choose .
+unrelev_library	there are so many that my mind ca n't keep up .
+relnscrev_library	i love to read and i do it daily .
+relnscrev_library	it is my favorite hobby and i spend a majority of my time either at home reading or at the library finding new books to read .
+unrelev_library	the best part about the library is not having to buy the books or spend money .
+screv_show_card_library	you simple give them your card and they let you take the book home for a long enough period to read and bring back .
+relnscrev_library	if the book is too long to read then you can simply check it out again
+screv_return_book_library	and bring it back when you are finished .
+unrelev_library	as long i keep a good standing with the library i can keep doing this all my life !
+<end_of_story>
+unrelev_library	my history teacher have us an assignment to do a research paper on world war ii .
+screv_get_library_library	i needed to gather information so i headed to the school library to do research .
+relnscrev_library	i found many helpful books in the history section of the library and sat down to do my research .
+evoking_library	a few hours later and the library is about to close but i 'm not finished with my work so i decided to borrow the history books .
+screv_go_check_out_library	i gathered the books and headed to the librarian .
+screv_other_library_library	i handed her the books i wanted to borrow along with my library card .
+screv_register_library	she then scans my library card and each book .
+relnscrev_library	the machine starts printing out the date of when the books are due .
+screv_other_library_library	the librarian hands me back the books , library card , and due date .
+relnscrev_library	i take the books home to do further research for my history assignment that 's due next week .
+<end_of_story>
+evoking_library	today , we went to the library to check out some books .
+relnscrev_library	a lot of people lke to borrow books from the library for all kinds of reasons but we just wanted some books to read for fun .
+screv_get_library_library	we already knew which books we wanted before we got to the library so when we got there ,
+relnscrev_library	we just had to find them .
+relnscrev_library	it is possible to look them up and find them on the libary 's computer .
+unrelev_library	if you are in a hurry ,
+screv_ask_librarian_library	you can ask the librarian to help you find them a little easier and more quickly .
+relnscrev_library	when we found out where to find the ones we wanted ,
+screv_register_library	we found them and took them to the librarian to check them out to us .
+screv_register_library	she put the book information in the computer
+screv_other_library_library	and then she swiped our library cards .
+unrelev_library	it did n't take very long at all .
+screv_register_library	when shed put them into the system
+screv_other_library_library	and swiped the cards , she printed out a slip of paper that showed exactly what day we needed to turn them back in , in order to avoid any late fees .
+relnscrev_library	when we were ready to take them back ,
+screv_return_book_library	we turned them in to the librarian
+screv_look_for_book_library	and then looked for more !
+<end_of_story>
+evoking_library	i go to the library very often and am always borrowing books .
+relnscrev_library	when i decide to go , i take any books with me that i have read and need to return .
+screv_get_library_library	once i get to the library ,
+relnscrev_library	i will walk in and put any books in the return slot that i have brought back .
+unrelev_library	i will then go to the section where they put all the new releases of books
+screv_browse_releases_library	and see if there are any that i am meaning to read .
+screv_browse_releases_library	i also check out my two favorite sections of the library
+screv_take_book_library	and grab a couple of the books that i have been meaning to read or that are the next in a series .
+evoking_library	when i 'm ready to borrow the books ,
+screv_go_check_out_library	i head up to the main desk
+screv_wait_library	and wait in line .
+unrelev_library	when it is my turn ,
+screv_register_library	i place the books on the counter for the person to scan .
+screv_show_card_library	i also have to give them my library card so that they can keep track of who is borrowing the books .
+screv_other_library_library	they scan my card , and then print out a receipt that shows when my books will each be due .
+unrelev_library	they put the receipt inside one of the books so that i wo n't lose it ,
+relnscrev_library	and after i thank them for their help , i head home to begin reading my new books .
+<end_of_story>
+evoking_library	i love going to the library to check out books .
+unrelev_library	it is probably one of my favorite places to go to , since i 'm a fairly avid reader .
+screv_get_library_library	anyway , i 'll usually bike to the library and bring a backpack with me
+relnscrev_library	so that i can easily bring my books home .
+unrelev_library	the last time i went , i was looking for some books on local folklore for a class that i 'm taking .
+unrelev_library	i quickly went to one of the computer search stations
+screv_use_computer_library	and typed in the last name of an author that i knew had written a book on the subject .
+unrelev_library	i got back a couple more results than i had expected ,
+screv_note_shelf_library	so i made note of them .
+screv_use_computer_library	then , i searched by just the topic of folklore , along with the tribe that i was covering .
+relnscrev_library	i found several books that looked like they might be interesting .
+screv_note_shelf_library	so , i took the numbers for where they would be and headed off towards the stacks .
+unrelev_library	i followed the numbers to the different rows
+screv_take_book_library	and picked up the books that i needed , as well as a couple other books that also sounded interesting .
+screv_go_check_out_library	my arms full , i took them all to the checkout counter ,
+screv_other_library_library	where a nice older man scanned them and gave me a printed receipt that said when i would need to have them back by .
+unrelev_library	all in all , it was a pretty productive trip to the library .
+<end_of_story>
+relnscrev_library	the other day i decided that i wanted to read a book , but all the ones i had in my home i had read already .
+evoking_library	when i was thinking about what to do , i spotted my library card and decided that i 'd go borrow a book .
+screv_other_library_library	i drove over and headed inside .
+relnscrev_library	i 've always liked libraries , they 're usually nice and quiet and you never know what kind of interesting books you might find when you 're looking around .
+screv_browse_releases_library	i started by looking at the new arrival shelves , but nothing there really caught my eye .
+unrelev_library	i headed over to one of the library computers
+screv_use_computer_library	and brought up the book search .
+unrelev_library	it took me a little while to decide what kind of book i wanted , but eventually decided i wanted a science fiction book , just something to enjoy for a little while .
+screv_use_computer_library	i started browsing through all the search results until a book caught my eye .
+screv_note_shelf_library	i noted down the shelf number it should be in and went over to it .
+screv_take_book_library	i found my book and took it to the desk ,
+screv_show_card_library	where i gave the librarian my library card and the book .
+screv_register_library	he checked it out for me
+screv_other_library_library	and handed them back .
+screv_leave_library	after that , i headed home and sat down to read my book .
+<end_of_story>
+unrelev_library	a library is a great way to re-live the past .
+unrelev_library	it 's a magical place
+evoking_library	where you can rent a book ,
+relnscrev_library	and return it at a leisurely pace .
+unrelev_library	now-a-days there are many digital options so the library has become all but extinct .
+relnscrev_library	on the plus side they may have some very rare finds that you can review .
+evoking_library	in order to borrow a book from the library ,
+screv_get_library_library	head to your local one and start browsing their selection .
+relnscrev_library	you can read the back of these books for a summary on the topics covered in the book .
+screv_other_library_library	once you have selected a book or two ,
+screv_go_check_out_library	locate your closest librarian desk and bring the books over .
+screv_register_library	they will allow you to register and sign out these books , due back at another time .
+relnscrev_library	take them home and make sure to enjoy them by a fireplace , or with a small lit candle .
+unrelev_library	once you have completed these books , or grown tired of them ,
+screv_return_book_library	you can head back to the library to return them .
+<end_of_story>
+evoking_library	last week i went to the library to get a book .
+relnscrev_library	one of my friends had recommended that i read a book called the chocolate wars .
+screv_get_library_library	i went to the library saturday afternoon .
+unrelev_library	i walked into the main area on the first floor and went to a computer terminal ,
+screv_use_computer_library	where i looked up the book by its title .
+relnscrev_library	the library catalog gave me a call number that identified where the book was stored .
+screv_note_shelf_library	i wrote the call number down on a little slip of paper , then i took the slip of paper
+screv_other_library_library	and went to the shelves where the books are .
+unrelev_library	at the end of each row of book shelves , there are signs that told me which books were in that row .
+screv_other_library_library	i found the row where the number i was looking for was , then i looked at the numbers on the books on those shelves
+screv_other_library_library	until i found the number that matched the chocolate wars .
+screv_take_book_library	i pulled the book off the shelf and liked the cover , so i decided i would go ahead and read it as my friend suggested .
+screv_go_check_out_library	i took the book to the circulation desk
+screv_other_library_library	and gave it to the librarian with my library card .
+screv_other_library_library	the librarian swiped my library card through an electronic reader
+relnscrev_library	and told me the book would be due in two weeks .
+screv_leave_library	i thanked her and left the library .
+<end_of_story>
+relnscrev_library	reading is very important to me ,
+relnscrev_library	and with the amount that i read , it is economical to use a library to borrow the books i would like to read .
+evoking_library	when borrowing a book , i get my son into the car
+screv_get_library_library	and we drive to the library .
+screv_take_book_library	usually we find a few books for him to borrow as well ,
+screv_get_shelf_library	so we go to the children 's section first
+screv_take_book_library	and pick out two or three books for him .
+screv_look_for_book_library	that way , when we go to find a book for me , he has something to entertain him .
+screv_get_shelf_library	then we go to the fiction section for adults .
+relnscrev_library	usually my son ryan will sit on the floor looking at his books next to me
+screv_register_library	while i find book to check out .
+screv_look_for_book_library	i find a book or two
+screv_go_check_out_library	and then ryan and i go to the check out
+screv_register_library	and use my library card to check out the books .
+screv_other_library_library	the librarian usually puts them in a bag
+screv_leave_library	and then we leave the library to go home and enjoy our books .
+<end_of_story>
+unrelev_library	a while back i realized i needed some instructional material for a project i was working on , and searching for information on the internet was n't yielding the results i desired .
+evoking_library	i thought about other sources of information and realized that the library would probably have a book pertaining to what i needed .
+unrelev_library	so i got in my car
+screv_get_library_library	and set off for the library .
+screv_get_library_library	once i got there ,
+screv_obtain_card_library	i signed up for a library card since i knew i 'd need that to be able to borrow a book .
+unrelev_library	i then went to one of the reference computers
+screv_look_for_book_library	and searched for the book i was looking for .
+screv_look_for_book_library	i found the dewey decimal code for the book i wanted ,
+screv_get_shelf_library	and set off through the aisles .
+screv_get_shelf_library	finally , i found the aisle i was looking for .
+screv_look_for_book_library	it only took me a moment from there to find the book i wanted .
+screv_go_check_out_library	book in hand , i went back to the library counter .
+screv_register_library	i told the librarian i 'd like to borrow the book .
+screv_register_library	she wrote my information down and on the insert in the book ,
+screv_get_receipt_library	and gave me a due date .
+screv_leave_library	then i was on my way .
+screv_take_book_library	that 's how i borrowed a book from the library .
+<end_of_story>
+evoking_library	today i got up a little early to get to the library as soon
+relnscrev_library	as it opened .
+unrelev_library	it 's about a 23 minute trip , but i love the drive .
+screv_get_library_library	as i got to the library ,
+relnscrev_library	the librarian greeted me with a big smile and made small talk .
+screv_look_for_book_library	i then looked up the book i wanted on the computer .
+relnscrev_library	it was available ,
+screv_get_shelf_library	and i made my way down the long rows of bookshelves .
+screv_look_for_book_library	i found my book easily , and i also found a couple others i 'd like .
+screv_take_book_library	i carried my stack of books to the counter , and the same librarian was happy to help me .
+unrelev_library	she told me my book choices were great
+screv_other_library_library	and she also recommended some further reading .
+screv_register_library	she checked out my books in the computer .
+screv_return_book_library	two of the books needed to be returned in two weeks and the other needed to be returned in one week .
+screv_return_book_library	i 'll likely return them all in one week .
+screv_leave_library	i left and went to the park to start reading .
+<end_of_story>
+relnscrev_library	in my english class i was recently assigned to read the book brave new world .
+unrelev_library	my first idea was to just buy it but when i went to the local bookstore it cost $ 23 .
+screv_get_library_library	$ 23 for a book is more than i am willing to pay so i decided to go to the local library .
+screv_other_library_library	calling in ahead to make sure that they did indeed have the book that i wanted ,
+screv_get_library_library	i then headed in the direction of the library .
+screv_get_library_library	when i arrive they had already had the book up front
+screv_other_library_library	as i requested so that all i had to do was go pick it up .
+unrelev_library	or so i thought .
+screv_obtain_card_library	in actuality i had to spend time getting a new library card .
+relnscrev_library	the librarian walked me through the process while also giving me a little background on the book i was about to read .
+screv_show_card_library	after i had gotten my new library card i simply gave it to the librarian
+screv_register_library	and she checked out the book for me .
+<end_of_story>
+evoking_library	i love to borrow books from the library because it is so easy .
+unrelev_library	i also love it
+screv_return_book_library	because if i return things on time , it 's totally free !
+screv_look_for_book_library	i went to the library today to look for some gardening books .
+screv_look_for_book_library	i did n't feel like using the computer to find the books ,
+screv_get_shelf_library	so i went through the dewey decimal system until i got to the gardening section .
+unrelev_library	there were so many shelves of gardening books !
+screv_take_book_library	i found a few that i liked and decided i needed a basket .
+screv_other_library_library	i got one from the circulation desk .
+relnscrev_library	after that , i decided to go find a movie and a video game for my family to enjoy .
+relnscrev_library	i browsed through the movies in alphabetical order and found a copy of night at the museum for my family to enjoy .
+relnscrev_library	i also found a copy of mario kart for the wii .
+screv_go_check_out_library	i took my items up to the front desk
+screv_register_library	and checked them out .
+screv_return_book_library	i will have to return them within a week .
+<end_of_story>
+relnscrev_library	yesterday after lunch i decided i wanted a book to read .
+screv_look_for_book_library	i went to my local library and browsed the shelves for something i would enjoy reading .
+screv_look_for_book_library	after finding my favorite section of the library i looked at the titles of each book .
+screv_take_book_library	i picked out a book i thought sounded interesting and read the back cover to make sure the story sounded amusing .
+screv_other_library_library	after reading the back cover i was excited about the contents of the book .
+screv_take_book_library	i took the book up to the front of the library
+relnscrev_library	where the librarian sat at her desk .
+screv_take_book_library	i informed her that i found the book i wanted and was ready to check out .
+screv_register_library	she scanned the bar code on the book and let me know it was due to be returned in five days .
+relnscrev_library	i left the library full of anxiousness to go read my book .
+<end_of_story>
+relnscrev_library	i started using my local library after i canceled cable .
+relnscrev_library	it turns out that they have thousands of dvd 's and blue ray movies available for free .
+unrelev_library	i live in a pretty decent sized town , so the library is actually really nice .
+screv_other_library_library	one day my daughter and i were looking for movies .
+relnscrev_library	she told me about needing to download a book because she had seen a movie recently and wanted to read the book now .
+screv_look_for_book_library	she was kind of shocked when i suggested that we look for the book at the library .
+screv_use_computer_library	she thought that people just used the computers there
+screv_other_library_library	and borrowed movies .
+screv_look_for_book_library	she did not think that they would have the book that she wanted .
+relnscrev_library	she thought that the only books there were encyclopedias and old books .
+screv_take_book_library	she was really surprised when we were able to find the book that she had been wanting to download .
+relnscrev_library	now , she would rather read a regular paper book than read a book on her tablet .
+unrelev_library	this kind of made me happy .
+<end_of_story>
+relnscrev_library	i really wanted to read the latest stephen king book , but i did n't want to have to buy it , so i decided i could borrow the book from the library .
+relnscrev_library	i went online first ,
+screv_other_library_library	to check to see if my local library had a copy .
+screv_other_library_library	all their 's were checked out ,
+relnscrev_library	but another nearby library had several copies in stock .
+unrelev_library	they also had a great new feature
+screv_other_library_library	where i could reserve the book online , so i did that .
+screv_get_library_library	i drove to the library ,
+screv_go_check_out_library	and went straight to the front desk .
+screv_other_library_library	i told the librarian that i had reserved a copy of stephen king 's new book online ,
+screv_show_card_library	and she asked for my library card and told me she 'd be right back .
+screv_take_book_library	she brought the book to the counter ,
+screv_other_library_library	and used her computer to confirm that i had indeed reserved a copy of the book online .
+screv_take_book_library	she gave me the book and told me i had two weeks
+screv_return_book_library	before it was due back .
+unrelev_library	i thanked her for it
+relnscrev_library	and went home to read my new book .
+<end_of_story>
+screv_take_book_library	i went to the library the other day -lrb- on saturday -rrb- to borrow a book .
+screv_other_library_library	in the process , i stepped into the library
+screv_get_shelf_library	and headed straight to the section of the book i wanted to borrow .
+unrelev_library	i plan ahead of time
+relnscrev_library	where the book may be as i know borrowing books at my particular library is rather competitive .
+screv_get_shelf_library	i had to find my way through several aisles in order to get to the right alphabetical order .
+screv_other_library_library	i found the author and to my luck ,
+relnscrev_library	the book i wanted was there .
+relnscrev_library	surprisingly , there were actually three copies even though the book is rather popular .
+screv_go_check_out_library	i grabbed the book and headed to the self-checkout register near the back of the library .
+screv_show_card_library	i scanned my library card off my key chain
+screv_register_library	and scanned the book .
+relnscrev_library	after confirming the entire transaction ,
+screv_get_receipt_library	i grabbed my receipt
+screv_take_book_library	and happily headed out the library with my newly borrowed book in hand .
+<end_of_story>

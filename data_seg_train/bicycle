@@ -1,0 +1,1412 @@
+screv_ride_bike_bicycle	i must have struck something while riding my bike
+relnscrev_bicycle	because it suddenly lost all its pressure .
+screv_notice_problem_bicycle	upon closer examination , i found a screw in it .
+screv_lay_bike_down_bicycle	i sighed with frustration and laid the bike on its side .
+screv_get_tools_bicycle	i took out a wrench , a tube , and a tire tool out of my bag .
+screv_loose_nut_bicycle	i loosened the nut holding the wheel on my bike with the wrench
+screv_free_wheel_bicycle	and then undid the rest with my hands .
+unrelev_bicycle	when the wheel was free ,
+relnscrev_bicycle	i took the tire tool and wedged it between the wheel
+screv_take_tire_off_bicycle	and tire to remove the rubber .
+screv_examine_tire_bicycle	i examined the inner tube and it was definitely beyond repair .
+screv_remove_tire_bicycle	i removed the damaged tube
+screv_put_new_tire_bicycle	and replaced it with the new one .
+screv_put_new_tire_bicycle	i put the tire back onto the wheel
+screv_pull_air_pin_bicycle	and pulled the air pin through the hole on the wheel .
+screv_get_tools_bicycle	i took out my air pump and began to refill the tire with air .
+<end_of_story>
+screv_ride_bike_bicycle	i ride my bike to work everyday .
+screv_ride_bike_bicycle	i also ride for pleasure on the weekends .
+screv_ride_bike_bicycle	this morning i was pedaling along
+screv_notice_problem_bicycle	and all of the sudden i could feel the gritty pavement scraping the rim .
+screv_get_off_bicycle	i got off the bike and sure enough the front tire was flat .
+unrelev_bicycle	well that is bad but not as bad if the rear tire was flat
+screv_other_bicycle_bicycle	and i had to take the chain off .
+unrelev_bicycle	i always carry a spare inner tube and have a pump on the frame of my bike .
+unrelev_bicycle	this was going to be easy as i have done this many times before .
+screv_loose_nut_bicycle	i loosened the lock nuts that hold the front tire in place
+screv_take_tire_off_bicycle	and pulled the tire from the frame .
+relnscrev_bicycle	i looked in my bike pack and found the tool that helps take the tire off the rim .
+unrelev_bicycle	this took all of 23 minutes .
+screv_put_patch/seal_bicycle	when i had that off i took the old inner tube and placed it in my backpack to patch later .
+screv_put_new_tire_bicycle	i then fit the good inner tube inside the tire and in reverse order fitted the tire to the rim .
+screv_refill_tire_air_bicycle	i next took my pump and filled it up to the correct pressure .
+screv_put_new_tire_bicycle	i put the tire back on the front fork
+relnscrev_bicycle	and tightened the locking nuts and was on my way .
+unrelev_bicycle	i was n't even late for work .
+<end_of_story>
+screv_ride_bike_bicycle	the other day , my best friend and i were riding to his house .
+unrelev_bicycle	when we were almost there ,
+screv_notice_problem_bicycle	i noticed that the front tire on my bicycle felt rather wobbly and was most likely flat .
+unrelev_bicycle	i was in luck however , as my friend had a bicycle repair kit and some spare tires .
+unrelev_bicycle	once we arrived at my friend 's house , i asked my friend if he let me borrow his bicycle repair kit .
+relnscrev_bicycle	first , i turned the bike over
+screv_take_tire_off_bicycle	and removed the front tire and tube .
+screv_examine_tire_bicycle	next i filled the tube with air to check where the tube was damaged ,
+relnscrev_bicycle	and found a small glass shard which had punctured through it .
+unrelev_bicycle	after making ensure the tube was fully deflated ,
+screv_put_patch/seal_bicycle	i repaired the puncture in the tube by using glue and applying a patch on top ,
+screv_put_new_tire_bicycle	then slid it back onto the tire using my hands .
+screv_put_new_tire_bicycle	next , i placed and pushed the tire back onto the tube .
+screv_put_new_tire_bicycle	after which , i reconnected the tire onto the bicycle .
+screv_refill_tire_air_bicycle	finally , i pumped air into the tire until it was filled up and the bicycle was ready to be ridden again .
+<end_of_story>
+screv_ride_bike_bicycle	last weekend i took a bike ride around my neighborhood .
+unrelev_bicycle	when i got back home ,
+screv_notice_problem_bicycle	i noticed that my front tire looked low .
+screv_examine_tire_bicycle	i looked at the tire and realized there was a nail stuck in it .
+relnscrev_bicycle	i took the nail out .
+screv_take_tire_off_bicycle	then removed the tire from the bike .
+unrelev_bicycle	inside the tire was a bike tube .
+unrelev_bicycle	the air goes in the bike tube ,
+relnscrev_bicycle	but it was leaking because of the hole the nail put in it .
+screv_get_tools_bicycle	i found my patch kit ,
+screv_put_patch/seal_bicycle	and glued a bike tube patch over the hole .
+screv_get_tools_bicycle	then i got my air pump .
+screv_refill_tire_air_bicycle	i pumped and pumped until the tube was inflated .
+screv_check_new_tire_bicycle	afterwards , i put the bike tube in water to see if there were any air bubbles .
+unrelev_bicycle	air bubbles in the water mean there 's still a leak .
+relnscrev_bicycle	luckily for me , it was no longer leaking air !
+screv_other_bicycle_bicycle	i put the tire back over the top of the bike tube
+screv_put_new_tire_bicycle	and put the tire back on my bicycle .
+screv_check_new_tire_bicycle	i looked at it carefully , then hopped on for another ride around the neighborhood , this time avoiding any nails .
+<end_of_story>
+screv_ride_bike_bicycle	i was riding down the sidewalk
+relnscrev_bicycle	and noticed that my bicycle tire had gone flat .
+screv_refill_tire_air_bicycle	i took my bike home and attempted to put air in the tire .
+screv_notice_problem_bicycle	i noticed a hissing noise coming from the tire and realized that it had a hole in it .
+unrelev_bicycle	i had a can of tire patch on the shelf in the garage .
+screv_take_tire_off_bicycle	i took a screwdriver and loosened the tire from the metal rim of the bicycle .
+screv_take_tire_off_bicycle	after i got the tire off ,
+relnscrev_bicycle	i opened the can of tire patch and , with a wooden spatula ,
+screv_put_patch/seal_bicycle	i applied some of the black tire patch to the inside of the tire where the hole was .
+relnscrev_bicycle	i allowed it to dry for a few hours .
+screv_put_new_tire_bicycle	i put the rubber tire back on the tire rim ,
+screv_refill_tire_air_bicycle	and added air .
+unrelev_bicycle	the tire held air and there was no longer a hissing noise .
+unrelev_bicycle	i hope my repair holds for a long while .
+<end_of_story>
+screv_ride_bike_bicycle	some years ago , i used my bike to get around town a lot .
+unrelev_bicycle	of course , came the time
+evoking_bicycle	when you have to make repairs .
+unrelev_bicycle	i found out a lot about bicycle tires during this time .
+relnscrev_bicycle	my tire had a leak
+screv_get_tools_bicycle	so i bought a repair kit .
+unrelev_bicycle	i had no idea how to use it but i did find out .
+screv_free_wheel_bicycle	i had to take the whole wheel off the bicycle .
+screv_take_tire_off_bicycle	next i pried the tires from the rim and that took some doing .
+screv_take_tire_off_bicycle	okay once i got that off i had to take the inner tube out also and i learned that i had to be very careful with the inner tube because i could cause more damage by being rough .
+unrelev_bicycle	next , i took the inner tube to the gas station to get air since i did n't have a manual air pump .
+screv_refill_tire_air_bicycle	i learned really quickly that i needed to fill the inner tube with care or i would be buying another one since the air fills it quickly and the tube can pop .
+screv_examine_tire_bicycle	once i put a little air in the tube i had to listen as i pressed the air out to determine where the leak was actually at .
+relnscrev_bicycle	once the leak location was identified then i was able to take the tube home and use the glue from the kit
+screv_put_patch/seal_bicycle	and apply the rubber patch .
+screv_put_new_tire_bicycle	of course i had to allow the tube to dry and then deflate it to get it back on the bicycle .
+screv_put_new_tire_bicycle	once i got it all put back together i walked my bike back to the gas station for air .
+<end_of_story>
+screv_ride_bike_bicycle	i went out to ride my bicycle one morning ,
+screv_notice_problem_bicycle	only to find that my front tire was very flat .
+screv_get_tools_bicycle	i grabbed my manual air pump and tried to put air into it , but it would not hold any and kept going flat .
+relnscrev_bicycle	i heard a hissing sound , so i knew i had punctured the tire somehow .
+screv_put_new_tire_bicycle	luckily i had a spare inner tube that i could put on .
+relnscrev_bicycle	i flipped my bicycle over
+screv_take_tire_off_bicycle	and took a wrench to remove the tire from the spokes .
+unrelev_bicycle	it was kind of greasy and messy , but i did n't mind .
+screv_take_tire_off_bicycle	i was able to get it off pretty easily .
+screv_take_tire_off_bicycle	i then pushed the tire off of the rim all the way around .
+unrelev_bicycle	when the tire was off the rim ,
+relnscrev_bicycle	i took the spare tube i had and put it all around the inside of the tire .
+screv_put_new_tire_bicycle	i then pushed the tire back onto the rim .
+screv_put_new_tire_bicycle	it did not go on as easily as it came off , and it took a bit of struggling with the tire to get it back on .
+unrelev_bicycle	finally i had it on .
+screv_get_tools_bicycle	i took my manual air pump
+screv_refill_tire_air_bicycle	and pumped up the tube inside of the tire .
+relnscrev_bicycle	it held air very nicely , and i did n't hear any hissing and it did not go flat .
+screv_other_bicycle_bicycle	i then put the tire back on the front bicycle fork , and tightened the nuts so it would hold very well and not slip or come off .
+relnscrev_bicycle	i then flipped my bicycle over
+screv_check_new_tire_bicycle	and made sure the tire was still holding air .
+screv_ride_bike_bicycle	it was , so i put on my helmet , and finally was able to enjoy my morning bike ride .
+<end_of_story>
+relnscrev_bicycle	my bike tire was flat so i went to the bike shop and bought a replacement .
+screv_take_tire_off_bicycle	i first took the old tire off of my bike .
+relnscrev_bicycle	then i set my bike on a rack to that the flat tire would be easy to get to .
+relnscrev_bicycle	then i put the new tire around the wheel to see if it fits .
+unrelev_bicycle	it did .
+screv_put_new_tire_bicycle	then i put the new tire into the grooves inside the wheel .
+screv_refill_tire_air_bicycle	then i walked with my bike to the gas station just around the corner to fill it up with air .
+unrelev_bicycle	i put a quarter into the air machine and put my bike next to the air hose
+screv_refill_tire_air_bicycle	and filled the tire up .
+screv_check_new_tire_bicycle	i checked the air pressure with a gauge and it was alright .
+screv_check_new_tire_bicycle	i felt around the tire to make sure that it was solidly in place and it was .
+<end_of_story>
+screv_ride_bike_bicycle	while i was out riding my bike one warm spring day ,
+relnscrev_bicycle	one of the tires went flat .
+unrelev_bicycle	fortunately i had a repair kit with me in a pouch on the bike .
+screv_ride_bike_bicycle	i always kept it with me on rides just in case of such an occurrence .
+relnscrev_bicycle	i got off and went to the side of the trail out of the way of other bikers and runners .
+screv_lay_bike_down_bicycle	i lay the bike on its side
+screv_get_tools_bicycle	and got the repair kit out of the pouch .
+screv_refill_tire_air_bicycle	the repair kit contained a new inner tube which i inflated .
+screv_take_tire_off_bicycle	i then pulled the outer tire off of the inner tube .
+relnscrev_bicycle	i replaced the flattened inner tube with the new one
+screv_put_new_tire_bicycle	and replaced the outer tire over it .
+screv_check_new_tire_bicycle	i rode off slowly to make sure everything was correctly in place .
+screv_ride_bike_bicycle	once i got home , i replaced the spare tire kit with a new one so that i would be prepared on my next ride .
+<end_of_story>
+relnscrev_bicycle	while riding down the street i got a flat tire on my bike .
+screv_examine_tire_bicycle	i found out for sure that the tire was actually flat by trying to fill it up and see if it held air .
+screv_put_new_tire_bicycle	it did not stay inflated so i thought that i needed to replace the inner tube .
+screv_get_tools_bicycle	i went and got my dad 's adjustable wrench from the garage , hoping he would not be angry .
+screv_loose_nut_bicycle	i removed the wheel by loosening the two nuts using the wrench and almost caught my finger in the chain .
+screv_free_wheel_bicycle	after the wheel had been removed ,
+screv_take_tire_off_bicycle	i removed the tire and tube from the wheel rim and nearly cut my hand again .
+screv_remove_tire_bicycle	i removed the old -lrb- flat -rrb- inner tube
+relnscrev_bicycle	and replace it with a new tube that i bought at the store down the street .
+unrelev_bicycle	the guy at the store said that if the hole was small enough ,
+screv_put_patch/seal_bicycle	i could possibly patch the hole using a tire patch kit .
+screv_put_new_tire_bicycle	i told the man that the hole was 23 inches long and he said i needed to replace the inner tube-but i already figured that out because it happened last summer too .
+unrelev_bicycle	when i finally had the new tube in the tire ,
+screv_put_new_tire_bicycle	i put the tire back on the rim
+screv_check_new_tire_bicycle	and made sure that the tube stem was in the right place .
+unrelev_bicycle	i had some lemonade
+screv_other_bicycle_bicycle	and then i put the wheel back on the bike and tightened the nuts .
+screv_ride_bike_bicycle	then i inflated the tire and rode to my friend steve 's house to play video games .
+<end_of_story>
+screv_ride_bike_bicycle	yesterday afternoon , i decided to ride my bike to central park .
+screv_ride_bike_bicycle	i rode my bike to the park from my apartment , it took me about 23 minutes .
+unrelev_bicycle	i was very excited
+screv_ride_bike_bicycle	and happy because i have n't rode my bike in a very long time .
+unrelev_bicycle	i missed the experience of feeling the window blowing against my face , and feeling my hair float in the air .
+screv_ride_bike_bicycle	when i finally got to the park , i decided that i would ride around the park a few times .
+unrelev_bicycle	it was going to be a great form of exercise .
+screv_ride_bike_bicycle	however , after i rode the bike a few times around the park , my front bicycle tire suddenly started to lose air .
+screv_examine_tire_bicycle	i safely got off and examined the tire wheel .
+screv_examine_tire_bicycle	i checked if there was any rips or holes on the wheel .
+screv_ride_bike_bicycle	perhaps i rode over something sharp .
+relnscrev_bicycle	i found a few small holes on the bike and realized the culprit for my flat tire .
+relnscrev_bicycle	i was forced to carry the bike home in order to repair it .
+evoking_bicycle	there was no way i would repair it at the park .
+relnscrev_bicycle	once i brought it home , i brought it to my basement .
+relnscrev_bicycle	i turned the bike over so that it stood on its seat and handle bars .
+relnscrev_bicycle	i let the remaining air out of the tube of my broken tire .
+relnscrev_bicycle	once the tire was deflated ,
+screv_take_tire_off_bicycle	i took the tire off the rim .
+relnscrev_bicycle	i found the part of the tire with the multiple holes .
+relnscrev_bicycle	i spread a thin layer of glue around the holes .
+relnscrev_bicycle	then i looked around for my tire patch kit .
+relnscrev_bicycle	once i found it ,
+screv_put_patch/seal_bicycle	i applied it on to the holes
+relnscrev_bicycle	and covered over them .
+screv_put_new_tire_bicycle	i then placed the tire back on the rim
+screv_refill_tire_air_bicycle	and inflated it again .
+<end_of_story>
+screv_ride_bike_bicycle	last week on a bike ride to my friends house , i was traveling on a very rough road with a lot of rocks on the side of it .
+screv_notice_problem_bicycle	i realized after about 23 minutes into my ride that i had a very bad flat tire .
+unrelev_bicycle	thankfully i carry the proper tools
+evoking_bicycle	and items with me to fix it .
+relnscrev_bicycle	i pulled off the road and opened my bag with my tools .
+screv_take_tire_off_bicycle	after removing the tire and the tube inside , i used my tools to put a brand new tube inside of the tire .
+screv_check_new_tire_bicycle	i checked it to make sure that i had aligned everything correctly
+screv_check_new_tire_bicycle	and after ensuring that i did ,
+screv_put_new_tire_bicycle	i placed the tire back onto the bike .
+screv_check_new_tire_bicycle	i then used my portable pump to make sure that i had the proper amount of air pressure inside of it , because i did n't want another flat .
+screv_check_new_tire_bicycle	after checking everything twice , i was on my way again .
+unrelev_bicycle	it was an easy fix .
+<end_of_story>
+screv_ride_bike_bicycle	i was riding my bike along the road
+relnscrev_bicycle	when a tire blew out .
+relnscrev_bicycle	i dragged it back to my garage and began to repair my bicycle 's tire .
+relnscrev_bicycle	i flipped the bike upside down and stood it up so that i could work on it from the bottom-up .
+screv_take_tire_off_bicycle	i took off the old tire
+screv_put_new_tire_bicycle	and began putting on the new one that i had around in my garage .
+screv_put_new_tire_bicycle	once i replaced the tire i flipped it back around to make sure that i had put it on correctly
+screv_check_new_tire_bicycle	and once i had double checked that it was on correctly i started to ride my bike down the road to test the bicycle and the tire so that if there was something wrong with it i could figure it out now and not after in case i was in a situation , such as going down a hill , that it could be harmful to me in any way .
+<end_of_story>
+relnscrev_bicycle	while i was riding my bike i accidentally ran over a nail .
+relnscrev_bicycle	my rear tire quickly deflated .
+relnscrev_bicycle	i walked the bike home .
+unrelev_bicycle	my bike tire had an inner tube , and i had an extra one in my basement .
+relnscrev_bicycle	i got the extra inner tube and went to work .
+evoking_bicycle	in order to fix my tire ,
+screv_take_tire_off_bicycle	i had to pry the rubber outer tire out of the wheel 's metal rim .
+relnscrev_bicycle	i got a screwdriver and inserted it between the metal and rubber ,
+screv_take_tire_off_bicycle	lifting the rubber out .
+screv_take_tire_off_bicycle	i went around the rim that way taking the tire out of the rim .
+unrelev_bicycle	once it was out ,
+screv_take_tire_off_bicycle	i was able to pull the broken inner tube out .
+unrelev_bicycle	as i 'd figured , there was a big hole in it from the nail .
+screv_remove_tire_bicycle	i put the old inner tube aside
+relnscrev_bicycle	and got the new one .
+unrelev_bicycle	there 's a part on the tube where a valve comes out .
+screv_refill_tire_air_bicycle	that 's where you attach a pump to fill the tube with air .
+relnscrev_bicycle	i put this valve through the hole in the rim that it 's supposed to stick through .
+screv_put_new_tire_bicycle	then i went around the rim squeezing the inner tube into the tire .
+screv_put_new_tire_bicycle	once i had the inner tube in place , i went around the rim again pushing the outer part of the tire back into the rim .
+unrelev_bicycle	that was hard work , but i finally managed it .
+unrelev_bicycle	once that was done ,
+screv_get_tools_bicycle	i got out my bike pump ,
+relnscrev_bicycle	fitted it to the inner tube 's valve ,
+screv_refill_tire_air_bicycle	and filled the new tire with air .
+screv_ride_bike_bicycle	soon my tire was completely repaired and i was able to ride again !
+<end_of_story>
+screv_ride_bike_bicycle	i was going to go on a bike ride with a friend .
+screv_notice_problem_bicycle	i pulled my bike out of the garage only to discover i had a flat tire .
+unrelev_bicycle	i was n't sure if the flat was just from a slow leak or a bad tube .
+screv_take_tire_off_bicycle	if it was from a bad tube i would have to use tools to take the tire completely off .
+screv_put_new_tire_bicycle	then i would have to replace the tube .
+screv_refill_tire_air_bicycle	if it was just a slow leak i could just inflate the tire with my air pump and be on my way .
+unrelev_bicycle	i decided to try the easy route first
+screv_refill_tire_air_bicycle	and inflated the tire with the pump .
+screv_check_new_tire_bicycle	it felt as if the tire was full and the problem was solved .
+screv_ride_bike_bicycle	i took the bike for a test ride around the neighborhood just to be sure that it was fully inflated and would stay that way .
+screv_ride_bike_bicycle	it stayed inflated and i set off to meet with my friend .
+<end_of_story>
+screv_ride_bike_bicycle	one time i drove over a piece of glass
+relnscrev_bicycle	and it put a hole into my bicycle tire .
+relnscrev_bicycle	i had to walk my bicycle all the way home , which was very unpleasant ,
+screv_ride_bike_bicycle	and then i could not use my bike again until i had fixed it .
+relnscrev_bicycle	so i looked up online how to fix a punctured tire ,
+screv_get_tools_bicycle	and went to the hardware store to pick up the necessary tools .
+relnscrev_bicycle	after purchasing these tools i pumped some air into the tire to locate the hole
+screv_take_tire_off_bicycle	and then i took the tire off of the wheel to repair it .
+unrelev_bicycle	i followed the directions on the repair kit which were actually very simple .
+screv_put_patch/seal_bicycle	after i had patched the hole ,
+screv_check_new_tire_bicycle	i waited for the adhesive material to dry and then i took the bike out for a short test run to make sure that
+relnscrev_bicycle	if the tire failed again i would not be far from home .
+<end_of_story>
+evoking_bicycle	if you have a flat tire it is quite easy to change it yourself .
+unclear_bicycle	the front tire is the easiest to change while the back will require more time and maybe additional tools .
+unrelev_bicycle	this is usually the back tire is where the chain and gears are connected to
+screv_free_wheel_bicycle	so it is harder to take off the bike frame .
+unrelev_bicycle	sadly , most of the time a flat tire is the back tire because the back tire supports most of your weight on a bicycle .
+screv_loose_nut_bicycle	so you 'll need a wrench to undo the bolts on both sides of the tire .
+screv_free_wheel_bicycle	this will allow you to take off the entire tire .
+screv_put_patch/seal_bicycle	inside the tire is an innertube , and this is the part you either need to replace or patch up .
+unrelev_bicycle	if it is a small hole
+relnscrev_bicycle	and you can easily find the hole , you can use a tire patch kit to fix the hole .
+screv_put_new_tire_bicycle	other wise you may just replace the entire innertube altogether .
+screv_put_new_tire_bicycle	either way you will put the innertube back , and then the tire back onto the bike frame .
+relnscrev_bicycle	lastly , screw back on the bolts
+screv_refill_tire_air_bicycle	and pump some air into the tire .
+screv_ride_bike_bicycle	you 'll be ready to ride soon after !
+<end_of_story>
+screv_ride_bike_bicycle	i was riding my bike around my house
+screv_notice_problem_bicycle	and noticed i had to peddle harder than i usually do .
+screv_examine_tire_bicycle	i got off my bike to see if everything was wrong .
+unrelev_bicycle	the front tire looked okay , the chain was still on the bike , but the back tire was flat unfortunately .
+relnscrev_bicycle	i walked my bike back to my house because it is not safe to ride a bike with a flat tire .
+relnscrev_bicycle	i went in my garage and looked for the air pump .
+relnscrev_bicycle	i connected the valve of the pump to the valve on the tire .
+screv_refill_tire_air_bicycle	i pumped the air pump
+relnscrev_bicycle	and kept checking the tire to make sure it was working .
+unrelev_bicycle	it was hard work and it took longer than i thought .
+unrelev_bicycle	eventually , the tire seemed full with air .
+screv_check_new_tire_bicycle	i put my ear next to it to see if i could hear any air coming out but i did n't hear any .
+relnscrev_bicycle	i got back on my bike
+screv_ride_bike_bicycle	and it rode fine .
+<end_of_story>
+screv_ride_bike_bicycle	in a couple days , me and some friends were going to celebrate the good weather by going biking .
+unrelev_bicycle	i had my bike sit in my garage for a couple years not using it .
+unrelev_bicycle	so when i decided to get it out , to my surprise it had flat tires .
+unrelev_bicycle	i struggled to get the bike out of the garage with all the other junk in it ,
+relnscrev_bicycle	and found my tire pump along with it .
+unrelev_bicycle	after i got my bike out , i kneeled near the bike
+relnscrev_bicycle	and found cap for the tire .
+screv_pull_air_pin_bicycle	i unscrewed it with a pair of pliers because it was on tight .
+relnscrev_bicycle	i plugged the hose into the tire and started pumping until it was at a good level .
+relnscrev_bicycle	i quickly unplugged the air pump and screwed the cap back on .
+evoking_bicycle	after this i moved over to the rear tire , and repeated the same process to fix my flat bicycle tire .
+<end_of_story>
+unrelev_bicycle	as an avid mountain biker , i have found myself in many precarious situations .
+unrelev_bicycle	from run ins with bears , to falling into prickly bushes .
+unrelev_bicycle	it is always an adventure
+screv_ride_bike_bicycle	when you are riding your mountain bike through the great outdoors .
+unrelev_bicycle	one particular issue that affects all mountain bikers , is flat tires .
+screv_ride_bike_bicycle	i have had numerous flat tires during my years riding .
+unrelev_bicycle	the first flat tire i ever had left me stranded miles away form civilization .
+relnscrev_bicycle	i had to hoof it out on foot , carrying a broken bike .
+unrelev_bicycle	it was an experience i did not want to relive again .
+screv_get_tools_bicycle	from then on i purchased and kept many bicycle tire tubes in my riding gear .
+evoking_bicycle	to replace a bicycle tire is now a simple process for me .
+relnscrev_bicycle	you break the bead on the old tire shell
+screv_take_tire_off_bicycle	and pull it slightly to the side .
+screv_take_tire_off_bicycle	you work the tube out from between the rim and the tire itself .
+screv_put_new_tire_bicycle	you then stuff the new rubber tube where the old one was ,
+relnscrev_bicycle	making sure the nipple matches with the nipple hole .
+screv_put_new_tire_bicycle	you then move the outer tire back into position
+screv_refill_tire_air_bicycle	and pump up the tire .
+<end_of_story>
+relnscrev_bicycle	one day my bicycle tire got flat due to hitting some glass in the street .
+relnscrev_bicycle	i then had to walk the rest of the way home .
+relnscrev_bicycle	i took it into my garage and tried to repair it by putting some duct tape on it
+screv_refill_tire_air_bicycle	and pumping it with air .
+unrelev_bicycle	this , however , only made matters worst and all the air ended up making another hole in my tire
+relnscrev_bicycle	because i over inflated it .
+unrelev_bicycle	i decided that i had no other options
+screv_get_tools_bicycle	and i ordered a new tire on amazon for my bike .
+evoking_bicycle	once that came in the mail it was time to repair my broken bike .
+screv_get_tools_bicycle	i got a socket wrench
+screv_loose_nut_bicycle	and unscrewed the nut of the bike that attached to the wheel .
+screv_get_tools_bicycle	after that i got my new bike tire
+screv_put_new_tire_bicycle	and put it on the frame of the bike
+screv_other_bicycle_bicycle	and screwed it back on .
+screv_ride_bike_bicycle	once that was complete my bike was as good as new and i was back to riding my daily bike trail by my house .
+<end_of_story>
+screv_notice_problem_bicycle	it 's a major bummer when you are excited to ride your bike only to find that you have somehow ended up with a flat tire .
+unrelev_bicycle	i try to keep a repair kit on hand for just such an opportunity .
+screv_examine_tire_bicycle	the first thing i do is determine what is the cause of the flat .
+relnscrev_bicycle	perhaps the tire has been punctured , or perhaps it is an older tire
+relnscrev_bicycle	and the seal is failing .
+screv_put_patch/seal_bicycle	if it is a puncture , i would do my best to seal the hole with my available materials and then allow the sealant to dry for as long as is required .
+screv_check_new_tire_bicycle	i have my tire pump on hand , so when the tire is ready i can slowly pump air while also watching to see if i am losing air .
+unrelev_bicycle	if the seal holds , my bike is good to go .
+screv_check_new_tire_bicycle	if i still feel or see a leak , i know there is a bigger issue to contend with .
+<end_of_story>
+unrelev_bicycle	carrying a spare inner tube saves lots of time and trouble , since i have to carry a patch kit anyway .
+unrelev_bicycle	however , if i do n't have one ,
+evoking_bicycle	i can still fix a flat .
+relnscrev_bicycle	first i turn the bike over , and remove the brake by opening the quick release lever .
+screv_take_tire_off_bicycle	then i remove the tire with its quick release lever .
+screv_examine_tire_bicycle	now i inspect the outside of the tire , to try to find the source of the problem .
+screv_examine_tire_bicycle	i look for imbedded glass , thorns , cuts or tears .
+relnscrev_bicycle	if i find a foreign object , i remove it .
+screv_take_tire_off_bicycle	then i take the tire off .
+relnscrev_bicycle	i deflate it , and push the side of the tire towards the middle , trying to expose the tube .
+unrelev_bicycle	if that fails , i use tire irons , if i have them .
+relnscrev_bicycle	i shove one in on the opposite side of the wheel form the valve , and lever the edge of the tire out of the rim .
+relnscrev_bicycle	then i put in the next tire iron about three spokes away and try to lift the section of tire in between up and away from the rim .
+screv_take_tire_off_bicycle	this makes it possible to take the whole tire out
+screv_remove_tire_bicycle	and remove it .
+screv_examine_tire_bicycle	i look for the leak inside the tire , and then on the tube .
+relnscrev_bicycle	i deflate the tube by pushing the valve center until i hear air hiss .
+relnscrev_bicycle	if i can not find the leak , i put the tube in a bucket of water
+screv_examine_tire_bicycle	and look for bubbles .
+unrelev_bicycle	if i can not do that ,
+relnscrev_bicycle	i listen ,
+screv_examine_tire_bicycle	and then i look around the valve .
+screv_examine_tire_bicycle	i also inspect the inside of the tire .
+unrelev_bicycle	now , i need a patch kit .
+relnscrev_bicycle	i clean the outside of the tire near the leak as much as i can .
+relnscrev_bicycle	then i roughen the area with the scratchy thing provided .
+relnscrev_bicycle	i spread the foul-smelling glue , let it dry until it is tacky ,
+screv_put_patch/seal_bicycle	and press on the patch , starting at its center , and being careful not to glue the tire to itself .
+screv_refill_tire_air_bicycle	now i partially re-inflate the tube ,
+screv_put_new_tire_bicycle	and replace it in the tire , making sure the spoke cushion stays in place .
+screv_put_new_tire_bicycle	i put the tire on the wheel ,
+screv_check_new_tire_bicycle	and check to see that the valve is pointed straight to the center .
+screv_refill_tire_air_bicycle	i re-inflate the tube ,
+relnscrev_bicycle	and then replace the wheel and reattach it and reattach the brake .
+relnscrev_bicycle	and i turn the bike over again
+screv_ride_bike_bicycle	and ride .
+<end_of_story>
+screv_ride_bike_bicycle	when i was riding my bike this past summer ,
+relnscrev_bicycle	one of my tires went flat .
+screv_notice_problem_bicycle	i noticed it went flat because it felt bumpy
+screv_ride_bike_bicycle	while i was riding down the street .
+screv_get_off_bicycle	i wheeled my bike home
+relnscrev_bicycle	while walking next to it and pushing it .
+relnscrev_bicycle	i asked my dad to help me fix the flat tire because i had never done it before .
+screv_get_tools_bicycle	he gave me the materials i needed to fix it ,
+relnscrev_bicycle	and he explained how to go about fixing it .
+evoking_bicycle	to my surprise , it was very easy to fix the flat tire .
+screv_get_tools_bicycle	i just had to patch up the hole with the materials he gave me .
+screv_put_patch/seal_bicycle	after i patched up the hole ,
+screv_refill_tire_air_bicycle	i used an air pump to put air in both of my tires .
+unrelev_bicycle	this completed the repair process for me .
+screv_ride_bike_bicycle	the next day , i rode my bike again
+relnscrev_bicycle	and i did not have any problems with the tire .
+<end_of_story>
+screv_ride_bike_bicycle	my sister jane and i love to go bicycling .
+screv_notice_problem_bicycle	one warm day in june , we wanted to go out and ride but my bike had a flat tire .
+screv_take_tire_off_bicycle	i carefully took the tire off of the rim
+screv_examine_tire_bicycle	and then inflated it with a hand pump so i could find the leak .
+screv_examine_tire_bicycle	a blast of cool air on my fingers led me to the problem : a single round hole , probably caused by a nail or other sharp object .
+screv_get_tools_bicycle	i got out my patch kit ,
+relnscrev_bicycle	and jane held up the tire for me
+relnscrev_bicycle	as i first applied glue and then placed a patch carefully over the damaged area .
+relnscrev_bicycle	i had to let it dry , so we took turns riding jane 's bike for a while .
+screv_check_new_tire_bicycle	then i inflated the tire and checked the patch .
+unrelev_bicycle	it was good !
+evoking_bicycle	the leak was repaired .
+screv_put_new_tire_bicycle	i put the tire back on my bike
+screv_ride_bike_bicycle	and we went off on a nice long ride .
+evoking_bicycle	i was happy to have my bike fixed again .
+<end_of_story>
+screv_ride_bike_bicycle	i was about to go for a bicycle ride ,
+screv_notice_problem_bicycle	but when i went to the garage to get my bike i realized the tire was completely flat .
+relnscrev_bicycle	luckily i was prepared for just such an event .
+relnscrev_bicycle	i went to a shelf
+screv_get_tools_bicycle	and found my bicycle repair kit .
+screv_examine_tire_bicycle	then i took a close look at the bicycle tire .
+screv_examine_tire_bicycle	if i could n't find the leak ,
+relnscrev_bicycle	i could always fill a tub with water , put the tire under the water
+relnscrev_bicycle	and see where the bubbles come out .
+unrelev_bicycle	luckily the leak was obvious .
+screv_put_patch/seal_bicycle	i applied some adhesive from the kit and put on a rubber patch .
+screv_get_tools_bicycle	then i got down my bicycle pump .
+screv_pull_air_pin_bicycle	i hooked the hose up to the nipple on the tire
+screv_refill_tire_air_bicycle	and then pumped up and down vigorously for a few minutes .
+screv_check_new_tire_bicycle	i felt the tire .
+unrelev_bicycle	it was nice and firm .
+screv_other_bicycle_bicycle	success ! i put away the pump
+screv_ride_bike_bicycle	and kit and hopped on for my bike ride .
+<end_of_story>
+screv_ride_bike_bicycle	i recently got a flat bicycle tire while riding home from work .
+relnscrev_bicycle	as soon as i got home ,
+screv_remove_tire_bicycle	i removed the tire from the bike
+screv_check_new_tire_bicycle	and checked for the cause .
+relnscrev_bicycle	sure enough , there was a small puncture , i must have run over something sharp
+screv_ride_bike_bicycle	while commuting home .
+screv_get_tools_bicycle	i then went to the local bike shop and the man at the shop recommended that i buy a patch kit , since doing so is much cheaper than replacing the entire tube .
+unrelev_bicycle	the patch kit was very easy to use as the instructions were very details .
+screv_put_patch/seal_bicycle	first i added glue to the area and then put the patch on top .
+relnscrev_bicycle	after holding the patch in place for a few minutes , i added a little talc .
+relnscrev_bicycle	i also added a little talc to the inside of the tire .
+relnscrev_bicycle	once everything was set ,
+screv_put_new_tire_bicycle	i put the wheel back on the bike and everything was good as new .
+<end_of_story>
+unrelev_bicycle	my friend adam and i decided to go to the flea market today because the weather was nice and we were hoping to take some random junk home with us .
+unrelev_bicycle	we walked around for a while , but nothing really caught our attention .
+unrelev_bicycle	we were looking for something special amount all this junk .
+unrelev_bicycle	suddenly something caught my eye , it was an old schwinn with a flat tire .
+unrelev_bicycle	the price was right so i decided to take it home with me .
+evoking_bicycle	fixing the flat tire was a trivial task , i could do it in my sleep .
+relnscrev_bicycle	all i had to do was remove the brakes off the back wheel ,
+screv_free_wheel_bicycle	then i needed to remove the wheel from the axle ,
+screv_take_tire_off_bicycle	next i would take the old tube off of the rim
+screv_put_new_tire_bicycle	and replace it with the new one , lastly i would just put the tire back on the axle
+relnscrev_bicycle	and reattach the brakes .
+unrelev_bicycle	with this little amount of effort i would have myself a brand new schwinn .
+<end_of_story>
+screv_ride_bike_bicycle	yesterday i was riding around my neighborhood on my bicycle
+screv_notice_problem_bicycle	when i drove over a rusty nail hiding between the bricks on the sidewalk .
+screv_get_off_bicycle	i had to walk my bike home .
+screv_get_tools_bicycle	today , i went to the store to buy a flat tire repair kit .
+screv_remove_tire_bicycle	i took the tire off the bike
+screv_examine_tire_bicycle	and located the nail
+relnscrev_bicycle	so i could remove it .
+relnscrev_bicycle	after removing the nail , i let the remainder of the air out of the tire .
+screv_take_tire_off_bicycle	the next step was to pry the tire off of the rim .
+screv_get_tools_bicycle	i got my flat head screwdriver and was able to separate the rim from the tire and inner tube .
+screv_examine_tire_bicycle	i pumped just enough air to find the leak in my tire
+relnscrev_bicycle	where the nail had penetrated .
+screv_examine_tire_bicycle	after finding the hole ,
+relnscrev_bicycle	i buffed the area the hole was at and applied glue to it .
+screv_put_patch/seal_bicycle	then i put a tire patch over the glue and let it sit for a few minutes .
+screv_put_new_tire_bicycle	i put the inner tube and tire back on the rim ,
+screv_refill_tire_air_bicycle	and pumped my tire up with air .
+<end_of_story>
+screv_ride_bike_bicycle	when riding bikes , sometimes the tires will go flat .
+relnscrev_bicycle	this can happen either because you ran over something and there is a hole ,
+relnscrev_bicycle	or because the tire is leaking air somewhere .
+screv_refill_tire_air_bicycle	sometimes you can just get a pump and refill the tire with air , and sometimes you need to replace the entire thing .
+relnscrev_bicycle	there is this stuff that i have used before that worked for small holes though , it was like this foam stuff that is in a bottle .
+screv_put_patch/seal_bicycle	you just spray it in and let it sit for a little bit .
+relnscrev_bicycle	the foam closes the hole up
+screv_refill_tire_air_bicycle	and you can refill the tire
+relnscrev_bicycle	and everything works again if the hole was n't a bad one .
+relnscrev_bicycle	if the tire is too far gone , you wo n't be able to repair it with anything and will end up replacing the whole thing or risk riding on the metal rims which can seriously damage your bike .
+<end_of_story>
+relnscrev_bicycle	as i was bring my bike out of the garage i realized the rear tire had flat and there was clearly a small hissing sound where there was a puncture .
+relnscrev_bicycle	i got my tools and loosened and removed the nuts holding the tire on the bike .
+screv_take_tire_off_bicycle	using a screwdriver i wedged underneath the tire removing it from the metal wheel .
+screv_remove_tire_bicycle	i removed the tire tube
+relnscrev_bicycle	and cleaned off the punctured area with a dry cloth .
+screv_put_patch/seal_bicycle	i put tire repair glue on the hole and placed a tire patch on the glue
+relnscrev_bicycle	and held it tight for several minutes until the glue dried .
+relnscrev_bicycle	i filled it up to ensure the hole was not leaking any air .
+relnscrev_bicycle	i put the tube back in the tire and re-attached it to the wheel tightening the bolts .
+screv_refill_tire_air_bicycle	again i filled the tire with air
+screv_ride_bike_bicycle	and took my bike for a ride .
+evoking_bicycle	i was successful repairing my flat tire .
+<end_of_story>
+screv_examine_tire_bicycle	when you have a flat bicycle tire the first thing you need to do is see where the hole is originating from .
+screv_loose_nut_bicycle	you have to fully unscrew the tire first
+screv_take_tire_off_bicycle	and take off the outer rubber .
+screv_take_tire_off_bicycle	then you have to take off the inner rubber tube off of the tire frame .
+screv_get_tools_bicycle	once you have the inner tube try to find a body of water .
+screv_refill_tire_air_bicycle	most easy method is filling the tire back up with air
+screv_examine_tire_bicycle	and listening for the sound .
+relnscrev_bicycle	another method is filling a bucket with water if you are at home .
+relnscrev_bicycle	once the inner tube is submerged in the water you should be able to see bubbles coming out of the hole .
+screv_examine_tire_bicycle	once you identify where the puncture is you have to dry the area first before using either a specific tape or glue to plug up the hole .
+screv_check_new_tire_bicycle	verify once you repaired the hole place the tube back on the frame
+screv_refill_tire_air_bicycle	and fill it back up with air .
+<end_of_story>
+screv_ride_bike_bicycle	i recently started biking to lose weight and for health .
+screv_ride_bike_bicycle	after a month of biking everyday ,
+screv_notice_problem_bicycle	my bike hit a nail in the road which i think is pretty dangerous .
+unrelev_bicycle	what if a kid was playing ?
+unrelev_bicycle	i was pretty devastated .
+relnscrev_bicycle	because of the expenses with school , i would not be able to afford a new tire .
+unrelev_bicycle	so i thought to myself ,
+evoking_bicycle	maybe i can fix it .
+evoking_bicycle	i resolved to fix it this sunday , because i figured friday and saturday would be too busy .
+evoking_bicycle	i 've never repaired a bike tire before .
+relnscrev_bicycle	so i searched google for some tutorials .
+unrelev_bicycle	turns out ,
+relnscrev_bicycle	i can just use a sticky material to cover the part that 's broken .
+relnscrev_bicycle	i looked at various online store .
+relnscrev_bicycle	no one seemed to have it . just my luck .
+relnscrev_bicycle	then it occurred to me that maybe an automotive store would have it , and they did !
+unrelev_bicycle	it was only $ 23 .
+screv_refill_tire_air_bicycle	stuck it in and inflated my tire .
+unrelev_bicycle	it 's been working for months ever since !
+<end_of_story>
+unrelev_bicycle	once , when i was 23 ,
+evoking_bicycle	i had a flat bicycle tire .
+screv_ride_bike_bicycle	i had ridden over a nail
+relnscrev_bicycle	and my tire was punctured and my tube popped .
+relnscrev_bicycle	in order to fix it my brother took me the store so i could buy a patch to fix the tire .
+relnscrev_bicycle	once we got the patch , we went back to the house .
+relnscrev_bicycle	in order to find the hole we filled the tub with water and put the tube in .
+relnscrev_bicycle	we looked to see where bubbles came out ;
+screv_examine_tire_bicycle	where the bubbles came out told us where the hole was .
+relnscrev_bicycle	once we noted the location of the hole we took the tube out of the tub and dried it .
+relnscrev_bicycle	to put on the patch we had to put a glue on the tube
+screv_put_patch/seal_bicycle	and then put on the patch .
+relnscrev_bicycle	we held it there a few minutes to make sure it would stay , then we let it sit for an hour to make sure the glue would dry .
+relnscrev_bicycle	to make sure it dried well we placed the tube out in the sun so the the heat could help it along .
+relnscrev_bicycle	to be safe we waited a day .
+screv_put_new_tire_bicycle	the next day we took the tube and put it back in the tire , then we put the tire on the wheel .
+screv_ride_bike_bicycle	my bike was good to ride again .
+<end_of_story>
+unrelev_bicycle	in order for a bike to be rideable , its tires must be full of air .
+screv_ride_bike_bicycle	if you ride over a sharp thorn or rock , you might get unlucky ,
+relnscrev_bicycle	and pierce one of your tires .
+relnscrev_bicycle	the air will rush out of the hole , and you will have a flat tire , often just called , a flat .
+screv_ride_bike_bicycle	if this happens , you mus n't continue to ride ;
+screv_get_off_bicycle	you need to stop somewhere , and repair the tire .
+screv_free_wheel_bicycle	first , you 'll need to remove the wheel that has the flat tire .
+screv_free_wheel_bicycle	it is usually easier to remove the front wheel than the back , because of the gears in back .
+relnscrev_bicycle	once you have the damaged wheel off the bike ,
+screv_remove_tire_bicycle	you need to remove the tough outer part of the tire by prying it , little by little , off of the rim of the wheel .
+unrelev_bicycle	the hole in the tough tire is not actually the problem ;
+evoking_bicycle	it 's the hole in the inner tube that must be repaired .
+screv_remove_tire_bicycle	once you 've pried the tire off the rim , it is easy to pull out the floppy tube .
+screv_examine_tire_bicycle	now you have to locate the hole .
+unrelev_bicycle	sometimes the hole is very obvious ,
+screv_examine_tire_bicycle	just by looking .
+relnscrev_bicycle	other times , you can submerge the tube under water ,
+screv_examine_tire_bicycle	and look for bubbles .
+screv_examine_tire_bicycle	once found ,
+relnscrev_bicycle	the hole can be easily patched using a patch kit .
+screv_check_new_tire_bicycle	test to make sure the hole is totally sealed before reassembling the wheel !
+screv_check_new_tire_bicycle	if the repaired tube holds air well ,
+screv_put_new_tire_bicycle	you can put the tube in the tire , and get them back onto the rim of the wheel .
+screv_ride_bike_bicycle	now , pedal fast , to make up for lost time !
+<end_of_story>
+screv_ride_bike_bicycle	i was riding in the bike lane going to work
+relnscrev_bicycle	when i felt my tire pop and give out on me .
+relnscrev_bicycle	i quickly pulled over to the side walk
+screv_examine_tire_bicycle	and got off my bike to take a good look at it .
+relnscrev_bicycle	a rock was embedded into my tire tube .
+relnscrev_bicycle	i pried the rock out with my fingers
+screv_get_tools_bicycle	and got my patch kit from my backpack .
+screv_examine_tire_bicycle	i made sure there was no other debris in the tire
+relnscrev_bicycle	and then applied the glue .
+screv_put_patch/seal_bicycle	i stuck the patch onto the glue and made sure it was a nice fit
+relnscrev_bicycle	and held well .
+screv_refill_tire_air_bicycle	after that i pumped my tire back up with air
+screv_check_new_tire_bicycle	and checked to make sure it would hold up to the rigors of the road .
+screv_ride_bike_bicycle	after that i hopped back on my bike and slowly rode to work careful of anymore rocks .
+unrelev_bicycle	i got to work on time .
+relnscrev_bicycle	this is why i always carry around my repair kit .
+<end_of_story>
+screv_ride_bike_bicycle	today i wanted to take a ride on my bicycle but could n't because it had a flat tire .
+relnscrev_bicycle	so i loaded my bicycle up into my car and took it to the bike shop to be repaired .
+relnscrev_bicycle	the man that worked at the shop put my bicycle upside down on a rack that held it in place .
+screv_take_tire_off_bicycle	he removed the tire from the rim .
+unrelev_bicycle	the rim is the silver part that makes the tire go around .
+screv_remove_tire_bicycle	he then removed a rubber tube from inside the tire
+screv_put_new_tire_bicycle	and replaced it with a new tube .
+screv_put_new_tire_bicycle	next the man put the tire back onto my bike .
+relnscrev_bicycle	he then took my bike down off of the rack
+screv_refill_tire_air_bicycle	and added air to the tire to pump it up .
+screv_check_new_tire_bicycle	he had me sit on the bike to make sure the correct amount of air was in the tire .
+screv_ride_bike_bicycle	it was perfect and i was ready to ride !
+<end_of_story>
+screv_ride_bike_bicycle	the other day my dad was riding his bike and started having trouble steering .
+screv_ride_bike_bicycle	he rode the bike back home
+screv_examine_tire_bicycle	and then took it into the back yard to have a look at it .
+screv_notice_problem_bicycle	he noticed that the front tire was flat
+relnscrev_bicycle	and was n't keeping air in it .
+screv_take_tire_off_bicycle	he took it off the bike .
+screv_refill_tire_air_bicycle	first he pumped it up and tried to see if the tire would hold air .
+unrelev_bicycle	it would not .
+relnscrev_bicycle	then he rubbed liquid dish detergent on the tire
+screv_examine_tire_bicycle	and pumped it up and looked for where it bubbled to see where the hole was .
+screv_examine_tire_bicycle	once he found the hole , he decided if it needed a patch or a plug .
+screv_put_patch/seal_bicycle	it was a small round hole so he decided to put a plug in it .
+screv_get_tools_bicycle	he got the packages of plugs
+relnscrev_bicycle	and found one that was the right size .
+screv_put_patch/seal_bicycle	he followed the instructs on the package to insert the plug into the hole and secure it .
+screv_refill_tire_air_bicycle	he pumped the tire back up
+relnscrev_bicycle	and it held air .
+screv_put_new_tire_bicycle	he put the tire back on the bike .
+<end_of_story>
+screv_ride_bike_bicycle	today i hopped on my bike to take a ride to the supermarket .
+relnscrev_bicycle	when i sat down ,
+screv_notice_problem_bicycle	i noticed my tire was flat .
+screv_notice_problem_bicycle	i looked down , and sure enough there was no air in the tire .
+screv_get_tools_bicycle	i went to go get my air pump
+screv_refill_tire_air_bicycle	and fill up the tire .
+screv_pull_air_pin_bicycle	i unscrewed the cover of the nozzle
+relnscrev_bicycle	and then attached the bicycle pump to it .
+screv_refill_tire_air_bicycle	i then filled the bicycle tire with air .
+relnscrev_bicycle	after that , i released the bicycle pump and screwed the cover back on .
+screv_examine_tire_bicycle	then i rode my bicycle a little bit to see if the tire would remain inflated .
+screv_notice_problem_bicycle	after a couple of loops around the street , i noticed the tire was beginning to flatten again , so i decided to replace the bicycle 's inner tube .
+screv_get_tools_bicycle	i went to get my spare inner tube as well as a screwdriver and wrench .
+screv_loose_nut_bicycle	i unbolted the wheel from the bicycle with the wrench .
+screv_take_tire_off_bicycle	then i used the screw driver to take the tire and old inner tube out .
+screv_get_tire_bicycle	i brought out the new inner tube
+screv_put_new_tire_bicycle	and placed it inside the tire , then put both back on the wheel and put the wheel on the bike .
+screv_get_tools_bicycle	i took out my air pump
+screv_refill_tire_air_bicycle	and filled the tire with air until it was firm .
+relnscrev_bicycle	when i rode around this time the tire remained firm , so i put my things away
+screv_ride_bike_bicycle	and rode to the supermarket .
+<end_of_story>
+screv_ride_bike_bicycle	my husband was riding down a steep hill a few miles from home when he got a blow out .
+relnscrev_bicycle	he called me to come and get him .
+unrelev_bicycle	luckily he was n't hurt .
+screv_get_tools_bicycle	he had the bicycle repair kit on him .
+screv_take_tire_off_bicycle	we took the tire off with some tools .
+screv_remove_tire_bicycle	we took the inner tube out .
+screv_refill_tire_air_bicycle	he checked the inner tube for holes by putting air in it .
+relnscrev_bicycle	he found the hole and marked it .
+unrelev_bicycle	that is the place
+screv_put_patch/seal_bicycle	where he put the patch and glued it .
+screv_put_new_tire_bicycle	my husband put the tube back in the bicycle .
+unrelev_bicycle	the frame was a little bent but the bike was okay .
+unrelev_bicycle	i followed him for a little while .
+unrelev_bicycle	he was almost to the park so i met him there .
+unrelev_bicycle	after a while we put the bike in the back of the truck and drove home .
+<end_of_story>
+relnscrev_bicycle	i got my yeti 23 enduro bike out and had made some minor adjustments to the tuning .
+unrelev_bicycle	one other adjustment i made was to put some road tires on it
+screv_ride_bike_bicycle	so i could ride capital circle road of tallahassee south to the major bike trail .
+screv_ride_bike_bicycle	as i made my way through traffic in the bike lane the wind blew on my face and the sun warmed my skin .
+unrelev_bicycle	i was in a great mood .
+screv_notice_problem_bicycle	then all of a sudden the mood was dampened and corrupted by that horrible noise of leaking air .
+relnscrev_bicycle	i had hit some road debree that caused a flat tire .
+screv_get_tools_bicycle	after cursing the event and going through a small tantrum i consulted the tools of my backpack which i always brought with me .
+screv_take_tire_off_bicycle	i took the tire off ,
+screv_remove_tire_bicycle	removed the tube ,
+screv_examine_tire_bicycle	isolated the puncture ,
+screv_put_patch/seal_bicycle	and then applied the patch .
+screv_put_new_tire_bicycle	i reassembled the tube and tire ,
+screv_refill_tire_air_bicycle	pumped it up with my small hand pump ,
+screv_ride_bike_bicycle	and made my way back home .
+<end_of_story>
+screv_ride_bike_bicycle	i went out to my garage to get my bike to go on a ride .
+screv_notice_problem_bicycle	when i saw my bike i realized that one of the tires were flat .
+screv_get_tire_bicycle	i needed to buy a new tube in order to fix the flat .
+relnscrev_bicycle	i drove to the local bike shop
+relnscrev_bicycle	and purchased a tube that would fit my bike 's tire and then i drove back home .
+screv_get_tire_bicycle	i took the tube out of the packaging
+screv_put_new_tire_bicycle	and read the instructions on how to put it on the bike .
+screv_take_tire_off_bicycle	i removed the tire from the bike
+relnscrev_bicycle	and took out the old tube that was punctured .
+screv_put_new_tire_bicycle	i then inserted the new tube onto the tire .
+screv_put_new_tire_bicycle	i put the tire back on the bike
+screv_refill_tire_air_bicycle	and pumped up the tube with air until it was filled to the desired fill weight .
+screv_check_new_tire_bicycle	i got on the bike to test it and it was in great shape .
+screv_ride_bike_bicycle	then i took off on my bike ride .
+<end_of_story>
+screv_ride_bike_bicycle	yesterday , my bike tire popped while i was riding it .
+screv_get_off_bicycle	i had to walk 23 min home to get it fixed .
+screv_ride_bike_bicycle	i had tried riding it with a flat tire ,
+relnscrev_bicycle	but the bike dragged on the cement and i did n't have the man power to turn the wheels .
+relnscrev_bicycle	when , i got home i asked my father for help .
+screv_refill_tire_air_bicycle	we inflated the tire a little with a mechanical pump .
+screv_refill_tire_air_bicycle	you grab the pump with two hands , pull the lever up and then push down with your whole body weight .
+screv_examine_tire_bicycle	we put the tire underwater to find where bubbles were coming out to find the hole .
+screv_examine_tire_bicycle	after we found the hole ,
+screv_put_patch/seal_bicycle	we dried the tire and sprayed a rubber sealant to the tire to seal the hole .
+screv_refill_tire_air_bicycle	afterwards , we inflated the tire .
+relnscrev_bicycle	then , i got on it to see if it worked .
+relnscrev_bicycle	after a day or so , i rode it again to make sure the tire was n't deflating .
+<end_of_story>
+screv_notice_problem_bicycle	when i was riding my bike last week i must have ran over something sharp , because when i got home i noticed that the front tire was flat .
+evoking_bicycle	this was annoying especially since i did n't have the equipment to fix it .
+relnscrev_bicycle	so later that day i drove over to the local sports store
+screv_get_tire_bicycle	and bought a new tire inner tube and an air pump .
+relnscrev_bicycle	when i got home i took out the old punctured inner tube from the tire
+screv_put_new_tire_bicycle	and replaced it with the new once .
+screv_pull_air_pin_bicycle	i then unscrewed the air cap on the tire
+screv_refill_tire_air_bicycle	and attached the air pump .
+screv_refill_tire_air_bicycle	i began pumping air into the tire , it took about 23 pumps
+screv_refill_tire_air_bicycle	before it was fully filled up with air .
+screv_ride_bike_bicycle	i then got on the bike
+relnscrev_bicycle	and tested it to see how it would hold up .
+unrelev_bicycle	it felt good as new .
+screv_ride_bike_bicycle	i rode around happy that it was fixed ,
+screv_get_tools_bicycle	and also happy that i now had the equipment to fix it again if it went flat in the future .
+<end_of_story>
+screv_ride_bike_bicycle	yesterday , i wanted to ride my bike because the weather was so nice .
+relnscrev_bicycle	i got my bike out of the storage closet
+relnscrev_bicycle	and noticed it had a flat tire .
+relnscrev_bicycle	since i do not have a spare tire , i had to fix it if i wanted to ride .
+screv_get_tools_bicycle	i found my bike pump and patch kit .
+screv_refill_tire_air_bicycle	i pumped the tire and was able to locate the air leak .
+relnscrev_bicycle	i took out the patch and applied it to the part of the tire that had the little leak .
+screv_refill_tire_air_bicycle	i then pumped the tire again .
+screv_refill_tire_air_bicycle	i had to be careful not to overfill the tire
+relnscrev_bicycle	so the patch would n't pop off .
+relnscrev_bicycle	once i was sure the patch would n't come off , i made sure that i pumped the air into the tire sufficiently .
+relnscrev_bicycle	i tested the tire by sitting on the bike
+screv_ride_bike_bicycle	and riding around a little .
+relnscrev_bicycle	the tire seemed to hold , so i was ready to go on my bike ride .
+screv_ride_bike_bicycle	it was such a nice day and i had a great day riding my bike .
+<end_of_story>
+screv_ride_bike_bicycle	i was riding my bicycle down a beautiful country road on a sunny , summer day .
+screv_notice_problem_bicycle	when all of a sudden , i felt something was wrong .
+relnscrev_bicycle	i stopped my bike , got off and looked down .
+relnscrev_bicycle	my front tire had gone flat .
+relnscrev_bicycle	i must have ridden over something sharp to puncture it .
+relnscrev_bicycle	so i pulled out my gear bag that i had strapped to my bike .
+screv_get_tire_bicycle	i found an extra rubber tire liner and the tools needed to repair it .
+screv_free_wheel_bicycle	i took the wheel off my bike so it would be easier to work on .
+relnscrev_bicycle	i removed the punctured rubber tire liner from the wheel .
+relnscrev_bicycle	i replaced it with the new one using my tools .
+screv_get_tools_bicycle	i then used a special little cartridge i had brought with me that was filled with pressurized carbon dioxide to pump my new tire up .
+unrelev_bicycle	once it was done ,
+screv_put_new_tire_bicycle	i placed it back on my bike
+screv_ride_bike_bicycle	and continued on with my ride .
+<end_of_story>
+screv_ride_bike_bicycle	i was riding by bicycle along the river trail this morning
+screv_notice_problem_bicycle	when i noticed that something did n't seem right .
+unrelev_bicycle	my front tire was n't as firm as it usually is , and the situation was getting worse .
+screv_ride_bike_bicycle	i stopped pedaling ,
+screv_get_off_bicycle	got off the bike ,
+screv_examine_tire_bicycle	and put my ear to the tire .
+relnscrev_bicycle	i could hear a faint hissing sound .
+relnscrev_bicycle	the tire was flat .
+unrelev_bicycle	darn , i thought to myself .
+relnscrev_bicycle	i was miles from home -- too far to walk back , and nowhere near a repair shop .
+screv_get_tools_bicycle	fortunately , i keep a patch kit that i bought at the local bike shop in my backpack .
+relnscrev_bicycle	i took the backpack off , rummaged around inside for the repair kit ,
+screv_get_tools_bicycle	and grabbed it .
+relnscrev_bicycle	it had been a year since i last used it , but i got the hang of it .
+screv_examine_tire_bicycle	i found the exact spot of the hole in the tire ,
+screv_put_patch/seal_bicycle	patched it ,
+screv_refill_tire_air_bicycle	and then re-inflated the tire .
+screv_ride_bike_bicycle	my hands were dirty , but i was able to ride home without any further trouble .
+<end_of_story>
+screv_ride_bike_bicycle	i was having a nice bicycle ride on a sunny day .
+screv_notice_problem_bicycle	something seemed off about my bike but it took me quite the while
+screv_notice_problem_bicycle	before i realized what had happened .
+evoking_bicycle	at some point , one of my bike 's tires went flat .
+screv_get_off_bicycle	i got off at a safe stopping point away from the highway
+screv_lay_bike_down_bicycle	and turned my bicycle upside down .
+relnscrev_bicycle	sure enough , one of my tires was flat , the back tire specifically .
+screv_get_tools_bicycle	this was why i always carried a small travel bag of tools .
+screv_get_tools_bicycle	i set down the bag and began to work .
+screv_take_tire_off_bicycle	first i took off my tire .
+screv_take_tire_off_bicycle	there was a quick release which made it very easy to take off .
+relnscrev_bicycle	i just moved a simple lever .
+screv_remove_tire_bicycle	next , i used my tire lever to detach the tire from the rim .
+screv_put_new_tire_bicycle	before putting in a new tube from my bag ,
+screv_refill_tire_air_bicycle	i filled it with just a little bit of air .
+relnscrev_bicycle	once it was set in place ,
+screv_put_new_tire_bicycle	i just put the tire back on
+screv_ride_bike_bicycle	and continued my trip .
+<end_of_story>
+screv_ride_bike_bicycle	yesterday while i was riding my bike i got a flat tire .
+screv_get_tools_bicycle	luckily i had a tire repair kit in the garage .
+unrelev_bicycle	it 's very easy to do .
+screv_take_tire_off_bicycle	the first thing i did was use a flathead screwdriver to pop the tire off of the rim .
+unrelev_bicycle	the tire is hollow inside , with no tube .
+relnscrev_bicycle	the patch kit contains small rubber patches with glue , that you use to seal up any holes that might appear .
+screv_examine_tire_bicycle	when i had the tire off the rim i looked all around inside to find the hole .
+screv_examine_tire_bicycle	when i found it ,
+relnscrev_bicycle	i used a special piece of sandpaper inside the repair kit to clean off the area around the hole , so the glue would stick nicely .
+screv_put_patch/seal_bicycle	i then applied the glue and put one of the small rubber patches onto it .
+relnscrev_bicycle	the instructions said to let it dry for a few hours , so i went inside and watched tv .
+screv_put_new_tire_bicycle	after awhile i came back out and put the tire back on the rim ,
+screv_refill_tire_air_bicycle	then used a pump to pump the tire full of air .
+evoking_bicycle	sure enough , it fixed the hole !
+<end_of_story>
+screv_ride_bike_bicycle	riding my bike through the park , i was enjoying the beautiful spring scenery .
+unrelev_bicycle	a family of squirrels caught my attention and i was looking at them
+relnscrev_bicycle	when i hit some broken glass .
+evoking_bicycle	my bike 's tire immediately deflated .
+screv_get_off_bicycle	i walked it back to my car ,
+relnscrev_bicycle	loaded up , and headed for a local department store .
+relnscrev_bicycle	sure enough , they had bike tire repair kits in the sporting goods section .
+screv_get_tools_bicycle	i bought one ,
+relnscrev_bicycle	and then headed on home .
+screv_free_wheel_bicycle	once there i removed a wheel from the bike .
+screv_remove_tire_bicycle	from it i took out the inner tube .
+relnscrev_bicycle	i rubbed some soapy water on it
+screv_examine_tire_bicycle	and quickly found the problem spot .
+screv_get_tools_bicycle	from my new repair kit i found a special patch .
+relnscrev_bicycle	i applied the sealant
+screv_put_patch/seal_bicycle	and then stuck the patch on .
+relnscrev_bicycle	i used a hair dryer to heat and set it .
+screv_get_tools_bicycle	next , i took out the air compressor
+screv_refill_tire_air_bicycle	and reinflated the inner tube .
+screv_put_new_tire_bicycle	after reassembling everything ,
+relnscrev_bicycle	i sat on the bike
+screv_check_new_tire_bicycle	and tested it out .
+<end_of_story>
+screv_other_bicycle_bicycle	i wanted to go for a bike ride , so i went out to the garage to get my bike .
+relnscrev_bicycle	i brought it out to the driveway and got on .
+screv_notice_problem_bicycle	i noticed that something did n't feel right .
+relnscrev_bicycle	it was too hard to pedal .
+screv_notice_problem_bicycle	i looked down and noticed that my front tire was flat .
+unrelev_bicycle	i went back into the garage
+screv_get_tools_bicycle	and brought out my bicycle pump .
+screv_other_bicycle_bicycle	i removed the cover from the air valve and attached the pump to it .
+screv_other_bicycle_bicycle	i pumped up
+relnscrev_bicycle	and down on the handle a few times and noticed that the air was not staying in .
+unrelev_bicycle	i went back into the garage , again ,
+screv_get_tools_bicycle	and this time i brought out my bicycle repair kit .
+screv_other_bicycle_bicycle	i found the hole in my tire ,
+screv_put_patch/seal_bicycle	put a patch on ,
+screv_refill_tire_air_bicycle	and then filled the tire with air .
+relnscrev_bicycle	the patch seemed to be nice and sturdy and i believed it was going to hold .
+screv_other_bicycle_bicycle	i put the air pump and the bicycle tire patch kit back into the garage , put on my helmet ,
+relnscrev_bicycle	and rode my bicycle down the street .
+<end_of_story>
+evoking_bicycle	i was riding my bike yesterday
+relnscrev_bicycle	and somehow i must have run over something and punctured the front tire of my bike .
+relnscrev_bicycle	i measured my tire height and wrote down my model of my bike
+screv_get_tire_bicycle	before i wen to the bike shop to buy a new inner tube .
+screv_other_bicycle_bicycle	i go to the bike shop
+relnscrev_bicycle	and the man behind the counter asked what i needed help with .
+relnscrev_bicycle	i explained i needed a new inner tube for my bike since i had gotten a flat tire .
+relnscrev_bicycle	i showed him the model number and the tire height an d he quickly went a got the inner tube i needed .
+relnscrev_bicycle	i payed for my purchase , thank the man and went home to fix my bike .
+screv_free_wheel_bicycle	i took the front tire off
+screv_take_tire_off_bicycle	and gently pried the outer tire off .
+unrelev_bicycle	the inner tube is sort of pliable
+screv_take_tire_off_bicycle	so i stretched it over and off of the rim .
+unrelev_bicycle	i took the new inner tube
+screv_put_new_tire_bicycle	and stretched it on the metal rim , making sure the stem
+relnscrev_bicycle	when you inflate the tire was lined up with the hole on the metal rim .
+screv_remove_tire_bicycle	i replaced the outer tire
+screv_refill_tire_air_bicycle	and re-inflated the tire with my bicycle pump .
+screv_ride_bike_bicycle	now i can ride my bike again !
+<end_of_story>
+screv_ride_bike_bicycle	last week , i was riding my bicycle on a dirt path through the forest .
+unrelev_bicycle	the path had many rocks and branches on it and at some point during my ride ,
+relnscrev_bicycle	i hit a rock and put a hole in the tire .
+relnscrev_bicycle	i was forced to walk my bike back to my house
+screv_examine_tire_bicycle	and inspect the tires .
+unrelev_bicycle	it seemed to be a minor hole
+relnscrev_bicycle	where the rock had pierced the tire that would require some minor patching .
+screv_other_bicycle_bicycle	i loaded the bicycle into the back of the car and drove it to our local bike shop
+screv_put_patch/seal_bicycle	where they applied some sort of fill to the hole and patched it up .
+unrelev_bicycle	once completed , my tires retained their air pressure and were good as new .
+relnscrev_bicycle	i paid the man at the shop and took my bike home .
+unrelev_bicycle	the next day , i took it back out for a ride and all was well !
+relnscrev_bicycle	the bike shop was far better equipped to fix my flat than i was .
+<end_of_story>
+unrelev_bicycle	the flat tire it was a beautiful sunny day with only a slight breeze .
+unrelev_bicycle	it seemed to me like a perfect day for a bicycle ride .
+screv_ride_bike_bicycle	i thought i would ride on the bike trails to the park and enjoy my day .
+unrelev_bicycle	however , when i went out into the garage ,
+screv_notice_problem_bicycle	i saw that the back tire on my bicycle was flat .
+unrelev_bicycle	luckily , i had a spare tire on hand .
+unrelev_bicycle	the tire that was flat had been on my bicycle for a couple of years now ,
+screv_remove_tire_bicycle	it needed replaced anyway .
+screv_remove_tire_bicycle	i remembered how my dad had taught me to replace the tire and got the job done .
+relnscrev_bicycle	it did not take as long as i thought it might .
+relnscrev_bicycle	i kept the old tire to see if i could patch it up later
+screv_refill_tire_air_bicycle	and put air in it to have on hand as a spare when i needed one .
+unrelev_bicycle	after my new tire was on my bike ,
+screv_ride_bike_bicycle	i went for the ride to the park that i planned and had a great time .
+<end_of_story>
+screv_ride_bike_bicycle	i was riding my new bicycle when i stumbled over a rock or something .
+relnscrev_bicycle	the tire seemed to explode upon impact .
+unrelev_bicycle	i struggled to stay atop the bicycle but was fortunately able to keep my balance .
+relnscrev_bicycle	i knew that i had to fix my tire in order to use the bike .
+screv_other_bicycle_bicycle	i knew the local gas station was only a few blocks away so i decided to walk my bike there .
+screv_put_patch/seal_bicycle	the first thing i did was get something to tape up the hole .
+screv_put_patch/seal_bicycle	the manager gave me some sort of sticky resin in order to patch things up .
+screv_refill_tire_air_bicycle	i went to the air pump to put some air into the tire and once it was full i was ready to patch it up .
+screv_put_patch/seal_bicycle	i used the resin to cover the hole and the tire seemed as good as new .
+screv_ride_bike_bicycle	i rode the bike home and made sure to avoid rolling over anymore rocks .
+<end_of_story>
+screv_take_tire_off_bicycle	i began to repair my flat bicycle tire by removing the wheel from the bike .
+relnscrev_bicycle	this was done by disconnecting the brake cable so the wheel would be able to be removed from the frame .
+screv_loose_nut_bicycle	i then loosened the bolts holding it on and slid the axle off the frame , making sure that the chain did not get caught or bind up while doing so .
+screv_remove_tire_bicycle	after the wheel was removed , i made sure that all possible air was out of the tube so that it would be easier to remove .
+screv_get_tools_bicycle	i next took two flat head screwdrivers and began to remove the tire from the bicycle .
+screv_remove_tire_bicycle	after the tire was finally removed ,
+screv_other_bicycle_bicycle	i pulled the tube off the rim as well .
+screv_other_bicycle_bicycle	next , i placed a new tube in place making sure that the valve stem was placed through the rim appropriately .
+screv_put_new_tire_bicycle	after doing this , i began to fit the tire to the rim , making sure the tube was placed inside the tire and not pinched at all .
+unrelev_bicycle	once the tire was on the rim ,
+screv_refill_tire_air_bicycle	i inflated the tube , making sure that the tire seated onto the rim properly and that everything held air .
+screv_put_new_tire_bicycle	finally , i reinstalled the wheel onto the bike ,
+relnscrev_bicycle	and reconnected everything appropriately .
+<end_of_story>
+screv_notice_problem_bicycle	i began by finding the culprit of my flat tire , it was a nail on the side of the road .
+unrelev_bicycle	unfortunately i did not have a spare tire
+screv_other_bicycle_bicycle	so i had to carry my bike the rest of the way home .
+screv_lay_bike_down_bicycle	after the gruesome trek back to my house i flipped the bicycle upside down and began my repair .
+relnscrev_bicycle	first i took off the outer tire to replace my tube with a better more expensive tube that has the ability to fix a puncture .
+relnscrev_bicycle	i do not want to experience carrying my bike a mile ever again .
+screv_put_new_tire_bicycle	after putting the new tube on i screw back on the tire and put the outer tire over the tube .
+screv_refill_tire_air_bicycle	i then fill the psi to 23 in my tire
+relnscrev_bicycle	and listen for any leaking air .
+screv_other_bicycle_bicycle	then i spin the tire to make all the slime inside become evenly distributed throughout .
+relnscrev_bicycle	this will prevent leaks in the future
+relnscrev_bicycle	and even with a slight leak i will still be able to ride back home and fix the tire quickly yet again .
+<end_of_story>
+screv_ride_bike_bicycle	i was riding my bike home from school one day when i went through a thorny patch of ground while going through the park .
+relnscrev_bicycle	the tire then went flat
+screv_ride_bike_bicycle	after a few more minutes of riding and i was stuck a couple of miles from home .
+unrelev_bicycle	i called my dad and told him what happened and where i was .
+evoking_bicycle	after a few minutes , he showed up with new inner tubes and a few tools to help me fix my bike tires .
+screv_take_tire_off_bicycle	we started by removing the outer rubber of the tires and getting the damaged inner tubes out .
+screv_remove_tire_bicycle	then we replaced them with new ones .
+screv_put_new_tire_bicycle	after reinstalling the tubes and putting them back onto the bicycle ,
+relnscrev_bicycle	we had to inflate the tires which took a few minutes with a foot pump .
+relnscrev_bicycle	afterwards , he drove home and i followed on my repaired bike .
+screv_get_tire_bicycle	i promised to avoid patches of thorns after that since it cost me 23 weeks of allowance to buy the inner tubes .
+<end_of_story>
+screv_ride_bike_bicycle	it was a sunny afternoon so my friend and i went decided to go for a ride on our bicycles in the woods .
+relnscrev_bicycle	i did n't check the air pressure beforehand and thought it would be okay .
+screv_ride_bike_bicycle	as we were riding through the trails in the woods the terrain was more rough than i had expected and the the tire went flat .
+screv_get_off_bicycle	i got off my bicycle and knelt down to check the condition of the tire to see if there were any punctures .
+unrelev_bicycle	there were n't any and it was just out of air .
+screv_get_tools_bicycle	it was a good thing my friend packed an air pump .
+screv_refill_tire_air_bicycle	i stuck the needle from the air pump into the tire and started to pump air .
+relnscrev_bicycle	the bicycle tire started to inflate and it was good as new .
+unrelev_bicycle	i packed the air pump and handed it back to my friend
+screv_ride_bike_bicycle	and continued our bicycle adventure in the woods .
+<end_of_story>
+relnscrev_bicycle	after getting a flat tire on my bicycle ,
+screv_other_bicycle_bicycle	i took my bike into the garage and placed it on my bike repair stand .
+screv_get_tools_bicycle	i got all the necessary tools and items ready for repair : my air compressor -lrb- smaller air compressor which serves as my air pump -rrb- , my alan key -lrb- hex key -rrb- , my spare tire , and tube repair just in case my tire could be saved by patching the inner tube .
+screv_other_bicycle_bicycle	after placing my bike on the stand ,
+screv_take_tire_off_bicycle	i was able to remove the back tire off of the rim
+screv_notice_problem_bicycle	and i noticed how the inner tube of the tire could not be saved .
+screv_remove_tire_bicycle	as a result , i tossed the damaged tire to the side
+screv_put_new_tire_bicycle	and picked up the spare tire to place it on empty rim .
+screv_put_new_tire_bicycle	after a few moments of fitting the tire to the rim and placing it correctly on ,
+screv_check_new_tire_bicycle	i was able to test to see if the tire would spin and roll correctly .
+relnscrev_bicycle	i rode the tire around for a few minutes to get a feel for the tire .
+unrelev_bicycle	the air was low ,
+screv_refill_tire_air_bicycle	so i had to pump it up an additional few pounds of air in order to get it correct .
+relnscrev_bicycle	the entire process only took me about ten-to-fifteen minutes to complete , and i had my new tire on my bike in no time .
+<end_of_story>
+evoking_bicycle	repairing a flat bike tire can be a little tiring , if you get my drift .
+evoking_bicycle	anyway , the last time i had to do this was
+screv_other_bicycle_bicycle	when i 'd apparently ran over some random ,
+relnscrev_bicycle	sharp piece of metal that got stuck in my front tire .
+screv_get_tools_bicycle	i had to get some sealant and a little oil for my tire pump .
+screv_lay_bike_down_bicycle	i flipped by bike upside down
+screv_free_wheel_bicycle	and used a wrench to take the whole tire off .
+unrelev_bicycle	i have an older bike , so it 's easier to do it this way .
+screv_other_bicycle_bicycle	i deflated the tire
+screv_take_tire_off_bicycle	and then i took the outer tire off .
+screv_other_bicycle_bicycle	i removed the metal bit from the tire and the bladder .
+screv_put_patch/seal_bicycle	i sealed the bladder
+relnscrev_bicycle	and had to wait for it to cure .
+screv_put_patch/seal_bicycle	the outer tire got a little bit of repair mix too .
+relnscrev_bicycle	after the various mixes dried ,
+screv_refill_tire_air_bicycle	i inflated the bladder a bit
+screv_put_new_tire_bicycle	and put both the bladder and the tire back on the wheel .
+relnscrev_bicycle	this took a while , since i had to make sure that it was well within the wheel well ,
+relnscrev_bicycle	so that the tire would stay on .
+screv_put_new_tire_bicycle	the last thing i really had to do was fully inflate the bladder and put the tire back on the bike .
+relnscrev_bicycle	it took a little while to do , but it was better than buying an all new tire .
+<end_of_story>
+screv_ride_bike_bicycle	this weekend , i planned to go bike riding .
+screv_ride_bike_bicycle	i had n't gone in some time and ,
+screv_other_bicycle_bicycle	when i checked my bike beforehand ,
+relnscrev_bicycle	discovered that one of the tires had gone flat .
+screv_other_bicycle_bicycle	i attempted to pump air back into the tire , first .
+relnscrev_bicycle	the tire would not hold air , so i knew that i would have to repair the flat tire .
+screv_lay_bike_down_bicycle	i turned the bike upside down .
+unrelev_bicycle	this would help me by giving me better access to the bike tires .
+screv_get_tools_bicycle	i found a wrench of appropriate size
+screv_other_bicycle_bicycle	and used it to take off the bolts that held the tire on the bike .
+screv_other_bicycle_bicycle	when i had taken off the bolts ,
+screv_take_tire_off_bicycle	i took the tire off the bike frame .
+screv_other_bicycle_bicycle	then , i let out the rest of the air out of the bike tire .
+unrelev_bicycle	when the tire was completely flat ,
+screv_take_tire_off_bicycle	i carefully took the rubber tire off the metal bike spoke frame .
+unrelev_bicycle	the inside of a bike tire is hollow and houses the tire tube .
+unrelev_bicycle	i knew that the bike tire was probably flat because of a puncture in the bike tube ,
+relnscrev_bicycle	so i checked that first .
+unrelev_bicycle	sure enough , there was a large hole in my bike tire tube .
+relnscrev_bicycle	this tube would not hold air .
+unrelev_bicycle	i had a small bike tire repair kit in my garage
+screv_get_tools_bicycle	and went to get it .
+screv_get_tools_bicycle	i returned with it and took out the rubber patch that i would use to repair the tube .
+screv_other_bicycle_bicycle	i prepared the tube
+screv_put_patch/seal_bicycle	and then applied a rubber patch to the puncture with a bit of glue .
+screv_check_new_tire_bicycle	i then tested the bike tire tube and found that the patch was working .
+screv_put_new_tire_bicycle	so , i replaced the tube and the outer tire on the metal spokes .
+screv_put_new_tire_bicycle	then , i put the tire back on the bike frame
+relnscrev_bicycle	and tightened the bolts that would hold it there .
+screv_other_bicycle_bicycle	finally , i put the bike right-side up
+screv_refill_tire_air_bicycle	and filled the tire with air .
+unrelev_bicycle	i knew this weekend would be fun .
+<end_of_story>
+screv_ride_bike_bicycle	repairing a bicycle is vital and i learned how easy and important it is through the many years i have rode bicycles .
+relnscrev_bicycle	first of all do not think you ca n't do it i will show and you will be glad you learned the first time a tipe deflates way out on a country or something .
+unrelev_bicycle	first use tire removing tools that are flat
+relnscrev_bicycle	and will not pop tires or tubes and have a portable wrench .
+unrelev_bicycle	i use small air pressure bulbs that i find are more convenient to use for tire inflation but you can use a hand pump .
+screv_put_new_tire_bicycle	simply remove the wheel and place the new tube in the tire being careful to look for debris that might still be embedded into the tire still .
+screv_put_new_tire_bicycle	then carefully tuck the tire back into the rim
+screv_refill_tire_air_bicycle	and reinflate .
+relnscrev_bicycle	its a real good thing you now how to change your tire because you never know when a tube will pop or puncture and you can be out of luck if you do n't have your spare tube , tools , and pump .
+<end_of_story>
+screv_ride_bike_bicycle	if you love riding bikes when the weather starts getting better an important thing to know is how to repair your tire if you encounter a flat .
+screv_other_bicycle_bicycle	head on over to your local auto shop
+screv_get_tools_bicycle	and find a patch kit , and make sure to invest in an air pump if you do n't have one .
+relnscrev_bicycle	sometimes the bike tire will go flat by losing air due to weather conditions .
+unrelev_bicycle	if this is your case ,
+screv_refill_tire_air_bicycle	simply unscrew the cap and pump more air into the tire .
+screv_put_patch/seal_bicycle	if you have a puncture in a tire then you will need to try patching .
+screv_get_tools_bicycle	by using the kit you just purchased you can find the problem area ,
+screv_put_patch/seal_bicycle	install a mesh patch over it , and use the kit to fuse it to the tire .
+screv_refill_tire_air_bicycle	once it has been applied you can fill the tire with air and enjoy your bike again .
+relnscrev_bicycle	if the tire is still losing air then you will unfortunately need to invest in a new tire .
+<end_of_story>
+screv_ride_bike_bicycle	the other day i decided to take my bike out on the local scenic bike trail .
+unrelev_bicycle	a few miles into my ride , i was trying to dodge a runner that was n't paying attention and i ended up running over a piece of debris in the trail .
+screv_notice_problem_bicycle	i started noticing that it was getting harder to pedal my bike , so i stopped to evaluate the situation .
+unrelev_bicycle	once i looked at the tire ,
+screv_notice_problem_bicycle	i realized it was flat and that i needed to repair it .
+relnscrev_bicycle	thankfully , i kept tire repair supplies in my bag for situations just like this !
+screv_put_patch/seal_bicycle	i placed a temporary patch on the tire and used my portable pump to inflate it again .
+screv_ride_bike_bicycle	i set off to ride again , and the same thing happened .
+evoking_bicycle	i had to temporarily repair the tire three more times just to make it back to my car .
+unrelev_bicycle	once i made it home ,
+screv_put_new_tire_bicycle	i removed the tire and placed a new one on .
+evoking_bicycle	that 's how i repaired my flat bicycle tire .
+<end_of_story>
+unrelev_bicycle	my husband and i are huge health junkies .
+screv_ride_bike_bicycle	we ride our bikes to and from work everyday .
+unrelev_bicycle	yes , we own a car but we love getting that extra thirty minute workout everyday .
+screv_ride_bike_bicycle	last week , i rode over a piece of cracked glass from a bottle .
+relnscrev_bicycle	the tire on my bike slowly began to deflate .
+screv_other_bicycle_bicycle	i called my husband to come get me and we took the bike home to get fixed .
+screv_other_bicycle_bicycle	i washed it with soapy water to see where the hole was .
+screv_get_tools_bicycle	i got out my air pump and began to pump .
+relnscrev_bicycle	the part where there was a hole blew out air around the wet wheel .
+screv_get_tools_bicycle	i got a bike patch
+screv_put_patch/seal_bicycle	and just stuff it on over the spot once the wheel had dried .
+screv_refill_tire_air_bicycle	put some more air into the tire
+screv_ride_bike_bicycle	and test drove it around the street and back .
+unrelev_bicycle	my sweet bicycle was back and even better than ever .
+<end_of_story>
+evoking_bicycle	to be honest , when ever i have a flat tire on anything , i usually leave it to my husband , but he did teach me how to fix a flat on a bike .
+unrelev_bicycle	sometimes , it needs a new inner tube .
+unrelev_bicycle	if that is the issue ,
+screv_take_tire_off_bicycle	you must remove the outer rubber , and take off the old broken inner tube .
+screv_put_new_tire_bicycle	then , put on the new one , out the rubber back on ,
+screv_refill_tire_air_bicycle	and fill the tire with air .
+screv_refill_tire_air_bicycle	make sure that you check the pressure when filling the tire
+relnscrev_bicycle	so as to not put too much air in .
+relnscrev_bicycle	sometimes you will also need to chance the outer tire as that may have a hole .
+unrelev_bicycle	it can be hard to determine which part of the tire is the issue
+relnscrev_bicycle	when you have a flat .
+screv_other_bicycle_bicycle	first , you can check the tire pressure
+screv_refill_tire_air_bicycle	and fill it if low .
+relnscrev_bicycle	if it quickly loses pressure again , then it was n't just an issue with the tire pressure
+relnscrev_bicycle	and you need to replace one of the tire pieces a s previously stated .
+<end_of_story>
+unrelev_bicycle	sometimes , something happens that can really just ruin your day .
+unrelev_bicycle	take , for example ,
+screv_ride_bike_bicycle	going for a fun bicycle ride only to have the tire go flat !
+unrelev_bicycle	when something like this happens , it can seem like a big deal , but is only a small inconvenience .
+evoking_bicycle	i do n't even know how to repair a flat bicycle tire , but i know how i could do it myself .
+screv_other_bicycle_bicycle	first , i would read about how to fix it and maybe look at a video from the internet .
+relnscrev_bicycle	after i have learned how to repair it , i would go to the store to get some supplies .
+evoking_bicycle	i would need the tools to fix it and a new tire or things to use for the repair .
+relnscrev_bicycle	after arriving home , i would review the things i learned about how to repair the tire and i would follow the directions .
+evoking_bicycle	once it was repaired ,
+screv_other_bicycle_bicycle	i would test out the bicycle to make sure it was repaired and then i would clean up .
+<end_of_story>
+screv_ride_bike_bicycle	as i was riding home from school one day the worst possible thing that could happen did happen .
+screv_other_bicycle_bicycle	my tire popped .
+evoking_bicycle	i knew i was in deep because i had no idea how to repair a flat bicycle tire .
+screv_get_tire_bicycle	luckily my grandfather did and with his advice we went to get a new tube for the rims of my bike 's tire .
+screv_other_bicycle_bicycle	we arrive at the store and i am swamped .
+unrelev_bicycle	there are so many different kinds and sizes of tubes .
+unrelev_bicycle	well luckily my grandfather had already looked before we had left and knew which kind we needed .
+screv_get_tools_bicycle	with that in mind we purchased the one we needed and returned home ready to go .
+screv_take_tire_off_bicycle	my grandfather showed me that to repair a tire you need to take off the old broken tube
+screv_put_new_tire_bicycle	and the replace it with the new one .
+screv_refill_tire_air_bicycle	after that you take a pump and pump air into the tire until it is full .
+<end_of_story>
+relnscrev_bicycle	today i found out my bike tire was flat right
+screv_ride_bike_bicycle	before i needed to ride it to work .
+screv_lay_bike_down_bicycle	i hurriedly flipped the bike upside down and sat it on the seat .
+screv_loose_nut_bicycle	i pulled quick release bolt on the tire and unscrewed it .
+screv_take_tire_off_bicycle	i disconnected the brakes and removed the wheel from the bike .
+unrelev_bicycle	i then used the tire removal tool
+relnscrev_bicycle	so that i could get to the inner tube .
+screv_take_tire_off_bicycle	i removed the inner tube , and examined where the hole might be .
+unrelev_bicycle	i could not find the hole
+screv_other_bicycle_bicycle	so i put it into the sink with water .
+screv_other_bicycle_bicycle	i found the tiny hole in the tube .
+unrelev_bicycle	i used glue
+screv_put_patch/seal_bicycle	and a chunk of rubber from an old inner tube to fix the puncture .
+relnscrev_bicycle	i had to let it dry for a few minutes .
+screv_other_bicycle_bicycle	i put the inner tube back onto the rim , and then put the tire back onto the rim .
+screv_other_bicycle_bicycle	i fit the tire back onto the bike and screwed the tire on
+screv_ride_bike_bicycle	and rode to work .
+<end_of_story>
+screv_ride_bike_bicycle	last summer , i was riding my bike and i must have ran over something sharp because my tire started going flat .
+unrelev_bicycle	i tried to use a repair kit , but the hole was too big
+relnscrev_bicycle	and the patch would not stay on the old tube .
+unrelev_bicycle	it turns out that i ran over a screw
+relnscrev_bicycle	and it had been lodged through the tire and into the tube .
+unrelev_bicycle	i knew that i had a twenty six inch wheel ,
+screv_other_bicycle_bicycle	so i went up to the local hardware store .
+unrelev_bicycle	they had a new tube
+screv_get_tire_bicycle	and i bought a new tire , just in case there were any other problems .
+unrelev_bicycle	i followed the instructions
+screv_take_tire_off_bicycle	and i took the old tire off .
+screv_put_new_tire_bicycle	the somehow got the new tube and tire onto the wheel , but it was kind of a pain to do .
+screv_refill_tire_air_bicycle	i finally got it on and all that i had to do was put in some air .
+screv_other_bicycle_bicycle	i plugged in my air compressor but it would not turn on for some reason .
+screv_get_tools_bicycle	i found an old tire pump buried in my garage and i was finally able to put air into the tires .
+evoking_bicycle	in the future , i am going to be more careful to avoid sharp exits because repairing the flat tire was a pain .
+<end_of_story>
+screv_notice_problem_bicycle	yesterday on my way home from work i heard a loud popping noise and nearly lost control of my bicycle .
+screv_notice_problem_bicycle	after coming to a stop i noticed that my tire was flat .
+screv_other_bicycle_bicycle	i ended up having to walk my bike the rest of the way home as i did not have any tools to repair the tire on the spot .
+screv_get_tools_bicycle	once i returned home i found a can of spray foam that i thought might do the trick
+relnscrev_bicycle	if i sprayed it into the tire .
+screv_other_bicycle_bicycle	i sprayed the foam in
+relnscrev_bicycle	and it filled the inside walls of the tire .
+unrelev_bicycle	i was happy with my ingenuity , although i knew this was only a temporary fix
+relnscrev_bicycle	and i should probably replace the tire .
+screv_put_patch/seal_bicycle	after the tire was filled i hopped on and rode to my local bike shop
+screv_put_new_tire_bicycle	where i purchased a replacement tire to put on my bike at a later date .
+<end_of_story>
+unrelev_bicycle	yesterday , i woke up and realized how gorgeous of a day it was so i decided to eat my breakfast and then go outside for a nice bike ride with some friends at the park .
+screv_notice_problem_bicycle	when i went into the garage to grab my bicycle i noticed that the tire had gone flat
+screv_ride_bike_bicycle	and i would need to repair it if i wanted to go for a ride with my friends .
+evoking_bicycle	i called my friend joey up and asked if he could give me a half hour to replace the tire .
+screv_get_tools_bicycle	joey said that was fine so i went and got some tools
+relnscrev_bicycle	and a spare tire to replace the flat one with .
+screv_take_tire_off_bicycle	i took the old tire off
+screv_put_new_tire_bicycle	and tightly put the new one on .
+screv_ride_bike_bicycle	to make sure that everything was in place i took it for a test ride around the block before calling my friend joey back and letting him know that i was now ready for a ride .
+screv_ride_bike_bicycle	after that i went on the bike ride and everything went perfectly .
+<end_of_story>
+screv_notice_problem_bicycle	i noticed my bicycle tire was flat this morning when i pulled it out of the garage to go on a ride .
+unrelev_bicycle	i took the bike back into the garage
+screv_lay_bike_down_bicycle	and laid it on it 's side .
+screv_other_bicycle_bicycle	i thoroughly checked the tire to see what had caused it to go flat .
+relnscrev_bicycle	i saw no nails , holes or tears in the tire so i assumed that the tire had simply lost air and needed to be refilled .
+unrelev_bicycle	after then i went into my tool chest
+screv_get_tools_bicycle	until i found my manual air pump .
+screv_get_tools_bicycle	i took the pump back to where i my bicycle was .
+screv_other_bicycle_bicycle	i removed the cap on the tires stem and carefully set it aside .
+screv_other_bicycle_bicycle	i then inserted the pump needle into the stem and made sure it fit .
+screv_other_bicycle_bicycle	i then placed the pump flat on the ground
+screv_refill_tire_air_bicycle	and began pumping air into the tire ,
+relnscrev_bicycle	all the while monitoring the pressure gauge .
+screv_other_bicycle_bicycle	when i saw that the tire was properly inflated i removed the pump from the tire .
+screv_other_bicycle_bicycle	i put the stem cap back onto the tire and went out for a ride to make sure the tire was ok .
+<end_of_story>
+screv_ride_bike_bicycle	i was riding my bike the other day
+screv_notice_problem_bicycle	when i noticed i was moving slowly , even though i was pedaling hard with a lot of effort .
+unrelev_bicycle	i stopped and looked at my front wheel
+relnscrev_bicycle	and noticed that it was squished down against the pavement and was soft when i pressed it , instead of being firm and tough .
+relnscrev_bicycle	it did n't have enough air in it to fill it up , like an old balloon .
+screv_other_bicycle_bicycle	i took the bicycle home to my garage .
+unrelev_bicycle	inside my garage was my bicycle tire pump .
+screv_refill_tire_air_bicycle	the pump would put air back into the tire .
+unrelev_bicycle	on my front tire , there was a tiny tube or straw that would let the air in when i used the pump .
+unrelev_bicycle	the pump also had a long tube with a tiny metal fastener on the end .
+screv_other_bicycle_bicycle	i stuck the metal part into the tube
+screv_refill_tire_air_bicycle	so that it can blow air into my bicycle tire .
+unrelev_bicycle	the large metal cylinder part of the pump had a handle sticking out the top , which could be pulled out like a pogo stick , and two little metal feet on the bottom .
+unrelev_bicycle	i stood on the metal feet to keep the pump in place .
+screv_other_bicycle_bicycle	then i carefully pulled the handle out and pushed it back in .
+screv_other_bicycle_bicycle	a dial on the pump showed me how much pressure i was putting into the pump by pushing on the handle , which then pushed the air in the tire .
+relnscrev_bicycle	i heard it make a hissing noise .
+screv_other_bicycle_bicycle	i kept pulling the handle out and pushing it back in , and noticed that the tire was getting bigger and bigger .
+screv_other_bicycle_bicycle	finally , after a few minutes , i pushed on the tire again .
+unrelev_bicycle	it was firm
+screv_ride_bike_bicycle	and ready to ride .
+screv_other_bicycle_bicycle	i disconnected the pump and put it away .
+unrelev_bicycle	then i went out to have fun on my bike again , with my tire working perfectly .
+<end_of_story>
+unrelev_bicycle	when i was younger ,
+evoking_bicycle	i would occasionally get flats on my tires .
+evoking_bicycle	whenever it happened i would repair it as soon as i had the opportunity .
+unrelev_bicycle	in my garage i generally used a piece from an old inner tube
+screv_put_patch/seal_bicycle	and glue to patch the hole .
+screv_put_patch/seal_bicycle	before i patch it however ,
+screv_take_tire_off_bicycle	i would remove the wheel from the bike frame using a socket wrench to remove the nuts that secure the tire to the frame .
+screv_remove_tire_bicycle	then i would remove the inner tube from the outer tire .
+screv_other_bicycle_bicycle	then i would put the tube in a pan of water and look for bubbles and where they may be coming from ;
+unrelev_bicycle	the bubbles will lead me to the where the flat or flats are .
+screv_other_bicycle_bicycle	i would then mark them with a marker or piece of tape , then cut a big enough section from the old inner tube i had in my garage
+screv_put_patch/seal_bicycle	and patch with the proper super glue and let it sit for at least an hour to properly harden .
+screv_put_new_tire_bicycle	then i would put the repaired inner tube back into the tire , put the tire back onto the bike ,
+screv_refill_tire_air_bicycle	and then fill the tire with air .
+<end_of_story>
+screv_ride_bike_bicycle	one day when i was riding my bicycle ,
+relnscrev_bicycle	and i realized my back tire was getting low .
+screv_other_bicycle_bicycle	i walked the bicycle back home
+screv_get_tools_bicycle	and pulled out my patch kit .
+screv_other_bicycle_bicycle	after removing my back tire from the bicycle i let the remaining air out from the valve , and used the small tool on the edge of the tire ,
+relnscrev_bicycle	to lift the tire away
+screv_other_bicycle_bicycle	and clicked the tool onto one of the spokes .
+relnscrev_bicycle	using more of the tools , i continued to lift the tire away from the rim
+screv_remove_tire_bicycle	until i could easily remove the rest of the tire with my fingers .
+unrelev_bicycle	by this time , the inner tube was exposed ,
+relnscrev_bicycle	and pushing the valve through ,
+screv_remove_tire_bicycle	i removed the tube completely from the tire .
+screv_other_bicycle_bicycle	i put the tube into a bucket of water , and used the air pump to pump air back into the tube , and watched for bubbles to see where the hole was .
+unrelev_bicycle	i kept a close eye on where the hole was ,
+screv_other_bicycle_bicycle	and taking the tube out of the bucket , i dried the tube with a towel .
+unrelev_bicycle	i used the small sandpaper from the kit ,
+screv_other_bicycle_bicycle	and carefully roughed the area around the hole .
+screv_other_bicycle_bicycle	i then chose a patch . a round one for a puncture , or the rectangle for a slice .
+screv_other_bicycle_bicycle	i placed glue on the patch ,
+screv_put_patch/seal_bicycle	and firmly placed it on the tube .
+unrelev_bicycle	i was very careful , because last time i got glue on my fingers , and my fingers felt funny for days !
+screv_other_bicycle_bicycle	i went for some lemonade while i waited for the patch to dry .
+unrelev_bicycle	boy , that lemonade was good on such a hot day .
+screv_refill_tire_air_bicycle	i tried pumping some air back in the tube , and carefully watched around the patch , to make sure no air was leaking .
+unrelev_bicycle	i was in luck , the patch was good .
+screv_put_new_tire_bicycle	i carefully replaced the tube into the tire , and used the small tools to replace the tire into the rim and used the air pump to fill it back up .
+unrelev_bicycle	now i was ready for more adventures !
+<end_of_story>
+screv_notice_problem_bicycle	i was riding my bike home when i noticed that it had a flat tire .
+unrelev_bicycle	lucky for me there was a hardware store near by .
+screv_get_tools_bicycle	i walked in and purchased a patch kit .
+unrelev_bicycle	it was only a few dollars .
+screv_take_tire_off_bicycle	they loaned me a chanellock to get the tire off .
+screv_remove_tire_bicycle	it came off easy and i pulled the tire off the rim .
+relnscrev_bicycle	it had a nail hole
+screv_get_tools_bicycle	so i took the wire scrubber in the repair kit
+screv_put_patch/seal_bicycle	and scruffed up the rubber .
+screv_put_patch/seal_bicycle	i applied the risen and stuck on the patch , and i held thumb pressure on it for a few minutes .
+screv_put_new_tire_bicycle	i started putting the tire back on the rim , which was easy i got it back on the bike .
+relnscrev_bicycle	lucky for me the hardware store had a portable tire air filler
+screv_refill_tire_air_bicycle	and i was able to fill the tire .
+relnscrev_bicycle	i thanked them and finished my ride home
+relnscrev_bicycle	and the tire did great .
+<end_of_story>
+evoking_bicycle	i was about to ride my bicycle to the park one day
+screv_notice_problem_bicycle	when i noticed that the front tire was flat .
+evoking_bicycle	i realized i would have to repair it .
+screv_get_tools_bicycle	i went into my garage to get some tools .
+relnscrev_bicycle	the first thing i did was remove the tire by unscrewing the screws that were holding the wheel in place .
+unrelev_bicycle	once that was done ,
+relnscrev_bicycle	i examined the wheel to see what the damage was .
+screv_other_bicycle_bicycle	it turns out a nail must have punctured the tire .
+screv_get_tools_bicycle	i took some glue and proceeded to glue a tube patch over the tiny hole .
+screv_put_patch/seal_bicycle	i continued to apply pressure to the tube patch .
+unrelev_bicycle	when that was done ,
+screv_refill_tire_air_bicycle	i inflated the tire back to fullness .
+screv_refill_tire_air_bicycle	as i was inflating the tire ,
+relnscrev_bicycle	i made sure the patch stayed in place .
+screv_put_new_tire_bicycle	i then reattached the wheel back on the bicycle and it was good to go .
+unrelev_bicycle	i happily took my bike out to the park as i had initially wanted to .
+<end_of_story>
+relnscrev_bicycle	i noticed it was getting warmer out and it would be a nice time to exercise so i took my bicycle out to see if it needed any maintenance .
+unrelev_bicycle	at first everything looked good
+relnscrev_bicycle	and i was ready to ride but then i noticed that the front tire was a little flat .
+screv_lay_bike_down_bicycle	i had some tools in my garage so i picked up the bike and placed it on my workbench .
+screv_examine_tire_bicycle	first i removed the wheel and checked as best i could to make sure there were no tears or other types of damage .
+unrelev_bicycle	there was just a very small tear
+screv_get_tools_bicycle	so i got out the patching kit that i 'd purchased from the sports store last summer .
+relnscrev_bicycle	i cleaned the area around the tear
+screv_put_patch/seal_bicycle	and applied the patch .
+relnscrev_bicycle	after waiting for a while ,
+screv_put_new_tire_bicycle	i put the tire back on my bike
+screv_refill_tire_air_bicycle	and re-inflated the tire .
+relnscrev_bicycle	the patch held and i was able to go for a bike ride that day .
+<end_of_story>
+evoking_bicycle	i once had a flat tire on my bicycle .
+unrelev_bicycle	it was quite a surprise when it happened .
+evoking_bicycle	i had been having a good time riding my bike along a trail
+relnscrev_bicycle	and the air went right out of it .
+screv_lay_bike_down_bicycle	i proceeded to flip my bicycle over so it was standing on the handlebars and seat to inspect the damage .
+screv_remove_tire_bicycle	once i had that accomplished i had to remove the wheel from the bike .
+unrelev_bicycle	this took a little bit
+screv_get_tools_bicycle	and i needed some tools to finish this task .
+relnscrev_bicycle	my bike has a tube in each tire to keep it inflated .
+screv_other_bicycle_bicycle	something had gone through the outer rubber and punctured that inner tube .
+screv_remove_tire_bicycle	i had to remove the outer rubber
+screv_examine_tire_bicycle	and find the spot on the inner tube
+relnscrev_bicycle	where the hole was .
+screv_get_tools_bicycle	luckily i had a patch kit with me
+screv_put_patch/seal_bicycle	and was able to patch the tube
+screv_notice_problem_bicycle	once i found the hole .
+screv_put_new_tire_bicycle	after waiting for the patch adhesive to set i put the wheel back together .
+screv_put_new_tire_bicycle	once the wheel was back on my bike i was off riding again .
+<end_of_story>
+evoking_bicycle	i 'd had my old bike sitting around the house for a few months , but now that the weather is getting warmer i decided i should probably do something about the flat tire in the front .
+screv_get_tools_bicycle	i 'd already tried using my bike pump ;
+screv_refill_tire_air_bicycle	it would inflate a little but i could never get it anywhere close to fully inflated .
+unrelev_bicycle	i know from past experience those fix-a-flat or emergency bike repair kits are pretty worthless .
+unrelev_bicycle	i think they 're made for the narrow old tires you 'd see on ten-speed street bikes .
+screv_refill_tire_air_bicycle	i have a mountain bike with large tires and a lot of pressure is needed to keep them inflated .
+screv_other_bicycle_bicycle	since i only live a few blocks from a bicycle repair shop i decided to take the bike there .
+relnscrev_bicycle	i bought it at that shop anyway so i figured they 'd do the service for free , as promised .
+unrelev_bicycle	i stopped by ,
+relnscrev_bicycle	they took it in the back ,
+screv_put_new_tire_bicycle	replaced the inner tube of the tire ,
+screv_refill_tire_air_bicycle	inflated it , and it was as good as new .
+unrelev_bicycle	best of all , they only charged me ten bucks for the tube .
+unrelev_bicycle	that 's the beauty of local , independently own businesses .
+unrelev_bicycle	they really care about their customers .
+<end_of_story>
+relnscrev_bicycle	yesterday , as i pulled my bicycle out of the garage , i realized it had a flat tire .
+evoking_bicycle	so , i prepared to repair it .
+unrelev_bicycle	first , i went to the tool box
+screv_get_tools_bicycle	and got out the wrench and other necessary tools .
+relnscrev_bicycle	then , i realized i did n't have a new bike tire .
+unrelev_bicycle	so , i opened the door to my car and got in .
+unrelev_bicycle	i drove to the nearest bicycle shop
+screv_get_tire_bicycle	and bought two new bicycle tires -- one for now and one for later .
+unrelev_bicycle	i drove back home where the bicycle was waiting for me .
+screv_take_tire_off_bicycle	i took the old ,
+screv_loose_nut_bicycle	flat tire off of the bicycle using my wrench to loosen the screws and other mechanical devices .
+screv_put_new_tire_bicycle	i then stretched the new tire out over the wheel and affixed it .
+screv_check_new_tire_bicycle	i twirled it around and tested it to make sure that it was properly fastened .
+screv_check_new_tire_bicycle	next , i drove around the driveway to make sure that it would hold .
+unrelev_bicycle	sure enough , it was secure
+evoking_bicycle	and ready for me to go on my bike ride .
+<end_of_story>
+screv_notice_problem_bicycle	yesterday , i found that my bicycle tire was flat and would have to be repaired .
+screv_refill_tire_air_bicycle	first , i went to the store in town to purchase a machine that would inflate my bike tire .
+relnscrev_bicycle	next , i went to my garage , which is where i keep my bike .
+relnscrev_bicycle	i found the nozzle in the bike tire where the air is supposed to be pumped into .
+relnscrev_bicycle	i plugged the machine into the wall socket and then attached the nozzle from the machine onto the nozzle on the bike .
+relnscrev_bicycle	i hit the switch , which caused the machine to beep as it added air into the tire .
+relnscrev_bicycle	i watched the gauge on the machine to make sure there was n't too much pressure ;
+unrelev_bicycle	i did n't want my tire to pop like a balloon .
+relnscrev_bicycle	finally , when i saw that there was enough air in the tire , i turned off the machine and removed it before closing the bike 's tire nozzle tight .
+unrelev_bicycle	now my tire is good as new
+evoking_bicycle	and i can ride around wherever i 'd like to go .
+unrelev_bicycle	i 'm glad i got this important job done .
+<end_of_story>
+evoking_bicycle	yesterday i wanted to ride my bicycle to my friends house .
+unrelev_bicycle	the weather was nice and i had n't used my bicycle in a while .
+screv_notice_problem_bicycle	when i got to my garage i realized that i had a front flat tire .
+relnscrev_bicycle	first i checked if there were any holes in my tire but there were n't .
+unrelev_bicycle	that was good because it meant that the tire only needed more air .
+screv_get_tools_bicycle	i then went looking for the air pump .
+screv_get_tools_bicycle	i found it on one of the shelves .
+screv_pull_air_pin_bicycle	i took the cap off the tire valve .
+screv_get_tools_bicycle	i put the pump onto the tire valve and began pumping in air .
+screv_check_new_tire_bicycle	after a few seconds i grabbed the tire to see how much more air was needed .
+unrelev_bicycle	i did this
+screv_refill_tire_air_bicycle	until i had pumped it up enough .
+relnscrev_bicycle	i then took the pump off the valve and put the cap back onto the valve .
+relnscrev_bicycle	i put the pump back
+screv_other_bicycle_bicycle	where i found it and got on my bicycle .
+evoking_bicycle	i cycled to my friends house and we had a fun time .
+<end_of_story>

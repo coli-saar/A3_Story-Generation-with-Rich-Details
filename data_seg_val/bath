@@ -1,0 +1,43 @@
+evoking_bath	after a long day of work i decided to take a bath .
+relnscrev_bath	first i put on some good relaxing acoustic music to listen to while i took the bath .
+screv_check_temp_bath	then i got the water nice
+screv_close_drain_bath	and hot and then stopped the drain .
+screv_put_bubble_bath_scent_bath	after the tub was full i added lavender bubbles .
+screv_prepare_bath_bath	i got a tray to place across the bath with my wine and a magazine and some chocolate .
+screv_sink_water_bath	i sank into the water
+screv_relax_bath	and sighed with relief .
+relnscrev_bath	i drank three glasses of wine and haphazardly paged through the magazine .
+relnscrev_bath	when i was done with my bath i pulled the plug and drained the water .
+relnscrev_bath	then i turned on the shower to rinse myself off .
+screv_get_out_bath_bath	once all the soap was off i stepped out .
+screv_get_dressed_bath	i dried off and then put on my robe .
+evoking_bath	i was now done taking a bath and was ready for bed .
+<end_of_story>
+unrelev_bath	after a long day of playing sports outside and getting dirty in the mud and grass , i drove in my car to my home
+relnscrev_bath	so i could take a nice warm bath and clean myself off .
+unrelev_bath	i opened the door and climbed the stairs so i could get into the bathroom .
+screv_turn_water_on_bath	i turned on the faucet in the claw tub
+screv_fill_water/wait_bath	and watched the water run and fill up the tub .
+screv_put_bubble_bath_scent_bath	i added some of my favorite bubble bath mix to the hot water and watched in awe as the bubbles started filling the tub .
+relnscrev_bath	i could not wait to get in .
+screv_sink_water_bath	i undressed myself and put one foot in at a time into the warm tub .
+relnscrev_bath	the water was quite hot , so i was careful not to get in too quickly and burn myself .
+screv_sink_water_bath	as i got into the tub , i laid there and simply relaxed in peace .
+unrelev_bath	it felt so good .
+<end_of_story>
+evoking_bath	in the evening i take baths .
+unrelev_bath	today is no different .
+screv_relax_bath	after a long day , it 's such a relaxing thing to do .
+screv_turn_water_on_bath	i turned the hot
+screv_fill_water/wait_bath	and cold handles to the exact right place out of habit and filled tub with hot water .
+screv_sink_water_bath	i slid down into the tub and was instantly comfortable .
+screv_relax_bath	my aching muscles were finally getting to relax .
+relnscrev_bath	as i let the water warm me up ,
+screv_wash_bath	i washed myself with a soapy washcloth careful to get all the dirt and grime off .
+screv_wash_bath	after cleaning up a bit ,
+relnscrev_bath	i grabbed my book and began to read .
+screv_open_drain_bath	after about 23 minutes i let the water drain .
+screv_dry_bath	i got out and dried off with my huge , soft towel .
+relnscrev_bath	i put on my robe and threw the towel over the edge off the bathtub .
+relnscrev_bath	i felt completely refreshed and ready to continue reading in my bedroom , and my muscles were n't quite as sore as before .
+<end_of_story>

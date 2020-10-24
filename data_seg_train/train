@@ -1,0 +1,1494 @@
+relnscrev_train	i wanted to take a train trip to new york city to visit my sister .
+screv_get_train_station_train	i went to the amtrak station in boston
+relnscrev_train	and found the ticket office .
+relnscrev_train	as i stood in line ,
+screv_check_time-table_train	i looked at the board showing all the departure times to new york .
+screv_train_departs_train	lucky for me , there was a train leaving in half an hour .
+screv_get_tickets_train	i made my way to the front of the line and asked to buy a ticket for that train .
+screv_get_tickets_train	i paid ,
+screv_get_platform_train	then made my way to the platform for my train .
+unrelev_train	the train was already there ,
+relnscrev_train	so i looked on my ticket for my train car and seat number ,
+screv_get_on_train	then hopped aboard .
+screv_find_place_train	i settled into my seat .
+screv_train_departs_train	soon the train started moving .
+screv_spend_time_train_train	i took out my novel and started reading , only interrupted by the conductor coming to check my ticket .
+unrelev_train	before i knew it ,
+screv_arrive_destination_train	we were pulling into the station in new york .
+<end_of_story>
+relnscrev_train	instead of driving up to visit my husband 's sister 's family in sf , we decided to take the train !
+screv_get_tickets_train	i bought the tickets online
+relnscrev_train	and printed them out a few days before we left .
+relnscrev_train	i packed some bags and some snacks for our trip and made some plans to go to breakfast prior to departure .
+unrelev_train	we were late getting out the door , of course .
+screv_get_train_station_train	we parked our car and got to the station within a few minutes -lrb- luckily ! -rrb- .
+unrelev_train	we carried our suitcases onto the car ,
+relnscrev_train	stored our luggage appropriately ,
+screv_find_place_train	and took our assigned seats .
+screv_conductor_checks_train	i gave my husband his ticket in the circumstance he wandered off and was stopped by an attendant .
+screv_spend_time_train_train	we began to talk about what we wanted to do on our visit , as the train began to roll away from the station .
+screv_spend_time_train_train	he decided to find us coffee and breakfast , and i decided to take a quick nap while he was gone , knowing that it was just an excuse to explore for a bit .
+<end_of_story>
+relnscrev_train	i traveled by train to a visit a friend who lived a few hours from me .
+unrelev_train	i planned to stay overnight ,
+relnscrev_train	so i packed a suitcase to take with me .
+screv_get_train_station_train	when i arrived at the train station ,
+screv_get_tickets_train	i went to the ticket counter to purchase a ticket .
+screv_train_departs_train	i looked at the schedule of departing trains and selected the time i wanted to leave .
+screv_get_tickets_train	i paid for my ticket
+screv_wait_train	and waited .
+screv_train_departs_train	after a while , it was time for my train to depart .
+relnscrev_train	i went to the front of the train with other passengers .
+unrelev_train	i carried my small suitcase with me .
+screv_conductor_checks_train	the conductor took my ticket , stamped it ,
+relnscrev_train	and handed it back .
+screv_find_place_train	i found a nice seat by the window
+relnscrev_train	and settled in for the ride .
+unrelev_train	when everyone was aboard ,
+screv_train_departs_train	the train announcer announced that we 'd be leaving the station .
+screv_train_departs_train	he announced where we were leaving from , and the final destination .
+screv_spend_time_train_train	i brought a book with me to read , and some snacks in case i got hungry .
+relnscrev_train	as the train traveled ,
+relnscrev_train	i watched the scenery that went by - there were small houses and fields with cows .
+unrelev_train	i enjoyed seeing places i had n't seen before .
+screv_arrive_destination_train	after a few hours i arrived .
+unrelev_train	my friend picked me up at the station and we drove away in her car .
+<end_of_story>
+screv_spend_time_train_train	i like to ride on trains because you can see lots of countryside without having to worry about driving .
+unrelev_train	one time , when i lived in alaska ,
+evoking_train	i rode on a train from fairbanks to denali park .
+screv_get_tickets_train	just like with all train rides , i had to buy a ticket first
+screv_train_arrives_train	and then i had to stand in line to wait for the train to stop at the station .
+screv_get_on_train	then i climbed onto the train
+screv_find_place_train	and picked a seat .
+screv_spend_time_train_train	the different places you can sit in a train are called cars .
+screv_spend_time_train_train	you do n't have assigned seats like on a plane and the seats are wide for more than one person to sit .
+screv_find_place_train	so , i picked one in a car in the back
+screv_spend_time_train_train	and sat right beside the window .
+screv_train_departs_train	after the train started moving ,
+screv_conductor_checks_train	a train attendant walked through to check our tickets and then i stood up to walk around .
+screv_spend_time_train_train	you can walk from car to car on a train and can even go out of the back of the very last car
+screv_spend_time_train_train	and stand outside , so i did that .
+screv_spend_time_train_train	it was very fun to be standing outside
+relnscrev_train	while the train was moving and i hung onto the railing to be sure i was safe .
+screv_spend_time_train_train	then i went back inside and went to the dining car
+relnscrev_train	where i bought a sandwich and water .
+unrelev_train	after i got back to my seat ,
+screv_spend_time_train_train	i ate and watched the scenery through the window .
+screv_spend_time_train_train	i saw lots of interesting things including a moose
+screv_arrive_destination_train	and we arrived at denali right after that .
+<end_of_story>
+relnscrev_train	last summer , i got to visit my grandma in seattle !
+relnscrev_train	i took a train to visit her .
+screv_check_time-table_train	in advance , i called the train station to see when the trains would be going to seattle and how much the tickets would cost .
+screv_get_train_station_train	i chose a day and arrived at the train station 23 hour before my train was scheduled to leave .
+unrelev_train	there was a ticket counter in the station .
+relnscrev_train	i walked up the counter
+screv_get_tickets_train	and bought my ticket from a lady behind the counter .
+screv_get_tickets_train	after i got my ticket ,
+screv_get_on_train	i needed to wait for the train to board passengers .
+screv_wait_train	i sat on a big wooden bench inside the train station .
+screv_get_on_train	when it was time to get on the train ,
+relnscrev_train	the doors opened and a ticketperson took each of our tickets
+screv_get_on_train	as we got on the train .
+screv_find_place_train	we got to choose our seats .
+screv_find_place_train	i choose a window seat
+relnscrev_train	and put my bags in the compartment nearby .
+relnscrev_train	partway through the ride , a train employee came by with snacks and drinks .
+screv_spend_time_train_train	i looked out the window and read a book .
+screv_arrive_destination_train	when we arrived in seattle ,
+relnscrev_train	i grabbed my bags from the baggage compartment ,
+screv_get_off_train	exited the train , and hugged my waiting grandma !
+<end_of_story>
+screv_get_tickets_train	last night , i booked my ticket to boston .
+relnscrev_train	i got on the computer
+screv_check_time-table_train	and found the next available train
+screv_get_tickets_train	and purchased my ticket .
+relnscrev_train	i packed my bag and printed my purchase confirmation .
+screv_get_train_station_train	this morning , i headed to the train station .
+relnscrev_train	i handed my receipt to the clerk and he handed me my ticket .
+screv_train_departs_train	my train was scheduled to depart at 8:00 am .
+unrelev_train	i checked my watch and saw it was 7:35 am .
+screv_get_platform_train	i quickly headed to the gate where my train was .
+relnscrev_train	i approached the gate and handed my ticket over .
+screv_get_on_train	i was easily able to board the train .
+screv_find_place_train	i found my seat towards the back of the train .
+unrelev_train	i was happy to have a window seat
+screv_spend_time_train_train	so i could view the scenery during the trip .
+relnscrev_train	i set my luggage aside and settled into my seat .
+relnscrev_train	the steward came over and asked if i wanted a beverage .
+relnscrev_train	i said i would like a water .
+relnscrev_train	she quickly returned with my drink .
+screv_train_departs_train	shortly after , the train departed .
+unrelev_train	i was impressed with the scenery during the trip .
+screv_spend_time_train_train	i also chatted with a few other passengers and enjoyed a quick nap during the trip .
+screv_arrive_destination_train	after about two hours , the train arrived at its destination .
+screv_get_off_train	i gathered my luggage and got off the train .
+relnscrev_train	i had arrived in boston .
+<end_of_story>
+evoking_train	to go on a train ride to chicago , i had to have a ticket .
+screv_get_tickets_train	it is possible to buy tickets online , but it was fun to go to the train station to get them .
+relnscrev_train	at the train station , i got in line and waited my turn .
+unrelev_train	when i got to the window ,
+relnscrev_train	i told the station agent where i wanted to go , when , and what kind of ticket i wanted .
+relnscrev_train	she told me how much i had to pay .
+relnscrev_train	you can pay with cash , but i paid by credit card .
+unrelev_train	it is a long trip ,
+relnscrev_train	so i had to show my identification as well .
+relnscrev_train	since i was going in an hour ,
+screv_wait_train	i waited for the train .
+screv_wait_train	you can wait in the station , but i waited on the platform .
+unrelev_train	the ticket will tell which platform you want .
+screv_get_on_train	the train arrived at the platform in plenty of time for everyone to get on board .
+screv_get_on_train	as i got on ,
+relnscrev_train	i showed my ticket to the conductor , but kept it .
+screv_find_place_train	then i found myself a nice seat .
+screv_find_place_train	usually , young able-bodied people will take the upstairs seats , and leave the downstairs seats for people who want to sit down right away .
+screv_find_place_train	soon after i took my seat , i heard someone outside call , all aboard !
+unrelev_train	there was a gentle chugging sound
+screv_train_departs_train	as the train slowly got underway .
+screv_conductor_checks_train	the conductor soon came and took my ticket ,
+relnscrev_train	and fastened up a card with my destination by my seat .
+screv_spend_time_train_train	now i was free to roam about the train , looking out the windows and watching the countryside fly by .
+relnscrev_train	each stop was announced over the p.a. system well in advance , so i knew just when to get off the train .
+relnscrev_train	when i heard chicago announced ,
+screv_get_off_train	i went downstairs to wait with the other people who were getting off there .
+unrelev_train	we were all standing up , so we hung on tight .
+relnscrev_train	when the train doors opened ,
+screv_get_off_train	we stepped down carefully onto the platform in chicago .
+<end_of_story>
+evoking_train	i wanted to take a trip on a train .
+relnscrev_train	i thought it would be fun to travel through the countryside .
+relnscrev_train	i called the train directory
+screv_get_tickets_train	and booked a ticket for a country journey day trip .
+screv_get_train_station_train	i arrived at the train station , full of excitement .
+relnscrev_train	i handed my ticket to the conductor .
+screv_find_place_train	i found my seat which was near a window ,
+screv_spend_time_train_train	so i would be able to take in all the sights
+relnscrev_train	as the train traveled along .
+unrelev_train	after the train car was filled ,
+screv_train_departs_train	the conductor told us that we would be departing on our journey
+screv_arrive_destination_train	and when we would arrive at our destination .
+screv_train_departs_train	the train lurched forward with a mighty gust and began to chug along .
+unrelev_train	i could hear the wheels clacking across the tracks
+screv_spend_time_train_train	as i enjoyed the lovely scenery that was passing by .
+screv_arrive_destination_train	when we arrived at the destination ,
+relnscrev_train	we approached the station and the train screeched to a stop .
+screv_get_off_train	i exited the train filled with wonderful thoughts about my experience .
+<end_of_story>
+evoking_train	i recently was able to enjoy the privilege of riding a train .
+relnscrev_train	my friend and i had quite a distance to travel .
+evoking_train	after some discuss with several option we decided to take a train to our destination .
+relnscrev_train	we found out where the train station was located and found the window to buy a ticket to our destination .
+unrelev_train	we had our choice of coaches
+relnscrev_train	but we chose the cheapest one which meant hard seats that do not recline , no air or food offered in our car section .
+relnscrev_train	i had no idea that it would take 23 hours to travel to our destination .
+unrelev_train	it really felt like a lifetime ,
+screv_spend_time_train_train	especially when you can not get comfortable and find a position to relax .
+screv_spend_time_train_train	we tried several ways of resting but after a few minutes we would get up and reposition ourselves .
+unrelev_train	the ride was nice overall though
+relnscrev_train	because the conductor would stop every four hours or so to allow for bathroom breaks and food purchases at the stops .
+screv_spend_time_train_train	we took the night train so the majority of the time we would not able to enjoy the view out of the window but when daylight broke and we were able to see outside it made the trip go by quicker .
+unrelev_train	so , overall i have to say that it was a very good experience and cheap too .
+<end_of_story>
+relnscrev_train	i was traveling on vacation a few months ago , and decided to take a train to my destination instead of flying .
+evoking_train	i have always wanted to travel by train , and this was a good opportunity .
+screv_check_time-table_train	i went online to look at the train schedules .
+unrelev_train	there were quite a lot of them , so it took me a while to narrow down my choices based on
+screv_arrive_destination_train	when i wanted to leave and then arrive at my vacation destination .
+relnscrev_train	i finally was able to choose a time and date ,
+screv_get_tickets_train	and i purchased my tickets with my credit card .
+unrelev_train	the day finally arrived to take my vacation .
+screv_get_train_station_train	i went to the train station
+relnscrev_train	and checked in with the railway .
+relnscrev_train	they gave me a paper ticket , which i then brought to the rail line .
+screv_get_on_train	when we boarded the train ,
+relnscrev_train	we gave the ticket to a ticket taker , and he escorted me to my booth .
+unrelev_train	it was fun and exciting .
+unrelev_train	finally after all the passengers were on board ,
+screv_train_departs_train	we were off .
+unrelev_train	the train seemed a bit jerky in the motion , but eventually it smoothed out .
+unrelev_train	it was so much fun ,
+screv_spend_time_train_train	seeing all of the towns
+relnscrev_train	and cities we passed through .
+relnscrev_train	some we stopped at and some we just passed through .
+unclear_train	people would get on
+relnscrev_train	and off when we stopped .
+relnscrev_train	i was able to purchase some food in a car that sold sandwiches .
+screv_spend_time_train_train	i slept some in my car , which was a bit uncomfortable , but i did n't mind .
+unrelev_train	before i knew it ,
+screv_arrive_destination_train	we had arrived at my vacation destination .
+evoking_train	i was really glad that i had taken a train ,
+screv_spend_time_train_train	and was able to see a lot of our beautiful country .
+<end_of_story>
+unrelev_train	recently i was invited to a function at a church with a downtown location .
+relnscrev_train	i live in a large city that has trains that travel within the city and also go to nearby towns .
+relnscrev_train	there are several routes that the trains travel called lines and they are named by colors : red , green and orange .
+relnscrev_train	this is so passengers know what train to take to get where they want to go .
+evoking_train	the last time i went to that church i had a lot of trouble finding a parking spot , so i decided to take the train there .
+relnscrev_train	i knew that the train station was only a few blocks away from the church so it would be easy to get to the church .
+screv_get_train_station_train	i drove to the train station closest to my house , and parked the car in the parking lot .
+screv_get_train_station_train	i walked to the station , where there were many benches for passengers to sit while they waited for their trains .
+unrelev_train	there was a machine on the platform that let you choose what type of ticket you needed .
+relnscrev_train	you could buy a ticket for only going one way or a round trip .
+screv_get_tickets_train	i chose the round trip ticket since i wanted to take the train to the church and back again .
+screv_get_tickets_train	the machine had a display that told me how much money i needed to deposit in the little slot .
+screv_get_tickets_train	i put the money in the machine and my ticket popped out .
+screv_train_arrives_train	i waited for my train to arrive .
+unrelev_train	when it did ,
+screv_door_opens_train	the doors opened and lots of people got off the train .
+screv_get_on_train	i got on and everyone who was waiting for the train got on , too .
+relnscrev_train	i looked for a seat .
+screv_find_place_train	i picked a seat that was facing forward , but there were seats that faced the center of the train and even ones that faced backward .
+relnscrev_train	the train 's doors shut and the train started to move along the rail .
+relnscrev_train	it went very fast .
+unrelev_train	the train had windows on both sides
+screv_spend_time_train_train	and i looked out at the sights
+relnscrev_train	as we sped along .
+relnscrev_train	in a few minutes it stopped at another station ,
+screv_get_on_train	and some people got off and others got on .
+screv_conductor_checks_train	pretty soon the conductor walked up
+screv_conductor_checks_train	and down the aisle asking to see everyone 's ticket .
+screv_conductor_checks_train	i showed her my ticket and she nodded and smiled .
+relnscrev_train	at the next station , the train stopped .
+unrelev_train	this was the station that was closest to the church ,
+screv_get_off_train	so i got off .
+relnscrev_train	when it was time to go home ,
+relnscrev_train	i waited at the station for the train that would take me home again .
+evoking_train	taking the train is a lot of fun , and sometimes a lot easier than driving .
+<end_of_story>
+unrelev_train	yesterday my sons and i received an invitation from their grandmother in reno to come for a visit .
+evoking_train	i do n't really like to fly on an airplane and i thought taking a train would be a great way for my young sons to see the country .
+screv_get_train_station_train	so we went to the train station
+screv_get_tickets_train	and bought train tickets .
+relnscrev_train	then we went home and packed our suitcases for the journey .
+screv_get_train_station_train	the next day we went to the train station an hour early from the departure time .
+relnscrev_train	we gave our tickets to the station attendant
+screv_wait_train	and went outside to the platform to wait for our train .
+screv_get_platform_train	the train pulled in just as we got out side .
+evoking_train	my sons were very excited to be going across the country by train .
+relnscrev_train	then after the train had stopped ,
+screv_get_on_train	we go on board .
+relnscrev_train	the train went across the country and the landscape was beautiful !
+screv_arrive_destination_train	three days later we arrived in reno and were met by their grandmother at the train station .
+<end_of_story>
+evoking_train	i decided to take the train to new york city with a friend to see a show and eat at some nice restaurants .
+screv_train_departs_train	first i checked the amtrak schedule on-line to see when trains were leaving union station in washington ,
+relnscrev_train	d.c. to go to new york .
+relnscrev_train	once i had picked out the time that suited me ,
+screv_get_tickets_train	i bought the tickets on-line
+relnscrev_train	and printed them out at home .
+screv_get_train_station_train	my friend and i took a cab to union station
+relnscrev_train	and went to the ticket window with our pre-printed tickets .
+screv_train_arrives_train	we waited for our train to come , and once it did we got on and got seated .
+relnscrev_train	the train ride was very relaxing and was a very fast way to get to new york city .
+screv_spend_time_train_train	we enjoyed lunch
+relnscrev_train	while we were riding .
+screv_get_off_train	once the train arrived at grand central station in new york city we got off and hailed a cab to get to our hotel .
+<end_of_story>
+screv_get_tickets_train	i bought a ticket for a train ride to the city .
+unrelev_train	i made sure i was at the station at least 23 minutes early so that i would not miss the train .
+screv_wait_train	after waiting for a few minutes , my train was ready to be boarded .
+relnscrev_train	i lined up with the other passengers and gave my ticket to the lady at the counter .
+screv_get_on_train	we all boarded the train in an orderly fashion
+relnscrev_train	and waited until it was time to depart .
+screv_train_departs_train	it was n't too long until it was time for the train to go .
+screv_spend_time_train_train	i quietly sat by the window seat and looked at the great scenery outside
+relnscrev_train	as the train went by .
+screv_spend_time_train_train	i would have never seen some of the scenery had i not taken the train .
+unrelev_train	before i knew it ,
+screv_arrive_destination_train	the train had arrived at our destination in the city .
+evoking_train	i am glad i decided to take the train this time because i enjoyed it .
+<end_of_story>
+relnscrev_train	recently , i traveled to southern california to visit a friend of mine .
+evoking_train	it was suggested to me to take the train down south as it is cheaper than driving and flying .
+screv_check_time-table_train	i looked up the available routes
+relnscrev_train	and price on the internet and found a ticket for a fairly cheap price .
+screv_get_tickets_train	i purchased it and was very excited at how much money i was saving .
+relnscrev_train	i packed my ipad and made sure all of my electronic items were charged and drove to the train station .
+screv_wait_train	i waited about 23 minutes for the train
+screv_get_on_train	and carefully boarded it .
+screv_get_on_train	i stepped on the to the train that was n't very crowded
+screv_find_place_train	and found a comfortable window seat next to an old man .
+screv_spend_time_train_train	i stared out the window and read a book on my ipad for most of the trip .
+unrelev_train	it was a very pleasant ride .
+screv_arrive_destination_train	when we arrived at the destination ,
+screv_get_off_train	i got off of the train and called my friend to pick me up .
+unrelev_train	it was a fun ride .
+<end_of_story>
+unrelev_train	i was excited
+relnscrev_train	because i was finally going to visit my friends in long island .
+unrelev_train	whenever i thought about long island , i always thought about great gatsby and the wonderful homes that surrounded that area .
+relnscrev_train	when the day came to visit them , i boarded a subway train to penn station .
+screv_get_train_station_train	once i arrived at penn station ,
+relnscrev_train	i looked for a machine that sold tickets .
+screv_get_tickets_train	i found a machine and bought a one way train ride to montauk .
+unrelev_train	it costed me about 23 dollars .
+screv_get_tickets_train	once i bought the ticket ,
+screv_check_time-table_train	i looked at the schedule board on the wall to see when my train would arrive and what track number it was located on .
+screv_train_arrives_train	it said that the train was arriving in 23 minutes , and the track number was 23 .
+screv_get_platform_train	i found track number 23
+screv_train_arrives_train	and waited for the train to arrive .
+unrelev_train	once it did ,
+screv_get_on_train	i simply waited for the doors to open and got on .
+unrelev_train	the seats were super comfortable
+screv_find_place_train	and i found a empty seat by the window .
+screv_train_departs_train	when the train started moving ,
+screv_conductor_checks_train	a conductor came around collecting our tickets .
+screv_get_tickets_train	someone forgot to buy a ticket
+screv_get_tickets_train	and had to pay extra money to buy one .
+unrelev_train	apparently , tickets are more expensive on the train .
+screv_arrive_destination_train	once i reached my destination after 23 hour ,
+screv_get_off_train	i finally got off and went off to visit my friends .
+<end_of_story>
+evoking_train	traveling by train can be very convenient and\/or relaxing .
+relnscrev_train	some trains , like commuter trains , can get you into a city without having to rely on cars or walking .
+unrelev_train	this is very quick , affordable , and convenient !
+screv_get_on_train	you simply hop on the train at your stop
+screv_get_off_train	and hop off when you need to .
+evoking_train	most commuter trains offer passes that are a great discount for people who ride it often .
+relnscrev_train	other trains travel long distances .
+unrelev_train	perhaps you do n't like to fly or do n't want to drive your car a long distance .
+evoking_train	if you ride a train ,
+screv_spend_time_train_train	you can see the beautiful scenery
+relnscrev_train	as you travel but you are free to walk around , read , chat , or even grab a bite to eat !
+screv_arrive_destination_train	some trains also have sleeper cars so travelers can be well-rested when they arrive at their destination .
+relnscrev_train	there are many conveniences to going on a train that make it a great option for getting from point a to point b !
+<end_of_story>
+evoking_train	when i took the train it was a lot of work .
+screv_get_tickets_train	first i had to buy my ticket in advance , which i managed to do for 23 dollars .
+screv_get_train_station_train	next i had to figure out how i was going to get to my train , which i decided to do using the bus .
+screv_get_train_station_train	after figuring that it would take thirty minutes for me to get to the train i decided to allow an hour and thirty minutes to be certain i would not miss it .
+unrelev_train	this was a smart decision
+screv_get_train_station_train	because i arrived with only 23 minutes to spare , being burdened by all my luggage .
+relnscrev_train	i presented my ticket to the conductor
+screv_get_on_train	and got on .
+relnscrev_train	then i spent the train ride reading some books that i had packed ,
+screv_spend_time_train_train	sleeping , and looking at the scenery .
+<end_of_story>
+evoking_train	i was very excited to go on a train trip .
+relnscrev_train	i went over to the ticket counter
+relnscrev_train	and gave the teller the money i had saved for my ticket .
+screv_wait_train	i could hardly wait until the train finally arrived .
+screv_get_on_train	i climbed aboard ,
+relnscrev_train	put my suitcases next to all the other people 's suitcases ,
+screv_find_place_train	and found a seat .
+screv_train_departs_train	once the train started going ,
+screv_conductor_checks_train	the conductor came by to punch everyone 's tickets .
+screv_conductor_checks_train	i gladly handed him mine to be punched .
+screv_spend_time_train_train	after that , i decided i would get some lunch .
+screv_spend_time_train_train	i walked to the back of the train to the lunch car and ordered some food .
+relnscrev_train	it was fun to eat while watching the world pass by through the window as the train rolled down the tracks .
+unrelev_train	before i knew it ,
+screv_arrive_destination_train	we had arrived at the destination .
+relnscrev_train	i gathered up my things , grabbed my suitcase ,
+screv_get_off_train	and climbed down out of the train
+relnscrev_train	as the conductor gave me a hand .
+evoking_train	it had been a very fun trip , and i ca n't wait to ride again .
+<end_of_story>
+evoking_train	the other week i had to take a trip on a train to visit some family that lives down south .
+screv_train_arrives_train	once i bought my train ticket i waited with a big group of people for the train to come .
+screv_get_on_train	once the train came down the track we all got onto the train
+screv_find_place_train	and took our seats .
+relnscrev_train	a ticket-man came and asked to see our tickets and make sure that we all were supposed to be on the train , and also that we 're all in the right seats .
+screv_spend_time_train_train	once that is all taken care of i walk to the food train-car and get some food .
+screv_spend_time_train_train	i sit down at the train-car table and eat my food .
+unrelev_train	the food is good , but was prepared quickly .
+relnscrev_train	after i eat my food i throw away the trash from my meal
+screv_spend_time_train_train	and walk back to my seat where i fall asleep for a little while
+screv_arrive_destination_train	and then when i wake up i am at my destination
+screv_get_off_train	and exit the train
+relnscrev_train	where i meet up with my family who are waiting for me .
+<end_of_story>
+evoking_train	the first and only time i have rode on a train was in november 23 .
+evoking_train	my family and i traveled to carbondale illinois on an amtrak train for thanksgiving .
+unrelev_train	i had a brother who attended southern illinois university and we had dinner with his family .
+unrelev_train	the university is located near carbondale .
+unrelev_train	i remember the ride being long but smooth .
+screv_find_place_train	my sister and i took turns sitting by the window .
+relnscrev_train	sometimes all we saw was cornfields and cattle .
+relnscrev_train	occasionally , we would pass a small town and see people at different stops .
+screv_spend_time_train_train	we didn ' t order food on the train
+relnscrev_train	because we brought our own .
+relnscrev_train	we actually had brought cakes , pies and sandwiches to carry us over .
+screv_spend_time_train_train	we shared our food with the people around us .
+screv_spend_time_train_train	the whole car sang christmas carols
+relnscrev_train	and there was plenty of laughter .
+relnscrev_train	i would love to take a train vacation and travel from the west coast back to the east coast .
+relnscrev_train	when that comes , i think i will eat whatever they are serving on the train .
+<end_of_story>
+screv_get_train_station_train	i took a bus to the train station and then walked into the big , brick building .
+unrelev_train	there 's a bank of windows at the far side of the building .
+relnscrev_train	i went over to one of them
+screv_get_tickets_train	and asked for a one way ticket to new york city .
+screv_get_tickets_train	i paid for the ticket with my credit card and then went to sit on the hard wooden booths in the middle of the station .
+screv_check_time-table_train	i looked up at the huge arrival screen at the front of the station .
+screv_check_time-table_train	my train was listed there with a number of others .
+relnscrev_train	it said the train was on time
+screv_train_arrives_train	and would arrive at the station soon .
+screv_train_arrives_train	when it came in ,
+screv_get_on_train	there was an announcement that the train to new york was boarding .
+screv_get_platform_train	i got up and walked with about thirty other travelers down some stairs and along a long hallway , then up another flight of stairs and out onto a platform .
+relnscrev_train	the train was there next to the platform with its doors open .
+screv_get_on_train	i walked into the train
+screv_find_place_train	and took a seat by the window
+relnscrev_train	so i could watch things go by as we traveled .
+screv_train_departs_train	soon the train started moving along the tracks .
+relnscrev_train	after a while the train 's conductor walked down the aisles saying , tickets please . tickets . over and over .
+screv_conductor_checks_train	i handed him my ticket and he punched a hole in it
+relnscrev_train	and put a ticket stub in the back of the seat in front of me .
+screv_get_off_train	when the train got to new york city i got off the train and walked out onto one of the platforms at grand central station .
+<end_of_story>
+evoking_train	i wanted to take a trip to washington dc to visit the monuments .
+unrelev_train	the quickest and cheapest way seemed to be by train .
+screv_get_tickets_train	i purchased a ticket online
+screv_get_train_station_train	and had a friend drop me at the station .
+screv_conductor_checks_train	once at the station i gave my ticket to the agent .
+screv_train_arrives_train	then i went and sat in the lobby to wait for it to arrive .
+screv_find_place_train	once the train arrived i boarded and took my seat next to a window .
+relnscrev_train	the ride would take a few hours
+screv_spend_time_train_train	so i settled in with a book .
+relnscrev_train	i enjoyed watching the countryside pass when i got bored with the book .
+screv_spend_time_train_train	when i went to the bathroom i could n't get the door to bolt shut all the way .
+relnscrev_train	the train braked and the door slid open and i had to stand to re-shut it .
+unrelev_train	a passenger next to the restroom saw my butt .
+relnscrev_train	it was embarrasing and i did n't leave my seat for the rest of the ride
+screv_arrive_destination_train	until we got to dc .
+<end_of_story>
+relnscrev_train	recently , i was heading to new york for a business trip with a co-worker .
+evoking_train	we prefer to ride on trains because they are cheaper
+screv_spend_time_train_train	and we can enjoy the scenery along the way .
+screv_get_train_station_train	we arrive at the train station at 5:30 am , snacks and blankets in tow in our bags .
+screv_get_tickets_train	we purchased our tickets the other day , so we did n't have to worry about going to a booth to buy any .
+relnscrev_train	we went up to the attendant who was taking the train tickets to allow people on board ,
+screv_conductor_checks_train	and we handed him ours .
+screv_get_on_train	we hopped onto the train
+screv_find_place_train	and took our seats towards the back of the train
+screv_spend_time_train_train	so that we could discuss a lot of what we were going to say and do in the meetings for our trip without being distracted much .
+screv_spend_time_train_train	as we discussed our plans and strategies , we 'd occasionally look out the window and see lush trees and valleys , animals , plains ,
+relnscrev_train	and all manner of environments as we traveled from state to state .
+screv_other_train_train	we had to switch trains a few times at different stations , but the process was pretty smooth and it is always nice to hear that whistle and the all aboard !
+screv_arrive_destination_train	when we arrived at our destination ,
+screv_get_off_train	we got off of the train ,
+relnscrev_train	exited the train station , and made our way to 52nd street in our rental car .
+<end_of_story>
+unrelev_train	today i decided to visit one of my friends that i have n't seen in a very long time .
+unrelev_train	they just moved into a new apartment and they invited me over .
+evoking_train	they gave me their address but i was n't sure how to get there by train .
+relnscrev_train	the first thing i did when i got to the train station was see what train goes to their neighborhood .
+screv_check_time-table_train	after i figured that out , i made sure i had enough money on my metro card to pay the train fare .
+screv_train_arrives_train	after going through the turnstile i waited on the train platform for the train to enter the station .
+screv_find_place_train	i quickly found a seat on the train since not to many people were on it .
+screv_arrive_destination_train	after about 23 minutes i finally arrived at the stop i was supposed to get off at .
+relnscrev_train	i walked up the stairs and exited the train station and walked 23 blocks away to where my friend lives .
+unrelev_train	he was happy to see me .
+<end_of_story>
+screv_get_tickets_train	i ordered my train tickets a couple days before after planning to meet up with family .
+relnscrev_train	i had them printed out and ready to use .
+unrelev_train	after doing the standard morning routines ,
+screv_get_train_station_train	we finally arrived at train station about half an hour early to make sure that we got there in time .
+relnscrev_train	we approached the clerk desk to get confirmation about the train .
+screv_train_arrives_train	after about half an hour later , the train arrived very shortly
+screv_wait_train	after we sat down .
+screv_conductor_checks_train	we both showed the tickets to the employee , and then got on the train .
+relnscrev_train	we both got seated into our seats with our luggage being handled .
+screv_train_departs_train	it did not take for the train to take off , and we were on our way .
+unrelev_train	while the train ride was pretty uncomfortable , the sights was enjoyable .
+relnscrev_train	the ride took about a couple hours
+screv_arrive_destination_train	until we arrived at our destination .
+screv_get_off_train	we both got our luggage and got off the train .
+<end_of_story>
+screv_check_time-table_train	i made sure to look up the train schedule in advance to make sure i knew which train i needed to check .
+screv_get_tickets_train	then , i went a day early to purchase my tickets to made sure i had them , since this was not a trip i made every day .
+screv_check_time-table_train	on the day of my trip , i checked the schedule to make sure there were no delays or cancellations .
+screv_get_train_station_train	i made sure to arrive at the train station at least 23 minutes early , with all my bags and luggage .
+screv_conductor_checks_train	i boarded the train and greeted the conductor and showed him my ticket .
+screv_find_place_train	then , i picked a spot that was open and sat down quietly .
+relnscrev_train	since this train had many stops , i needed to be aware of
+screv_arrive_destination_train	when my stop was coming up so i would not miss it .
+screv_arrive_destination_train	as my stop approached ,
+relnscrev_train	i pressed the stop request button and started to get up .
+screv_arrive_destination_train	once the train stopped ,
+relnscrev_train	i wished the conductor a nice day
+screv_get_off_train	and got off the train .
+<end_of_story>
+relnscrev_train	taking the train is an efficient method of transportation to get from place to place .
+relnscrev_train	before taking the train , i will make sure my transit card has enough fare on it .
+relnscrev_train	this can be checked at the ticketing machines .
+unrelev_train	if i am low ,
+screv_get_tickets_train	i will top-up the card with more money .
+unrelev_train	once this is all set ,
+screv_get_tickets_train	i will head towards the gate to scan my transit card .
+relnscrev_train	the gates will open and the fare will be collected .
+relnscrev_train	usually i already know where i need to go , but in case i do not know .
+screv_check_time-table_train	i will check the many maps posted around the station .
+relnscrev_train	knowing which direction the train heads towards is the most important thing as you do n't want to waste time going the wrong way .
+screv_check_time-table_train	once this is determined ,
+screv_get_platform_train	i will head towards the train platform
+screv_train_arrives_train	and wait until the train arrives .
+screv_train_arrives_train	once the train is here , i am all set and i will board the train and get off at my destination .
+<end_of_story>
+evoking_train	last winter , my husband and i took the train to chicago .
+screv_check_time-table_train	before the train trip , we had to check the train schedule to find out what choices we had about
+screv_train_departs_train	when we could leave .
+screv_check_time-table_train	we found the train schedule on the world wide web .
+screv_check_time-table_train	after we learned that there were two trains a day , we decided to take the morning train departing at 9:05 a.m. .
+relnscrev_train	we purchased our tickets by paying with a credit card using the amtrak web site .
+screv_get_tickets_train	after we paid for our tickets ,
+relnscrev_train	they were emailed to us , and then we printed them .
+screv_get_train_station_train	on the day of our trip , we drove our car to the train station , which is about 23 miles away from our house .
+relnscrev_train	we parked at the station , and because it 's a little train station instead of a big city , we did n't have to pay for parking .
+screv_get_platform_train	we took our suitcases and went to the platform ,
+screv_wait_train	where other people were waiting .
+screv_train_arrives_train	eventually -lrb- a little late -rrb- , the train pulled in .
+relnscrev_train	there were already passengers on the train from other stops .
+screv_find_place_train	we boarded the train and found two seats near each other .
+screv_spend_time_train_train	throughout the train trip , we chatted with each other , and we also talked to one of the other passengers , who was confused about the train backing up .
+screv_spend_time_train_train	we explained to him that sometimes they have to do that at the stations , and it was nothing to be concerned about .
+screv_arrive_destination_train	the train pulled into the station at chicago about 23 minutes late , which is very typical in chicago .
+screv_get_off_train	we got off the train and were happy to stretch our legs .
+<end_of_story>
+evoking_train	some people ride the train every day as part of their work commute , while others only have the opportunity to ride for vacation or pleasure .
+screv_check_time-table_train	i spend quite a good amount of time researching routes and fares before i decide on the best options for me .
+evoking_train	one of the benefits of riding the train is a feeling of a connection to the past .
+unrelev_train	i feel like i 'm partaking in a part of our shared history , something people have been doing for hundreds of years .
+screv_find_place_train	i enjoy sitting by the window
+relnscrev_train	and watching the scenery race past .
+screv_spend_time_train_train	making small talk with other passengers is also something i look forward to .
+screv_get_tickets_train	an employee comes by to ensure that everyone has paid their fare .
+screv_spend_time_train_train	the soothing rocking motion of the train usually puts me to sleep and before i know it i wake up and it is time to disembark from the train .
+<end_of_story>
+evoking_train	my family decided to take a train in to the city and have an afternoon of shopping .
+screv_get_train_station_train	we went to the station
+screv_get_tickets_train	and bought tickets from the vending machine there .
+screv_get_tickets_train	we often bought the ten-trip ticket because it was a good bargain .
+screv_train_arrives_train	then we had to wait for our train to arrive .
+unrelev_train	when it did ,
+screv_get_on_train	we stepped through the open doors into the car , stepping carefully over the gap between the platform and the train .
+screv_find_place_train	we found ourselves a nice seat .
+screv_find_place_train	my sister took a seat by the window because she always likes to watch the moving landscape .
+screv_spend_time_train_train	we all enjoyed a train ride .
+unrelev_train	the sound of the wheels on the tracks was soothing and the rides were n't too long .
+screv_conductor_checks_train	before long , the conductor came and took our tickets .
+unrelev_train	she was very polite and friendly .
+unrelev_train	it was not long
+relnscrev_train	before the train went into the tunnel and we knew the ride was nearly over .
+<end_of_story>
+unrelev_train	i had a business meeting in san fran and i lived in san jose .
+evoking_train	being that they were not that far of a distance i decided to take the train to it instead of flying .
+screv_get_tickets_train	i went online and bought my train ticket and printed it out the night before
+relnscrev_train	and packed my things .
+screv_get_train_station_train	i then got to the train station
+relnscrev_train	and parked .
+screv_get_platform_train	i went up to my train , train number four ,
+screv_conductor_checks_train	and gave my ticket to the conductor
+screv_get_on_train	and boarded the train .
+relnscrev_train	i was able to put my suitcase in the overhead bin
+screv_find_place_train	and sat down in my seat which to my surprise was quite roomy .
+unrelev_train	very different from the cramped seats on an airplane .
+unrelev_train	they even had plugs in the seats and wi-fi .
+screv_spend_time_train_train	i decided to pull out my laptop and check emails and get some work done during my hour and a half train ride .
+screv_arrive_destination_train	we arrived at our destination
+screv_get_off_train	and i got off the train ,
+relnscrev_train	grabbed my things and caught a taxi to my hotel .
+<end_of_story>
+unrelev_train	last month i decided to visit my grandmother .
+unrelev_train	she lives about three hours away from me , and i do not own a car .
+evoking_train	to get to her house safely , i wanted to take a train .
+relnscrev_train	trains are a very affordable way to travel , and i find them to be comfortable and pleasant .
+unrelev_train	i got on my computer ,
+relnscrev_train	and went to the website
+screv_get_tickets_train	where people buy train tickets .
+screv_get_tickets_train	i chose a date to leave and i booked my tickets .
+relnscrev_train	my tickets were emailed to me
+screv_get_tickets_train	and i printed them off using my printer .
+screv_get_train_station_train	a week later , i went to the train station
+screv_get_on_train	and boarded the train .
+unrelev_train	the ride was very quiet ,
+screv_spend_time_train_train	so i took a nap part of the ride .
+unrelev_train	the seats were very comfortable .
+relnscrev_train	i went to the cafeteria cart on the train
+screv_spend_time_train_train	and bought coffee .
+screv_spend_time_train_train	i enjoyed the coffee and drank it while looking out the window .
+unrelev_train	i really enjoyed the whole experience .
+<end_of_story>
+relnscrev_train	i entered the train depot and went up to the window .
+screv_get_tickets_train	i asked for a ticket to chicago .
+screv_get_tickets_train	i paid for it and clerk gave me my ticket .
+screv_get_on_train	the train was already boarding ,
+screv_get_platform_train	so i went directly to the platform
+screv_get_on_train	and boarded .
+relnscrev_train	i went down the aisle
+screv_find_place_train	and found an empty seat .
+screv_train_departs_train	the train pulled out of the station .
+screv_conductor_checks_train	after a few minutes , the conductor came by and checked my ticket , punching it with a small hole punch .
+screv_spend_time_train_train	i looked out the window .
+relnscrev_train	people 's houses and huge warehouses passed by .
+relnscrev_train	later , as we got into the country ,
+screv_spend_time_train_train	i saw a cow or two .
+screv_arrive_destination_train	after about a half hour we pulled into the station in chicago .
+screv_arrive_destination_train	the train pulled and stopped rather suddenly ,
+relnscrev_train	throwing me forward a bit .
+screv_move_exit_train	i got up and went down the aisle
+screv_get_off_train	and exited the train , stepping down to the platform
+relnscrev_train	and exiting the station .
+unrelev_train	windy city , here i come !
+<end_of_story>
+evoking_train	when you need to go outside the city limits of london , it is best to take a train .
+evoking_train	cars are a poor choice as they hit traffic often , as well as cost money to drive , for me it is far cheaper to take the train .
+unrelev_train	this , of course , was when i lived in london which i do not do now .
+evoking_train	anyway , when i wanted to visit the beach town of brighton i took the train .
+screv_check_time-table_train	i made sure to research the time schedule as to find the correct train and time .
+screv_check_time-table_train	i found there was one going when i wanted and it was leaving from victoria station .
+screv_get_train_station_train	i made sure to get there early
+screv_find_place_train	so as to purchase a ticket and get a good seat , i do n't like traveling backwards .
+relnscrev_train	having bought my ticket at the counter i walked to the waiting train .
+screv_find_place_train	it was very nice and new and i had little trouble finding a good seat .
+relnscrev_train	i settled in and closed my eyes ,
+screv_spend_time_train_train	ready to rest on the exceedingly comfortable train that was taking me on an adventure .
+<end_of_story>
+evoking_train	last weekend , i took the train into the city with my younger brother to attend a concert .
+screv_get_on_train	we drove to the train station to catch the 23 pm train .
+relnscrev_train	it took a while to find parking .
+screv_get_on_train	once we boarded the train ,
+screv_find_place_train	we took a seat .
+screv_get_tickets_train	the train conductor came by and we purchased 23 round trip tickets with cash .
+relnscrev_train	the ride to the city took about an hour .
+screv_get_on_train	many people got on and off at every stop .
+screv_spend_time_train_train	i enjoyed the people watching .
+unrelev_train	there were many different types of people , the business types , students , families , and coeds .
+unrelev_train	there were a couple loud babies and annoying blondes as well .
+unrelev_train	it was very loud .
+unrelev_train	after about an hour , we were almost to our stop .
+screv_arrive_destination_train	once we arrived ,
+relnscrev_train	the train pulled into the system and the conductor announced that it was the last stop
+screv_get_off_train	and that everything had to depart .
+screv_get_off_train	we walked onto the platform and into the train station , then were on our way .
+<end_of_story>
+evoking_train	traveling by train is almost like traveling by airplane .
+unrelev_train	i learned that the train companies have baggage limits , rules for unaccompanied minors ,
+screv_find_place_train	and seating rules too .
+screv_get_tickets_train	i bought my ticket ahead of time
+screv_get_train_station_train	and then went to my station .
+screv_conductor_checks_train	they checked my ticket , id , baggage ,
+screv_get_on_train	and i hopped on the train .
+relnscrev_train	the process to check my bags was so similar to flying .
+relnscrev_train	i packed a small bag to carry with me but i could have packed a larger bag that would be checked .
+unrelev_train	no sharp objects , self defense items , and many other things were not allowed .
+screv_find_place_train	seating on my train was first come first serve basis .
+unrelev_train	i was told if there was any concerns from passengers ,
+relnscrev_train	seating could be assigned !
+unrelev_train	my trip was n't very long
+screv_spend_time_train_train	so i did n't have a meal
+relnscrev_train	but i brought some snacks and a drink with me .
+unrelev_train	before i knew it ,
+screv_arrive_destination_train	i had arrived at my destination .
+evoking_train	i really like traveling by train .
+<end_of_story>
+evoking_train	last week i traveled on a train to see my brother .
+unrelev_train	when my brother 's pregnant wife gave birth to their baby i was excited to see them and their new addition to the family .
+unrelev_train	they lived 23 miles away in charlotte , north carolina .
+evoking_train	the cheapest option was to catch a train to go see them .
+screv_train_arrives_train	i arrived at the train station
+relnscrev_train	and went to the ticket desk .
+relnscrev_train	he asked me where i would like to go , and i told him where and why .
+screv_get_tickets_train	he was happy to assist me .
+relnscrev_train	he pointed me in the direction to the correct platform
+screv_train_departs_train	where my train would departure from .
+screv_get_platform_train	when i got to the platform ,
+relnscrev_train	the train was waiting for me .
+screv_conductor_checks_train	i handed the attendant my ticket
+screv_get_on_train	and got on the train .
+unrelev_train	now it was time to put my feet back
+screv_spend_time_train_train	and relax .
+screv_arrive_destination_train	in just a few short hours , i arrived in charlotte , north carolina and was off to see my new nephew !
+<end_of_story>
+unrelev_train	last summer , i decided i wanted to visit some family and friends of mine whom resided on the other side of the country .
+evoking_train	i carefully considered my travel options and expenses , and decided it would be most economical to take the train .
+evoking_train	traveling by train is an easy and straight forward experience , but is also fun and enjoyable .
+unrelev_train	to begin ,
+relnscrev_train	i visited the railroad 's website
+screv_get_tickets_train	and booked my ticket .
+relnscrev_train	the ticket was then sent to me via email ,
+screv_conductor_checks_train	which i could print out or display on my mobile device .
+screv_get_train_station_train	on the day of travel , i arrived at the train station about a half an hour early
+screv_train_arrives_train	and waited for the train to arrive .
+screv_train_arrives_train	when the train arrived ,
+screv_conductor_checks_train	the conductor stepped off and asked for tickets .
+screv_conductor_checks_train	i had elected to use my mobile device to display my ticket , so i showed the ticket to the conductor and he scanned it with his phone .
+relnscrev_train	i was then directed towards my assigned seat .
+screv_find_place_train	i settled in for the ride ,
+relnscrev_train	with food and entertainment i had brought with me .
+screv_spend_time_train_train	for most of the ride however , i was glued to the window , enjoying the sights of town
+relnscrev_train	after town that we traveled through .
+screv_arrive_destination_train	the next day i arrived at my destination .
+screv_get_off_train	i gathered my bags and stepped off the train , knowing i would return again very soon .
+<end_of_story>
+unrelev_train	today was the big day , i was going to visit some friends in florida , but i was going to do it in a different way .
+evoking_train	i was going to ride a train today for the first time ever .
+screv_spend_time_train_train	i loved trains since i was a child and now i would finally get to ride on one and see the countryside .
+screv_get_tickets_train	i bought my tickets online , i did n't want to make a mistake and got to the wrong station .
+relnscrev_train	i had my bags all packed so i called for a cab
+screv_get_train_station_train	and headed to the train station .
+relnscrev_train	once there i took my luggage with me
+screv_train_arrives_train	and waited for my train to pull up to the station .
+screv_find_place_train	once the train was here i boarded and found an open car .
+relnscrev_train	i set my luggage in the overhead compartment
+screv_train_departs_train	and sat and waited my ticket was checked before the train left the station .
+screv_train_departs_train	the train finally pulled out of the station , i was on my way my dream was being realized .
+<end_of_story>
+evoking_train	one weekend , my partner and i decided to take a weekday trip up to seattle .
+screv_get_tickets_train	we purchased tickets online immediately after a quick breakfast .
+unrelev_train	after deciding what parts of seattle to visit ,
+screv_get_train_station_train	we drove over to amtrak station
+relnscrev_train	and parked in a spot allowed for the day .
+screv_get_on_train	the boarding process was very simple , the train was also a lot cleaner than we thought !
+screv_spend_time_train_train	we had grilled cheese sandwiches from a menu handed to us , they were delicious .
+screv_arrive_destination_train	it took barely a few hours to get there , so we decided to look out the window at the scenery most of the time .
+relnscrev_train	none of us became sick , which was another one of our worries .
+unrelev_train	my partner suffers from light vertigo .
+unrelev_train	the staff on the train were exceptionally nice ,
+screv_spend_time_train_train	and offered us snacks on occasion .
+unrelev_train	the train was a great idea for the trip we had planned .
+unrelev_train	it was much nicer than driving up the interstate .
+<end_of_story>
+evoking_train	a few months ago , i took a train to sacramento to visit my friend and her family .
+evoking_train	i had decided to take the train because sacramento is 23 miles from the city i live in and i am not a good driver .
+screv_get_tickets_train	i ordered the train tickets online a week before my trip
+screv_other_train_train	and wrote down my confirmation number .
+screv_other_train_train	when i got to the train station , i went to a small self-service kiosk in the lobby
+screv_other_train_train	and entered my personal information including my confirmation number ,
+screv_get_tickets_train	and printed out my train ticket .
+screv_get_platform_train	after that , i walked up to the platform
+screv_wait_train	and waited for my train .
+relnscrev_train	there were several electronic displays that said when the train would come , and i watched them impatiently .
+screv_train_arrives_train	when the train arrived ,
+screv_get_on_train	i boarded behind another passenger
+screv_find_place_train	and found a window seat
+screv_spend_time_train_train	so i could enjoy the view .
+unrelev_train	i also liked the seat because it had a table in front of it .
+screv_other_train_train	i had a backpack with me which i put in the compartment above my seat .
+unrelev_train	i put my ticket on top of the table so it would be easy to find .
+screv_conductor_checks_train	a few minutes later , a worker came by to check passenger 's tickets ,
+relnscrev_train	and after i showed him and he stamped it , i put my ticket in my pocket .
+unrelev_train	there were not many people traveling so no one sat near me .
+screv_train_departs_train	the train departed the station shortly after that .
+screv_spend_time_train_train	i fell asleep on the train , but i woke up well before my stop .
+screv_arrive_destination_train	when the train stopped at my station ,
+screv_get_off_train	i grabbed my backpack and off boarded onto the platform .
+relnscrev_train	then i went in to the train station and met my friend who had come to pick me up .
+<end_of_story>
+unrelev_train	as i hung the phone with my friend , i was very excited .
+evoking_train	i was going to visit her today , and i would get to travel by train .
+unrelev_train	i called for a taxi , then quickly packed up a day bag with a few things i would need .
+screv_get_train_station_train	as the taxi took me to the train station , i realized i had not traveled by train in many years , and wondered what might have changed .
+screv_get_train_station_train	as soon as i arrived , it was obvious .
+relnscrev_train	now you didnt have to wait in line to buy tickets from a person , but instead from a machine .
+unrelev_train	i found one that was unused , and stepped up to read the directions .
+relnscrev_train	i thought this was very confusing , until a station employee stopped and explained the process to me .
+screv_get_tickets_train	soon i had my ticket ,
+screv_get_platform_train	and was walking to line
+screv_wait_train	where i would await the train 's arrival .
+unrelev_train	if was not far , and there was even an empty bench seat .
+screv_other_train_train	soon the train arrived and i stepped up into the car printed on my ticket ,
+screv_find_place_train	and found my seat .
+screv_train_departs_train	after the train was in motion ,
+screv_conductor_checks_train	a conductor came by to check and punch my ticket .
+unrelev_train	he smiled ,
+relnscrev_train	and told me to have a good trip .
+<end_of_story>
+evoking_train	today i am going to ride a train to visit my grandmother .
+unrelev_train	we are going to visit for my birthday .
+screv_get_train_station_train	we left our home and drove in our car to the train station .
+unrelev_train	we then went up to the counter
+screv_get_tickets_train	and bought two tickets to ride the train to my grandmother 's town .
+screv_wait_train	we had to wait for twenty minutes in the station before it was time to board our train .
+unrelev_train	when it was time , we went over to the train
+relnscrev_train	and handed our tickets to a man in a uniform that works on the train .
+relnscrev_train	he checked our tickets and helped us up onto the train .
+screv_find_place_train	we then found a seat and enjoyed the ride .
+unrelev_train	we saw many interesting things on our way to see my grandmother .
+relnscrev_train	the train moved very fast along the tracks .
+screv_arrive_destination_train	we arrived at our destination quickly .
+relnscrev_train	when the train pulled into the station , we saw my grandmother waiting there for us !
+<end_of_story>
+unrelev_train	i wanted to visit my friend in the city , but i did n't have a car .
+evoking_train	so , i decided to take the train .
+screv_get_train_station_train	i walked to the train station and went up to the ticket counter .
+relnscrev_train	i asked for a ticket to the city where my friend lived and asked for the one that would depart the soonest .
+screv_get_tickets_train	the ticket person sold me a ticket
+relnscrev_train	and i paid for it in cash .
+unrelev_train	i called my friend and told them
+relnscrev_train	when i would be arriving to the train station near them .
+screv_wait_train	i waited by the train terminal for my train .
+screv_find_place_train	when the train arrived i boarded the train and took a seat .
+relnscrev_train	the train passed many stops
+screv_arrive_destination_train	and finally i reached the stop that i wanted .
+screv_get_off_train	i got off the train and saw my friend waiting for me to pick me up .
+screv_arrive_destination_train	the train had arrived at exactly the time that was stated on the ticket .
+<end_of_story>
+evoking_train	on the weekend i caught the train into the city .
+unrelev_train	before i left my house in the morning ,
+relnscrev_train	i checked the train timetable online .
+screv_get_train_station_train	i then walked to the train station .
+unrelev_train	at the train station , i went to the ticket booth
+relnscrev_train	and asked for one return ticket to where i wanted to go .
+relnscrev_train	i paid the man at the booth
+screv_get_tickets_train	and he gave me my ticket .
+unrelev_train	i then sat down on a bench on the train platform
+screv_arrive_destination_train	and waited for my train to arrive .
+screv_arrive_destination_train	five minutes later , the train arrived .
+screv_get_on_train	i stood up and got on the train .
+screv_find_place_train	on the train , i found an empty seat and sat down .
+unrelev_train	i pulled a book out of my bag
+screv_arrive_destination_train	and read it while i waited for the train to arrive at my stop .
+screv_arrive_destination_train	when the train conductor announced that the train had reached my stop ,
+screv_get_off_train	i stood up and exited the train .
+<end_of_story>
+evoking_train	i needed to visit my grandma upstate , so i decided to take a train .
+screv_get_tickets_train	i purchased my tickets online
+relnscrev_train	and printed out a receipt .
+unrelev_train	i packed a bag .
+screv_get_train_station_train	the next day , i headed over to the train station
+screv_other_train_train	and checked in at the ticket counter .
+unrelev_train	i was early , so i picked a spot on a bench and sat down .
+relnscrev_train	after a short while , everybody lined up to get on the train .
+screv_conductor_checks_train	a train worker checked all of our tickets .
+screv_find_place_train	i entered the train and picked out a seat for myself .
+relnscrev_train	then i loaded my bag overhead .
+unrelev_train	once everyone was on the train ,
+screv_train_departs_train	our conductor announced that we were leaving the station .
+screv_conductor_checks_train	another train worker came around and took everyone 's tickets from them .
+screv_spend_time_train_train	i spent the ride looking at scenery out the window and reading mostly .
+screv_other_train_train	eventually , the train conductor announced my stop .
+relnscrev_train	i retrieved my bag from the overhead compartment ,
+screv_move_exit_train	and headed downstairs and off of the train .
+<end_of_story>
+unrelev_train	i needed to travel across the state ,
+evoking_train	and the train was the quickest and most efficient way to do that as my car is unable to make a long trip .
+unrelev_train	i went online to the amtrak website
+screv_other_train_train	and checked the schedule and prices , and then made a reservation .
+screv_get_train_station_train	a friend gave me a lift to the depot
+screv_get_tickets_train	and once there i purchased my ticket
+screv_get_on_train	and then boarded the train
+screv_train_arrives_train	when it arrived on time .
+unrelev_train	i brought my small suitcase onboard with me and did not need to check any other bags .
+unrelev_train	the train ride was comfortable and not crowded , so i had my own seat .
+unrelev_train	there were no delays on the tracks and my carriage had only mature adults who were peaceful and quiet , so it was a pleasant and quiet journey .
+screv_spend_time_train_train	i visited the dining car to get a snack and though it was expensive it was well stocked , and i bought a coffee and a turkey sandwich .
+unrelev_train	my arrival was on time
+screv_get_off_train	and i disembarked .
+<end_of_story>
+unrelev_train	last month i visited my relatives who live 23 miles away .
+evoking_train	i did n't want to drive all the way there myself , so i decided one of the best methods for me to get there would be to take a train .
+evoking_train	since i have n't traveled on a train before i did n't know where i should begin .
+relnscrev_train	i decided to look online for instructions on what to do .
+relnscrev_train	luckily i was able to find all the necessary information to make my trip possible .
+screv_get_train_station_train	the next day i drove over to the train station and parked in the secured parking lot .
+unrelev_train	i went over to the ticket booth
+relnscrev_train	and paid for a ticket , it cost me around $ 23 .
+screv_train_arrives_train	i then waited for the train to arrive .
+screv_other_train_train	once it did i got on board and stored my belongings in the luggage compartment .
+screv_spend_time_train_train	i then took a seat and relaxed .
+screv_train_departs_train	the train started up ,
+screv_arrive_destination_train	and after a couple of hours i reached my destination .
+unrelev_train	it was an interesting and fun experience .
+<end_of_story>
+evoking_train	i walked into the train station ,
+screv_other_train_train	stood in line ,
+screv_get_tickets_train	and purchased a round trip ticket to chicago .
+unrelev_train	i placed my ticket in my pocket
+screv_wait_train	and then walked outside to wait for the train .
+screv_wait_train	i stood next to many other people that were also waiting for the train .
+screv_train_arrives_train	we heard the train coming when it was still a long distance away .
+screv_train_arrives_train	it finally pulled up to the tracks .
+relnscrev_train	everyone lined up to get inside the doors .
+screv_get_on_train	the doors open and we all filed in .
+screv_find_place_train	i found a seat by myself at the back of the train .
+screv_spend_time_train_train	i sat down and looked out the window at the passing towns .
+relnscrev_train	after awhile , the announcer said the next and final stop would be chicago .
+screv_move_exit_train	i stood up and walked over to the doors .
+screv_arrive_destination_train	the train pulled into the station , making a loud screeching noise .
+relnscrev_train	it slowly came to a stop inside the station .
+screv_door_opens_train	the doors opened and all the passengers climbed off the train , and into union station in chicago .
+<end_of_story>
+unrelev_train	yesterday , i decided to visit my sister who lives a few towns away .
+evoking_train	i wanted to take the train because it is cheaper than putting gas in my car .
+screv_get_train_station_train	so i drove to the train station and parked my car in the parking lot .
+unrelev_train	i walked to the cashier 's window
+screv_wait_train	and waited in line .
+screv_get_tickets_train	once i reached the front of the line , i greeted the cashier and bought a train ticket .
+screv_get_platform_train	i walked to the train platform
+relnscrev_train	and waited for the train to arrive .
+screv_train_arrives_train	when the train finally arrived ,
+screv_find_place_train	i got on the train and located my seat , which was printed on my ticket .
+unrelev_train	i sat in my seat
+screv_spend_time_train_train	and took out the magazine that i had brought to read on the ride .
+screv_train_departs_train	the train eventually started back up and left the station .
+screv_conductor_checks_train	before long , a ticket taker came over and asked for my ticket to verify that i had paid for my ride and was in the correct seat .
+relnscrev_train	i greeted the ticket taker
+screv_other_train_train	and gave him my ticket .
+screv_arrive_destination_train	when i arrived at my sister 's city ,
+screv_get_off_train	i got off the train and she was there to meet me at the station .
+unrelev_train	we had a very nice visit .
+<end_of_story>
+unrelev_train	last night i had a meeting in the city .
+evoking_train	i live about an hour train ride from the city .
+unrelev_train	i got ready in my house and walked out of my house leaving plenty of time to get to my meeting on time .
+relnscrev_train	i had to refill my metrocard with more money for the train fare .
+unrelev_train	they have raised the train fares again .
+screv_get_train_station_train	i enter the train station ,
+screv_get_tickets_train	payed for my metrocard at a machine ,
+screv_wait_train	and walked down the stairs to wait for my train .
+screv_other_train_train	i need to take two trains so i will switch for another train at another stop .
+screv_train_arrives_train	my train arrives quickly and i manage to get a seat because it was n't too busy .
+screv_get_off_train	after getting off the first train
+screv_other_train_train	and switching for another train 23 minutes later ,
+screv_arrive_destination_train	i arrived at the destination and was on time for the meeting .
+unrelev_train	now i have to repeat the commute home after the meeting and hope it will be as smooth .
+<end_of_story>
+unrelev_train	my friend and i set aside a date that we could meet each other .
+unrelev_train	she lives in another area
+screv_get_tickets_train	so i had to buy a train ticket .
+unrelev_train	since we planned the trip early , i was able to save a little bit of money .
+unrelev_train	the trip would n't be for another two weeks .
+screv_get_tickets_train	i bought the tickets online .
+unrelev_train	once the day finally came ,
+screv_get_train_station_train	i took a cab to the train station .
+unrelev_train	it was n't very far .
+screv_check_time-table_train	once , inside the station , i checked the displays for any signs of my train being late .
+unrelev_train	today , there were n't any .
+screv_get_on_train	about fifteen minutes later , my train showed up and i got on board .
+unrelev_train	it was crowded but not as much as one of the local trains .
+relnscrev_train	i made sure to listen for any announcements about what stops we were arriving at so i 'd know when i was close to my destination .
+screv_train_arrives_train	finally , the train arrived at my destination and i met my friend just outside the station .
+<end_of_story>
+unrelev_train	last year i had to go to my native place in india .
+unrelev_train	while i was there , i thought of meeting one of my friends in chennai .
+unrelev_train	chennai is 23 kms far away from my place and it takes about 23 hours if i drive .
+evoking_train	i decided to take train .
+screv_get_tickets_train	i went online and booked tickets .
+relnscrev_train	the economy tickets were sold out so i had to book the expensive one .
+screv_get_train_station_train	on the day of the travel , i arrived at the train station almost an hour before the actual departure time .
+unrelev_train	since it was a first class ticket ,
+relnscrev_train	i could take more than enough luggage with me .
+screv_conductor_checks_train	after 23 minutes in to the journey , the ticket collector came by and checked my tickets .
+unrelev_train	it was early in the morning and i was in a window seat .
+screv_spend_time_train_train	so i could watch all the scenery .
+unrelev_train	another good thing about the train is that
+screv_spend_time_train_train	once in a while i could get up and walk a stretch .
+unrelev_train	also , when i 'm hungry ,
+relnscrev_train	i could get down at the station and buy any food
+relnscrev_train	as the train stops at the station for 10-15 minutes .
+unrelev_train	overall it was a wonderful experience .
+<end_of_story>
+unrelev_train	yesterday i traveled from london in the united kingdom to my home in manchester .
+relnscrev_train	i visited a website for train times and tickets the day before .
+unrelev_train	i knew when i needed to arrive in manchester
+relnscrev_train	so i searched using my desired arrival time .
+screv_get_tickets_train	i selected a ticket that worked for me and had the lowest price .
+relnscrev_train	i used my debit card to pay and selected the option to collect the ticket at the train station .
+screv_get_train_station_train	i arrived at the train station in plenty of time because i know there can be long queues at the machines where tickets are collected .
+relnscrev_train	when it was my turn at the ticket machine , i followed the instructions and input my ticket reference number , which i had stored on my smartphone .
+unrelev_train	the machine printed out my tickets
+screv_get_tickets_train	and i picked them up ,
+relnscrev_train	checking them to make sure they were correct .
+relnscrev_train	next i needed to determine which platform my train would be departing from .
+unrelev_train	i walked over to the large electronic display boards .
+screv_wait_train	lots of destinations were listed and i had to wait a little while before manchester showed up .
+unrelev_train	there was more than one train to manchester , so i confirmed which one was mine by the train company and the departure time .
+relnscrev_train	it said it would leave from platform 23
+screv_get_platform_train	so i followed the signs to the platform .
+screv_train_arrives_train	once at the platform i sat and waited until my train arrived .
+screv_get_off_train	after all of the arriving people got off ,
+screv_get_on_train	i boarded the car indicated on my ticket
+screv_find_place_train	and took my reserved seat , ready for the journey .
+<end_of_story>
+unrelev_train	i wanted to go on a trip into the city to go clothes shopping .
+unrelev_train	so i got into my car and drove to the local commuter train station in my town .
+screv_get_train_station_train	when i got to the train station ,
+screv_get_tickets_train	i paid my ten dollar fare ,
+screv_get_on_train	and hopped on the train .
+screv_get_on_train	as i got on the train , there were two different levels , a top and bottom level .
+screv_other_train_train	i climbed the stairs to get to the top level , and proceeded to walk down the aisle to find a decent seat , preferably by the window .
+unrelev_train	as i sat down ,
+screv_spend_time_train_train	i looked at the window with curiosity as the train started whizzing by our surroundings .
+screv_other_train_train	we made plenty of stops , and each time plenty of fresh new faces came abroad , awaiting to get to their destination .
+screv_spend_time_train_train	on the train i made a few new friends , and the trip into the city was very fun indeed .
+<end_of_story>
+evoking_train	a few years ago i rode the train from arizona to washington state .
+unrelev_train	it took a long time .
+screv_get_tickets_train	i purchased my ticket online .
+relnscrev_train	when it came time to board the train i got a ride from a friend ,
+screv_get_train_station_train	who dropped me off right next to the tracks .
+relnscrev_train	i showed my ticket to the train attendant , and he let me aboard the train .
+relnscrev_train	there was another person on the train who showed me what seat to sit in .
+relnscrev_train	after everyone had boarded ,
+screv_train_departs_train	the train got moving .
+unrelev_train	the trip from arizona to washington takes a week , with a lot of stops in between .
+relnscrev_train	the serve food right on the train ,
+screv_other_train_train	but it also stops in a lot of towns
+screv_get_off_train	where you can get off and eat or buy souvenirs .
+unrelev_train	not much happens while you are on the train ,
+screv_spend_time_train_train	but there is a lot to look out and see from the windows .
+screv_other_train_train	when we finally reached washington the train conductor made an announcement over the intercom ,
+screv_get_off_train	and i got off at my stop , then went home to my family .
+<end_of_story>
+unrelev_train	last night we decided to head into new york city .
+unrelev_train	driving in was not a good option , who wants to deal with that kind of traffic ?
+evoking_train	so we decide a better idea was to take the train in .
+unrelev_train	we parked our car at the train station in newark
+relnscrev_train	and prepaid for weekend parking .
+unrelev_train	i grabbed a small bag
+screv_get_tickets_train	and we went to the ticket window to purchase our tickets .
+screv_train_arrives_train	after that we just had to wait for our train to arrive and begin boarding .
+unrelev_train	once it was at the station we were so excited ,
+screv_get_platform_train	we ran out to the platform
+screv_get_on_train	and boarded one of the cars .
+screv_find_place_train	we found seats quickly , unlike an airplane you just sit where you want .
+screv_train_departs_train	and then off we went !
+screv_other_train_train	the train seemed to stop a lot , there were so many more stations than i realized were out there .
+unrelev_train	eventually though , we heard those magic words .
+screv_arrive_destination_train	penn station ! we had arrived in new york city !
+<end_of_story>
+evoking_train	taking the train into the city is so much fun !
+screv_get_train_station_train	we go into the train station
+screv_get_tickets_train	and buy tickets for the train we want to take .
+screv_train_arrives_train	when the train arrives at the station it is very loud .
+screv_get_on_train	we wait for it to stop and then follow the other passengers on board .
+screv_find_place_train	we find our seats , hopefully near a window , and sit down .
+screv_conductor_checks_train	when the conductor comes around ,
+screv_other_train_train	we give him our tickets
+screv_conductor_checks_train	and he punches a hole in each of them .
+screv_train_departs_train	the train begins to move and it makes a clickety-clack sound
+relnscrev_train	as it travels towards the next stop .
+relnscrev_train	the buildings and trees we pass look blurry because we are going so fast .
+relnscrev_train	we pass railroad crossings with cars lined up waiting for us to pass .
+screv_arrive_destination_train	after 23 stops , at different train stations , we arrive at the big one in the city .
+screv_get_off_train	we get off the train and take the escalator up to get out of the station .
+<end_of_story>
+unrelev_train	as a young man i had always enjoyed watching the trains go by .
+unrelev_train	although there are no passenger trains anywhere near where i live there are trains that deliver to local plants and factories .
+unrelev_train	one day i decided that
+relnscrev_train	as the train slowed down as it rumbled across the road while cars where stopped i would run and grab hold of one of the train car handles and sneak a ride .
+unrelev_train	off i ran .
+relnscrev_train	i grabbed the handle and thought my arm was going to rip off as i tried to pull myself onto the train .
+relnscrev_train	finally i made it and climbed up onto the top of the train car .
+relnscrev_train	i rode like that for several miles enjoying the vibration
+relnscrev_train	and speed of the train as it rumbled along the tracks .
+relnscrev_train	when it slowed down enough
+screv_get_off_train	before it 's next stop i jumped off and hit the ground rolling .
+unrelev_train	got battered and bruised but the experience was well worth the pain .
+<end_of_story>
+unrelev_train	adventures by train it was a saturday and i felt like going on an adventure .
+evoking_train	i decided to drive a couple of hours away from home to this place that has an old-fashioned train that people can ride .
+unrelev_train	it takes you along a river and into a wooded area where you can scenery and historical markers that you ca n't get to by car .
+screv_get_on_train	i paid the fare and got on the train .
+screv_find_place_train	i sat by a window where i would have a great view of the scenery .
+screv_train_departs_train	as the train got moving , i was glad that i had decided to ride this train .
+screv_spend_time_train_train	the scenery was amazing and i saw and learned information about historical markers that i had not known before .
+screv_arrive_destination_train	it was a fun day and i hated to see the train ride end when it did .
+evoking_train	i started out for home but new i would be back again someday to take this train ride again .
+<end_of_story>
+unrelev_train	i was going to visit my grandmother in philadelphia for the weekend .
+unrelev_train	i had never been to philadelphia before but was eager to try their legendary philly cheese steak sandwiches .
+evoking_train	the quickest way was to take the train there .
+screv_get_train_station_train	i got to the train station early in the morning and tried to figure out how to get there .
+relnscrev_train	i was a little confused so i asked one of the customer service representatives in the ticket booth .
+relnscrev_train	the woman told me i could to take the 8:05 train and that it would be leaving from gate f .
+screv_get_tickets_train	she said that i could buy the tickets from her or from a machine .
+screv_get_tickets_train	i decided to buy it from her
+relnscrev_train	and it cost $ 23 dollars .
+screv_get_tickets_train	i paid in cash and got my ticket .
+screv_get_platform_train	the train was leaving in ten minutes and the gate had been announced so i rushed to the gate .
+screv_get_platform_train	i got there with time to spare and found a seat in the back .
+unrelev_train	about an hour later i was in philadelphia and was very excited .
+<end_of_story>
+unrelev_train	i was taking a day trip to another city not too far away .
+evoking_train	i decided to take my trip by train .
+relnscrev_train	i looked up a timetable for trains leaving my city and going to the new city ,
+screv_get_train_station_train	and arrived at the station not too long before my train was due to arrive .
+unrelev_train	i went to the ticket booth
+screv_get_tickets_train	and bought my ticket .
+relnscrev_train	then i walked to the platform to wait for my train to arrive .
+unrelev_train	the platform was a little high in the air , and i could see the tracks on the ground below .
+relnscrev_train	looking across the tracks , there was a similar platform on the other side for trains coming from the other direction .
+screv_train_arrives_train	i heard some clatter and a loud whistle , and saw that my train was heading toward my platform .
+screv_train_arrives_train	i stood behind a line painted on the floor of the platform , as it kept me a safe distance from the arriving train .
+relnscrev_train	finally , it stopped ,
+screv_door_opens_train	and the doors opened up .
+screv_find_place_train	i walked on board and found a seat next to a window .
+unrelev_train	when everyone was on board ,
+relnscrev_train	the doors closed and the train whistled again to let everyone know that it was leaving .
+screv_train_departs_train	the train rolled down the tracks .
+screv_spend_time_train_train	it was very roomy on the train and i was able to walk up
+relnscrev_train	and down the aisle while the train was moving .
+screv_arrive_destination_train	finally , it arrived at my destination
+screv_get_off_train	and i got off .
+evoking_train	riding the train was an easy and pleasant experience .
+<end_of_story>
+evoking_train	i remembered the first long train trip i had , it was incredible .
+screv_get_tickets_train	i was talking to my family about going on a trip to virginia and they decided it was about time we booked the trip .
+relnscrev_train	my dad called amtrak -lrb- train company -rrb-
+screv_get_tickets_train	and ordered 23 tickets for the next weekend .
+evoking_train	when the weekend came we got onto the train .
+unrelev_train	this train was different , it was a double-decker or a train with two floors .
+screv_find_place_train	we got to our seats and to the side was huge windows that went from the back of the train car to the front .
+unrelev_train	i could n't believe how incredible all the trees and birds looked .
+screv_spend_time_train_train	then we got to the observation car .
+unrelev_train	i did n't even think this type of car existed .
+unrelev_train	the train car was all class except for the floor and the lower parts of the wall , above was all glass .
+screv_spend_time_train_train	then we rode in the observation and watched as the rain fell down .
+unrelev_train	it was an unbelievable event and i would highly recommend it .
+<end_of_story>
+evoking_train	the other day , i had to catch a train from los angles to new york at the last minute .
+unrelev_train	my boss wanted me to meet some foreign client in a brand new art gallery they recently bought in manhattan .
+relnscrev_train	the boss called me at about 5:30 in the morning and told me that he already bought tickets to get from here to new york , but explained to me that he could n't make it as he had another meeting to that same morning .
+screv_train_departs_train	the tickets were for a train that departed at 7:15 am , so like a good worker bee , i got up , skipped showering , got dressed , and ran out the door with a dirty wrinkled suit i had n't had time to wash .
+unrelev_train	the airport was 23 minutes away so i had very little time to spare .
+screv_get_platform_train	i managed to store my car and walk into the train station half asleep right at 7:10 am
+relnscrev_train	when i overheard my train was delayed over the intercom .
+relnscrev_train	when my train was called an hour later ,
+screv_find_place_train	i drowsily made my way on board where i got a window seat next to a larger fellow .
+unrelev_train	i remember i was half asleep when i mumbled a hello to him .
+unrelev_train	he happily greeted me back
+screv_find_place_train	as i sat down .
+screv_train_departs_train	right before the train took off and the trains stewardesses were telling us how to use our seat belts , i barely remember ending up falling asleep on the large man next to me .
+evoking_train	four hours later , i got a nudge from the large man next to me telling me kindly to wake up and that our ride was over .
+screv_spend_time_train_train	i distinctly remember waking up with a mouthful of drool soaked on the large man ' s arm i feel asleep on and instantly apologized .
+unrelev_train	he laughed and said to me don ' t worry about it !
+unrelev_train	you looked so tired !
+unrelev_train	would you believe this is n't the first time this has happened to me ?
+unrelev_train	we both kind of laughed and went on our ways .
+evoking_train	it ended up being a great ride and sleep , overall .
+<end_of_story>
+unrelev_train	every time i have to go to the city ,
+evoking_train	i have to take the train .
+evoking_train	one day , when i was on the train ,
+screv_train_arrives_train	i had to wait twenty minutes for the next train to arrive .
+screv_train_arrives_train	when it arrived , ,
+relnscrev_train	the place was full .
+relnscrev_train	it was full because it was rush hour .
+unrelev_train	that 's the time when everyone is coming out of work or school .
+screv_find_place_train	i could n't find a seat at all !
+screv_find_place_train	i had to stand up throughout my whole ride .
+unrelev_train	it was very uncomfortable
+screv_find_place_train	because i had to stand up for an hour ride .
+relnscrev_train	to make matters worse , more people wanted to squeeze inside the train .
+unrelev_train	now everybody was on top of one another .
+screv_other_train_train	soon , the train could n't move anymore because there were just too many people on the train .
+screv_other_train_train	the door would n't close therefore ;
+screv_other_train_train	the conductor could n't drive the train .
+screv_get_off_train	eventually , people started to come out and i was able to breathe .
+screv_train_arrives_train	finally , i reached my stop and was relieved to be out of that train .
+<end_of_story>
+screv_get_train_station_train	my family and i arrived at the station early in the morning because we had to make sure we were on time .
+unrelev_train	normally we are late to almost everything we do , so if we shoot for being early that normally means being on time .
+screv_get_on_train	the train pulls up and we show our tickets and climb aboard .
+evoking_train	we choose to ride the train because the plane tickets were simply way to expensive .
+screv_spend_time_train_train	on the train we get drinks and some snacks to pass the time .
+screv_spend_time_train_train	we also play cards and talk the entire ride so that in no time we have arrived at our destination .
+evoking_train	the train had no problems and it seemed like the fastest ride i had ever been on .
+relnscrev_train	if we would have taken a plane it may have even taken longer than this ride had taken because of all the unfortunate things you have to go through at an airport .
+relnscrev_train	the train ride was an enjoyable experience and i look forward to heading back home on the next train .
+<end_of_story>
+unrelev_train	when i went on vacation last year with my parents ,
+evoking_train	we took a trip on a train for part of it .
+relnscrev_train	we picked the route we wanted to take to go visit my uncle ,
+relnscrev_train	and had everything ready the day before , such as our suitcases .
+relnscrev_train	when the day arrived for us to go ,
+screv_get_train_station_train	my dad drove us to the train station
+relnscrev_train	where we parked in a designated lot ,
+relnscrev_train	since we would be returning to the same train station .
+screv_get_train_station_train	we then headed to the train station and went inside
+screv_get_tickets_train	where my dad purchased our tickets .
+unrelev_train	we had some extra time ,
+screv_wait_train	so we wandered around and found a little gift shop where we could buy souvenirs .
+screv_get_on_train	when it was time to board our train ,
+screv_get_platform_train	we walked through the station to get to the correct area .
+screv_get_platform_train	there were long hallways to get there , and then we went up a concrete pathway to
+relnscrev_train	where the train was outside .
+screv_get_on_train	we had to give the ticket taker our tickets so she could verify we were getting on the right train .
+screv_get_on_train	we all gathered in the train
+relnscrev_train	and found some seats that had n't been taken .
+screv_other_train_train	we stored our luggage and prepared for the train to begin its journey .
+screv_train_departs_train	once it was time to leave ,
+screv_spend_time_train_train	we watched out the windows at all the passing scenery .
+screv_spend_time_train_train	after awhile , we all started doing our own thing like reading or playing cards to pass the time .
+unrelev_train	it was a lot of fun
+evoking_train	and really neat to take a train trip .
+<end_of_story>
+evoking_train	the last train trip i took was with a couple of friends to go and check out an art museum that was fairly far away .
+relnscrev_train	we met up at the station with plenty of time to spare ,
+relnscrev_train	so we chatted for a bit
+screv_wait_train	while we waited .
+screv_get_tickets_train	we had already purchased our tickets ahead of time , just to make things easier .
+screv_train_arrives_train	when the train arrived ,
+screv_find_place_train	we boarded and found our seats .
+relnscrev_train	we did n't bring much , just small bags ,
+screv_other_train_train	so we did n't have to stow anything .
+screv_conductor_checks_train	the conductor came by and checked our tickets
+screv_train_departs_train	as the train left the station .
+evoking_train	it was a nice ride .
+screv_spend_time_train_train	the train seats are always fairly comfortable and we had time to play racing games on our dss
+relnscrev_train	while we rode .
+screv_spend_time_train_train	i also got to watch some rather lovely scenery ,
+relnscrev_train	once we got out of the city .
+relnscrev_train	going by trees
+screv_spend_time_train_train	and landscapes and watching them pass is pretty fun too .
+relnscrev_train	plus , there were n't that many other people in the train car that we were in , so it was a nice
+evoking_train	and peaceful ride .
+<end_of_story>
+unrelev_train	last month i wanted to go visit my parents in florida , but i hate to fly .
+evoking_train	after thinking about it for a little while , i decided to take the train .
+unrelev_train	it 's not as fast as flying but it is a lot faster than driving .
+relnscrev_train	i got on my computer
+screv_check_time-table_train	and pulled up the train schedules to see if there was one that would work to get me where i was going .
+screv_train_arrives_train	after checking a few , i found one headed the way i needed to go that was also running at the right time .
+screv_get_tickets_train	i bought a round trip ticket right from the website .
+screv_train_arrives_train	since it would only take 23 hours to get there , i did n't bother getting a spot in a sleeper car , just a regular seat .
+screv_other_train_train	i packed up the things i needed and headed to the train station .
+screv_get_on_train	once i was there i checked in and got on the train .
+screv_train_departs_train	about 23 minutes later it was time to go and the train rumbled out of the station .
+screv_find_place_train	i had a window seat ,
+relnscrev_train	so i could watch the scenery go by as we sped along the tracks .
+relnscrev_train	after a little while i decided to go up to the food car
+screv_spend_time_train_train	and get some lunch .
+screv_spend_time_train_train	i sat in the food car , ate and played a game on my tablet .
+relnscrev_train	after a while i went back to my seat ,
+screv_spend_time_train_train	plugged my headphones into my tablet and just watched the country roll by while i listened to my music .
+screv_arrive_destination_train	we got to florida on time and i had a great visit with my parents , and best of all , i did n't have to fly !
+<end_of_story>
+evoking_train	my family and i wanted to take a trip via train across the country .
+unrelev_train	i called a travel agent to set up a time to meet with them and discuss the necessary arrangements .
+unrelev_train	a few days later the appointment arrived and i went to the travel agent 's office to meet with them .
+evoking_train	after discussing our travel plans we decided that getting a private room on a sleeper car for the family would be the best option .
+screv_get_tickets_train	i purchased the tickets and then went home to tell the family we were going and to pack .
+screv_get_train_station_train	a week later we arrived at the train station an hour
+screv_get_on_train	before boarding time to make sure that we did not miss the train .
+screv_find_place_train	once it was time we boarded the train and found our room .
+screv_other_train_train	we stowed our luggage and discovered how the beds worked .
+relnscrev_train	later it was time to eat and we went to the dining car at our scheduled time far dinner .
+unrelev_train	after which we went back to our room
+screv_spend_time_train_train	where we did some talking before finally falling asleep .
+relnscrev_train	when we woke up we were only an hour from our destination .
+relnscrev_train	we had enough time to get changed and pack our things up and before we knew it we were getting off the train .
+unrelev_train	it was a very pleasurable experience .
+<end_of_story>
+evoking_train	riding on a train is a great way to commute , especially when frequenting a city !
+unrelev_train	it 's a great reminder of transportation of the past , and a great way to spend an afternoon .
+relnscrev_train	a specific example would be when i frequent the great city of boston .
+evoking_train	i always choose to take the train in , as driving into the big city can be a great hassle .
+screv_check_time-table_train	in this day and age it 's convenient to look up train times ahead of time on the appropriate website .
+relnscrev_train	once you determine the train that you will take you will need to find transportation to the train stop , either by walking , bus , or getting dropped off .
+screv_get_tickets_train	once at the train station go up to the ticket window or use a handy kiosk to purchase your ticket .
+screv_conductor_checks_train	take this ticket and head through the checkpoint , or if you are using a commuter rail bring it with you to give to the train attendant .
+relnscrev_train	as you start moving and stopping they will announce each stop .
+screv_wait_train	wait until your stop has approached and exit the train .
+unrelev_train	congratulations , you just saw the countryside !
+<end_of_story>
+evoking_train	the night before i take a train ride ,
+screv_check_time-table_train	i look at the train schedule .
+relnscrev_train	usually i am going to new york city ,
+screv_train_arrives_train	so i check the train schedules for the trains heading there .
+evoking_train	when my husband and i take the train , we go early , so that morning i wake up early and get ready for the day .
+screv_get_train_station_train	we then drive to the train station and park our car .
+screv_get_train_station_train	depending on which train station we are going to , the parking is free , but otherwise we pay for our parking .
+unrelev_train	once parked ,
+screv_get_platform_train	we walk to the platform
+screv_get_tickets_train	and buy our tickets at the automated teller .
+screv_train_arrives_train	then we wait for the train to arrive .
+screv_train_arrives_train	when the train arrives ,
+screv_spend_time_train_train	we find a good place to sit .
+screv_spend_time_train_train	we try to sit where there are n't too many people
+relnscrev_train	and where there are only 23 seats
+screv_spend_time_train_train	so that we do n't have to sit with strangers .
+screv_train_departs_train	then the train takes off and we usually are on the train for an hour
+screv_train_arrives_train	before we get to our destination .
+<end_of_story>
+evoking_train	yes going on a train , this is was our ideal weekend activity not too long ago .
+relnscrev_train	we purchased tickets to travel from boston to new york city .
+screv_get_platform_train	as we entered the platform of the train is was pure steel and looked so solidly strong .
+screv_find_place_train	we walked down the isle and found an comfortable looking seat and decided to sit there .
+relnscrev_train	shortly the train horn blasted making me jump of my seat lol .
+screv_train_departs_train	anyway we soon started moving and our train ride was underway .
+screv_conductor_checks_train	the conductor walked the isles and collected our tickets .
+screv_spend_time_train_train	love scenery so i had the window seat watching everything along the way .
+unrelev_train	first i saw large suburban areas
+screv_train_arrives_train	but as we got into connecticut many farms were being spotted .
+unrelev_train	it was n't very hilly but sure was a country atmosphere .
+screv_arrive_destination_train	soon we approached nyc
+screv_train_arrives_train	and the train came to slow stop ,
+screv_arrive_destination_train	we had arrived at our destination .
+relnscrev_train	the ride overall was rather smooth and it did n't seem to take all that long .
+<end_of_story>
+unrelev_train	i decided that i wanted to visit a town that was about an hour away from me .
+evoking_train	rather than drive , i decided that it would be a good day to take a ride on the train .
+relnscrev_train	i made sure that i had all my things together
+screv_get_train_station_train	and drove to the train station .
+unrelev_train	i parked in the designated parking lot across the street ,
+screv_get_train_station_train	and went into the small station .
+screv_wait_train	i waited at the counter for a few minutes
+relnscrev_train	before an attendant strolled out from the office .
+unrelev_train	she smiled and asked me
+relnscrev_train	where i would like to go .
+screv_get_tickets_train	i told her that i 'd like a round trip ticket for today to the nearby town .
+screv_get_tickets_train	she got on her computer to confirm my route and times , and i decided to purchase the tickets .
+screv_get_tickets_train	i gave the attendant my money ,
+relnscrev_train	and she put it in her drawer
+screv_get_tickets_train	while my tickets printed off her printer .
+screv_wait_train	i thanked her , and set out the door to wait for my train .
+relnscrev_train	shortly after i sat down , i could hear the sound of the train in the distance .
+relnscrev_train	once it was stopped and unloaded , the conductor shouted all aboard !
+screv_conductor_checks_train	and i gave him my ticket .
+screv_train_departs_train	i boarded the train and set off .
+evoking_train	and that 's how i rode the train .
+<end_of_story>
+screv_get_train_station_train	after eating breakfast this morning i noticed that it was time for me to get off to work so i decided to walk down to the train station
+relnscrev_train	so i could be off to work .
+evoking_train	i always take the same train to work every day and i usually see a lot the same faces
+evoking_train	when i ride the train .
+screv_get_tickets_train	i bought a ticket at the front
+screv_train_arrives_train	and waited for the train to arrive .
+screv_find_place_train	once the train arrived i boarded the train and took a seat .
+relnscrev_train	i had to go 23 stops
+screv_arrive_destination_train	before i would arrive to work
+screv_spend_time_train_train	so i took out my phone and decided to send out some emails .
+relnscrev_train	after the first few stops the train started to get quite crowded so i decided to stand and give my seat up to an elderly gentleman .
+unrelev_train	he was thankful for the seat and i was happy to do him the favor .
+screv_train_arrives_train	the train then arrived at my stop
+screv_get_off_train	and i got off to make my way to work .
+evoking_train	it was another enjoyable experience on the train .
+<end_of_story>
+evoking_train	this morning we needed to take the train into the city .
+relnscrev_train	we grabbed our laptop computers to use while we were going to be traveling .
+screv_get_on_train	we had to make sure we also remembered our passes to get on the train .
+screv_get_train_station_train	as we arrived at the station , we saw the train coming in .
+screv_get_off_train	many people got off the train
+screv_get_on_train	when it arrived and then we entered the train .
+relnscrev_train	we were able to find seats even though the train was pretty full .
+screv_train_departs_train	as the train left the station we started working on our computers , and the 23 minute ride seemed to just fly by .
+unrelev_train	the view of the city from the train was beautiful .
+screv_train_arrives_train	when we arrived at the station in the city , the people on the train started to queue up at the doorways .
+screv_train_arrives_train	the train came to a smooth stop
+screv_get_off_train	and all the people poured out onto the platform where it was lightly raining .
+<end_of_story>
+unrelev_train	i had decided that i wanted to visit my friend paul whom lives quite a distance away .
+evoking_train	with this and my fear of air travel in mind i decided to take a train .
+screv_check_time-table_train	after researching and finding one online i was well on my way to going to see my friend paul .
+screv_get_train_station_train	i drive to the station and decide that i am going to purchase a round trip ticket as this would be cheaper than just buying both tickets separately .
+screv_get_tickets_train	i purchase my ticket and then go to sit down and wait for my train .
+screv_wait_train	whenever my train arrives i have to get in line
+screv_conductor_checks_train	as they process our tickets .
+screv_find_place_train	after all this is done i decide to take a seat by the window .
+screv_spend_time_train_train	i sit and fall asleep a bit as i ride on the train for hours .
+screv_train_arrives_train	after a couple hours we finally reach the destination
+screv_get_off_train	and i get off the train , excited to see my friend .
+<end_of_story>
+unrelev_train	i was on spring break from school and decided to come home for the week .
+unrelev_train	i did n't have a car
+evoking_train	so i had to the train .
+screv_other_train_train	i packed a small bag
+screv_get_train_station_train	and took a cab to the train station .
+relnscrev_train	i went up to the window
+screv_get_tickets_train	and bought a ticket to my hometown .
+screv_wait_train	i decided to buy a few snacks and magazines that local vendors were selling while i waited for the train .
+screv_get_on_train	it came time to board the train
+relnscrev_train	and i grabbed my things .
+screv_find_place_train	i got on the train and sat down by the window seat
+screv_spend_time_train_train	so that i can enjoy the view .
+relnscrev_train	the train announced it 's next destination and started to take off .
+screv_conductor_checks_train	the conductor came down the aisles and was checking everyone 's ticket .
+relnscrev_train	i had my ticket ready
+screv_conductor_checks_train	and handed him my ticket
+relnscrev_train	when he got to me .
+relnscrev_train	i got comfortable and started to read a magazine while waiting to arrive at my destination .
+screv_train_arrives_train	awhile later the train had arrived at my hometown .
+screv_get_off_train	i got off the train and met my parents outside the train station who came to pick me up .
+<end_of_story>
+screv_get_tickets_train	last weekend i booked a spur of the moment trip out to new york on a train .
+screv_get_tickets_train	i bought my ticket for the train right at the station , i was lucky they had some left .
+screv_train_arrives_train	after waiting about thirty minutes my train pulled up and came to a stop .
+screv_get_on_train	i hopped on the train
+screv_find_place_train	and found an open seat next to the window .
+relnscrev_train	after everyone was on the train slowly eased forward as it built up speed to new york .
+screv_spend_time_train_train	i enjoyed listening to the wheels of the train on the track
+relnscrev_train	as they clicked .
+evoking_train	the train ride was smooth
+screv_spend_time_train_train	and i was even able to get some rest along the way .
+relnscrev_train	as the train arrived in new york the conductor came over the loud speaker and let us know we would be at our destination shortly .
+screv_train_arrives_train	once the train slowed to a complete stop ,
+screv_get_off_train	me and all the other passengers filed out and went our separate ways .
+<end_of_story>
+evoking_train	taking a train somewhere can be an old-fashioned way of travel , but it can also be a lot of fun !
+unrelev_train	train tracks do n't go everywhere anymore and they certainly are n't used as often .
+unrelev_train	this can make travel a little bit more difficult .
+evoking_train	i decided to take a train to visit my friend one day .
+screv_get_tickets_train	i found a great deal on train tickets and decided to travel the country the old-fashioned way .
+screv_get_tickets_train	i ordered my tickets on a computer and arranged my whole trip .
+screv_other_train_train	i packed up my belongings , just like you would if you were flying a plane - both have a specific departure time !
+unrelev_train	instead of going to an airport ,
+screv_get_train_station_train	i showed up at the train station with my luggage and train tickets .
+screv_conductor_checks_train	i stowed away my luggage and handed my ticket over .
+screv_find_place_train	i found a great car with a bed and a shared bathroom and had a very enjoyable train trip !
+<end_of_story>
+screv_wait_train	i stood at the train station with my luggage bags waiting to take the train to the nearest airport .
+evoking_train	i took the train solely due to convenience of not having to drive my car and leave it at the airport .
+screv_train_arrives_train	once the train arrived at the destination ,
+screv_find_place_train	i picked up my bags and headed in to take my seat .
+screv_find_place_train	i took a compartment all to myself as there were not many other people on the same train .
+screv_spend_time_train_train	as a result , i got to relax and have a compartment with complete silence ,
+screv_spend_time_train_train	where i then took a nap .
+screv_conductor_checks_train	moments later , an attendant came by to check everyone 's tickets .
+screv_conductor_checks_train	i showed him my ticket , to which he tore off the perforated bottom portion and handed the ticket back to me .
+screv_train_arrives_train	once the train arrived at the airport about 23 minutes later ,
+screv_move_exit_train	i grabbed my luggage and headed out of the compartment to the front of the train .
+screv_get_off_train	i exited the train and went to my flight .
+<end_of_story>
+evoking_train	i wanted to take a train trip through the countryside .
+screv_get_train_station_train	i went to the local train station .
+relnscrev_train	once i was at the station i carefully reviewed the train schedule until i found a train that was going where i wanted to go at a convenient time .
+relnscrev_train	the trip i picked happened to leave at 23 am the next day .
+relnscrev_train	i went to the ticket window and bought a round trip ticket for the train i had selected .
+screv_get_tickets_train	having purchased my tickets , i went home and i packed a light suitcase with the necessities i would need for my trip .
+relnscrev_train	that evening i set my alarm clock extra early so i would be sure to be on time for the train .
+unrelev_train	i woke up the next morning thanks to my early alarm clock .
+screv_other_train_train	i then showered , ate my breakfast and took my suitcase and left home for the train station .
+screv_get_train_station_train	i arrived 23 minutes early which gave me plenty of time to get on the train and enjoy my trip .
+<end_of_story>
+relnscrev_train	last week my boss told me that i needed to go to a meeting in new york .
+relnscrev_train	i decided the best way to get to new york was to take a train .
+relnscrev_train	i went online and bought a train ticket that would get me there well ahead of the meeting start time .
+screv_get_train_station_train	on the day of the trip i went to the train station
+screv_wait_train	and stood in line at the ticket counter .
+screv_get_tickets_train	when i got to the front of the line i told the agent my name and they pulled up my reservation on their computer and printed out a paper ticket .
+relnscrev_train	i thanked them ,
+screv_get_tickets_train	took the ticket ,
+relnscrev_train	and left the counter .
+screv_train_arrives_train	once i left the counter i went to the gate to wait for my train to come .
+screv_train_arrives_train	when my train arrived ,
+relnscrev_train	everyone waiting for that train lined up and walked through the gate
+screv_conductor_checks_train	while the attendant checked our tickets .
+screv_get_on_train	once i walked through the gate , i went outside and boarded the train .
+screv_find_place_train	thankfully i was able to sit alone ,
+screv_spend_time_train_train	and i pulled out a magazine to read .
+screv_conductor_checks_train	a little while after the train started moving the conductor walked through the train car to check everyone 's ticket .
+screv_conductor_checks_train	i handed my ticket to the conductor and he scanned it and handed it back to me .
+screv_spend_time_train_train	now i could enjoy my train ride and get back to reading my magazine .
+screv_train_arrives_train	a little while later the conductor announced that the train had arrived in new york .
+screv_train_arrives_train	the train came to a stop ,
+screv_get_off_train	and i got off of the train along with everyone else .
+evoking_train	i was pleased that i had a pleasant train ride ,
+relnscrev_train	and i walked quickly through the train station to go outside and catch a cab to get to my meeting .
+<end_of_story>
+relnscrev_train	i recently needed to go to a moderately distant city .
+unrelev_train	because it is on the other side of a local mountain range , travel in my car would be very hard on it , and i might get lost .
+relnscrev_train	fortunately there is a passenger train that goes between out two cities .
+unrelev_train	i had , before this trip , never been on any kind of train bigger than one at the amusement park .
+unrelev_train	i was very excited for this opportunity .
+screv_get_train_station_train	when i arrived at the station i was very pleased to see that the train had large windows .
+unrelev_train	while on the trip these proved to be wonderful for all of the gorgeous views provided by nature .
+unrelev_train	as my trip was a half day journey .
+relnscrev_train	i stopped in the dining car for lunch , i found it highly enjoyable to eat on the train , and this also helped to distract me from the time .
+screv_train_arrives_train	when i arrived in the other city i met a friend who was eager to learn about my trip .
+<end_of_story>
