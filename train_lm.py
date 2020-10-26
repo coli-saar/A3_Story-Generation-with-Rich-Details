@@ -23,8 +23,8 @@ from dataset_readers import LanguageModelSegmentReader
 from utils import RandomSearchMetaOptimizer, PrintColors
 
 
-_tag = 'aug_lm'
-_train_data_path = 'segments_paraphrased_20200324'
+_tag = 'ord_lm'
+_train_data_path = 'data_seg_train'
 _val_data_path = 'data_seg_val'
 _device = 4
 _n_epochs = 30
@@ -118,13 +118,6 @@ class LanguageModelOptimizer(RandomSearchMetaOptimizer):
                                                        num_serialized_models_to_keep=1)
         callbacks.append(checkpoint.Checkpoint(checkpointer=model_checkpointer))
         ''' for sample generations '''
-        # fixme: add this
-        # sample_generation_callback = AlternatingSeq2Seq.SampleGeneration(
-        #     agenda_s=GlobalConstants.SAMPLE_AGENDA_S,
-        #     dataset_reader=reader,
-        #     scenario=GlobalConstants.SAMPLE_SCENARIO,
-        #     index=index)
-        # callbacks.append(sample_generation_callback)
 
         callback_trainer = CallbackTrainer(
             model=model,
