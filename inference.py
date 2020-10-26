@@ -8,13 +8,10 @@ import os
 import dill
 
 from flesh_model_s import AlternatingSeq2Seq
-from base_single_decoder_n1.script_optimization_single_decoder_base import Configurations as Base0Configurations
-from decoder_vera.script_optimization_vera import Configurations as VeraConfigurations
 from utils import Struct
-from globals import GLOBAL_CONSTANTS
 
 
-single_decoder_base_model = Struct(
+model_config = Struct(
     {
         'combination_file': os.path.join(
             *['.', 'base_single_decoder_n1', 'hyper_combs_forthcoming_event_previous_regular_event_succe'
@@ -27,33 +24,14 @@ single_decoder_base_model = Struct(
             *['.', 'base_single_decoder_n1',
               'models_forthcoming_event_previous_regular_event_succesive_regular_event_Mode.OPTIMIZATION_2020-05-22_1',
               'best.th']),
-        'config': Base0Configurations
-    }
-)
-
-model_vera = Struct(
-    {
-        'combination_file': os.path.join(
-            *['.', 'decoder', 'hyper_combs_forthcoming_event_previous_regular_event_'
-                              'succesive_regular_event_Mode.OPTIMIZATION_2020-05-22']),
-        'index': 0,
-        'vocab_path': os.path.join(
-            *['.', 'decoder',
-              'vocab_forthcoming_event_previous_regular_event_succesive_regular_event_Mode.OPTIMIZATION_2020-05-22_0']),
-        'model_path': os.path.join(
-            *['.', 'decoder',
-              'models_forthcoming_event_previous_regular_event_succesive_regular_event_Mode.OPTIMIZATION_2020-05-22_0',
-              'best.th']),
-        'config': VeraConfigurations
-    }
-)
+        'config': None
+    })
 
 generation_scripts = ['bath', 'grocery', 'flight', 'cake']
-#  ['bath', 'bicycle', 'bus', 'cake', 'flight', 'grocery', 'haircut', 'library', 'train', 'tree']
 irregular_story_per_scenario = 3
 regular_story_per_scenario = 1
 story_per_scenario = irregular_story_per_scenario + regular_story_per_scenario
-mmi_s = [0.0, 0.02, 0.04, 0.06, 0.07, 0.08]
+mmi_s = [0.1]
 
 output_binary = 'generations_{}'.format(str(datetime.date.today()))
 
@@ -61,7 +39,7 @@ if __name__ == '__main__':
     # todo: add mmi
     ''' script for generation '''
     # note: specify model here
-    model_config = model_vera
+    model_config = model_config
 
     start = time.time()
     model = AlternatingSeq2Seq.load_model(configurations=model_config['config'],
@@ -71,7 +49,7 @@ if __name__ == '__main__':
                                           model_path=model_config['model_path'])
     print(time.time() - start)
     results = dict()
-    with open('samples_{}_{}'.format('vera_pre', datetime.date.today()), 'w') as fout:
+    with open('samples_{}_{}'.format('tag', datetime.date.today()), 'w') as fout:
         for scenario in generation_scripts:
             results[scenario] = dict()
             for mmi in mmi_s:

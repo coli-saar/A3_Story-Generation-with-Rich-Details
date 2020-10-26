@@ -35,12 +35,7 @@ class GLOBAL_CONSTANTS:
     language_model_combination_file = os.path.join(*['.', 'language_model', 'combs_LM_opt_2020-02-10'])
     language_model_index = 2
 
-    aug_language_model_path = os.path.join(*['.', 'language_model', 'models_lm_aug_lm_4', 'best.th'])
-    aug_language_model_vocab_path = os.path.join(*['.', 'language_model', 'vocab_lm_aug_lm_4'])
-    aug_language_model_combination_file = os.path.join(*['.', 'language_model', 'hyper_combs_aug_lm'])
-    aug_language_model_index = 4
-
-    GLOVE_PARAMS_CONFIG = {'pretrained_file': '/local/fangzhou/data/glove.840B.300d.txt',
+    GLOVE_PARAMS_CONFIG = {'pretrained_file': './glove.840B.300d.txt',
                            'embedding_dim': 300,
                            'vocab_namespace': 'tokens',
                            'padding_index': 0,
